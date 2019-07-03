@@ -1,0 +1,14 @@
+charset,Shift_JIS
+
+craftman,AG36
+craftmanw,AG36
+craftmanurl,
+
+name,プロジェクト５４
+type,ghost
+
+sakura.name,54
+kero.name,
+
+icon,post.ico
+shiori,satori.dll

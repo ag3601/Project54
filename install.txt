@@ -1,0 +1,4 @@
+charset, Shift_JIS
+type,ghost
+name,プロジェクト５４
+directory,Project54
