@@ -1,5 +1,154 @@
 開発ノート
 
+男性向けランダムトーク : (
+\h\s[5]\w7\w6\n
+
+${５４名前選択変数}の\w2手\w4…\w4小さい、\w7から\n\w9
+${usernames}\w1の、\w4手に\w3なら\w6\n\n\w8
+
+\w4\s[1]\w3すっぽりと、\w5包まれそう、\w6です、\w9\w2ね\w2…。
+\w3\n\w9${＋54}\e
+)
+
+
+女性向けランダムトーク : (
+\h\s[0]\w7\w6\n
+もっと\w5…\w5大人っぽく\w5なりたい、\w3\s[4]\w5な\w3…。
+
+\w3\n\w9${＋54}\e
+)
+
+
+# 子供夢想トーク
+#
+Talk.HappyWedding : (
+\h\s[5]\w7\n
+
+子供、\w7は\w4…\w4何人が\w3いいです、\w7か\w5…\w5とか\n\w9\w5\w9
+\s[1]\w2ちょっと、\w9\w4気が\w2早いです、\w9\w3か\w3…？
+
+
+\w3\n\w8\e
+)
+
+
+Talk.HappyWedding : (
+\h\s[5]\w7\n
+
+家族、\w5で\w3…\w3お休みの\w2日に\w3お出かけ、\w8とか
+\n\w9
+わくわく\w3しちゃい、\w9ます。
+\n\n\w8\w8\w8
+あ、\w7でも\w9\n\w4\w9
+\s[1]\w4赤ちゃん\w2が\w3先です、\w9\w5ね\w3…。
+
+
+\w3\n\w8\e
+)
+
+
+
+#----------------------------------　2012/5/6～頃追加分↓${＋54}
+
+
+
+# HappyWeddingモード発話用、他のシェルでも応用可能。
+# Talk.Sentence の後のナンバー分けは、よりトークにバラつきを持たせたいだけで必須ではない。
+#
+sentence : $(entry Talk.${ShellName54} ${Talk.Sentence})
+
+sentence : $(entry Talk.${ShellName54} ${Talk.Sentence2})
+
+sentence : $(entry Talk.${ShellName54} ${Talk.Sentence3})
+
+Talk.HappyWedding : (
+\h\s[0]\w7\n
+肩、\w8見えちゃっ、\w4て\n\w8\w5
+す、\w6少し\w5…\w2\s[1]\w4恥ずかしい、\w9\w4です\w3…。
+\w3\n\w8\e
+)
+
+Talk.HappyWedding : (
+\h\s[0]\w7\n
+し、\s[1]\w8幸せに\w2して、\w5ください、\w8\w5ね\w3…
+\n\n\w8\w8\w9\w9\w9\s[0]\w6
+この、\w7ドレス\w1姿、\w5だと\n\w8\w6
+\s[1]\w3そんな\w1事、\w6言って\w1みたく\w5…\w5なり\s[5]\w2ます。
+\w3\n\w8\e
+)
+
+Talk.HappyWedding : (
+\h\s[0]\w7\n
+着てる、\w7だけ\w1で\n\w9\w9
+\s[5]\w3嬉しく\w2なっちゃう\w5…\w5ドレス\w1です、\w9\w5ね\w3…。
+\w3\n\w8\e
+)
+
+Talk.HappyWedding : (
+\h\s[0]\w7\n
+女の子、\w8の\w3…\n\w8\w6
+\s[5]\w3憧れの\w2ドレス\w1$(? "なの、\w9で"  "だか、\w9ら")
+\n\n\w8\w8\w8
+${着てるだけでドキ分岐}
+
+\w3\n\w8\e
+)
+着てるだけでドキ分岐 : \s[1]\w3着てるだけ\w1で\w5…\w5ドキドキ\w2しちゃい、\w9\w2ます。,着てる\w2だけ、\w6で\w5…\w5\s[1]すごく、\w7ドキドキ\w3…。
+
+Talk.HappyWedding : (
+\h\s[0]\w7\n
+すそ\w5…\w5気をつけない、\w8と\n\w8\w4
+転んだら\w4…\w4汚しちゃう、\w8から\w3…。
+
+\w3\n\w8\e
+)
+
+# 好感度判定あり
+Talk.HappyWedding.Love : (\h\s[0]\w7\n
+こ、\w7この\s[1]\w1まま\w3…
+\n\n\w9\w8
+${usernames}、\w3の\w3お嫁さん、\w9に\n\w8\w8
+\s[5]\w3なれちゃい\w1ます、\w8ね\w6\w8…\w8\w8\w8\s[1]\w5なんて。
+\w3\n\w8\e
+)
+
+Talk.HappyWedding.Love : (\h\s[0]\w7\n
+式場、\w6で\n\w9\w1
+${usernames}の\w2ために、\w6ドレスを\w2着ること\n\w9
+想像する、\w9と\w3…
+\n\n\w8\w8\w8\w9
+\s[1]\w3幸せ\w3すぎて、\w6\w6胸が\w1つぶれ\w1ちゃい\w1そう、\w9\w4です。
+\w3\n\w8\e
+)
+
+
+Talk.HappyWedding.Love : (\h\s[0]\w7\n
+本番、\w7だと\w5…\w3\s[4]\w5泣いちゃったり\w2する、\w9\w2かな\w3…
+\n\n\w8\w8\w8\w8\w8
+こ、\w5\s[1]\w3これは\w8\s[0]\w5\n
+\s[4]\w5嘘\w1泣き、\w7です、\w9\w3から\w4…。
+\w3\n\w8\e
+)
+
+
+Talk.HappyWedding : $(if 
+	#交際確定
+		$[ ${結婚OK返事フラグ} == "ok" ] ${Talk.HappyWedding.Love}
+else if		$[ ${コミュ告白モード} == "a" ] ${Talk.Sentence}
+else if		$[ ${コミュ告白モード} == "b" ] ${Talk.HappyWedding.Love}
+else if		$[ ${コミュ告白モード} == "c" ] ${Talk.HappyWedding.Love}
+
+	#好感度かなり高め
+else if		$[ ${54.好感度蓄積} > 400 ] ${Talk.HappyWedding.Love}
+else if		$[ ${デート好感度ポイント} > 35 ] ${Talk.HappyWedding.Love}
+else if		$[ ${licensecount} > 900 ] ${Talk.HappyWedding.Love}
+
+	#コミュ好感度かなり高め
+else if		$[ ${コミュ好きモード} > 2 ] ${Talk.HappyWedding.Love}
+else if		$[ ${EmoCountCom3rd} > 200 ] ${Talk.HappyWedding.Love}
+
+else		${Talk.Sentence}
+)
 -------------------------------------
 ##着せ替え反応
 

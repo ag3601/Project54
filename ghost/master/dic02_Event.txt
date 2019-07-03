@@ -75,10 +75,6 @@
 
 ＊OnChoiceTimeout
 ：……放置？
-：ま、そういうこともあるさ。
-
-＊OnChoiceTimeout
-：……放置？
 ：優柔不断なだけかもな。
 
 
@@ -87,6 +83,10 @@
 ＃
 ＃　消滅指示の周辺。
 ＃
+
+＊OnChoiceTimeout
+：……放置？
+：ま、そういうこともあるさ。
 
 ＊OnClose
 ＞終了
@@ -111,8 +111,6 @@
 ＃　　　\_q で囲まれた範囲は一気に表示されます。
 ＃
 
-＊他のゴーストへ変更
-：\t\h\s[5]\w6\n次は、\w5（Ｒ０）さん\w3です、\w5ね\w3…\w3\n\w6いって\w1らっしゃい\w4…\w3。\w9\w5\e
 ＊OnHeadlinesense.OnFind
 ＞読み上げフェーズ（Ｒ２）
 
@@ -130,6 +128,11 @@
 ＊OnInstallBegin
 ：インストール開始。
 
+＊OnInstallComplete
+＞（Ｒ１）をインストール
+＞ゴーストインストール	（Ｒ０）==ghost
+＞シェルインストール	（Ｒ０）==shell
+＞バルーンインストール	（Ｒ０）==balloon
 ＊OnInstallComplete
 ＞（Ｒ１）をインストール
 ：（Ｒ１）/（Ｒ０）をインストールしました。
@@ -165,17 +168,17 @@
 ＊OnMouseDragEnd
 \t\h\s[1]\w4\n\w4…\w5どきどき、\w7しちゃい\w1ました。\w3\n\w9\e
 ＊OnMouseDragStart
+\t\h\s[0]\nあっ…\w3。\n\w9\w9\e
+＊OnMouseDragStart
 \h\s[0]\n移動かな…？\w3\n\w9\e
+＊OnMouseDragStart
+\h\s[0]\nあれ？\w3\n\w9\e
 ＊OnMouseDragStart
 \h\s[0]\n${usernames}…？\w3\n\w9\e
 ＊OnMouseDragStart
-\t\h\s[1]\nだ、\w6だっこ\w3…\w3？\w3\n\w9\w9\e
-＊OnMouseDragStart
 \h\s[0]\n移動かな…？\w3\n\w9\e
 ＊OnMouseDragStart
-\t\h\s[0]\nあっ…\w3。\n\w9\w9\e
-＊OnMouseDragStart
-\h\s[0]\nあれ？\w3\n\w9\e
+\t\h\s[1]\nだ、\w6だっこ\w3…\w3？\w3\n\w9\w9\e
 ＊OnMusicPlay
 ：『（Ｒ０）』再生開始～
 
@@ -188,16 +191,6 @@
 ：なー開始。
 
 ＊OnNetworkHeavy
-：……重い。
-
-＊OnNetworkHeavy
-：混んでるのかなー。
-：むぅ。
-
-＊OnNetworkHeavy
-：重いよぅ。
-
-＊OnNetworkHeavy
 ：おーもーいーぞー。
 
 
@@ -205,6 +198,16 @@
 ＃
 ＃　選択肢
 ＃
+
+＊OnNetworkHeavy
+：重いよぅ。
+
+＊OnNetworkHeavy
+：……重い。
+
+＊OnNetworkHeavy
+：混んでるのかなー。
+：むぅ。
 
 ＊OnOtherGhostClosed
 \t\h\s[0]\w5\n（Ｒ０）さん、\w7お疲れ様でした\w2…。\n\w8\e
@@ -427,6 +430,24 @@
 ：うん、良かったー。
 ありがとう（ユーザ名）さん。
 
+＊ゴーストインストール
+(\h\s[5]\w6\n（R1)」\w1さん、\w7が\w3…\w3\n
+インストール\w1されまし、\w7た。\w3\n
+どう\w2なさいます、\w9か\w3…\w2？\w2
+\n\n
+
+\![*]\q[すぐに切り替える,ゴーストインスト切り替え呼び出し]
+\n
+\![*]\q[ここに呼び出す,ゴーストインストコール実行]
+\n
+\![*]\q[またの機会にする,ゴーストインスト変更キャンセル]
+)\e
+＊ゴーストインストコール実行
+(\h\s[0]\w6\nはい、\w5それでは\w3お呼びします、\w8ね\w3…\w3。\w3\n\![call,ghost,lastinstalled]\![call,ghost,${ゴースト切り替え一時名}])\e
+＊ゴーストインスト切り替え呼び出し
+\h\s[5]\w5\nはい、\w5それでは\w2交代します、\w8ね\w3…\w3\n\n\w6また、\w5来てくだ、\w6\s[1]\w8さい\w3…\w3\n\w5${usernames}\w3…\w4。\w5\n\w9\w9\![change,ghost,lastinstalled]\![change,ghost,${ゴースト切り替え一時名}]\e
+＊ゴーストインスト変更キャンセル
+\h\s[0]\w7\nはい。\n\w6それでは、\w5今回は\w2やめておきます、\w9ね\w3…\w3。\w3\n\w9\e
 ＊ネットワーク更新404
 ：更新用ファイルが見つかりませんでした。
 ：見捨てられたか？
@@ -474,6 +495,8 @@
 
 ＊ユーザ名決定
 ：（U）ですね
+＊他のゴーストへ変更
+：\t\h\s[5]\w6\n次は、\w5（Ｒ０）さん\w3です、\w5ね\w3…\w3\n\w6いって\w1らっしゃい\w4…\w3。\w9\w5\e
 ＊何もしない
 \0\b[-1]\1\b[-1]
 
@@ -503,22 +526,3 @@
 ＊読み上げ中止
 ：\b[-1]
 
-＊OnInstallComplete
-＞（Ｒ１）をインストール
-＞ゴーストインストール	（Ｒ０）==ghost
-＞シェルインストール	（Ｒ０）==shell
-＞バルーンインストール	（Ｒ０）==balloon
-＊ゴーストインストール
-(\h\s[5]\w6\n（R1)」\w1さん、\w7が\w3…\w3\n
-インストール\w1されまし、\w7た。\w3\n
-どう\w2なさいます、\w9か\w3…\w2？\w2
-\n\n
-
-\![*]\q[すぐに切り替える,ゴーストインスト切り替え呼び出し]
-\n
-\![*]\q[ここに呼び出す,ゴーストインストコール実行]
-\n
-\![*]\q[またの機会にする,ゴーストインスト変更キャンセル]
-)\e
-＊ゴーストインスト切り替え呼び出し
-\h\s[5]\w5\nはい、\w5それでは\w2交代します、\w8ね\w3…\w3\n\n\w6また、\w5来てくだ、\w6\s[1]\w8さい\w3…\w3\n\w5${usernames}\w3…\w4。\w5\n\w9\w9\![change,ghost,lastinstalled]\![change,ghost,${ゴースト切り替え一時名}]\e
