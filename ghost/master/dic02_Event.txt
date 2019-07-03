@@ -159,7 +159,7 @@
 ＊OnMouseDragEnd
 \t\h\s[0]\w4\n移動ですか？\n\w7\e
 ＊OnMouseDragEnd
-\t\h\s[1]\w4\n\w4だ、\w4だっこ\w3…\w3でした、\w7ね\w3…\w3。\w3\n\w9)\e
+\t\h\s[1]\w4\n\w4だ、\w4だっこ\w3…\w3でした、\w7ね\w3…\w3。\w3\n\w9
 ＊OnMouseDragEnd
 \h\s[0]\w4\nあの位置じゃ\w3不味かったですか？\w3\n\w9\e
 ＊OnMouseDragEnd
