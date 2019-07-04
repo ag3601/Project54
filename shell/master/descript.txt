@@ -1,5 +1,5 @@
 type,shell
-name,54
+name,master
 
 sakura.balloon.offsetx,0
 sakura.balloon.offsety,65
