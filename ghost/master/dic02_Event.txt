@@ -9,6 +9,7 @@
 
 
 
+＊５４をインストール
 ＊can't analyzeによりヘッドラインセンス失敗
 ：……解析失敗。
 サイトのデザインが変更されたのかな？　最新版のヘッドラインセンサがあれば入れ替えてくださいね。
@@ -75,6 +76,8 @@
 ＊OnFirstBoot
 ＞初回
 
+＊OnGhostCalled
+\t\h\s[5]\w6\nあ\w4…\w3（R0）\w1さん、\w7が\w6\n\w3呼んで\w3くださったんです、\w9\w3ね\w3…\w3。
 ＊OnGhostChanged
 ＞（現在月）月（現在日）日
 ＞他のゴーストから変更
@@ -133,23 +136,21 @@
 ＞（Ｒ０）が押された
 
 ＊OnMouseDragEnd
-\h\s[0]\w4\nここなら\w3…\w4\nお邪魔に\w1なりません、か\w1…\w1？\w3\n\w9\e
+\t\h\s[1]\w4\n\w4…\w5どきどき、\w7しちゃい\w1ました。
 ＊OnMouseDragEnd
-\t\h\s[1]\w4\n抱き上げ\w3…\w3られ\w1ちゃった。\w3\n\w9\e
+\h\s[0]\w4\nあの位置じゃ\w3不味かったですか？
 ＊OnMouseDragEnd
-\h\s[5]\w4\nここで、\w5落ち着きますね？)\w3\n\w9\e
+\t\h\s[1]\w4\n\w4だ、\w4だっこ\w3…\w3でした、\w7ね
 ＊OnMouseDragEnd
-\h\s[5]\w4\n到着ですね。\w3\n\w9\e
+\h\s[5]\w4\nここで、\w5落ち着きますね？
 ＊OnMouseDragEnd
-\t\h\s[0]\w4\n移動ですか？\n\w7\e
+\h\s[5]\w4\n到着ですね。
 ＊OnMouseDragEnd
-\t\h\s[1]\w4\n\w4だ、\w4だっこ\w3…\w3でした、\w7ね\w3…\w3。\w3\n\w9
+\t\h\s[0]\w4\n移動ですか？
 ＊OnMouseDragEnd
-\h\s[0]\w4\nあの位置じゃ\w3不味かったですか？\w3\n\w9\e
+\t\h\s[1]\w4\n抱き上げ\w3…\w3られ\w1ちゃった。
 ＊OnMouseDragEnd
-\t\h\s[1]\w4\n\w4…\w5どきどき、\w7しちゃい\w1ました。\w3\n\w9\e
-＊OnMouseDragStart
-\t\h\s[0]\nあっ…\w3。\n\w9\w9\e
+\h\s[0]\w4\nここなら\w3…\w4\nお邪魔に\w1なりません、か\w1…\w1？
 ＊OnMouseDragStart
 \h\s[0]\n移動かな…？\w3\n\w9\e
 ＊OnMouseDragStart
@@ -160,11 +161,15 @@
 \h\s[0]\n移動かな…？\w3\n\w9\e
 ＊OnMouseDragStart
 \t\h\s[1]\nだ、\w6だっこ\w3…\w3？\w3\n\w9\w9\e
+＊OnMouseDragStart
+\t\h\s[0]\nあっ…\w3。\n\w9\w9\e
 ＊OnMusicPlay
 ：『（Ｒ０）』再生開始～
 
 
 ＊OnNarCreated
+：完了しましだ。
+
 ＊OnOtherGhostClosed
 \t\h\s[0]\w5\n（Ｒ０）さん、\w7お疲れ様でした\w2…。\n\w8\e
 ＊OnOtherGhostClosed
@@ -174,6 +179,10 @@
 \w5（R０）\w1に\w3…\w3着替え、\w7ました。\w5
 
 \h\s[5]\w6\w9似合ってます、\w8か\w4…\w3？
+＊OnShellChanging
+\h\s[0]\w3（R０）、\w5に\w3\w3
+
+\w7\s[5]おめかし\w2…\w2です、ね…。\w9うれしい…\w9です。
 ＊OnSNTPBegin
 ：（Ｒ０）から正しい時間を取得中です。
 
@@ -215,27 +224,27 @@
 ＊OnUpdate.OnDownloadBegin
 \t\h\s[5]♪\w2～\w2～\w4\n\w9\e
 ＊OnUpdate.OnMD5CompareBegin
-：\_q（Ｒ０）のMD5照合を行います。\_q
+：\_q（Ｒ０）のMD5照合を行いますね。\_q
 
 ＊OnUpdate.OnMD5CompareComplete
-：君\_q　（Ｒ１）\_q
-僕\_q　（Ｒ２）\_q
+：リモート\_q　（Ｒ１）\_q
+ローカル\_q　（Ｒ２）\_q
 一致。
 
 ＊OnUpdate.OnMD5CompareFailure
-：君\_q　（Ｒ１）\_q
-僕\_q　（Ｒ２）\_q
+：リモート\_q　（Ｒ１）\_q
+ローカル\_q　（Ｒ２）\_q
 不一致……あれ？
 
 
 ＊OnUpdateBegin
-\t\h\s[1]\w5\n雨の\w2降る中、\w4で\w3\n\w4明るい色の\w5傘を\w3さして、\w8って\w4…\w4\n\w7なんとなく、\w6あこがれ、\w9\w9\s[5]\w4です\w3…\w3。\w3\n\w9\_w[15000]\e
-＊OnUpdateBegin
 \t\h\s[5]\nなんと、\w6なく\w4\n気持ちが\w2軽い、\w9です\w3…\w3。\w3\n\_w[15000]\e
+＊OnUpdateBegin
+\t\h\s[1]\w5\n雨の\w2降る中、\w4で\w3\n\w4明るい色の\w5傘を\w3さして、\w8って\w4…\w4\n\w7なんとなく、\w6あこがれ、\w9\w9\s[5]\w4です\w3…\w3。\w3\n\w9\_w[15000]\e
 ＊OnUpdateComplete
-\h\w7\s[4]\nもしも\w4…\w4\n\w7\n\w9\w9\w9${usernames}に\w3\n\w4忘れられたら、\w8って\w5思うと、\w7\w9わたし\w5…\w4。\w3\n\w9${countzero}\e
+\h\w7\s[4]\nもしも\w4…\w4\n\w7\n\w9\w9\w9${usernames}に\w3\n\w4忘れられたら、\w8って\w5思うと、\w7\w9わたし\w5…\w4。
 ＊OnUpdatedataCreated
-：完了っ。
+：完了しましだ。
 
 ＊OnUpdatedataCreating
 ：updates2.dau作成中～
@@ -342,9 +351,26 @@
 
 
 ＊OnWindowStateRestore
-：ふぅ。
+\h\s[0]\u\s[10]\h\s[0]\n\w3あ、\w5あそこ\w1には、\w4\s[1]\w5あの\w3…\w3
 
+\w8いえ、\w5何でも\w2ありま、\w8せん\w3…\w3。
+＊OnWindowStateRestore
+\h\s[0]\u\s[10]\h\s[1]
+\w3…\w3ぃ\w1すき、\w7${usernames}、\w5だぁい\w1すき、\w4
+\w8${usernames}\w8…\w9\w9
 
+\w5\s[0]\w9\w8えっ。
+
+\w8\w9\w9\w8い、\w6いつの\w1間、\w7に\w4…\w5${５４名前選択変数}\w9
+\w7\s[1]\w5外に\w1出てたんです、\w9\w4か\w3…\w3？
+＊OnWindowStateRestore
+\h\s[0]\u\s[10]\h\s[1]\n\w3一人きりだったから、\w8\w8\w5つい\w2…\w2\n\n\w9いえ、\w9何でも、\w3無いんです…。
+＊OnWindowStateRestore
+\h\s[0]\u\s[10]\h\s[1]\n\w8ちょっと、\w6せまかった、\w7から\w3…\w3
+
+\w5ひざが\w4しびれて\w3…\w3。
+＊OnWindowStateRestore
+\h\s[0]\u\s[10]\h\s[1]\n\w3あそこも\w6、よかった\w1です\w1…\w1。
 ＊rが押された
 ＄辞書リロード【タブ】実行
 ：リロードしました。
@@ -418,7 +444,6 @@
 ＊ネットワーク更新timeout
 ：時間切れです。重すぎるのか、サーバがそもそも存在しない可能性も。
 
-＊５４をインストール
 ＊メーラを開く
 \![open,mailer]
 
@@ -467,9 +492,33 @@
 ＊読み上げ中止
 ：\b[-1]
 
-＊OnGhostCalled
-\t\h\s[5]\w6\nあ\w4…\w3（R0）\w1さん、\w7が\w6\n\w3呼んで\w3くださったんです、\w9\w3ね\w3…\w3。
-＊OnShellChanging
-\h\s[0]\w3（R０）、\w5に\w3\w3
+＊見切れ
+＞フラグ処理【タブ】（見切れフラグ）==0
+\h
+\s[4]あの\w3…\w2はみ出て、\w4ます…。
+＞フラグ処理
+＊見切れ復帰
+＞フラグ処理【タブ】（見切れタイマ）＞０
+\h
+\s[5]\w3ありがとう、\w3ござい、\w4ます\w2…\w2。
+＞フラグ処理
+＊OnSecondChange
+＞見切れタイマをセット【タブ】（Ｒ１）==1 && （見切れフラグ）==0
+＞見切れ復帰【タブ】（Ｒ１）==0 && （見切れフラグ）==1
+＞重なりタイマをセット【タブ】（Ｒ２）==1 && （重なりフラグ）==0
+＞フラグ処理
+＊フラグ処理
+＄見切れフラグ【タブ】（Ｒ１）
+＄重なりフラグ【タブ】（Ｒ２）
+＊見切れタイマをセット
+＄見切れタイマ【タブ】５
+＞フラグ処理
+＊重なりタイマをセット
+＃＃＃インラインイベント
+＊重なりタイマをセット
+＄重なりタイマ【タブ】５
+＞フラグ処理
+＊重なり
+＞フラグ処理【タブ】（重なりフラグ）==0
 
-\w7\s[5]おめかし\w2…\w2です、ね…。\w9うれしい…\w9です。
+＞フラグ処理
