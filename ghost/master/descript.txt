@@ -10,5 +10,5 @@ type,ghost
 sakura.name,54
 kero.name,
 
-icon,post.ico
+icon,54icon.ico
 shiori,satori.dll
