@@ -20,6 +20,7 @@
 ＠helpbutton.caption
 分からないことがあったら、ここをφ…。
 ＠homeurl
+https://raw.githubusercontent.com/ag3601/Project54/master/
 
 ＃ネットワーク更新時にアクセスするアドレス。
 ＃フォルダ名を記述、最後に/をつけてください。例のような形になります。
