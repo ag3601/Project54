@@ -170,7 +170,10 @@
 ＊OnOtherGhostClosed
 \t\h\s[0]\w5\n（Ｒ０）さん、\w7また\w2…。\n\w8\e
 ＊OnShellChanged
-\h\s[0]\n\w5（R０）\w1に\w3…\w3着替え、\w7ました。\w5\n\h\s[5]\w6\w9 似合ってます、\w8か\w4…\w3？
+\h\s[0]
+\w5（R０）\w1に\w3…\w3着替え、\w7ました。\w5
+
+\h\s[5]\w6\w9似合ってます、\w8か\w4…\w3？
 ＊OnSNTPBegin
 ：（Ｒ０）から正しい時間を取得中です。
 
@@ -468,4 +471,6 @@
 ＊OnGhostCalled
 \t\h\s[5]\w6\nあ\w4…\w3（R0）\w1さん、\w7が\w6\n\w3呼んで\w3くださったんです、\w9\w3ね\w3…\w3。
 ＊OnShellChanging
-\h\n\s[0]\w3（R０）、\w5に\w3。\w3\n\n\w7\s[5]　おめかし\w2…\w2です、ね…。\n\w9　うれしい。
+\h\s[0]\w3（R０）、\w5に\w3\w3
+
+\w7\s[5]おめかし\w2…\w2です、ね…。\w9うれしい…\w9です。
