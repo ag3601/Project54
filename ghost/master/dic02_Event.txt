@@ -175,6 +175,7 @@
 ＊OnOtherGhostClosed
 \t\h\s[0]\w5\n（Ｒ０）さん、\w7また\w2…。\n\w8\e
 ＊OnShellChanged
+＞ユーザの名前を質問	（初回起動完了）＝＝０
 \h\s[0]
 \w5（R０）\w1に\w3…\w3着替え、\w7ました。\w5
 

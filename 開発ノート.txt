@@ -1,22 +1,36 @@
 開発ノート
 
-男性向けランダムトーク : (
-\h\s[5]\w7\w6\n
+RestoreMode.nagoya : \h\s[0]\u\s[10]\h\s[4]\n\w8し、\w7しっぽが\w5\n\w2いろんな\w3とこに\w2ぶつかっ、\w8て\w3…\w5\n\n\w8\s[1]\w7ちょっと、\w6気持ち、\w6よくっ\w9\w3て\w3…\w3。\w3\n\w9\e
+RestoreMode.nagoya : ${restoresect.N2}
 
-${５４名前選択変数}の\w2手\w4…\w4小さい、\w7から\n\w9
-${usernames}\w1の、\w4手に\w3なら\w6\n\n\w8
+RestoreMode.nutshell : \h\s[0]\u\s[10]\h\s[5]\n\w8なかで、\w6こっそり\w5…\w4\n\n\w8着替えたり、\w6してまし、\w4\s[1]\w8た\w3…\w3。\w3\n\w9\e
+RestoreMode.nutshell : ${restoresect.N2}
 
-\w4\s[1]\w3すっぽりと、\w5包まれそう、\w6です、\w9\w2ね\w2…。
-\w3\n\w9${＋54}\e
+RestoreMode.pillowtalk : \h\s[0]\u\s[10]\h\s[4]\n\w8入る\w2とき、\w7に\w3…\w3\n\w3シーツが\w2ずれちゃっ、\w7て\w3…\w5\n\n\w6わたし、\w8\s[1]\w3どうしよう、\w9\w4かと\w3…\w3。\w3\n\w9\e
+RestoreMode.pillowtalk : ${restoresect.N2}
+
+RestoreMode.lovepillowtalk : \h\s[0]\u\s[10]\h\s[4]\n\w8この姿で\w4隠れる、\w7には\w3…\w3\n\w4せますぎる\w3気が、\w5します\w3…\w3。\w3\n\w9\e
+
+sentence : \h\s[0]\w7\n${Heroines}さん、\w6みたいな\w4…\w3\n\w8\s[1]\w3恋って、\w7どうか、\w9な\w3…\w3。\w3\n\w9${Talk_license}${Plus54emo}\e
+
+sentence : $(if
+		$[ ${性別判定変数} == "Female" ] ${sentence.女性1}
+else		${sentence.男性1}
 )
 
-
-女性向けランダムトーク : (
-\h\s[0]\w7\w6\n
-もっと\w5…\w5大人っぽく\w5なりたい、\w3\s[4]\w5な\w3…。
-
-\w3\n\w9${＋54}\e
+sentence.女性1 : (
+\h\s[5]\w6\n
+${Katei54}\w1で、\w7${usernames}と、\w8のんびり\w3…\w3。\w3\n\w9${Talk_license}${Plus54emo}\e
 )
+
+\h\s[0]\w7
+${Heroines.Animation}さん、\w2の\w3…\w8${Chara.特徴Good}を\w8${54.参考}\w8
+\w8
+${５４名前選択変数}\w3…\w3今より、\w5もっと\w8
+\w5
+\s[1]\w4${usernames}\w1に、\w9
+（気を引きたい）\w3もらえない、\w9かな\w3…\w3。
+
 
 
 # 子供夢想トーク
