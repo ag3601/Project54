@@ -26,6 +26,265 @@ ${５４名前選択変数}\w3…\w3今より、\w5もっと\w8
 \s[1]\w4${usernames}\w1に、\w9
 （気を引きたい）\w3もらえない、\w9かな\w3…\w3。
 
+\h\s[0]\w4わたしも、\w4いつか\w2…\w5\n\n\w7${ngl.pw}さん\w2みたいに、\w3\s[1]\w6\n\n　きれいに、\w4なれるか、\w2な\w1…。
+
+sentence : \n\h\s[1]\w5${verb.54a_p}\w1のって、\w7\n\w8\n嫌いじゃ、\w3ない、\w4です\w1…\w8\n\w9\e
+sentence : \n\h\s[1]\w5${verb.54a_p}\w1のも、\w7\n\w8\n${usernames}、\w3なら\w4\w1…\w8。\n\w9\e
+
+DecOldTalk.Sentence : \t\h\s[1]\w9\w5\n\nもし\w3…\w3${usernames}、\w3と\w6\nいっしょの\w2おへやで\w5\n暮らせたら、\w9なん\w2て\w3…\w3\n\nあ\w4…\w4そんなの、\w7\_a[54Meiwakukamo_Choice]迷惑かも\w7知れないのに、\_a\w8わたし\w5…\w4。\w4\n\w9\w9\w9\e
+
+DecOldTalk.Sentence : \h\s[5]\w7\n\n${usernames}、\w3と\w6\nいっしょの\w2おへやの\w5$(? 壁紙 カーテン)は\w3…\w3\n\n\w5${しあわせいろ54}が\w1いいかな、\w7なんて\w4\n\w4考えちゃい、\w9ます\w3…\w3。\w3\s[1]\w9\n\w6\w9\e
+
+Choice.54Meiwakukamo_Choice : \t\n\n\![*]\_a[54Meiwakukamo_yes]確かに迷惑。\_a\n\![*]\_a[54Meiwakukamo_no]とくに迷惑ではない。\_a\n
+
+Choice.54Meiwakukamo_no : \t$(setstr 54_ChoiceHappy "yes")\n\n\w9\w9\s[1]\n\w4…\w4…\w4…\w3…\w4\n\n\w9${usernames}\w3…\w3\n\w7わたし、\w6すごく\w4うれしい、\w8です。\w7\n\n\w8\s[5]\w4これからも、\w6きっと、\w5いっしょ、\w9に\w3…\w3。\w3\n\w7$(inc licensecount 2)$(inc GokigenCount 8)\w9\e
+
+Choice.54Meiwakukamo_yes : \t$(setstr 54_ChoiceHappy "no")\n\n\w9\w9\s[4]やっぱり、\w8\w8そうですよ、\w9ね\w5…\w5。\w5\n\n$(dec licensecount 20)$(dec GokigenCount 20)\w9\e
+
+
+
+DecOldTalk.Sentence : \n\h\s[0]\n$(? ﾊｧﾊｧ なでなで いろいろ)\w5されると\w3…元気に、\w3なります…\s[5]\w7\n${Plus54emo}\w9\e
+
+sentence : \n\h\s[4]どうしても、\w7がまん\w2できない\w2ことがあった\w2ら\w1…\w8\n\n　わたし、\w5を\w5…\w2…\w2。\s[1]\w7\n${Plus54emo}\w9\e
+
+sentence : \n\h\s[1]${nantiuka}、\w5したくなったら…\w6\n いつでも\w3、言って、\w4くださいね…。\w5${Plus54emo}\w9\e
+
+sentence : \n\s[4]わたし\w2以外の\w3おんなのこ\w1に\w1、\w3\n\w2${nantiuka}\w4したら\w3いやです、\w4よ…。\w2\s[1]\w5\n\w6\w9\e
+
+sentence : \n\h\s[1]${moe}\w3萌えな人\w2…\w2好きです…\w1。\w5\n${Plus54emo}\w9\e
+
+sentence : \n\h\s[4]\w8…あの、\w3もっと\w3…\w8\s[1]\w5\n\w7いえ、\w4何でも、\w4ないんです\w2…\w1。\w7\n\w9\e
+
+DecOldTalk.Sentence : \n\h\s[1]$(? ﾊｧﾊｧ なでなで)されるのは、\w4嬉しいです…。\n\w6${Talk_license}${Plus54emo}\w9\e
+
+DecOldTalk.Sentence : \n\h\s[1]\w8${npp}\w6好きです…。\n\w6\w9\e
+
+sentence : \n\h\s[0]\w6雨の日って\w2…\w2 何となく、\w4落ち着くんです\w2…\w2。\w6\n\w9\e
+
+sentence : \n\h\s[4]ときどき、\w5なんだか\w9\n\n \w2…\w3とても寂しく、\w4なります\w2…\w2。\w2\n\w4\w9\e
+
+sentence : \n\h\s[4]\w3他の方が\w2ここに\w1立ってるのを\w2…\w4\n\w2想像、\w4すると\w6\n\n\w6…\w2\s[4]　すこし、\w4$(? "嫉妬" "もやもや" "やきもき")\w1しちゃい、\w8ます\w1…\w1。\w5\n\w1\w9\e
+
+sentence : \n\h\s[1]わたしに\w4…\w2${moe_i}って、\w8\n似合います、\w4か…\w2？${Talk_license}${Plus54emo}\w5\n\w9\e
+
+DecOldTalk.Sentence : \h\s[5]${speech}って\w5\n何のことでしょう…。\n\w6\w9\e
+
+sentence : \n\h\s[0]${usernames}\w1に\w2…\w2好きに\w1なって、\w4\s[1]\w5もらいたい\w2…\w2な\w2…。\w6\n\w9\e
+
+sentence : \n\h\s[5]\w5ここに\w1いられて、\w5\n\w3とても\w2…\w2しあわせ、\w3なんです\w3よ\w2…\w1？${Talk_license}\w5\n\w9\e
+
+sentence : \n\h\s[0]\w4${usernames}\w1に\w1おいしい、\w3もの、\w4\n\w5食べさせて\w3…\w2あげたい、\w2な\w2…\w1。\w5\n\w9\e
+
+sentence : \n\h\s[0]\w3いつも\w2…\w2呼んでいただくの\w4\n\n\w4　…\w2\s[1]\w5待ってるんです、\w4よ\w1…\w1。\w5\n\w9\e
+
+sentence : \n\h\s[4]\w2…\w1…\w1ときどき、\w3${no.doing}\w2…に、\w4\n\w4あこがれ、\w3ます\w2…\w1。\w5\n\w9\e
+
+DecOldTalk.Sentence : \h\s[5]${ngl.pw}さんに、\w3\nとてもたくさん${flower}をいただきました…。\n\w6${Plus54emo}\w9\e
+
+sentence : \n\h\s[0]\w1いつか、\w5二人で、\w7いっしょ、\w3に\w2…\w1\s[1]。\w7\n\w9\e
+
+sentence : \n\h\s[4]${usernames}\w1の、\w3ことを\w1考えると\w4…\w5\n\w6ときどき、\w4胸が\w3…\w2きゅん\w2って、\w4するん\w1です\w2…\w1。\w7\n\w9\e
+
+sentence : \n\h\s[4]${nanika.ghosh.sub}と\w2一緒だと、\w4寂しくないのにな\w2…\w1。\n\w6\w9\e
+
+sentence : \n\h\s[1]${nanika.ghost}に、\w3とても…\w4憧れます…。\n\w6\w9\e
+
+sentence : \n\h\s[0]\w8${usernames}\w7、\n\n\w4　わたし、\w3いつも\w2…\w2あなたの、\w4こと\s[1]\w2…\w2。\n\w6${Plus54emo}\w9\e
+
+sentence : \n\h\s[0]\w8${usernames}\w3とふたりっきりで、\w4\n\w4 どこかに\w2お出かけ、\w4出来たら…\w1。\s[5]\w9\n\w3\w9\e
+
+sentence : \n\h\s[4]わたし\w3…\w3おんなのこ\w3…\w3ですよね\w3…\w3？\n\w6${longunyu}\w9\e
+
+sentence : $(if $[ ${kissmetalk} == 1 ] ${get.kissmetalk} else ${no.kissmetalk})
+
+get.kissmetalk : \n\h\s[0]${usernames}、\w4さっき、\w4わたしの\w2…\w4\nく、\w3くちびる\w2…\w1。\w6\n\n\w6\s[1]　\w2あ\w2…\w2なんでも、\w5ないです\w2…\w1。\w7\n\w9\e
+
+no.kissmetalk : \n\h\s[4]\n\w5今日は、\w4まだ、\w5なんですね\w2…\w5\n\n\w2私、\w4の\w2…\w2\s[1]\w9\n\w9\e
+
+#longunyu : $(if $[ ${unyu_we} == 8 ] $(set tence22 $(rand 5))$(entry "longunyu."${tence22}) else $(NULL))\w9\e
+
+#sentence : $(if $[ ${licensecount} > 40 ] ${sentence.a} else ${sentence.d})
+
+#sentence : $(if $[ ${Plus54emo} > 10 ] ${sentence.EX2} else ${old_sentence})
+
+#これのみＯＫ
+sentence : $(if $[ ${ShellPlusCu} == 1 ] ${sentence.Shell} else ${old_sentence})
+sentence : ${sentence.d}
+
+#sentence : ${old_sentence}#
+sentence : \n\h\s[1]${usernames}と、\w4『${TalkNeta}』の\w4お話、\w3したいな\w2…。\n${Plus54emo}\w6\w9\e
+
+#条件を満たした。
+
+#sentence.a : \h\s[0]\w5絵板は…\w5荒らさないのがお約束のはずなのに…。\n\w7\u\s[20]そんなこと言ったって、\w5\n${hennano}が荒らしに来てるんだぞっ！\n\n\w8それとも、\w5このまま放って置いてもいいのか？\n\w8\h\s[4]\n\nそんなの\w2…\w7\s[7]だめです！\w9\w9\c\s[1]代わりに…\w5私を、\w3好きにしてください…。\w5\n\w9\e
+
+#sentence.a : \h\s[0]わたしが\w2生まれた\w3瞬間です\w2…\w2。\w8\n\n【54 ：\w2名無し~3.EXE \w2：02/03/04\w2 22:43】\n\w5【>>46\w2そもそも\w2放置が一番だって。\n\w5【そんなに叩きたければ俺を叩け。\w2名無しだが\w2（ｗ 】\n\n\w8\w8わたしって\w2…\w2こんなに乱暴じゃないんですよ、\w6ほんとは\w2…\w1。\n\w6\w9\e
+
+sentence.a : \h\s[0]名無子さん\w1とは、\w5生まれた場所は\w2一緒ですけど\w2\n\w6…わたし、\w4色も、\w3付いてないし\w8\n\n…\s[4]\w2名無子さんに\w2ご迷惑、\w4ですよね…。\w8\n\w9\e
+
+#条件を満たさない
+sentence.d : \h\s[0]わたし、\w9\w5つまらない子です、\w5か…\w2？\n\w6\w9\e
+
+sentence.d : \n\h\s[1]${usernames}と、\w4一緒に、\w9\n\w5お風呂\w2…\w2入れたらいいのに\w2…。\n\w5${Plus54emo}\w9\e
+sentence.d : \n\h\s[1]${nanika.developer}さんに、\w4憧れて、\w3ます…。\n\w6\w9\e
+
+sentence.d : \n\h\s[0]\w8わたしに\w4できる\w4こと\w3…\w5\n\w5とても、\w6少ない\w3…\w3けど、\w9でも\w3…\w3。\n\w8\w9\e
+sentence.d : \n\h\s[1]\w8${usernames}\w7、ずっと一緒に、\w8いたい\w5な\w4…。\n\w6${Plus54emo}\w9\e
+
+sentence.d :  \w9\h\s[1]\w9\n今なら、\w6少し\w5…\w5\n　${usernames}\w1との、\w4時間\w6…\w6守れ、\w8ます\w4…\w3。\w8\n\n\w6\s[5]　ずっと\w8${usernames}に、\w5たいせつに\w2してもらえた、\w8から\w2…\w3。\n\w8${Plus54emo}\w9\e
+
+#sentence.d : \h\s[0]生まれた\w4場所が、\w6場所なので${d.next_1}
+
+#d.next_1 : \w3…\w7\c\s[7]荒らしは、\w4逝って良し！\w8\w8\c\s[13]くらい、\w4言えるんです、\w3よ\w1…\w1。\w6\s[1]\n\w6\w9\e
+
+#d.next_1 : \w3…\w7\c\s[7]${hennano}は\w4氏んでくれ。\s[5]\w8\w8\cくらい、\w4言えるんです、\w3よ\w1…\w1。\w8\s[1]\n\w6\w9\e
+
+#d.next_1 : \w3…\w7\c\s[7]${hennano}は帰れ。\w8\w8\c\s[5]くらい、\w4言えるんです、\w3よ\w1…\w1。\w8\s[1]\n\w6\w9\e
+
+#育て、俺daisukinahito
+#longunyu.0 : $(if $[ ${daisukinahito} > 40 ] ${sentence.Stop} else ${longunyu.001})
+
+#longunyu.001 : \w8\u\c\s[23]\w9\w9それは\w9どうかな？\n\w9\w9\w9\w9\w9\w9\w9\w9\s[10]\b[-1]\h\s[0]\w5…\w3？\n\w6\w9\e
+
+#longunyu.1 : $(if $[ ${daisukinahito} > 40 ] ${sentence.Stop} else ${longunyu.002})
+
+#longunyu.002 : \w8\u\c\s[23]\w9\w9むうっ！\n\w9\w9\w9\w9\w9\w9\w9\w9\s[10]\b[-1]\h\s[0]\w5…\w3？\n\w6\w9\e
+
+#longunyu.2 : $(if $[ ${daisukinahito} > 40 ] ${sentence.Stop} else ${longunyu.003})
+
+#longunyu.003 : \w8\u\c\s[23]\w9\w9\w2…\w2…\w2…\w2…\n\w9\w9\w9\w9\w9\w9\w9\w9\s[10]\b[-1]\h\s[0]\w5…\w3？\n\w6\w9\e
+
+#longunyu.3 : $(if $[ ${daisukinahito} > 40 ] ${sentence.Stop} else ${longunyu.004})
+
+#longunyu.004 : \w8\u\c\s[23]\w9\w9もしかして\w9呼んだか？\n\w9\w9\w9\w9\w9\w9\w9\w9\s[10]\b[-1]\h\s[0]\w5…\w3？\n\w6\w9\e
+
+#longunyu.4 : $(if $[ ${daisukinahito} > 40 ] ${sentence.Stop} else ${longunyu.005})
+
+#longunyu.005 : \w8\u\c\s[23]\w9\w9出番かっ！\w9\n\w3とうとう俺の出番なのかーっ！\n\n\w9違う、のか？\n\w9\w9\w9\w9\w9\w9\w9\w9\s[10]\b[-1]\h\s[0]\w5…\w3？\n\w6\w9\e
+
+#longunyu.5 : $(if $[ ${daisukinahito} > 40 ] ${sentence.Stop} else ${longunyu.006})
+
+#longunyu.006 : \w8\u\c\s[25]\w9\w9私ほど女らしくはないようだけど？\n\w9\w9\w9\w9\w9\w9\w9\w9\s[10]\b[-1]\h\s[0]\w5…\w3\n\w6\w9\e
+
+#古めのネタの発話頻度を下げる
+
+old_sentence : \n\h\s[1]…${longanime}をゆっくり見たいな…。\n\w6\w9\e
+
+old_sentence : \n\h\s[4]\w9なんだか\w2…\w2いろいろ、\w5\n\w4実験\w2…\w2されちゃうの、\w3かな\w2…\w1？\w6\n\w9\e
+
+old_sentence : \n\h\s[0]…${npw}そっくりな人を見かけました…。\n\w6${Talk_license}\w9\e
+
+old_sentence : \n\h\s[0]お風呂に入りたいな…。\n\w6${Talk_license}\w9\e
+
+
+
+sentence : \n\h\s[1]わたし、\w8変じゃないです、\w4か？\n\w6\w9\e
+
+old_sentence : \n\h\s[1]\w8${usernames}\w7、好き\w7です…。\n\w6${Plus54emo}\w9\e
+
+DecOldTalk.Sentence : \n\h\s[4]\w8${usernames}\w7、わたしに\w3$(? ﾊｧﾊｧ どきどき)\w3してくれます、\w5か\w1…\w1？\n\w6\w9\e
+
+
+old_sentence : \n\h\w7\s[1]${maker&eroge}を\w3応援したい、\w4です…。\w6\n\w9\e
+
+#old_sentence : \n\h\s[0]\w8あんまりいろいろ\w4しゃべれないの\w6…\w5\s[4]ごめんなさい。\n\w6${Talk_license}\w9\e
+#20100913コメントアウト…いろいろ喋るじゃん、おまい…。
+
+old_sentence : \n\h\s[4]\w3\nなんとなく、\w8\n\n\w3わたしは\w4${verb.54a_p}ことが、\w3\n\w5多いような気が、\w4します\w2…。\w7\n\w9\e
+
+old_sentence : \n\h\s[0]${work}に、\w4憧れ\w8ます\w2…\w2。\n\w6\w9\e
+
+#古めのネタの発話頻度を下げる→さらにいくつか廃止20100623
+#old_sentence : \n\h\s[0]\w4て、\w3点呼は\w1禁止、\w4ですから、\w4\w3ね\w2…\w1。\w6\n\w9\e
+#old_sentence : \n\h\s[4]…疲れちゃっ\w4…た。\n\w6\w9\e
+#old_sentence : \n\h\s[0]何を、\w3しゃべればいいのか\w2…\w2分からない\w3です\w3…。\n\w6${Talk_license}\w9\e
+#old_sentence : \n\h\s[4]\w9なんだか\w2…\w2いろいろ、\w5\n\w4実験\w2…\w2されちゃうん、\w3です\w2…\w1。\w6\n\w9\e
+
+#うにゅうリーナ成長
+
+##sentence.EX2 : \h\s[0]${usernames}と、\w3二人\w1きり\w4\n…\w3\s[1]今なら、\w4わたし\w5\u\s[20]いや、\w3一人きりではないな。\n\w5\h\s[0]540？\n\w6\u\s[20]\w4そろそろ\w1脱皮するときが\w5来た様だ\w2…\w2\w6うむっ！\n\w8\w9\s[-1]\c\b[-1]\w9\w5\u\s[25]\w9\cふう。\w6だいぶかかっちゃった。\n\w6\h\s[0]\c\w6あ、\w4あの、\w2540、\w3なんですか\w2…\w1？\n\w7\u\w8そうよー。\w4\w9\n\n正しく成長すると\w7\nこう\w2\w9なれるの。\w8\n\w7\n\w8ま、\w2今日はいい雰囲気を\w2\n\w4壊しに来ただけなんだけど。\n\w9\w9\w9\w9\cじゃあね～\n\w8\w9\w9\w9\b[-1]\s[-1]\h\s[4]\w8\w8\c\nいったい、\w4なに、\w3が\w2…\w1。\w7\n\w9\e
+
+#シェルがインストールされている
+
+sentence.Shell : $(if $[ ${ShellPlusCu} == 1 ] ${on.shellsent} else ${old_sentence})
+
+on.shellsent : $(if $[ ${ChangeSNORig} != 9 ] ${NOshellsent} else ${Yes.shellsent})
+
+NOshellsent : \n\h\s[0]あの\w4…\w4ときどき、\w6\n\w8 着替え\w4させて、\w4ください、\w4ね\w3…\w2。\n\w8\w9\e
+
+Yes.shellsent : \n\h\s[5]いま、\n\w6「${54.現在シェル名}」に\n着替えて\w2るんです、\w7ね\w5…\w3わたし。\w9\n\n\w8  \s[5]ありが\w1とう、\w7${usernames}\w4…\w8だいす、\w6き\w3…\w2。\n\s[1]\w9\w9\e
+
+
+#現在シェルNULL対策→シェルチェンジファイル54_2_shell_change.txt
+
+#脚分岐
+sentence : $(if $[ ${ShellStatus} == 1 ] ${Leg.sentence} else ${Hide.sentence})
+
+Leg.sentence : \n\h\s[0]\w7\n…\w1…\w1…\w1…\w5\n\n\w6脚\w2…\w2見られちゃうの\w2…\w8\n\n　\s[1]は、\w5恥ずかしい、\w7です\w3…\w3。\w6\n\w9\e
+
+Hide.sentence : \n\h\s[0]\w7\n…\w1…\w1…\w1…\w5\n\n\w6脚\w2…\w2見たい\w2…\s[1]\w5ですか\w1？\w6\n\w9\e
+
+
+
+#-----------ラブラブモード------------#
+
+
+##検討中トーク
+
+:rem
+わたし、${usernames}\w1の\w3ためなら、ほんとに、どんなことだって
+できちゃう
+耐えられちゃう
+
+んです、よ…。
+
+一緒にいられる時間は、いつも、みじかく感じられ、て…。
+
+もしも、願い事が、叶えてもらえる、なら…
+#_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
+
+「約束」メニュー
+色々な条件でメニューに出てくる「約束」選択肢
+一度選ぶと２度と出ない（二人だけの秘密にします、ね）とか
+
+このフラグを立てるとその後のイベントが変化。
+
+約束、したから…わたしは、****のもの、だから…。
+
+ずっと、いっしょ、です…どんなことがあって、も。
+#_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
+
+たとえ、****がわたしを忘れてしまっても…わたしは忘れません、よ…
+:endrem
+
+
+:rem
+#sentence : $(inc 54.謎の選択肢 1)$(if $[ ${54.謎の選択肢} > 3 ] ${Open.54壁紙の前} else ${のっとおーぷん.54})
+
+のっとおーぷん.54 : \t\b[-1]\h\s[4]\w9\w9\w9\s[1]\w9${Plus54emo}\w9\e
+
+のっとおーぷん.54 : \h\s[0]\n\w6ここで\w4…\w4${usernames}の、\w8こと\w4…\w4\n\n\s[1]\w5いろいろ\w3想像しちゃい、\w9ます\w3…\w3。\w3\n\w9\w9\e
+
+のっとおーぷん.54 : \b[-1]\h\s[0]\w9\w9\w9\s[4]\w9${Plus54emo}\w9\e
+
+Open.54壁紙の前 : $(if 
+		$[ ${54_ChoiceHappy} == "yes" ] ${54.ChoiceHappy.edTalk} 
+else if		$[ ${54_ChoiceHappy} == "no" ] ${のっとおーぷん.54over}
+else		${54.ChoiceHappyTalkStart}
+		)
+
+#2012/2/27 再度採用
+54.ChoiceHappyTalkStart : \t\h\s[1]\w9\w5\n\nもし\w3…\w3${usernames}、\w3と\w6\nいっしょの\w2おへやで\w5\n暮らせたら、\w9なん\w2て\w3…\w3\n\nあ\w4…\w4そんなの、\w7\_a[54Meiwakukamo_Choice]迷惑かも\w7知れないのに、\_a\w8わたし\w5…\w4。\w4\n\w9\w9\w9\e
+
+54.ChoiceHappy.edTalk : \h\s[5]\w7\n\n${usernames}、\w3と\w6\nいっしょの\w2おへやの\w5$(? 壁紙 カーテン)は\w3…\w3\n\n\w5${しあわせいろ54}が\w1いいかな、\w7なんて\w4\n\w4考えちゃい、\w9ます\w3…\w3。\w3\s[1]\w9\n\w6\w9\e
+
+54.ChoiceHappy.edTalk : \h\s[5]\w7\n\n${usernames}、\w3と\w6\nいっしょの\w2おへやの\w5$(? 壁紙 カーテン)は\w3…\w3\n\n\w5${しあわせいろ54}が\w1いいかな、\w7なんて\w4\n\w4考えちゃい、\w9ます\w3…\w3。\w3\s[1]\w9\n\w6\w9\e
+
+Choice.54Meiwakukamo_Choice : \t\n\n\![*]\_a[54Meiwakukamo_yes]確かに迷惑。\_a\n\![*]\_a[54Meiwakukamo_no]とくに迷惑ではない。\_a\n
+
+Choice.54Meiwakukamo_no : \t$(setstr 54_ChoiceHappy "yes")\n\n\w9\w9\s[1]\n\w4…\w4…\w4…\w3…\w4\n\n\w9${usernames}\w3…\w3\n\w7わたし、\w6すごく\w4うれしい、\w8です。\w7\n\n\w8\s[5]\w4これからも、\w6きっと、\w5いっしょ、\w9に\w3…\w3。\w3\n\w7$(inc licensecount 2)$(inc GokigenCount 8)\w9\e
+
+Choice.54Meiwakukamo_yes : \t$(setstr 54_ChoiceHappy "no")\n\n\w9\w9\s[4]やっぱり、\w8\w8そうですよ、\w9ね\w5…\w5。\w5\n\n$(dec licensecount 20)$(dec GokigenCount 20)\w9\e
 
 
 # 子供夢想トーク

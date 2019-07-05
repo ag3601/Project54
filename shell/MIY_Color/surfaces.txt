@@ -3,7 +3,7 @@ surface0
 collision0,54,25,162,64,Head
 collision1,103,83,128,103,Face
 collision2,76,134,101,158,Bust
-collision3,58,326,121,359,Bottom
+collision3,58,326,121,359,skirt
 
 }
 
@@ -12,7 +12,7 @@ surface1
 collision0,54,25,162,64,Head
 collision1,103,83,128,103,Face
 collision2,76,134,101,158,Bust
-collision3,58,326,121,359,Bottom
+collision3,58,326,121,359,skirt
 }
 
 surface4
@@ -20,7 +20,7 @@ surface4
 collision0,54,25,162,64,Head
 collision1,103,83,128,103,Face
 collision2,76,134,101,158,Bust
-collision3,58,326,121,359,Bottom
+collision3,58,326,121,359,skirt
 
 }
 
@@ -29,7 +29,7 @@ surface5
 collision0,54,25,162,64,Head
 collision1,103,83,128,103,Face
 collision2,76,134,101,158,Bust
-collision3,58,326,121,359,Bottom
+collision3,58,326,121,359,skirt
 
 }
 
@@ -38,7 +38,7 @@ surface7
 collision0,54,25,162,64,Head
 collision1,103,83,128,103,Face
 collision2,76,134,101,158,Bust
-collision3,58,326,121,359,Bottom
+collision3,58,326,121,359,skirt
 
 }
 
@@ -47,7 +47,7 @@ surface13
 collision0,54,25,162,64,Head
 collision1,103,83,128,103,Face
 collision2,76,134,101,158,Bust
-collision3,58,326,121,359,Bottom
+collision3,58,326,121,359,skirt
 
 }
 surface1000
