@@ -35,8 +35,8 @@ https://raw.githubusercontent.com/ag3601/Project54/master/
 きほん(&P)
 
 ＠readmebutton.caption
-現在のシェルについて(&R)
-取扱説明書(&R)
+読んでください…。(&R)
+あの、ここ…。(&R)
 Read me(&R)
 
 ＠recommendrootbutton.caption

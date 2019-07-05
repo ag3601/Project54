@@ -10,6 +10,8 @@
 
 
 ＊５４をインストール
+\h
+\s[0]あ\w3…\w3わたしの、\w5再インストール\w2なんです、\w6ね\w2…\w2。
 ＊can't analyzeによりヘッドラインセンス失敗
 ：……解析失敗。
 サイトのデザインが変更されたのかな？　最新版のヘッドラインセンサがあれば入れ替えてくださいね。
@@ -67,9 +69,8 @@
 ：選択肢のジャンプ先「（Ｒ０）」は存在しません。記述ミス？
 
 ＊OnChoiceTimeout
-\h\s[4]見て\w4、ないです、\w4ね…。
-＊OnChoiceTimeout
-\h\s[4]\w2…\w2…\w2${usernames}。
+\h
+（０）\w2…\w2…\w2${usernames}？
 ＊OnClose
 ＞終了
 
@@ -110,8 +111,8 @@
 理由は（Ｒ０）だそうです。
 
 ＊OnInstallBegin
-：インストール開始。
-
+\h
+\s[0]あ…。\w8い、\w3いえ\w4\s[1]\w4…\w3インストール、\w3開始します…。
 ＊OnInstallComplete
 ＞（Ｒ１）をインストール
 ＞ゴーストインストール	（Ｒ０）==ghost
@@ -119,8 +120,7 @@
 ＞バルーンインストール	（Ｒ０）==balloon
 ＊OnInstallComplete
 ＞（Ｒ１）をインストール
-：（Ｒ１）/（Ｒ０）をインストールしました。
-：ふむ。
+：（Ｒ１）/（Ｒ０）インストール…\w3終了しました。
 
 ＊OnInstallFailure
 ：インストール失敗。
@@ -164,7 +164,7 @@
 ＊OnMouseDragStart
 \t\h\s[0]\nあっ…\w3。\n\w9\w9\e
 ＊OnMusicPlay
-：『（Ｒ０）』再生開始～
+：『（Ｒ０）』再生開始です。
 
 
 ＊OnNarCreated
@@ -211,9 +211,8 @@
 ＃　
 
 ＊OnSSTPBreak
-：……はっ！？
-
-
+\h
+…\w2…\w2…\w8\w8\s[0]…？
 ＊OnUpdate.OnDownloadBegin
 \t\h\s[4]\w8${54.天気わるめの元}の\w3日に、\w7\n家の\w2ない\w3${54野良ペット}、\w7は\w3…\w3\n\n\w7どんな\w1風に\w3すごすの、\w9かな\w3…\w3。\w3\n\w9\w9\s[0]\e
 ＊OnUpdate.OnDownloadBegin
@@ -248,7 +247,7 @@
 ：完了しましだ。
 
 ＊OnUpdatedataCreating
-：updates2.dau作成中～
+：updates2.dauを作成中です。
 
 ＊OnUpdateFailure
 ＞ネットワーク更新（Ｒ０）
@@ -523,3 +522,45 @@
 ＞フラグ処理【タブ】（重なりフラグ）==0
 
 ＞フラグ処理
+＊プロジェクト５４をインストール
+\h
+\s[0]あ\w3…\w3わたしの、\w5再インストール\w2なんです、\w6ね\w2…\w2。
+＊見切れ
+＞フラグ処理【タブ】（見切れフラグ）==0
+\h
+（４）あの\w3…\w3画面の外に出ると、\w8わたし\w3…\w3。
+＞フラグ処理
+＊見切れ
+＞フラグ処理【タブ】（見切れタイマ）＞０
+\h
+\s[0]\w5何があって、\w5も\w3…
+
+（U）のためなら\w4…
+（５４名前）\w4…、\w3きっと、\w6がまん、\w6できます\w4…\w4。
+＞フラグ処理
+＊OnWindowStateRestore
+\h
+\s[0]びっくり、\w4しました\w2…\w2。
+＊OnWindowStateRestore
+\h
+\s[0]…やっと、
+
+\w4落ち着け、\w4ます。
+＊OnChoiceTimeout
+\h
+（０）見て\w4、ないです、\w4ね…。
+＊OnWindowStateRestore
+\h
+（１）\w9…\w5あ\w2っ\w5。
+＊OnWindowStateRestore
+\h
+（１）はやかったんです、\w4ね。
+＊OnWindowStateRestore
+\h
+\s[0]もう、\w3大丈夫、
+
+\w7です…か？。
+＊OnWindowStateRestore
+\h\s[1]\n\w4…\w5…\w5…。
+＊OnWindowStateRestore
+\h（１）\n…がんばります。
