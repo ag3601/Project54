@@ -1,4 +1,4 @@
-file,developer_options.txt4d03e5bbd65ef4f5e25b7e4e08817890size=113
+file,developer_options.txtcad140477c040dd37e60f5bac4b7dee9size=124
 file,ghost/master/54icon.ico282980d2ac771c9f464f8e9eb85ed68fsize=5622
 file,ghost/master/descript.txt76ceaabd3b3abed6d9e74270aee72317size=171
 file,ghost/master/dic00_system.txtac7433487585818a7decaabddb64cb1fsize=929
@@ -20,7 +20,7 @@ file,ghost/master/saori/ssu.dllb0ff7b22180178221e97b51782570f38size=89600
 file,ghost/master/satori.dll97c1ba4ee3145c7edde851557c718de5size=215040
 file,ghost/master/satori_conf.txtb3225532f9b880cb7e98a80b383a7e89size=943
 file,ghost/master/satori_license.txt078ffc36f3374648bf523ae197f4765csize=944
-file,ghost/master/satori_savebackup.txt7398cd0d60d8f6cbd56fb2e137bd65ffsize=722
+file,ghost/master/satori_savebackup.txtd0b811d55cee7bbe2f839b101343340csize=686
 file,install.txte4ae8004d881e650b637d60ec56fdc55size=76
 file,README.md42bbe1df651004d190d9ffa5da457e6asize=77
 file,readme.txtd46508267e7a917ee4932a84d877cbf7size=38
