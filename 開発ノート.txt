@@ -13,11 +13,6 @@ RestoreMode.lovepillowtalk : \h\s[0]\u\s[10]\h\s[4]\n\w8この姿で\w4隠れる
 
 sentence : \h\s[0]\w7\n${Heroines}さん、\w6みたいな\w4…\w3\n\w8\s[1]\w3恋って、\w7どうか、\w9な\w3…\w3。\w3\n\w9${Talk_license}${Plus54emo}\e
 
-sentence : $(if
-		$[ ${性別判定変数} == "Female" ] ${sentence.女性1}
-else		${sentence.男性1}
-)
-
 sentence.女性1 : (
 \h\s[5]\w6\n
 ${Katei54}\w1で、\w7${usernames}と、\w8のんびり\w3…\w3。\w3\n\w9${Talk_license}${Plus54emo}\e
