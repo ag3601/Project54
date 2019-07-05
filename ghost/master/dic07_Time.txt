@@ -226,8 +226,6 @@ ${usernames}A\w2‚Í\w5c\w5\s[1]\w9\w9\w3${‚T‚S–¼‘O‘I‘ğ•Ï”}‚Ì\w2‹ß‚­A\w6‚É\w4
 ¡“úA\w8‚Í\w4c\w4\n\w4${usernames}‚Ì\w3‚¨’a¶“ú\w3c\w3‚Å‚·A\w9‚ËB
 
 \w5\s[1]\w9\w5‚Í‚Á‚Ò[‚Î[‚·‚Å‚¡A\w9\w5${usernames}\w4c\w3B
-–ƒeƒXƒg
-iŒ»İ”Nj
 –ˆêŒˆÈãŒo‚Á‚Ä‚©‚ç‹N“®
 \h\s[0]\w7
 \w3${usernames}\w3c\w5\s[4]\w4
@@ -270,3 +268,8 @@ ${usernames}A\w2‚Í\w5c\w5\s[1]\w9\w9\w3${‚T‚S–¼‘O‘I‘ğ•Ï”}‚Ì\w2‹ß‚­A\w6‚É\w4
 \w8\s[5]\w6${usernames}\w5c\w5B
 –Œo‰ß•ªˆ—
 Œo‰ß•ªicalc,iI—¹‚©‚çŒo‰ß“ú”j*‚Q‚S*‚U‚O+icalc,iŒ»İj-iI—¹jj*‚Q‚S*‚U‚O+iŒ»İ•ªj-iI—¹•ªjj
+–‹N“®ŠÔƒCƒxƒ“ƒg
+„‚PŠÔ‹N“®‚µ‚½	i‚n‚r‹N“®j‚P
+„‚P‚OŠÔ‹N“®‚µ‚½	i‚n‚r‹N“®j‚P‚O
+
+–‚P‚OŠÔ‹N“®‚µ‚½
