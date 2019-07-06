@@ -4,3 +4,4 @@
 .README.md
 .satori_save
 .profile/
+.satori_savebackup
