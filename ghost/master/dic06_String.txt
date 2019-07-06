@@ -179,14 +179,17 @@ http://fiddle-de-dee.sakura.ne.jp/
 ＠updatebutton.caption
 オンラインアップデート(&U)
 ネットワーク更新(&U)
-
+更新、なんだか不安ですφ…。(&U)
+更新、わたしに、うまくできるでしょうか？(&U)
+なにかが、変わるのでしょう、かφ…。(&U)
+これで、しあわせにφ…なれるでしょうかφ…？(&U)
 ＠username
 （ユーザ名） 
 
 ＠vanishbutton.caption
 消滅(&F)
 アンインストール(&F)
-vanish(&F)
+覚悟は出来てます。(&F)
 
 ＠vanishbutton.visible
 1 
