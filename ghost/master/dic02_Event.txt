@@ -246,7 +246,10 @@
 
 
 ＊OnUpdateBegin
-\t\h\s[5]\nなんと、\w6なく\w4\n気持ちが\w2軽い、\w9です\w3…\w3。\w3\n\_w[15000]\e
+\t\h\s[5]
+なんと、\w6なく\w4
+
+気持ちが\w2軽い、\w9です\w3…\w3。
 ＊OnUpdateBegin
 \t\h\s[1]\w5
 雨の\w2降る中、\w4で\w3
