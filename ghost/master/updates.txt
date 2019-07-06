@@ -1,4 +1,4 @@
-file,developer_options.txtcad140477c040dd37e60f5bac4b7dee9size=124
+file,developer_options.txt2f36fa48bc144189ff452e1889bef7f5size=115
 file,ghost/master/54icon.ico282980d2ac771c9f464f8e9eb85ed68fsize=5622
 file,ghost/master/descript.txt76ceaabd3b3abed6d9e74270aee72317size=171
 file,ghost/master/dic01_Base.txt66e7ad3338c5e305c6dc8b0ff896b6a4size=8684
