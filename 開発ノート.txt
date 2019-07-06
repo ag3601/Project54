@@ -1,5 +1,10 @@
 開発ノート
 
+\h
+\s[0]\w5…\w2痛い、\w4けど\w8
+
+\w5…\w2${usernames}、\w1なら\w3…\s[1]\w1。
+
 ChechChangeName : 黒海
 ChechChangeEntry.黒海.1 : "シェルの多さは随一やな。"
 Go_Entry黒海.1 : \1\s[10]\0\s[0]\h\s[5]\w4\nお着替え\w4…\w4ほんとうに\w5\n嬉しいものばかりです、\w7ね\w3\w3。\w3\n\w9\e

@@ -61,10 +61,6 @@ Read me(&R)
 ＊sakura.portalsites
 伺かチャット
 http://ukgkchat.saloon.jp/index.php?FrontPage
-伺かの話題のチャット。
-わからないことがあったら質問できるぞ。
-：ブラウザだけでも見られます。
-
 ＊sakura.portalsites
 SSP BUGTRAQ 
 http://ssp.shillest.net/ 
@@ -99,12 +95,6 @@ http://ngc.sherry.jp/
 -
 
 ＊sakura.portalsites
--
-
-＊sakura.portalsites
--
-
-＊sakura.portalsites
 里々φ/整備班カスタム
 http://ms.shillest.net/
 ：現時点で更新されている里々です。
@@ -122,8 +112,6 @@ http://kemonomimisippo.hp.infoseek.co.jp/link/link_product.html
 里々Wiki
 http://www.mac.gn.to/satori/index.php
 ：里々に関するＴｉｐがまとまっているような気がします。
-：うむ。
-
 ＊sakura.portalsites
 里々変数辞典
 http://members2.jcom.home.ne.jp/he-noki/uka-satori.html
@@ -131,9 +119,6 @@ http://members2.jcom.home.ne.jp/he-noki/uka-satori.html
 ＊sakura.portalsites
 postic
 http://navy.nm.land.to/post/
-：私たちにすでに適用されているサプリメントの元配布元です。
-：ややこしいことをしたいなら一読の価値ありだ。
-
 ＊sakura.portalsites
 -
 
@@ -168,19 +153,13 @@ http://jbbs.livedoor.jp/computer/12782/
 http://review.sakura.ne.jp/ 
 
 ＊sakura.recommendsites
-「Rポストと狛犬」配布ページ
-http://emily.shillest.net/specwiki/index.php?Wiz%E2%98%85%2F%EF%BC%B2%E3%83%9D%E3%82%B9%E3%83%88%E3%81%A8%E7%8B%9B%E7%8A%AC
-：たまには確認してね。
-：更新されてるかもしれないからな。
+http://www3.to/gift/
 
 ＃＊sakura.portalsites
 ＃-
 ＃「-」といれることでリンクメニューに罫線を引くことができます。 
 
 
-＊sakura.recommendsites
-fiddle-de-dee
-http://fiddle-de-dee.sakura.ne.jp/
 ＠saveasdefaultbutton.caption
 今の設定を全部のゴーストさんに反映させられますφ…。
 ＠shellrootbutton.caption
