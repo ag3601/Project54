@@ -2,25 +2,15 @@ file,developer_options.txtcad140477c040dd37e60f5bac4b7dee9size=124
 file,ghost/master/54icon.ico282980d2ac771c9f464f8e9eb85ed68fsize=5622
 file,ghost/master/descript.txt76ceaabd3b3abed6d9e74270aee72317size=171
 file,ghost/master/dic00_system.txtac7433487585818a7decaabddb64cb1fsize=929
-<<<<<<< HEAD
-file,ghost/master/dic01_Base.txt5ce8b8707bdfffe1d8ca384c1c258d5csize=8607
-file,ghost/master/dic02_Event.txtb776e0a4eced08931afb244d4de9cba0size=13711
-file,ghost/master/dic03_Menu.txtadaaaf8d34d3a296a11769a948308400size=8640
-file,ghost/master/dic04_Change.txt3392b8d30a5846218ea0ca14f7bf00b5size=2670
-file,ghost/master/dic05_Communicate.txtcf365fb9aaf6263d2be1ee76e910aeaesize=2175
-file,ghost/master/dic06_String.txtccc2d949d0c219e6b169097dc1d01690size=5107
-file,ghost/master/dic07_Time.txt397d388d90a071bc7c93b22d4faf1df1size=7084
-=======
 file,ghost/master/dic01_Base.txt66e7ad3338c5e305c6dc8b0ff896b6a4size=8684
-file,ghost/master/dic02_Event.txt3b12f06d831dd51cffc5abcab384dff4size=14596
-file,ghost/master/dic03_Menu.txtadaaaf8d34d3a296a11769a948308400size=8640
+file,ghost/master/dic02_Event.txt4834ee00b0a8647b900e81177e8213a6size=13924
+file,ghost/master/dic03_Menu.txt4b523960ef6c2e61da64b9c636f5b64asize=9096
 file,ghost/master/dic04_Change.txt3392b8d30a5846218ea0ca14f7bf00b5size=2670
 file,ghost/master/dic05_Communicate.txtcf365fb9aaf6263d2be1ee76e910aeaesize=2175
-file,ghost/master/dic06_String.txtd9145e21bd9d8437c3d1664dce55bcb4size=4925
-file,ghost/master/dic07_Time.txtaa8f5687a57784b05c882e93e7a2c31asize=7773
->>>>>>> b7bbb4ee2b5b4419d5e05717b9cec6c9fedeaf32
-file,ghost/master/dic08_RandomTalk.txt895f4813bb04c8e686df74e44004683dsize=62835
-file,ghost/master/dic09_dic.txt16d37bea2ff29c63fcbd0547ad35ce64size=5232
+file,ghost/master/dic06_String.txtea23d5d704b05dbdb8a13b1aca3377fesize=5385
+file,ghost/master/dic07_Time.txt095742322fcd12d611dbfb632375b0f5size=7773
+file,ghost/master/dic08_RandomTalk.txt2c57c5067ec0b5af8334f89b2a44b313size=62813
+file,ghost/master/dic09_dic.txt7cb83ab567f9ae6508807b32638cb087size=5528
 file,ghost/master/dic10_naming.txt6386cce316a1fed087459e04a454fe6asize=1451
 file,ghost/master/dic11_touch.txt589c5c7621d1a4d79e1e30fd9ebdcce9size=4259
 file,ghost/master/replace.txt5400c8c473751d3ff3cf5c728b850f89size=248
@@ -28,13 +18,9 @@ file,ghost/master/replace_after.txt3512455a7f27780c1b6b1e3e8a780067size=115
 file,ghost/master/saori/fill_desktop.dll74d823806e257920227131eac33aacd1size=24064
 file,ghost/master/saori/ssu.dllb0ff7b22180178221e97b51782570f38size=89600
 file,ghost/master/satori.dll97c1ba4ee3145c7edde851557c718de5size=215040
-file,ghost/master/satori_conf.txtff7749a8ec6d24d347738315976972e0size=1121
+file,ghost/master/satori_conf.txtbd90a4054a14e6b48d26bb1cae7a992asize=1042
 file,ghost/master/satori_license.txt078ffc36f3374648bf523ae197f4765csize=944
-<<<<<<< HEAD
-file,ghost/master/satori_savebackup.txte8c42534a91ef3c989a1497978720463size=883
-=======
-file,ghost/master/satori_savebackup.txt6b005801352c4e96b06fe006b5773ffesize=933
->>>>>>> b7bbb4ee2b5b4419d5e05717b9cec6c9fedeaf32
+file,ghost/master/satori_savebackup.txta594ce6d1e79bf0467990134710d37ecsize=932
 file,install.txte4ae8004d881e650b637d60ec56fdc55size=76
 file,README.md5ebed1aa7bf4c4e8906b38ca9033d7efsize=120
 file,readme.txt8ce56b714d246688adad27bbbba9f225size=70
