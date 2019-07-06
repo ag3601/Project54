@@ -11,7 +11,11 @@ ghost/master/dic07_Time.txt095742322fcd12d611dbfb632375b0f5size=7773
 ghost/master/dic08_RandomTalk.txt0d0aaad0f3a17b5d82756d7eb7433db4size=62821
 ghost/master/dic09_dic.txt7cb83ab567f9ae6508807b32638cb087size=5528
 ghost/master/dic10_naming.txt6386cce316a1fed087459e04a454fe6asize=1451
+<<<<<<< HEAD
 ghost/master/dic11_touch.txt694e708d2a893fd033a2e90c5d6a6fa6size=8864
+=======
+ghost/master/dic11_touch.txtc8a6093ea828435bfa46c3082434a53esize=8468
+>>>>>>> 670a0e9b971d7ae0c45c827b243c7cd65d440b0f
 ghost/master/dic12_TeaParty.txtd41d8cd98f00b204e9800998ecf8427esize=0
 ghost/master/replace.txt5400c8c473751d3ff3cf5c728b850f89size=248
 ghost/master/replace_after.txt3512455a7f27780c1b6b1e3e8a780067size=115
