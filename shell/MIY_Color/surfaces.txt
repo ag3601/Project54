@@ -1,6 +1,6 @@
 surface0-7
 {
-collision0,54,25,162,64,Head
+collision0,67,26,150,66,ID,Head
 collision1,91,95,103,107,Face
 collision2,75,136,100,158,breast
 collision3,50,297,129,342,skirt
@@ -11,5 +11,6 @@ collision7,47,211,72,247,hip
 collision8,76,215,101,243,xxx
 collision9,50,378,89,414,foot
 collision10,95,352,121,398,foot
+collision11,39,49,60,100,hair
 
 }
