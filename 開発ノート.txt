@@ -1,5 +1,69 @@
 開発ノート
 
+ChechChangeName : 黒海
+ChechChangeEntry.黒海.1 : "シェルの多さは随一やな。"
+Go_Entry黒海.1 : \1\s[10]\0\s[0]\h\s[5]\w4\nお着替え\w4…\w4ほんとうに\w5\n嬉しいものばかりです、\w7ね\w3\w3。\w3\n\w9\e
+
+ChechChangeEntry.黒海.2 : "男性諸君にはあの性格は大当たりやったようやな。"
+Go_Entry黒海.2 : \1\s[10]\0\s[0]\h\s[4]\w4\n${usernames}、\w4に\w3…\w3\n\w3何も\w1お返し\w2できなく\w6、て\w3\n\n\w7もどかしく、\w9て\w3…\w3。\w3\n\w9\e
+
+ChechChangeEntry.黒海.3 : "今幸せなんやろな、\w6彼女は。"
+Go_Entry黒海.3 : \1\s[10]\0\s[0]\h\s[5]\w4\n\w5…\w5…\w5はい！\w6\n\n\w4ほんとう、\w6に\w6\n\n\s[1]\w3こわい\w1くらいに、\w7しあわせ\w2なんです、\w9\w4よ\w3…\w3。\w3\n\w9\e
+
+ChechChangeEntry.黒海.4 : "全部可愛いからいいじゃない♪"
+Go_Entry黒海.4 : \1\s[10]\0\s[0]\h\s[0]\w4\nも、\w5もう\w2無くなったみたいです、\w8よ\w3…\w3。\w3\n\w9\e
+
+ChechChangeEntry.黒海.5 : "多分寂しがっとるから優しくせなあかんで？"
+Go_Entry黒海.5 : \1\s[10]\0\s[0]\h\s[5]\w4\n${usernames}、\w3は\w3…\w3\n\n\w4\s[1]\w5いつも\w1とっても、\w5優しいんです、\w9よ\w3…\w3。\w3\n\w9\e
+
+myghostsect橘花 : \h\s[0]\u\s[10]\h\s[0]\nとっても、\w8\nお花に\w5詳しいんです、\w8ね\w3…\w3。\n\w8\e
+
+myghostsect裏子 : \h\s[0]\u\s[10]\h\s[0]\w4あ…\w3…\w3\n\w3いじめないで、\w5もらえるんです、\w2ね\w1…\w1。\s[1]\w4\n\s[4]\w7${Plus54emo}\e
+
+myghostsect涼璃 : \h\s[0]\u\s[10]\h\s[0]まぐにさんに、\w4\s[1]励まして\w1もらいたいな\w2…\w1。\w6\n${Plus54emo}\e
+
+myghostsect朱鷺乃 : \h\s[0]\u\s[10]\h\s[0]\w7\nと、\w5ときの\w1さん\w3にも、\w8あの\w3…\w7\n\w7\n\w2\s[1]いえ、\w8やっぱり、\w6いい、\w4です\w3…\w2。\w5\n\w6${Plus54emo}\e
+
+#-----------------------------------
+#栄子さん。
+ChechChangeName : 栄子
+ChechChangeEntry.栄子.1 : "はあんまり無い"
+Go_Entry栄子.1 : \h\s[0]\u\s[10]\h\s[4]\n\w3そ、\w7そんな、\w5事\w3…\w3\n\w7\s[5]\w7\nないと\w1思います、\w9よ\w3…\w3？\w3\n\w8\e
+
+ChechChangeEntry.栄子.2 : "迷彩服ばっかりだ"
+Go_Entry栄子.2 : \h\s[0]\u\s[10]\h\s[0]\n\w3\w7わ、\w6わたしも\w5\nそういうの\w3着てみたい\w2って\w5…\w5\n\n\w9\s[4]\w6やっぱり、\w5変です、\w9か\w3…\w3。\w3\n\w8\e
+
+ChechChangeEntry.栄子.3 : "ちっと可愛気とかあれば"
+Go_Entry栄子.3 : \h\s[0]\u\s[10]\h\s[0]\n\n\w3\w7もにゅう、\w6さん\w3…\w3\n\n\w5おんなのこ\w1に、\n\w5そんなこと\w2言っちゃ\w4\n\n\s[7]\w9\w8ダメ\w2なんですから、\w9ね\w3…\w4。\w4\n\s[0]\w6\w3\n\w8\e
+
+ChechChangeEntry.栄子.4 : "そもそも根本的"
+Go_Entry栄子.4 : \h\s[0]\u\s[10]\h\s[0]\n\w3\w7おんなのこ、\w5は\w3…\w3\n\w9\s[5]必要が、\w5ある、\w4なら\w3…\w7\w6変われる\w1んです、\w9よ\w3…\w3？\n\w9\e
+
+Go_Entry.none.栄子 : \h\s[0]\u\s[10]\n\h\s[0]\n\w7${54.栄子さんチェンジ表情}${54.栄子さんチェンジ変数}、\w6とても\w3お好きなんです、\w9ね\w3…\w3。\w3\n\w9\e
+
+myghostsect栄子 : \h\s[0]\u\s[10]\n\h\s[0]\n\w7${54.栄子さんチェンジ表情}${54.栄子さんチェンジ変数}、\w6とても\w3お好きなんです、\w9ね\w3…\w3。\w3\n\w9\e
+
+
+#前回の他ゴーストへの切り替えから一定期間経って自分に切り替えされたときのトーク。
+#「LongTimeNotChangeCheckOn」エントリに「1」をセットするとこの機能が有効になります。デフォルトは無効です。
+#「Set.NotChangedCheck」には次回起動までの日数をセットします。ここでは「10日以上」でセットされています。
+#最終起動後10日以上たってから再度自分に切り替えされると、「LongTimeNotChangeTalk」エントリを読み上げます。
+#
+#◆注意点◆#　このトークは通常の他ゴーストからの切り替えトークの「前」に呼ばれるため
+#トーク開始時点で必ずメイン側とサブ側のサーフィス表示指定をし（一般的には\0\s[0]\1\s[10]\h0～トーク本文～）
+#また、トーク末尾に「\e」を付けないようにしてください。
+#「\c」をトーク末尾に付ければいったんそこまでのトークをクリアして切り替わりトーク。
+#「\n\n」で一行間を空けてトークとなります
+
+LongTimeNotBootMode : 1
+
+Set.NotChangedCheck : 10,7,5
+
+LongTimeNotChangeTalk : \h\s[0]\u\s[10]\h\s[4]\w9\cやっと\w4…\w4ここ、\w5に\w3…\w3。\n\w5\s[1]\w9\w9\w9\w9\w9\n
+
+LongTimeNotChangeTalk : \t\n\h\s[0]\u\s[10]\h\s[0]\w9${usernames}\w3…\w4\n\n\w8ずっと、\w8${system.Reference0}\w3${ghostnamechech}\w2と\w7\n\w6\s[4]一緒だったん\w2です、\w9\w5か\w3…\w3。\n\w9\w9\w9\w3\w9\w9\w9\n\n\w9\w5\n\n\w9\w7\n\n\w9\w9\n\n\w9\w4\n\n\w9\w4\n\n\w9\w9\h\w3\c
+
+
 RestoreMode.nagoya : \h\s[0]\u\s[10]\h\s[4]\n\w8し、\w7しっぽが\w5\n\w2いろんな\w3とこに\w2ぶつかっ、\w8て\w3…\w5\n\n\w8\s[1]\w7ちょっと、\w6気持ち、\w6よくっ\w9\w3て\w3…\w3。\w3\n\w9\e
 RestoreMode.nagoya : ${restoresect.N2}
 
