@@ -1,7 +1,11 @@
 開発ノート
 
+\h
+\s[0]\w8わ、\w6わたし\w3…\w7
+
+\w9\s[1]えっちに\w1なっちゃい、\w7ます\w2…\w2。
+
 faceatacksect : \t\h\s[4]${ウェイト調整.54}…やさしくしてください。\w5\n${Plus54emo}\e
-faceatacksect : \t\h\s[0]${ウェイト調整.54}あ…こんなことをするのは、\w5\n${ＥＣＥＣ}…。\n\w4\e
 faceatacksect : \t\h\s[4]${ウェイト調整.54}…やさしくしてください。\w5\n${Plus54emo}\e
 faceatacksect : \t\h\s[4]${ウェイト調整.54}…やさしくしてください。\w5\n${Plus54emo}\e
 faceatacksect : \t\h\s[4]${ウェイト調整.54}…や、\w6やさしくしてください\w3…\w3。\w5\n${Plus54emo}\e
