@@ -1,5 +1,56 @@
 開発ノート
 
+faceatacksect : \t\h\s[4]${ウェイト調整.54}…やさしくしてください。\w5\n${Plus54emo}\e
+faceatacksect : \t\h\s[0]${ウェイト調整.54}あ…こんなことをするのは、\w5\n${ＥＣＥＣ}…。\n\w4\e
+faceatacksect : \t\h\s[4]${ウェイト調整.54}…やさしくしてください。\w5\n${Plus54emo}\e
+faceatacksect : \t\h\s[4]${ウェイト調整.54}…やさしくしてください。\w5\n${Plus54emo}\e
+faceatacksect : \t\h\s[4]${ウェイト調整.54}…や、\w6やさしくしてください\w3…\w3。\w5\n${Plus54emo}\e
+faceatacksect : \t\h\s[1]${ウェイト調整.54}\w4あっ…。\w4\n\e
+faceatacksect : \t\h\s[4]${ウェイト調整.54}…やさしくしてください。\w5\n${Plus54emo}\e
+faceatacksect : \t\h\s[4]${ウェイト調整.54}\w4ああっ\w3…\w3。\w4\n\e
+faceatacksect : \t\h\s[4]${ウェイト調整.54}…やさしくしてください。\w5\n${Plus54emo}\e
+faceatacksect : \t\h\s[1]\w4あっ${ウェイト調整.54}…。\w4\n\e
+faceatacksect : \t\h\s[4]${ウェイト調整.54}\w4痛い\w2…\w2けど、\w3でも\w2…。\w4\n${Touch.54}\e
+faceatacksect : \t${ウェイト調整.54}\t\h\s[4]\w4痛い\w2…\w2けど、\w3でも\w2…。\w4\n\e
+faceatacksect : \t${ウェイト調整.54}\t\h\s[4]\w4もっと、\w5やさしく\w7…\w9\nして\w1ほしい、\w4な\w2…\w2。\w4\n\e
+faceatacksect : \t${ウェイト調整.54}\t\h\s[4]\w4もっと、\w5やさしく\w7…\w9\nして\w1ほしい、\w4な\w2…\w2。\w4\n\e
+faceatacksect : \t\h\s[1]\w4もっと、\w5やさしく\w7…\w9\nして\w1くれた、\w7\w4ら\w2…\w2。\w4\n\e
+faceatacksect : \t\h\s[0]${ウェイト調整.54}\w9${usernames}、\w7わたし\w1のこと、\w5嫌わ\w3…\w3ないで\w3…\w3。\w2\s[4]\n\w9${Minus54emo}\e
+faceatacksect : \t\h\s[0]\w9${usernames}、\w7わたし\w1のこと、\w5嫌わ\w3…\w3ないで\w3、ください…\w3。\w2\s[4]\n\w9${Minus54emo}\e
+
+#靴
+TalkSakuraKutuClick : \t\h\s[5]\n\w8わたし、\w5の\w3…\w3\n\w6お気に入り\w4なんです、\w8よ\w3…\w3。\w3\n\w9${Plus54emo}\e
+TalkSakuraKutuClick : \t\h\s[5]\n\w8きれい、\w5な\w3…\w3赤い、\w5${赤い靴の色}の色\w3…\w3。\w3\n\w9${Plus54emo}\e
+TalkSakuraKutuClick : \t\h\s[1]\n\w8この、\w5靴で\w3…\w3おしゃれ\w6して、\w5\n\w9${usernames}、\w8と\w3…\w3。\w3\n\w9${Plus54emo}\e
+TalkSakuraKutuClick : \t\h\s[0]\n\w8お出かけ、\w5楽しみに\w3しているん、\w9です\w3…\w3。\w3\n\w9${Plus54emo}\e
+TalkSakuraKutuClick : \t\h\s[0]\n\w8雨の、\w5日は\w3…\w3怖くて\w3履いて\w6出れない、\w5かも\w3…\w3。\w3\n\w9${Plus54emo}\e
+
+赤い靴の色 : バラ,薔薇,チューリップ,りんご
+
+#猫さん案
+#「私の、お気に入り、なんです。」
+#「綺麗な、赤い、バラの色…。」
+#「燃えるような、赤い、靴…。
+#　この靴で、いつか、（ユーザ）と一緒に、踊れたら…。」
+
+
+撫で時間セット.0.Kutu : $(entry 撫で時間セット.0.Kutu.User 65)
+
+撫で反応トーク.0.Kutu : \t\h\s[5]\n\w8いつも、\w5きれいに\w5\hn\w5磨いて\w3あるん、\w7です\w3…\w3。\w3\n\w9${Plus54emo}\e
+撫で反応トーク.0.Kutu : \t\h\s[0]\n\w8これを、\w5はいて\w3出かけるの、\w8は\w3…\w3\n\n\w9\w9\w5\s[1]\w4${usernames}\w1と、\w7だけ\w3…\w3。\w3\n\w9${Plus54emo}\e
+撫で反応トーク.0.Kutu : \t\h\s[5]\n\w8こうして\w3並べて\w3おい、\w8て\w3…\w3\n\w7時々\w3眺めて\w3るんです、\w6よ\w3…\w3。\w3\n\w9${Plus54emo}\e
+#TalkSakuraKutuPat : \t\h\s[5]\n\w8
+#TalkSakuraKutuPat : \t\h\s[5]\n\w8
+
+
+TalkSakuraHandClick : \t\h\s[1]\n\w8あっ\w3…\w3そんな、\w5いきなり、\w7過ぎです\w3…\w3。\w3
+TalkSakuraHandClick : \t\h\s[1]\n\w8い、\w5いたずら、\w5は\n\w6いけません、\w7よ\w3…\w3。\w3\n\w9${Plus54emo}\e
+TalkSakuraHandClick : \t\h\s[5]\n\w8く、\w7くすぐったい、\w8から\w3…\w3。\w3\n\w9${Plus54emo}\e
+TalkSakuraHandClick : \t\h\s[0]\n\w8びくっ、\w6て\w3…\w5しちゃい、\w8ます\w3…\w3。\w3\n\w9${Plus54emo}\e
+TalkSakuraHandClick : \t\h\s[1]\n\w8そ、\w6そんな\w2風に\w3する、\w7より\w3…\w3\n\n\w8ぎゅっ、\w9と\w3…\w3。\w3\n\w9${Plus54emo}\e
+TalkSakuraHandClick : \t\h\s[4]\n\w8${usernames}\w3…\w6\n\n\w6\w7ちょっと\w3いじわる、\w7かも\w3…\w3。\w3\n\w9${Minus54emo}\e
+
+
 \h
 \s[0]\w5…\w2痛い、\w4けど\w8
 
