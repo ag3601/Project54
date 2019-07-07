@@ -4,6 +4,8 @@
 
 改変及び再配布は自由です。
 
+https://twitter.com/AG3601
+
 オススメバルーンは
 ななっち様制　舞い散る桜の詩　です
 http://nanachi.sakura.ne.jp/contents.html
