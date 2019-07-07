@@ -2,8 +2,8 @@ surface0
 {
 collision0,43,20,155,66,Head
 collision1,94,73,132,110,Face
-collision2,100,130,127,155,Bust
-collision3,79,258,134,296,skirt
+collision2,100,130,127,155,Breast
+collision3,79,258,134,296,Skirt
 
 }
 
@@ -11,8 +11,8 @@ surface1
 {
 collision0,43,20,155,66,Head
 collision1,94,73,132,110,Face
-collision2,100,130,127,155,Bust
-collision3,79,258,134,296,skirt
+collision2,100,130,127,155,Breast
+collision3,79,258,134,296,Skirt
 
 }
 
@@ -20,8 +20,8 @@ surface4
 {
 collision0,43,20,155,66,Head
 collision1,94,73,132,110,Face
-collision2,100,130,127,155,Bust
-collision3,79,258,134,296,skirt
+collision2,100,130,127,155,Breast
+collision3,79,258,134,296,Skirt
 
 }
 
@@ -29,8 +29,8 @@ surface5
 {
 collision0,43,20,155,66,Head
 collision1,94,73,132,110,Face
-collision2,100,130,127,155,Bust
-collision3,79,258,134,296,skirt
+collision2,100,130,127,155,Breast
+collision3,79,258,134,296,Skirt
 
 }
 
@@ -38,8 +38,8 @@ surface7
 {
 collision0,43,20,155,66,Head
 collision1,94,73,132,110,Face
-collision2,100,130,127,155,Bust
-collision3,79,258,134,296,skirt
+collision2,100,130,127,155,Breast
+collision3,79,258,134,296,Skirt
 
 }
 
@@ -47,8 +47,8 @@ surface13
 {
 collision0,43,20,155,66,Head
 collision1,94,77,132,111,Face
-collision2,92,136,128,170,Bust
-collision3,73,258,134,303,skirt
+collision2,92,136,128,170,Breast
+collision3,73,258,134,303,Skirt
 }
 
 surface1000
