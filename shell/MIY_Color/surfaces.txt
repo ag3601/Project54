@@ -4,7 +4,7 @@ collision0,67,26,150,66,Head
 collision1,91,95,103,107,Face
 collision2,75,136,100,158,Breast
 collision3,50,297,129,342,Skirt
-collision4,105,101,119,108,mouth
+collision4,105,101,119,108,Mouth
 collision5,120,94,131,106,Face
 collision6,96,117,119,135,Hand
 collision7,47,211,72,247,Hip
