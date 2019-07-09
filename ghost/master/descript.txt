@@ -2,7 +2,7 @@ charset,Shift_JIS
 
 craftman,AG36
 craftmanw,AG36
-craftmanurl,https://github.com/ag3601/Project54/releases.
+craftmanurl,https://twitter.com/AG3601
 
 name,プロジェクト５４
 type,ghost
