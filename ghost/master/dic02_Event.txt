@@ -267,18 +267,14 @@
 
 
 ＊OnUpdateBegin
-\t\h\s[5]
-なんと、\w6なく\w4
+\h\s[5]
+ネットワーク更新、
 
-気持ちが\w2軽い、\w9です\w3…\w3。
-＊OnUpdateBegin
-\t\h\s[1]\w5
-雨の\w2降る中、\w4で\w3
-\w4明るい色の\w5傘を\w3さして、\w8って\w4…\w4
-
-\w7なんとなく、\w6あこがれ、\w9\w9\s[5]\w4です\w3…\w3。
+はじめます…。
 ＊OnUpdateComplete
-\h\w7\s[4]\nもしも\w4…\w4\n\w7\n\w9\w9\w9${usernames}に\w3\n\w4忘れられたら、\w8って\w5思うと、\w7\w9わたし\w5…\w4。
+\h\s[1]\n\w3ネットワーク更新\w3…\w3
+
+うまく、\w5いきました。
 ＊OnUpdatedataCreated
 \h
 \s[5]「update2.dau」うまく\w4できました。
@@ -291,8 +287,8 @@
 更新、\w3うまくできませんでした。\w5\n\n…\w3…\w2ごめんなさい。
 
 ＊OnUpdateReady
-：（Ｒ０）個のファイルが更新されています。
-
+\h\s[0]
+（R0）個のファイルがあるそうです…。
 ＊OnURLDropped
 ：ダウンロードが終りました。
 ファイルは\_q（Ｒ０）\_qにあります。
@@ -703,3 +699,31 @@ ${５４名前選択変数}、\w6しあわせでし、\w9た\w3…\w3。
 \w4い、\w4忙しいときだって\w2…\w6
 
 \w8あります\w4、よね\w2…\w1。
+＊OnUpdateReady
+\h\s[1]
+（R0）個のファイルがあるそうです…。
+＊OnUpdateReady
+\h\s[5]
+（R0）個のファイルがあるそうです…。
+＊OnUpdateComplete
+\h\s[5]\w6
+うれしい…。
+＊OnUpdateComplete
+\h\s[5]\w6
+ほっと、\w1しました…。
+＊OnUpdateComplete
+\h\s[1]\w6
+ほっと、\w1しました…。
+＊OnUpdateComplete
+\h\s[5]\w6
+まだ\w1ここにいて、\w3
+
+いいみたい、\w4です\w2…\w2。
+＊OnUpdateComplete
+\h\s[1]\w6
+これで\w3また、
+
+\w5${usernames}と\w2いっしょ、\w8に\w2…\w2。
+＊OnUpdateComplete
+\h\s[0]\w6
+よかった、\w1です…。
