@@ -272,9 +272,7 @@
 
 はじめます…。
 ＊OnUpdateComplete
-\h\s[1]\n\w3ネットワーク更新\w3…\w3
-
-うまく、\w5いきました。
+＞ネットワーク更新（Ｒ０）
 ＊OnUpdatedataCreated
 \h
 \s[5]「update2.dau」うまく\w4できました。
@@ -478,6 +476,10 @@ ${５４名前選択変数}、\w6しあわせでし、\w9た\w3…\w3。
 
 
 ＊ネットワーク更新changed
+\h\s[1]\w6
+これで\w3また、\w5
+
+${usernames}と\w2いっしょ、\w8に\w2…\w2。
 ＊ネットワーク更新md5 miss
 \h\s[4]
 ファイルが、
@@ -705,25 +707,24 @@ ${５４名前選択変数}、\w6しあわせでし、\w9た\w3…\w3。
 ＊OnUpdateReady
 \h\s[5]
 （R0）個のファイルがあるそうです…。
-＊OnUpdateComplete
-\h\s[5]\w6
-うれしい…。
-＊OnUpdateComplete
-\h\s[5]\w6
-ほっと、\w1しました…。
-＊OnUpdateComplete
-\h\s[1]\w6
-ほっと、\w1しました…。
-＊OnUpdateComplete
+＊ネットワーク更新changed
 \h\s[5]\w6
 まだ\w1ここにいて、\w3
 
 いいみたい、\w4です\w2…\w2。
-＊OnUpdateComplete
+＊ネットワーク更新changed
 \h\s[1]\w6
-これで\w3また、
-
-\w5${usernames}と\w2いっしょ、\w8に\w2…\w2。
-＊OnUpdateComplete
+ほっと、\w1しました…。
+＊ネットワーク更新changed
 \h\s[0]\w6
 よかった、\w1です…。
+＊ネットワーク更新changed
+\h\s[5]\w6
+ほっと、\w1しました…。
+＊ネットワーク更新changed
+\h\s[5]\w6
+うれしい…。
+＊ネットワーク更新changed
+\h\s[1]\n\w3ネットワーク更新\w3…\w3
+
+うまく、\w5いきました。
