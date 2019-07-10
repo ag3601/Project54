@@ -240,27 +240,30 @@
 \h
 …\w2…\w2…\w8\w8\s[0]…？
 ＊OnUpdate.OnDownloadBegin
-\t\h\s[5]♪\w2～\w2～\w4\n\w9\e
+\h\s[5]\n新しいファイル\n\n（R0）\n\nを受信中です…。
 ＊OnUpdate.OnDownloadBegin
-\t\h\s[5]\w8${usernames}\w5…\w5\w9\w9\w9\w9\n\nごめん\w5なさい、\w7\n呼んで\w2みたく\w2なったん、\w9\w6です\w3…\w3。\w3\n\w9\e
+\h\s[1]\n新しいファイル\n\n（R0）\n\nを受信中です…。
 ＊OnUpdate.OnDownloadBegin
-\t\h\s[4]\w8${54.天気わるめの元}の\w3日に、\w7\n家の\w2ない\w3${54野良ペット}、\w7は\w3…\w3\n\n\w7どんな\w1風に\w3すごすの、\w9かな\w3…\w3。\w3\n\w9\w9\s[0]\e
-＊OnUpdate.OnDownloadBegin
-\t\h\s[0]\n\w8わたしが、\w6見て\w2いないとき、\w7に\w4…\w4\n\w6${usernames}が\w6誰のことを\w4\n\w3考えてるか、\w7なんて\w5…\w5\n\n\w3\s[4]\w7わたし、\w4$(? "考えすぎ" "わがまますぎ" "嫉妬しすぎ")\w1ですよ、\w9\w9ね\w3…\w3。\n\w9\e
-＊OnUpdate.OnDownloadBegin
-\t\h\s[0]\w8\n${LiarModeOnDownloadWD}の\w3体、\w8って\w4…\w4\n\w6どんな\w2感じ\w1\n\w7なんでしょう、\w9\w9ね\w3…\w3。\w3\n\w9\w9\e
+\h\s[0]\n新しいファイル\n\n（R０）\n\nを受信中です…。
 ＊OnUpdate.OnMD5CompareBegin
 ：\_q（Ｒ０）のMD5照合を行いますね。\_q
 
 ＊OnUpdate.OnMD5CompareComplete
-：リモート\_q　（Ｒ１）\_q
-ローカル\_q　（Ｒ２）\_q
-一致。
+\h\s[1]
+リモート\_q　（Ｒ１）\_q
 
-＊OnUpdate.OnMD5CompareFailure
-：リモート\_q　（Ｒ１）\_q
 ローカル\_q　（Ｒ２）\_q
-不一致……あれ？
+
+あってる、\w4みたいです…。
+＊OnUpdate.OnMD5CompareFailure
+\h\s[0]
+リモート\_q　（Ｒ１）\_q
+
+ローカル\_q　（Ｒ２）\_q
+
+合いません\w3…\w4
+
+どうすればいいのか…。
 
 
 ＊OnUpdateBegin
@@ -284,7 +287,8 @@
 \s[0]「update2.dau」つくって、\w5みます…。
 ＊OnUpdateFailure
 ＞ネットワーク更新（Ｒ０）
-：ネットワーク更新に失敗しました。理由は（Ｒ０）だそうですが、意味はわかりません。
+\h\s[4]
+更新、\w3うまくできませんでした。\w5\n\n…\w3…\w2ごめんなさい。
 
 ＊OnUpdateReady
 ：（Ｒ０）個のファイルが更新されています。
@@ -468,6 +472,10 @@ ${５４名前選択変数}、\w6しあわせでし、\w9た\w3…\w3。
 
  インストール…\w3終了しました…。
 ＊ネットワーク更新404
+\h（４）
+404\w2…\w2
+
+まさか…。
 ＊ネットワーク更新artificial
 ：中断します。
 
@@ -475,13 +483,20 @@ ${５４名前選択変数}、\w6しあわせでし、\w9た\w3…\w3。
 
 ＊ネットワーク更新changed
 ＊ネットワーク更新md5 miss
-：データが一致しませんでした。
+\h\s[4]
+ファイルが、
+
+\w4どこかおかしいみたいです…。
 ＊ネットワーク更新none
-：更新されていません。
+\h（０）
+更新、
 
+無かったみたいです…。
 ＊ネットワーク更新timeout
-：時間切れです。重すぎるのか、サーバがそもそも存在しない可能性も。
+\h\s[4]\w5
+タイムアウトです…\w6
 
+なにか、問題が…。
 ＊バルーンインストール
 \h
 \s[0]バルーン「（R１）」、
@@ -619,3 +634,72 @@ ${５４名前選択変数}、\w6しあわせでし、\w9た\w3…\w3。
 \w5わたしが、\w8はじめて、\w5いただいた\w5…\w4
 
 プレゼント、\w7なんです、\w8よ\w3…\w3。
+＊OnCommunicate
+≫ユーザ「　（Ｒ１）【タブ】（compare,（Ｒ０）,user）
+＞５４名前を呼んだ	（count,（Ｒ１）,（５４名前））&&（count,（Ｒ０）,user）
+≫（Ｒ０）「　（Ｒ１）
+≫「　（Ｒ１）
+＞COMMUNICATE該当なし
+＊OnUpdate.OnMD5CompareFailure
+\h\s[0]
+リモート\_q　（Ｒ１）\_q
+
+ローカル\_q　（Ｒ２）\_q
+
+合いません\w3…\w4
+
+どうすればいいの、\w4か…。
+
+
+＊OnUpdate.OnMD5CompareFailure
+\h\s（４）
+リモート\_q　（Ｒ１）\_q
+
+ローカル\_q　（Ｒ２）\_q
+
+合いません\w3…\w4
+
+どうすればいいのか…。
+
+
+＊OnUpdate.OnMD5CompareComplete
+\h\s[0]
+リモート\_q　（Ｒ１）\_q
+
+ローカル\_q　（Ｒ２）\_q
+
+\s[5]\w3…\w3だいじょうぶ、\w4です\w2…\w1。
+＊OnUpdate.OnMD5CompareComplete
+\h\s[0]
+リモート\_q　（Ｒ１）\_q
+
+ローカル\_q　（Ｒ２）\_q
+
+\s[5]\w3…\w3へいき、\w4でした\w2…\w1。
+＊OnUpdate.OnMD5CompareComplete
+\h\s[1]
+リモート\_q　（Ｒ１）\_q
+
+ローカル\_q　（Ｒ２）\_q
+
+よかった\w2…\w2あってます…。
+＊ネットワーク更新404
+\h（４）
+404、
+
+\w6…そんな。
+＊ネットワーク更新none
+：\t\w8\w5\s[0]
+\w5…\w7…\w7…\w7\s[4]\w7…\w7。\w8
+
+\w9\w9\w5忘れ\w2られ\w1ちゃったの、\w9かな\w5…\w5。
+＊ネットワーク更新none
+\h\s[0]
+あ、\w4あの\w4…\w2
+
+ごめんな、\w4さい\w2…\w3。
+＊ネットワーク更新none
+\h\s[5]
+\w4い、\w4忙しいときだって\w2…\w6
+
+\w8あります\w4、よね\w2…\w1。
