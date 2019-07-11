@@ -3,9 +3,9 @@
 ＃　
 ＃　shiori互換dll『里々（さとり）』用辞書
 ＃　
-＃　メニューのボタン名とか。 
-＃　ネットワーク更新の際のデータ置き場とか。 
-＃　おすすめ／ポータルなURLの一覧とか。 
+＃　メニューのボタン名とか。　
+＃　ネットワーク更新の際のデータ置き場とか。　
+＃　おすすめ／ポータルなURLの一覧とか。　
 ＃　
 ＃　-----------------------------------------------------
 
@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/ag3601/Project54/master/
 ＠readmebutton.caption
 読んでください…。(&R)
 あの、ここ…。(&R)
-Read me(&R)
+Read　me(&R)
 
 ＠recommendrootbutton.caption
 おすすめ(&R)
@@ -62,34 +62,34 @@ Read me(&R)
 伺かチャット
 http://ukgkchat.saloon.jp/index.php?FrontPage
 ＊sakura.portalsites
-SSP BUGTRAQ 
-http://ssp.shillest.net/ 
+SSP　BUGTRAQ　
+http://ssp.shillest.net/　
 推奨ベースウェア。
 他のは更新が止まってる。
 
 
-CROW 
-http://crow.aqrs.jp/ 
+CROW　
+http://crow.aqrs.jp/　
 
 ＊sakura.portalsites
 -
 
 ＊sakura.portalsites
-Disc-2 
-http://disc2.s56.xrea.com/ 
+Disc-2　
+http://disc2.s56.xrea.com/　
 ：総合情報サイトです。
 
 ＊sakura.portalsites
-うさださくら 
-http://usada.sakura.vg/ 
+うさださくら　
+http://usada.sakura.vg/　
 
 ＊sakura.portalsites
-GHOST TOWN 
-http://ghosttown.mikage.jp/ 
+GHOST　TOWN　
+http://ghosttown.mikage.jp/　
 
 ＊sakura.portalsites
-何かゴーストセンター 
-http://ngc.sherry.jp/ 
+何かゴーストセンター　
+http://ngc.sherry.jp/　
 
 ＊sakura.portalsites
 -
@@ -101,7 +101,7 @@ http://ms.shillest.net/
 
 
 ＊sakura.portalsites
-里々φ（さとりφ） 
+里々φ（さとりφ）　
 http://ukgk.s34.xrea.com/poskoma/
 
 ＊sakura.portalsites
@@ -113,7 +113,7 @@ http://buynowforsale.shillest.net/ghosts/
 http://soliton.sub.jp/satori/index.php?FrontPage
 ：里々に関するＴｉｐがまとまっているような気がします。
 ＊sakura.portalsites
-UKADOC 
+UKADOC　
 http://ssp.shillest.net/ukadoc/manual/index.html
 
 ＊sakura.portalsites
@@ -123,8 +123,8 @@ http://navy.nm.land.to/post/
 -
 
 ＊sakura.portalsites
-伺かのあそびかたφ（FIRST GUIDEφ） 
-http://haka.sakura.ne.jp/guide/ 
+伺かのあそびかたφ（FIRST　GUIDEφ）　
+http://haka.sakura.ne.jp/guide/　
 
 ＊sakura.portalsites
 ghost-log
@@ -149,7 +149,7 @@ https://ghost-log.net/
 http://jbbs.shitaraba.net/computer/44300/
 
 ＊sakura.portalsites
-噂と評判[改] 過去ログ保管庫+ 
+噂と評判[改]　過去ログ保管庫+　
 https://ghostreview.sakura.ne.jp/
 
 ＊sakura.recommendsites
@@ -158,7 +158,7 @@ http://priest.so.land.to/54_/54.html
 
 ＃＊sakura.portalsites
 ＃-
-＃「-」といれることでリンクメニューに罫線を引くことができます。 
+＃「-」といれることでリンクメニューに罫線を引くことができます。　
 
 
 ＠saveasdefaultbutton.caption
@@ -177,7 +177,7 @@ http://priest.so.land.to/54_/54.html
 なにかが、変わるのでしょう、かφ…。(&U)
 これで、しあわせにφ…なれるでしょうかφ…？(&U)
 ＠username
-（ユーザ名） 
+（ユーザ名）　
 
 ＠vanishbutton.caption
 消滅(&F)
@@ -191,18 +191,18 @@ http://priest.so.land.to/54_/54.html
 
 ＊コメント
 
-　URL一覧は…… 
+　URL一覧は……　
 
-　１行目がサイト名 
-　２行目がジャンプ先URL 
-　３行目がバナーURL（省略可） 
-　４行目以降はジャンプ時に表示される会話文（省略可） 
+　１行目がサイト名　
+　２行目がジャンプ先URL　
+　３行目がバナーURL（省略可）　
+　４行目以降はジャンプ時に表示される会話文（省略可）　
 
 
 ＃＊sakura.recommendsites
-＃作者のサイト。ここを使わずに、sakura.portalsitesにまとめてしまうのも一つの方法。 
-＃http://～ 
-＃バナー（あれば） 
+＃作者のサイト。ここを使わずに、sakura.portalsitesにまとめてしまうのも一つの方法。　
+＃http://～　
+＃バナー（あれば）　
 
 
 ＠vanishbuttonvisible
