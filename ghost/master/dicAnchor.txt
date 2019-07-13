@@ -1,0 +1,6 @@
+＊シェル
+\t\h\s[1]\w3
+シェル一覧の\w3ページ、\w5です…。
+
+（2012/03/04現在）
+\![open,browser,http://priest.so.land.to/ukad/shelllist.html]
