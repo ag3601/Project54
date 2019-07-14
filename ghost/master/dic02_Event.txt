@@ -33,6 +33,17 @@
 ＊kickによりメールチェック失敗
 ：ＩＤかパスワードが違うみたいです。
 
+＊MIY_Colorにシェル変更
+\h\s[1]
+\w5きれいな、\w7おようふく\w5…\w5
+はじめて、\w5着たん、\w6です\w4…\w8
+
+\w7\s[5]嬉しかった\w2こと、\w8わすれま、\w9せん\w7…\w3。
+＊MIY_Colorにシェル変更前
+\h\s[1]
+\w5わたしが、\w8はじめて、\w5いただいた\w5…\w4
+
+プレゼント、\w7なんです、\w8よ\w3…\w3。
 ＊OnBatteryCritical
 ：バッテリが残り（Ｒ０）％になりました。
 ＊OnBatteryLow
@@ -92,6 +103,12 @@
 
 ＞終了
 
+＊OnCommunicate
+≫ユーザ「　（Ｒ１）【タブ】（compare,（Ｒ０）,user）
+＞５４名前を呼んだ	（count,（Ｒ１）,（５４名前））&&（count,（Ｒ０）,user）
+≫（Ｒ０）「　（Ｒ１）
+≫「　（Ｒ１）
+＞COMMUNICATE該当なし
 ＊OnFirstBoot
 ＞初回
 
@@ -160,17 +177,17 @@
 ＊OnMouseDragEnd
 \h\s[5]\w4\nここで、\w5落ち着きますね？
 ＊OnMouseDragStart
-\t\h\s[1]\nだ、\w6だっこ\w3…\w3？\w3\n\w9\w9\e
+\h\s[0]\n${usernames}…？\w3\n\w9\e
+＊OnMouseDragStart
+\h\s[0]\n移動かな…？\w3\n\w9\e
+＊OnMouseDragStart
+\h\s[0]\n移動かな…？\w3\n\w9\e
 ＊OnMouseDragStart
 \t\h\s[0]\nあっ…\w3。\n\w9\w9\e
 ＊OnMouseDragStart
-\h\s[0]\n移動かな…？\w3\n\w9\e
+\t\h\s[1]\nだ、\w6だっこ\w3…\w3？\w3\n\w9\w9\e
 ＊OnMouseDragStart
 \h\s[0]\nあれ？\w3\n\w9\e
-＊OnMouseDragStart
-\h\s[0]\n移動かな…？\w3\n\w9\e
-＊OnMouseDragStart
-\h\s[0]\n${usernames}…？\w3\n\w9\e
 ＊OnMusicPlay
 ：『（Ｒ０）』再生開始です。
 
@@ -254,8 +271,51 @@
 ローカル\_q　（Ｒ２）\_q
 
 あってる、\w4みたいです…。
+＊OnUpdate.OnMD5CompareComplete
+\h\s[0]
+リモート\_q　（Ｒ１）\_q
+
+ローカル\_q　（Ｒ２）\_q
+
+\s[5]\w3…\w3へいき、\w4でした\w2…\w1。
+＊OnUpdate.OnMD5CompareComplete
+\h\s[0]
+リモート\_q　（Ｒ１）\_q
+
+ローカル\_q　（Ｒ２）\_q
+
+\s[5]\w3…\w3だいじょうぶ、\w4です\w2…\w1。
+＊OnUpdate.OnMD5CompareComplete
+\h\s[1]
+リモート\_q　（Ｒ１）\_q
+
+ローカル\_q　（Ｒ２）\_q
+
+よかった\w2…\w2あってます…。
 ＊OnUpdate.OnMD5CompareFailure
 \h\s[0]
+リモート\_q　（Ｒ１）\_q
+
+ローカル\_q　（Ｒ２）\_q
+
+合いません\w3…\w4
+
+どうすればいいのか…。
+
+
+＊OnUpdate.OnMD5CompareFailure
+\h\s[0]
+リモート\_q　（Ｒ１）\_q
+
+ローカル\_q　（Ｒ２）\_q
+
+合いません\w3…\w4
+
+どうすればいいの、\w4か…。
+
+
+＊OnUpdate.OnMD5CompareFailure
+\h\s（４）
 リモート\_q　（Ｒ１）\_q
 
 ローカル\_q　（Ｒ２）\_q
@@ -283,6 +343,12 @@
 \h\s[4]
 更新、\w3うまくできませんでした。\w5\n\n…\w3…\w2ごめんなさい。
 
+＊OnUpdateReady
+\h\s[5]
+（R0）個のファイルがあるそうです…。
+＊OnUpdateReady
+\h\s[1]
+（R0）個のファイルがあるそうです…。
 ＊OnUpdateReady
 \h\s[0]
 （R0）個のファイルがあるそうです…。
@@ -363,9 +429,21 @@ ${５４名前選択変数}、\w6しあわせでし、\w9た\w3…\w3。
 
 
 ＊OnWindowStateRestore
-\h\s[0]\u\s[10]\h\s[0]\n\w3あ、\w5あそこ\w1には、\w4\s[1]\w5あの\w3…\w3
+\h
+\s[0]…やっと、
 
-\w8いえ、\w5何でも\w2ありま、\w8せん\w3…\w3。
+\w4落ち着け、\w4ます。
+＊OnWindowStateRestore
+\h\s[1]\n\w4…\w5…\w5…。
+＊OnWindowStateRestore
+\h（１）\n…がんばります。
+＊OnWindowStateRestore
+\h
+\s[0]びっくり、\w4しました\w2…\w2。
+＊OnWindowStateRestore
+\h\s[0]\u\s[10]\h\s[1]\n\w3あそこも\w6、よかった\w1です\w1…\w1。
+＊OnWindowStateRestore
+\h\s[0]\u\s[10]\h\s[1]\n\w3一人きりだったから、\w8\w8\w5つい\w2…\w2\n\n\w9いえ、\w9何でも、\w3無いんです…。
 ＊OnWindowStateRestore
 \h\s[0]\u\s[10]\h\s[1]
 \w3…\w3ぃ\w1すき、\w7${usernames}、\w5だぁい\w1すき、\w4
@@ -376,16 +454,16 @@ ${５４名前選択変数}、\w6しあわせでし、\w9た\w3…\w3。
 \w8\w9\w9\w8い、\w6いつの\w1間、\w7に\w4…\w5${５４名前選択変数}\w9
 \w7\s[1]\w5外に\w1出てたんです、\w9\w4か\w3…\w3？
 ＊OnWindowStateRestore
-\h\s[0]\u\s[10]\h\s[1]\n\w3一人きりだったから、\w8\w8\w5つい\w2…\w2\n\n\w9いえ、\w9何でも、\w3無いんです…。
+\h\s[0]\u\s[10]\h\s[0]\n\w3あ、\w5あそこ\w1には、\w4\s[1]\w5あの\w3…\w3
+
+\w8いえ、\w5何でも\w2ありま、\w8せん\w3…\w3。
 ＊OnWindowStateRestore
-\h\s[0]\u\s[10]\h\s[1]\n\w3あそこも\w6、よかった\w1です\w1…\w1。
+\h\s[0]\u\s[10]\h\s[1]\n\w8ちょっと、\w6せまかった、\w7から\w3…\w3
+
+\w5ひざが\w4しびれて\w3…\w3。
 ＊OnWindowStateRestore
 \h
-\s[0]びっくり、\w4しました\w2…\w2。
-＊OnWindowStateRestore
-\h（１）\n…がんばります。
-＊OnWindowStateRestore
-\h\s[1]\n\w4…\w5…\w5…。
+（１）\w9…\w5あ\w2っ\w5。
 ＊OnWindowStateRestore
 \h
 \s[0]もう、\w3大丈夫、
@@ -394,18 +472,6 @@ ${５４名前選択変数}、\w6しあわせでし、\w9た\w3…\w3。
 ＊OnWindowStateRestore
 \h
 （１）はやかったんです、\w4ね。
-＊OnWindowStateRestore
-\h
-\s[0]…やっと、
-
-\w4落ち着け、\w4ます。
-＊OnWindowStateRestore
-\h
-（１）\w9…\w5あ\w2っ\w5。
-＊OnWindowStateRestore
-\h\s[0]\u\s[10]\h\s[1]\n\w8ちょっと、\w6せまかった、\w7から\w3…\w3
-
-\w5ひざが\w4しびれて\w3…\w3。
 ＊rが押された
 ＄辞書リロード【タブ】実行
 ：
@@ -422,6 +488,8 @@ ${５４名前選択変数}、\w6しあわせでし、\w9た\w3…\w3。
 （）
 ＠U
 （ユーザ名）（when,（ユーザ敬称）!=呼び捨て,（ユーザ敬称））
+＊vが押された
+＞コミュメニュー設定処理
 ＊インストール直後に消滅
 \h\s[0]そうです、\w5か…\w4寂しいけど、\w5仕方ない\w7です\w3…\w3。
 ＊インストール直後に消滅指示
@@ -469,11 +537,37 @@ ${５４名前選択変数}、\w6しあわせでし、\w9た\w3…\w3。
 404\w2…\w2
 
 まさか…。
+＊ネットワーク更新404
+\h（４）
+404、
+
+\w6…そんな。
 ＊ネットワーク更新artificial
 ：中断します。
 
 
 
+＊ネットワーク更新changed
+\h\s[1]\n\w3ネットワーク更新\w3…\w3
+
+うまく、\w5いきました。
+＊ネットワーク更新changed
+\h\s[5]\w6
+まだ\w1ここにいて、\w3
+
+いいみたい、\w4です\w2…\w2。
+＊ネットワーク更新changed
+\h\s[1]\w6
+ほっと、\w1しました…。
+＊ネットワーク更新changed
+\h\s[0]\w6
+よかった、\w1です…。
+＊ネットワーク更新changed
+\h\s[5]\w6
+ほっと、\w1しました…。
+＊ネットワーク更新changed
+\h\s[5]\w6
+うれしい…。
 ＊ネットワーク更新changed
 \h\s[1]\w6
 これで\w3また、\w5
@@ -489,6 +583,21 @@ ${usernames}と\w2いっしょ、\w8に\w2…\w2。
 更新、
 
 無かったみたいです…。
+＊ネットワーク更新none
+：\t\w8\w5\s[0]
+\w5…\w7…\w7…\w7\s[4]\w7…\w7。\w8
+
+\w9\w9\w5忘れ\w2られ\w1ちゃったの、\w9かな\w5…\w5。
+＊ネットワーク更新none
+\h\s[5]
+\w4い、\w4忙しいときだって\w2…\w6
+
+\w8あります\w4、よね\w2…\w1。
+＊ネットワーク更新none
+\h\s[0]
+あ、\w4あの\w4…\w2
+
+ごめんな、\w4さい\w2…\w3。
 ＊ネットワーク更新timeout
 \h\s[4]\w5
 タイムアウトです…\w6
@@ -621,112 +730,3 @@ ${usernames}と\w2いっしょ、\w8に\w2…\w2。
 
 \w9\s[5]\w4ありがとう、\w7${usernames}\w6…\w7
 \w9\w9だいすき、\w8です\w7…\w8。
-＊MIY_Colorにシェル変更
-\h\s[1]
-\w5きれいな、\w7おようふく\w5…\w5
-はじめて、\w5着たん、\w6です\w4…\w8
-
-\w7\s[5]嬉しかった\w2こと、\w8わすれま、\w9せん\w7…\w3。
-＊MIY_Colorにシェル変更前
-\h\s[1]
-\w5わたしが、\w8はじめて、\w5いただいた\w5…\w4
-
-プレゼント、\w7なんです、\w8よ\w3…\w3。
-＊OnCommunicate
-≫ユーザ「　（Ｒ１）【タブ】（compare,（Ｒ０）,user）
-＞５４名前を呼んだ	（count,（Ｒ１）,（５４名前））&&（count,（Ｒ０）,user）
-≫（Ｒ０）「　（Ｒ１）
-≫「　（Ｒ１）
-＞COMMUNICATE該当なし
-＊OnUpdate.OnMD5CompareFailure
-\h\s[0]
-リモート\_q　（Ｒ１）\_q
-
-ローカル\_q　（Ｒ２）\_q
-
-合いません\w3…\w4
-
-どうすればいいの、\w4か…。
-
-
-＊OnUpdate.OnMD5CompareFailure
-\h\s（４）
-リモート\_q　（Ｒ１）\_q
-
-ローカル\_q　（Ｒ２）\_q
-
-合いません\w3…\w4
-
-どうすればいいのか…。
-
-
-＊OnUpdate.OnMD5CompareComplete
-\h\s[0]
-リモート\_q　（Ｒ１）\_q
-
-ローカル\_q　（Ｒ２）\_q
-
-\s[5]\w3…\w3だいじょうぶ、\w4です\w2…\w1。
-＊OnUpdate.OnMD5CompareComplete
-\h\s[0]
-リモート\_q　（Ｒ１）\_q
-
-ローカル\_q　（Ｒ２）\_q
-
-\s[5]\w3…\w3へいき、\w4でした\w2…\w1。
-＊OnUpdate.OnMD5CompareComplete
-\h\s[1]
-リモート\_q　（Ｒ１）\_q
-
-ローカル\_q　（Ｒ２）\_q
-
-よかった\w2…\w2あってます…。
-＊ネットワーク更新404
-\h（４）
-404、
-
-\w6…そんな。
-＊ネットワーク更新none
-：\t\w8\w5\s[0]
-\w5…\w7…\w7…\w7\s[4]\w7…\w7。\w8
-
-\w9\w9\w5忘れ\w2られ\w1ちゃったの、\w9かな\w5…\w5。
-＊ネットワーク更新none
-\h\s[0]
-あ、\w4あの\w4…\w2
-
-ごめんな、\w4さい\w2…\w3。
-＊ネットワーク更新none
-\h\s[5]
-\w4い、\w4忙しいときだって\w2…\w6
-
-\w8あります\w4、よね\w2…\w1。
-＊OnUpdateReady
-\h\s[1]
-（R0）個のファイルがあるそうです…。
-＊OnUpdateReady
-\h\s[5]
-（R0）個のファイルがあるそうです…。
-＊ネットワーク更新changed
-\h\s[5]\w6
-まだ\w1ここにいて、\w3
-
-いいみたい、\w4です\w2…\w2。
-＊ネットワーク更新changed
-\h\s[1]\w6
-ほっと、\w1しました…。
-＊ネットワーク更新changed
-\h\s[0]\w6
-よかった、\w1です…。
-＊ネットワーク更新changed
-\h\s[5]\w6
-ほっと、\w1しました…。
-＊ネットワーク更新changed
-\h\s[5]\w6
-うれしい…。
-＊ネットワーク更新changed
-\h\s[1]\n\w3ネットワーク更新\w3…\w3
-
-うまく、\w5いきました。
-＊vが押された
-＞コミュメニュー設定処理
