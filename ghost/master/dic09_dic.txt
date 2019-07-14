@@ -104,8 +104,10 @@
 新婚三択
 ＠花名前
 すみれ
-蓮花,チューリップ
-ヒヤシンス,菊
+蓮花
+チューリップ
+ヒヤシンス
+菊
 雛菊
 マーガレット
 ひまわり
@@ -570,6 +572,9 @@
 \![*]\q[浮気性？,OnCommunicate,user,浮気性？]
 \![*]\q[スケベだったりする？,OnCommunicate,user,スケベだったりする？]
 \![*]\q[パンチラ見たい,OnCommunicate,user,パンチラ見たい]
+\![*]\q[水玉,OnCommunicate,user,水玉]
+\![*]\q[レース,OnCommunicate,user,レース]
+\![*]\q[しましま,OnCommunicate,user,しましま]
 ＠春行事単語
 お花見
 おひなさま
