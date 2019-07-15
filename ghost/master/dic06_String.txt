@@ -45,8 +45,8 @@ https://raw.githubusercontent.com/ag3601/Project54/master/
 ＠rateofuseballoonbutton.caption
 バルーンの変更は、ここからφ…。
 ＠readmebutton.caption
-読んでください…。(&R)
-あの、ここ…。(&R)
+読んでくださいφ…。(&R)
+あの、ここφ…。(&R)
 Read　me(&R)
 
 ＠recommendrootbutton.caption
