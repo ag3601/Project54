@@ -704,10 +704,13 @@ ${usernames}と\w2いっしょ、\w8に\w2…\w2。
 \t\h
 \s[0]\w8あ\w3…\w3ありがとう、\w5ござい、\w8ます\w2。
 ＊消滅イベント
-\h
+\t\h
 \s[4]\w9さようなら\w3…\w3
 
-\w7大好きな、\w8${usernames}。\s[5]\n\w9\w9\w9\![vanishbymyself]
+\w7大好きな、\w8${usernames}。\s[5]\n\w9\w9\w9
+（－１）…ｗ９（５）…ｗ９（－１）…ｗ９…（５）
+ｗ９（２５）ｗ９（－１）ｗ９
+\![vanishbymyself]
 ＊消滅はい
 ＄消滅する	１
 \t\h
