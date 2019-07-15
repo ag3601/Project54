@@ -220,6 +220,7 @@
 ＞重なりタイマをセット【タブ】（Ｒ２）==1　&&　（重なりフラグ）==0
 ＞フラグ処理
 ＊OnShellChanged
+＄現在のシェル	（Ｒ０）
 ＞ユーザの名前を質問	（初回起動完了）＝＝０
 ＞（Ｒ０）にシェル変更
 \h\s[0]
@@ -791,3 +792,37 @@ ${usernames}と\w2いっしょ、\w8に\w2…\w2。
 
 \w8ずっと、\w8（R0）\w3さん\w2と\w7
 \w6\s[4]一緒だったん\w2です、\w9\w5か\w3…\w3。
+＊OnWindowStateRestore	（現在のシェル）＝＝nagoya
+\h（４）
+\w8し、\w7しっぽが\w5
+
+\w2いろんな\w3とこに\w2ぶつかっ、\w8て\w3…\w5
+
+\w8\s[1]\w7ちょっと、\w6気持ち、\w6よくっ\w9\w3て\w3…\w3。
+＊OnWindowStateRestore	（現在のシェル）＝＝nutshell
+\h\s[5]
+\w8なかで、\w6こっそり\w5…\w4
+
+\w8着替えたり、\w6してまし、\w4\s[1]\w8た\w3…\w3。
+＊OnWindowStateRestore	（現在のシェル）＝＝pillowtalk
+\h\s[4]
+\w8入る\w2とき、\w7に\w3…\w3
+\w3シーツが\w2ずれちゃっ、\w7て\w3…\w5
+
+\w6わたし、\w8\s[1]\w3どうしよう、\w9\w4かと\w3…\w3。
+＊OnWindowStateRestore	（現在のシェル）＝＝lovepillowtalk
+\h\s[4]
+\w8この姿で\w4隠れる、\w7には\w3…\w3
+
+\w4せますぎる\w3気が、\w5します\w3…\w3。
+＊OnWindowStateRestore	（現在のシェル）＝＝pillowtalk
+\h\s[4]
+\w8この姿で\w4隠れる、\w7には\w3…\w3
+
+\w4せますぎる\w3気が、\w5します\w3…\w3。
+＊OnWindowStateRestore	（現在のシェル）＝＝lovepillowtalk
+\h\s[4]
+\w8入る\w2とき、\w7に\w3…\w3
+\w3シーツが\w2ずれちゃっ、\w7て\w3…\w5
+
+\w6わたし、\w8\s[1]\w3どうしよう、\w9\w4かと\w3…\w3。
