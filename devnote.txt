@@ -1,5 +1,15 @@
 開発ノート
 
+Com_Answeruser.緊張＿0000000.match : 緊張
+Com_Answeruser.緊張＿0000000 : ${緊張ワード反応}
+
+Com_Answeruser.緊張＿0000001.match : きんちょう
+Com_Answeruser.緊張＿0000001 : ${緊張ワード反応}
+
+兄弟ワード反応 : (
+\t\h\s[5]\w8\n
+仲良しな、\w6${兄弟発話表示.Com}\w2って\w5…\w4素敵です、\w8ね\w3…。
+
 Com_Answeruser.明日の予定は＿00001.match : 明日の予定は
 Com_Answeruser.明日の予定は＿00001 : ${明日の予定はワード反応}
 
