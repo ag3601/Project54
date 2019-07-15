@@ -1,5 +1,8 @@
 開発ノート
 
+Com_Answeruser.似合ってる＿0000000.match : 似合ってる
+Com_Answeruser.似合ってる＿0000000 : ${似合ってるワード反応}
+
 Com_Answeruser.緊張＿0000000.match : 緊張
 Com_Answeruser.緊張＿0000000 : ${緊張ワード反応}
 
