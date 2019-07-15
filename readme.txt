@@ -11,7 +11,7 @@
 メインページ
 https://twitter.com/AG3601
 バグ報告
-https://nanachi.sakura.ne.jp/faq/questions.php?id=ag36 …
+https://nanachi.sakura.ne.jp/faq/questions.php?id=ag36
 
 ーーーーーーーーーーーーーーーーーーーーーーーーーーー
 オリジナルの「54」の配布サイトです
