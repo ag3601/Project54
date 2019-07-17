@@ -20,7 +20,6 @@ file,ghost/master/dic13_date.txtf25c58606dc6ce179f9c30f8ab8117cdsize=68380
 file,ghost/master/dicAnchor.txt227548b0a799f746ee2f25f5b60cf1casize=198
 file,ghost/master/replace.txt5400c8c473751d3ff3cf5c728b850f89size=248
 file,ghost/master/replace_after.txt3512455a7f27780c1b6b1e3e8a780067size=115
-file,ghost/master/saori/ssu.dll58b61d7c681e7a8aa27b2f03bfcd48d7size=253952
 file,ghost/master/satori.dllf5610fc26a0a620dc4ed6296a91acabcsize=684032
 file,ghost/master/satori_conf.txt43760ea6621b2fc12764e2f8cdb7c0casize=1178
 file,ghost/master/satori_license.txt078ffc36f3374648bf523ae197f4765csize=944
