@@ -4,14 +4,24 @@ delete.txte5bcfc1a78df3320b655a5dbc16a8db5size=19
 developer_options.txt732ad50ceefa031127b458a80b59abc1size=346
 ghost/master/54icon.ico282980d2ac771c9f464f8e9eb85ed68fsize=5622
 ghost/master/descript.txt150a72ad41c1018c377892ab71577046size=197
+<<<<<<< HEAD
 ghost/master/dic01_Base.txte80e4cabc5d6782d06adee66634f7fa5size=8357
 ghost/master/dic02_Event.txt0d00e67da20b6713b625cf7ecbcb2676size=19390
 ghost/master/dic03_Menu.txtb5ff62cc41c233b9840420ca4192b34csize=16390
+=======
+ghost/master/dic01_Base.txt34e84dac7205636ea403474ac9dcf844size=8448
+ghost/master/dic02_Event.txt3319b87bf7daf5d09a87f97bcc34ef33size=19597
+ghost/master/dic03_Menu.txtf11642aa63866429a0ba6efa1ee43d81size=16446
+>>>>>>> 2f5f19861c49d5ac8164f4c11866b51dac395c3b
 ghost/master/dic04_Change.txt8561d440395c7c2b8ff32be6525efedcsize=7679
 ghost/master/dic05_Communicate.txtca8bf1a7e9d6bd8487bc3fc094853af5size=172325
 ghost/master/dic06_String.txtdd36c8439f8598ff7b0f390e472f84bcsize=4909
 ghost/master/dic07_Time.txt552e8de802408ca9e02ef22b5a7780c6size=21739
+<<<<<<< HEAD
 ghost/master/dic08_RandomTalk.txt4526b9b5cb86ec4eb37d4a783429b9c2size=64148
+=======
+ghost/master/dic08_RandomTalk.txt4dbba64f2d0ea2b6fec4b5ebcb475a79size=64352
+>>>>>>> 2f5f19861c49d5ac8164f4c11866b51dac395c3b
 ghost/master/dic09_dic.txt1b861a846302a5826a6c9744ff36c745size=11692
 ghost/master/dic10_naming.txt5e1129ea81f6a65b837aac397b19e87csize=1453
 ghost/master/dic11_touch.txt48ff8eb68e2b85d5adc63d913f6675d3size=23441
@@ -20,9 +30,8 @@ ghost/master/dic13_date.txtdf90daba38ff13b6b43b472b4a5b5017size=68406
 ghost/master/dicAnchor.txt227548b0a799f746ee2f25f5b60cf1casize=198
 ghost/master/replace.txt5400c8c473751d3ff3cf5c728b850f89size=248
 ghost/master/replace_after.txt3512455a7f27780c1b6b1e3e8a780067size=115
-ghost/master/saori/ssu.dll58b61d7c681e7a8aa27b2f03bfcd48d7size=253952
 ghost/master/satori.dllf5610fc26a0a620dc4ed6296a91acabcsize=684032
-ghost/master/satori_conf.txtbeddd7d289439c69aa74561446f49ac4size=971
+ghost/master/satori_conf.txt43760ea6621b2fc12764e2f8cdb7c0casize=1178
 ghost/master/satori_license.txt078ffc36f3374648bf523ae197f4765csize=944
 install.txte4ae8004d881e650b637d60ec56fdc55size=76
 readme.txt58e1a27f2e57baf437656a6e2d1eae4dsize=704
