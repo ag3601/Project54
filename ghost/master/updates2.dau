@@ -4,15 +4,9 @@ delete.txte5bcfc1a78df3320b655a5dbc16a8db5size=19
 developer_options.txt732ad50ceefa031127b458a80b59abc1size=346
 ghost/master/54icon.ico282980d2ac771c9f464f8e9eb85ed68fsize=5622
 ghost/master/descript.txt150a72ad41c1018c377892ab71577046size=197
-<<<<<<< HEAD
-ghost/master/dic01_Base.txt67b43cd52d252a02f641caadcaed12d7size=8452
-ghost/master/dic02_Event.txt3319b87bf7daf5d09a87f97bcc34ef33size=19597
-ghost/master/dic03_Menu.txtf11642aa63866429a0ba6efa1ee43d81size=16446
-=======
-ghost/master/dic01_Base.txte80e4cabc5d6782d06adee66634f7fa5size=8357
+ghost/master/dic01_Base.txt2fac5de62a98e2eab11c2f917650b580size=8361
 ghost/master/dic02_Event.txt74b03d36ea9c635feb40b7d239067de9size=19516
 ghost/master/dic03_Menu.txtb5ff62cc41c233b9840420ca4192b34csize=16390
->>>>>>> 611e0e9427fcdc13c2098be3907088d3a5f0b1df
 ghost/master/dic04_Change.txt8561d440395c7c2b8ff32be6525efedcsize=7679
 ghost/master/dic05_Communicate.txtca8bf1a7e9d6bd8487bc3fc094853af5size=172325
 ghost/master/dic06_String.txtdd36c8439f8598ff7b0f390e472f84bcsize=4909
@@ -28,11 +22,7 @@ ghost/master/replace.txt5400c8c473751d3ff3cf5c728b850f89size=248
 ghost/master/replace_after.txt3512455a7f27780c1b6b1e3e8a780067size=115
 ghost/master/saori/ssu.dll58b61d7c681e7a8aa27b2f03bfcd48d7size=253952
 ghost/master/satori.dllf5610fc26a0a620dc4ed6296a91acabcsize=684032
-<<<<<<< HEAD
-ghost/master/satori_conf.txt5e71dee504ee843f47a6c3d08be30f3fsize=1159
-=======
-ghost/master/satori_conf.txtbeddd7d289439c69aa74561446f49ac4size=971
->>>>>>> 611e0e9427fcdc13c2098be3907088d3a5f0b1df
+ghost/master/satori_conf.txt9093cbcc133e96f1ccba8e433c5678d2size=1194
 ghost/master/satori_license.txt078ffc36f3374648bf523ae197f4765csize=944
 install.txte4ae8004d881e650b637d60ec56fdc55size=76
 readme.txt58e1a27f2e57baf437656a6e2d1eae4dsize=704
