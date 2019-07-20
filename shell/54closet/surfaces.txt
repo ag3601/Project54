@@ -807,6 +807,35 @@ animation4201.interval,bind
 animation4201.pattern0,bind,4601,0,0,0
 animation4202.interval,bind
 animation4202.pattern0,bind,4602,0,0,0
+animation4203.interval,bind
+animation4203.pattern0,bind,4603,0,0,0
+animation4204.interval,bind
+animation4204.pattern0,bind,4604,0,0,0
+animation4205.interval,bind
+animation4205.pattern0,bind,4605,0,0,0
+animation4206.interval,bind
+animation4206.pattern0,bind,4606,0,0,0
+animation4207.interval,bind
+animation4207.pattern0,bind,4607,0,0,0
+animation4208.interval,bind
+animation4208.pattern0,bind,4608,0,0,0
+animation4209.interval,bind
+animation4209.pattern0,bind,4609,0,0,0
+animation4210.interval,bind
+animation4210.pattern0,bind,4610,0,0,0
+animation4211.interval,bind
+animation4211.pattern0,bind,4611,0,0,0
+animation4924.interval,bind
+animation4924.pattern0,bind,2024,0,0,0
+animation4925.interval,bind
+animation4925.pattern0,bind,2025,0,0,0
+animation4926.interval,bind
+animation4926.pattern0,bind,2026,0,0,0
+
+
+
+
+
 
 
 
@@ -833,7 +862,7 @@ animation4502.pattern0,bind,4902,0,0,0
 
 
 
-//トップ
+//トップ　ワンピースど同じ番号を使っているから要注意。
 
 animation4900.interval,bind
 animation4900.pattern0,bind,2000,0,0,0
@@ -883,7 +912,8 @@ animation4922.interval,bind
 animation4922.pattern0,bind,2022,0,0,0
 animation4923.interval,bind
 animation4923.pattern0,bind,2023,0,0,0
-
+//animation4927.interval,bind
+//animation4927.pattern0,bind,2027,0,0,0
 
 
 

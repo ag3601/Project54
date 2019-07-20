@@ -283,10 +283,18 @@ sakura.bindgroup4201.default,1
 sakura.bindgroup4200.name,下着上,ブラ黒
 sakura.bindgroup4201.name,下着上,ブラ白
 sakura.bindgroup4202.name,下着上,ブラ赤
-
-
-
-
+sakura.bindgroup4203.name,下着上,キャミソール１黒
+sakura.bindgroup4204.name,下着上,キャミソール１白
+sakura.bindgroup4205.name,下着上,キャミソール１赤
+sakura.bindgroup4206.name,下着上,キャミソール２グレー
+sakura.bindgroup4207.name,下着上,キャミソール２白
+sakura.bindgroup4208.name,下着上,キャミソール２赤
+sakura.bindgroup4209.name,下着上,キャミソールストライプ黒
+sakura.bindgroup4210.name,下着上,キャミソールストライプグレー
+sakura.bindgroup4211.name,下着上,キャミソールストライプ赤
+sakura.bindgroup4924.name,下着上,キャミワンピース黒
+sakura.bindgroup4925.name,下着上,キャミワンピース白
+sakura.bindgroup4926.name,下着上,キャミワンピース赤
 
 
 
@@ -306,7 +314,7 @@ sakura.bindgroup4502.name,下着下,パンツ赤
 
 
 
-//トップ
+//トップ　ワンピースど同じ番号を使っているから要注意。
 
 sakura.bindgroup4913.default,1
 sakura.bindgroup4908.name,トップ,ﾌﾘﾙｼｬﾂ黒
@@ -333,7 +341,7 @@ sakura.bindgroup4904.name,トップ,TシャツC黒
 sakura.bindgroup4905.name,トップ,TシャツC白
 sakura.bindgroup4906.name,トップ,TシャツD黒
 sakura.bindgroup4907.name,トップ,TシャツD白
-
+//sakura.bindgroup4927.name,トップ,
 
 
 
