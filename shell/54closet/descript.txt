@@ -172,7 +172,47 @@ sakura.bindgroup1157.name,後髪,しっぽ４
 sakura.bindgroup1158.name,後髪,しっぽ５
 sakura.bindgroup1159.name,後髪,しっぽ６
 sakura.bindgroup1160.name,後髪,ベース
+sakura.bindgroup1162.name,後髪,ツインテール１
+sakura.bindgroup1163.name,後髪,ツインテール２
+sakura.bindgroup1164.name,後髪,ツインテール３
+sakura.bindgroup1165.name,後髪,ツインテール４
+sakura.bindgroup1166.name,後髪,ツインテール５
+sakura.bindgroup1167.name,後髪,ツインテール６
+sakura.bindgroup1168.name,後髪,ツインテール７
+sakura.bindgroup1169.name,後髪,ツインテール８
+sakura.bindgroup1170.name,後髪,ツインテール９
+sakura.bindgroup1171.name,後髪,ツインテール１０
+sakura.bindgroup1172.name,後髪,ツインテール１１
+sakura.bindgroup1173.name,後髪,ツインテール１２
+sakura.bindgroup1174.name,後髪,ツインテールベース
+sakura.bindgroup1175.name,後髪,ツインドリル１
+sakura.bindgroup1176.name,後髪,ツインドリル２
+sakura.bindgroup1177.name,後髪,ツインドリル３
+sakura.bindgroup1178.name,後髪,ツインドリル４
+sakura.bindgroup1179.name,後髪,ツインドリル５
+sakura.bindgroup1180.name,後髪,ループ１
+sakura.bindgroup1181.name,後髪,ループ２
+sakura.bindgroup1182.name,後髪,ループ３
 sakura.bindgroup1161.name,後髪,サイドテール１右
+sakura.bindgroup1183.name,後髪,サイドテール２右
+sakura.bindgroup1184.name,後髪,サイドテール３右
+sakura.bindgroup1185.name,後髪,サイドテール４右
+sakura.bindgroup1186.name,後髪,サイドテール５右
+sakura.bindgroup1187.name,後髪,サイドテール６右
+sakura.bindgroup1188.name,後髪,サイドテール７右
+sakura.bindgroup1189.name,後髪,サイドテール８右
+sakura.bindgroup1190.name,後髪,サイドテール１左
+sakura.bindgroup1191.name,後髪,サイドテール２左
+sakura.bindgroup1192.name,後髪,サイドテール３左
+sakura.bindgroup1193.name,後髪,サイドテール４左
+sakura.bindgroup1194.name,後髪,サイドテール５左
+sakura.bindgroup1195.name,後髪,サイドテール６左
+sakura.bindgroup1196.name,後髪,サイドテール７左
+sakura.bindgroup1197.name,後髪,サイドテール８左
+
+
+
+
 
 
 
@@ -324,7 +364,15 @@ sakura.bindgroup5014.name,スカート,フレアスカート赤チェック
 sakura.bindgroup5019.name,スカート,ミドルスカート黒
 sakura.bindgroup5020.name,スカート,ミドルスカート白
 sakura.bindgroup5018.name,スカート,ミドルスカート赤
-//sakura.bindgroup5020.name,スカート,
+sakura.bindgroup5021.name,スカート,ミニスカA黒黒
+sakura.bindgroup5022.name,スカート,ミニスカA黒白
+sakura.bindgroup5023.name,スカート,ミニスカA赤
+
+
+
+
+
+
 
 
 
