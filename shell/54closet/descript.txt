@@ -364,10 +364,14 @@ sakura.bindgroup5014.name,スカート,フレアスカート赤チェック
 sakura.bindgroup5019.name,スカート,ミドルスカート黒
 sakura.bindgroup5020.name,スカート,ミドルスカート白
 sakura.bindgroup5018.name,スカート,ミドルスカート赤
-sakura.bindgroup5021.name,スカート,ミニスカA黒黒
-sakura.bindgroup5022.name,スカート,ミニスカA黒白
-sakura.bindgroup5023.name,スカート,ミニスカA赤
-
+sakura.bindgroup5021.name,スカート,ミニスカAグレー黒
+sakura.bindgroup5026.name,スカート,ミニスカA黒黒
+sakura.bindgroup5025.name,スカート,ミニスカA黒白
+sakura.bindgroup5022.name,スカート,ミニスカA白黒
+sakura.bindgroup5024.name,スカート,ミニスカA白白
+sakura.bindgroup5028.name,スカート,ミニスカA白赤
+sakura.bindgroup5023.name,スカート,ミニスカA赤白
+sakura.bindgroup5027.name,スカート,ミニスカAグレー白
 
 
 

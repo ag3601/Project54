@@ -954,8 +954,18 @@ animation5022.interval,bind
 animation5022.pattern0,bind,3022,0,0,0
 animation5023.interval,bind
 animation5023.pattern0,bind,3023,0,0,0
-
-
+animation5024.interval,bind
+animation5024.pattern0,bind,3024,0,0,0
+animation5025.interval,bind
+animation5025.pattern0,bind,3025,0,0,0
+animation5026.interval,bind
+animation5026.pattern0,bind,3026,0,0,0
+animation5027.interval,bind
+animation5027.pattern0,bind,3027,0,0,0
+animation5028.interval,bind
+animation5028.pattern0,bind,3028,0,0,0
+//animation5029.interval,bind
+//animation5029.pattern0,bind,3029,0,0,0
 
 
 
