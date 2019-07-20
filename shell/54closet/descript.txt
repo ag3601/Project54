@@ -118,16 +118,62 @@ sakura.bindgroup1103.name,後髪,ロング４
 sakura.bindgroup1104.name,後髪,ロング５
 sakura.bindgroup1105.name,後髪,ロング６
 sakura.bindgroup1106.name,後髪,ロング７
+sakura.bindgroup1113.name,後髪,セミロング１
+sakura.bindgroup1114.name,後髪,セミロング２
+sakura.bindgroup1115.name,後髪,セミロング３
+sakura.bindgroup1118.name,後髪,ショット１
+sakura.bindgroup1119.name,後髪,ショット２
+sakura.bindgroup1120.name,後髪,ショット３
+sakura.bindgroup1121.name,後髪,ショット４
+sakura.bindgroup1122.name,後髪,ショット５
+sakura.bindgroup1123.name,後髪,ショット６
+sakura.bindgroup1124.name,後髪,ショット７
+sakura.bindgroup1125.name,後髪,ショット８
+sakura.bindgroup1126.name,後髪,ショット９
+sakura.bindgroup1127.name,後髪,ショット１０
 sakura.bindgroup1107.name,後髪,ポニーテール１
 sakura.bindgroup1108.name,後髪,ポニーテール２
 sakura.bindgroup1109.name,後髪,ポニーテール３
 sakura.bindgroup1110.name,後髪,ポニーテール４
 sakura.bindgroup1111.name,後髪,ポニーテール５
 sakura.bindgroup1112.name,後髪,ポニーテール６
-sakura.bindgroup1113.name,後髪,セミロング１
-sakura.bindgroup1114.name,後髪,セミロング２
-sakura.bindgroup1115.name,後髪,セミロング３
 sakura.bindgroup1116.name,後髪,チャイナ
+sakura.bindgroup1117.name,後髪,シニョン
+sakura.bindgroup1128.name,後髪,おかっぱ１
+sakura.bindgroup1129.name,後髪,おかっぱ２
+sakura.bindgroup1130.name,後髪,お下げ１
+sakura.bindgroup1131.name,後髪,お下げ２
+sakura.bindgroup1132.name,後髪,お下げ３
+sakura.bindgroup1133.name,後髪,お下げ４
+sakura.bindgroup1134.name,後髪,お下げベース
+sakura.bindgroup1135.name,後髪,お嬢様１
+sakura.bindgroup1136.name,後髪,お嬢様２
+sakura.bindgroup1137.name,後髪,お嬢様３
+sakura.bindgroup1138.name,後髪,お団子１
+sakura.bindgroup1139.name,後髪,お団子２
+sakura.bindgroup1140.name,後髪,お団子３
+sakura.bindgroup1141.name,後髪,お団子４
+sakura.bindgroup1142.name,後髪,お団子５
+sakura.bindgroup1143.name,後髪,お団子６
+sakura.bindgroup1144.name,後髪,くせ毛１
+sakura.bindgroup1145.name,後髪,くせ毛２
+sakura.bindgroup1146.name,後髪,くせ毛３
+sakura.bindgroup1147.name,後髪,三つ編み
+sakura.bindgroup1148.name,後髪,ゆるおさげ
+sakura.bindgroup1149.name,後髪,ゆるふわ１
+sakura.bindgroup1150.name,後髪,ゆるふわ２
+sakura.bindgroup1151.name,後髪,結び１
+sakura.bindgroup1152.name,後髪,結び２
+sakura.bindgroup1153.name,後髪,結び３
+sakura.bindgroup1154.name,後髪,しっぽ１
+sakura.bindgroup1155.name,後髪,しっぽ２
+sakura.bindgroup1156.name,後髪,しっぽ３
+sakura.bindgroup1157.name,後髪,しっぽ４
+sakura.bindgroup1158.name,後髪,しっぽ５
+sakura.bindgroup1159.name,後髪,しっぽ６
+sakura.bindgroup1160.name,後髪,ベース
+sakura.bindgroup1161.name,後髪,サイドテール１右
+
 
 
 
@@ -333,11 +379,15 @@ sakura.bindgroup4736.name,靴下,足袋白
 
 //タイツ
 
-sakura.bindgroup4600.name,タイツ,タイツ黒
-
-
-
-
+sakura.bindgroup4600.name,タイツ,タイツ１黒
+sakura.bindgroup4601.name,タイツ,タイツ１白
+sakura.bindgroup4602.name,タイツ,タイツ１赤
+sakura.bindgroup4603.name,タイツ,タイツ２黒
+sakura.bindgroup4604.name,タイツ,タイツ２白
+sakura.bindgroup4605.name,タイツ,タイツ網１
+sakura.bindgroup4606.name,タイツ,タイツ網２
+sakura.bindgroup4607.name,タイツ,ストキング１
+sakura.bindgroup4608.name,タイツ,ストキング２
 
 
 
@@ -355,6 +405,26 @@ sakura.bindgroup4807.name,ガーター,ナイフガーター２
 sakura.bindgroup4808.name,ガーター,リングガーター
 sakura.bindgroup4809.name,ガーター,リングガーター右
 sakura.bindgroup4810.name,ガーター,リングガーター左
+
+
+
+
+
+//靴
+
+sakura.bindgroup5100.name,靴,おでこ靴A黒
+sakura.bindgroup5101.name,靴,おでこ靴A白
+sakura.bindgroup5102.name,靴,おでこ靴A赤
+sakura.bindgroup5103.name,靴,おでこ靴B黒
+sakura.bindgroup5104.name,靴,おでこ靴Bグレー
+sakura.bindgroup5105.name,靴,おでこ靴B褐
+sakura.bindgroup5106.name,靴,おでこ靴B茶
+
+
+
+
+
+
 
 
 
