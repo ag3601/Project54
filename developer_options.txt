@@ -8,3 +8,4 @@ ghost/master/satori_savebackup.txt,nonar,noupdate
 devnote.txt,nonar,noupdate
 shell/master/profile/,nonar,noupdate
 shell/MIY_Color/profile/,nonar,noupdate
+shell/54closet/profile/,nonar,noupdate
