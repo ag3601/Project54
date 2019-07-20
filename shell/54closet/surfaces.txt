@@ -11,7 +11,7 @@ Version,1
 surface0-9,11-22
 {
 element0,overlay,surface0000.png,0,0
-collision0,208,133,338,201,Head
+collisionex0,Head,polygon,209,186,224,157,253,139,293,141,321,155,335,185
 collision1,260,259,284,271,Mouth
 collision3,225,330,320,371,Breast
 collision4,308,495,345,537,Hip
@@ -19,6 +19,8 @@ collision5,197,487,232,533,Hip
 collision6,204,827,343,886,Foot
 collision7,276,546,342,823,Leg
 collision8,208,547,266,836,Leg
+collisionex9,Face,polygon,227,241,272,243,315,243,306,263,271,283,235,267
+collisionex10,xxx,circle,270,529,10
 }
 
 //ñ ïÅí 
@@ -649,30 +651,43 @@ animation4923.pattern0,bind,2023,0,0,0
 
 animation5000.interval,bind
 animation5000.pattern0,bind,3000,0,0,0
+animation5000.collision5000,196,597,348,663,Skirt
 animation5001.interval,bind
 animation5001.pattern0,bind,3001,0,0,0
+animation5001.collision5001,190,522,354,577,Skirt
 animation5002.interval,bind
 animation5002.pattern0,bind,3002,0,0,0
+animation5002.collision5002,190,522,354,577,Skirt
 animation5003.interval,bind
 animation5003.pattern0,bind,3003,0,0,0
+animation5003.collision5003,190,522,354,577,Skirt
 animation5004.interval,bind
 animation5004.pattern0,bind,3004,0,0,0
+animation5004.collision5004,190,522,354,577,Skirt
 animation5005.interval,bind
 animation5005.pattern0,bind,3005,0,0,0
+animation5005.collision5005,196,597,348,663,Skirt
 animation5006.interval,bind
 animation5006.pattern0,bind,3006,0,0,0
+animation5006.collision5006,196,597,348,663,Skirt
 animation5007.interval,bind
 animation5007.pattern0,bind,3007,0,0,0
+animation5007.collision5007,196,597,348,663,Skirt
 animation5008.interval,bind
 animation5008.pattern0,bind,3008,0,0,0
+animation5008.collision5008,196,597,348,663,Skirt
 animation5009.interval,bind
 animation5009.pattern0,bind,3009,0,0,0
+animation5009.collision5009,196,597,348,663,Skirt
 animation5010.interval,bind
 animation5010.pattern0,bind,3010,0,0,0
+animation5010.collisionex5010,Skirt,polygon,156,564,177,527,273,533,371,529,392,564,366,593,275,610,185,596
 animation5011.interval,bind
 animation5011.pattern0,bind,3011,0,0,0
+animation5012.collisionex5011,Skirt,polygon,156,564,177,527,273,533,371,529,392,564,366,593,275,610,185,596
 animation5012.interval,bind
 animation5012.pattern0,bind,3012,0,0,0
+animation5012.collisionex5012,Skirt,polygon,156,564,177,527,273,533,371,529,392,564,366,593,275,610,185,596
 animation5013.interval,bind
 animation5013.pattern0,bind,3013,0,0,0
 animation5014.interval,bind
