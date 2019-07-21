@@ -443,7 +443,11 @@ file,shell/54closet/surface93.pngb067e97aedb56d83aa74f045113c1ddfsize=2415
 file,shell/54closet/surface94.png25f29d1d9054020383d151fdf9bac800size=2115
 file,shell/54closet/surface95.pngd30f13b0e59b0dc917ae4e3a298d9576size=2128
 file,shell/54closet/surface96.png863a5e7621886996d29cb8fac726d5a6size=2449
+<<<<<<< HEAD
 file,shell/54closet/surfaces.txtfc3e667652f92e8d9d82e5593f19d135size=36188
+=======
+file,shell/54closet/surfaces.txtd5b281694e56b685b26cec720ac8da3bsize=34216
+>>>>>>> adcb4a79c504dbb3bf0cc37bea963c88a670f9d8
 file,shell/54closet/surfacetable.txtc4431a4f87efb99924f508dafd27ae92size=242
 file,shell/happywedding/surfaces.txtc95f33ed5085fde6eed28e765ad1b1acsize=3174
 file,shell/master/descript.txt036f30ae26c0546770969e5ed8f0abccsize=757
