@@ -736,6 +736,59 @@ animation12216.pattern0,bind,1015,0,0,0
 animation12217.interval,bind
 animation12217.pattern0,bind,1016,0,0,0
 
+
+//前髪パーツ
+
+animation14100.interval,bind
+animation14100.pattern0,bind,14100,0,0,0
+animation14101.interval,bind
+animation14101.pattern0,bind,14101,0,0,0
+animation14102.interval,bind
+animation14102.pattern0,bind,14102,0,0,0
+animation14103.interval,bind
+animation14103.pattern0,bind,14103,0,0,0
+animation14104.interval,bind
+animation14104.pattern0,bind,14104,0,0,0
+animation14105.interval,bind
+animation14105.pattern0,bind,14105,0,0,0
+animation14106.interval,bind
+animation14106.pattern0,bind,14106,0,0,0
+animation14107.interval,bind
+animation14107.pattern0,bind,14107,0,0,0
+animation14108.interval,bind
+animation14108.pattern0,bind,14108,0,0,0
+animation14109.interval,bind
+animation14109.pattern0,bind,14109,0,0,0
+animation14110.interval,bind
+animation14110.pattern0,bind,14110,0,0,0
+
+
+//アホ毛
+
+animation14200.interval,bind
+animation14200.pattern0,bind,14200,0,0,0
+animation14201.interval,bind
+animation14201.pattern0,bind,14201,0,0,0
+animation14202.interval,bind
+animation14202.pattern0,bind,14202,0,0,0
+animation14203.interval,bind
+animation14203.pattern0,bind,14203,0,0,0
+animation14204.interval,bind
+animation14204.pattern0,bind,14204,0,0,0
+animation14205.interval,bind
+animation14205.pattern0,bind,14205,0,0,0
+animation14206.interval,bind
+animation14206.pattern0,bind,14206,0,0,0
+animation14207.interval,bind
+animation14207.pattern0,bind,14207,0,0,0
+animation14208.interval,bind
+animation14208.pattern0,bind,14208,0,0,0
+animation14209.interval,bind
+animation14209.pattern0,bind,14209,0,0,0
+animation14210.interval,bind
+animation14210.pattern0,bind,14210,0,0,0
+
+
 //髪パーツ
 
 animation900.interval,bind
@@ -764,12 +817,16 @@ animation13000.interval,bind
 animation13000.pattern0,bind,1211,0,0,0
 animation13001.interval,bind
 animation13001.pattern0,bind,1212,0,0,0
-
-
-
-
-
-
+animation13002.interval,bind
+animation13002.pattern0,bind,1213,0,0,0
+animation13003.interval,bind
+animation13003.pattern0,bind,1214,0,0,0
+animation13004.interval,bind
+animation13004.pattern0,bind,1215,0,0,0
+animation911.interval,bind
+animation911.pattern0,bind,1216,0,0,0
+animation912.interval,bind
+animation912.pattern0,bind,1217,0,0,0
 
 
 
@@ -799,8 +856,6 @@ animation11308.interval,bind
 animation11308.pattern0,bind,1108,0,0,0
 animation11309.interval,bind
 animation11309.pattern0,bind,1109,0,0,0
-
-
 
 
 //下着上
@@ -939,14 +994,36 @@ animation7522.interval,bind
 animation7522.pattern0,bind,2022,0,0,0
 animation7523.interval,bind
 animation7523.pattern0,bind,2023,0,0,0
-//animation7527.interval,bind
-//animation7527.pattern0,bind,2027,0,0,0
-
-
-
-
-
-
+animation7527.interval,bind
+animation7527.pattern0,bind,2027,0,0,0
+animation7528.interval,bind
+animation7528.pattern0,bind,2028,0,0,0
+animation7529.interval,bind
+animation7529.pattern0,bind,2029,0,0,0
+animation7530.interval,bind
+animation7530.pattern0,bind,2030,0,0,0
+animation7531.interval,bind
+animation7531.pattern0,bind,2031,0,0,0
+animation7532.interval,bind
+animation7532.pattern0,bind,2032,0,0,0
+animation7533.interval,bind
+animation7533.pattern0,bind,2033,0,0,0
+animation7534.interval,bind
+animation7534.pattern0,bind,2034,0,0,0
+animation7535.interval,bind
+animation7535.pattern0,bind,2035,0,0,0
+animation7536.interval,bind
+animation7536.pattern0,bind,2036,0,0,0
+animation7537.interval,bind
+animation7537.pattern0,bind,2037,0,0,0
+animation7538.interval,bind
+animation7538.pattern0,bind,2038,0,0,0
+animation7539.interval,bind
+animation7539.pattern0,bind,2039,0,0,0
+animation7540.interval,bind
+animation7540.pattern0,bind,2040,0,0,0
+animation7541.interval,bind
+animation7541.pattern0,bind,2041,0,0,0
 
 //スカート
 
@@ -1155,8 +1232,18 @@ animation5305.interval,bind
 animation5305.pattern0,bind,49005,0,0,0
 animation5306.interval,bind
 animation5306.pattern0,bind,49006,0,0,0
-
-
+animation5307.interval,bind
+animation5307.pattern0,bind,49007,0,0,0
+animation5308.interval,bind
+animation5308.pattern0,bind,49008,0,0,0
+animation5309.interval,bind
+animation5309.pattern0,bind,49009,0,0,0
+animation5310.interval,bind
+animation5310.pattern0,bind,49010,0,0,0
+animation5311.interval,bind
+animation5311.pattern0,bind,49011,0,0,0
+animation5312.interval,bind
+animation5312.pattern0,bind,49012,0,0,0
 
 
 

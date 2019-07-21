@@ -214,7 +214,8 @@
 
 ちゃんと出来てるみたいです…。
 ＊OnNarCreated
-：完了しましだ。
+：（５）
+完了しましだ。
 
 ＊OnNarCreating
 \h
