@@ -1151,7 +1151,8 @@ animation5305.interval,bind
 animation5305.pattern0,bind,49005,0,0,0
 animation5306.interval,bind
 animation5306.pattern0,bind,49006,0,0,0
-
+//animation5307.interval,bind
+//animation5307.pattern0,bind,49007,0,0,0
 
 
 
@@ -1200,6 +1201,11 @@ animation4814.interval,bind
 animation4814.pattern0,bind,4414,0,0,0
 animation4815.interval,bind
 animation4815.pattern0,bind,4415,0,0,0
+
+
+
+
+
 
 
 
