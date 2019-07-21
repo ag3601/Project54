@@ -362,6 +362,23 @@ sakura.bindgroup7507.name,トップ,TシャツD白
 //スカート
 
 sakura.bindgroup8010.default,1
+
+sakura.bindgroup8011.name,スカート,フリルスカート黒
+sakura.bindgroup8012.name,スカート,フリルスカート白
+sakura.bindgroup8010.name,スカート,フリルスカート赤
+sakura.bindgroup8015.name,スカート,フレアスカート黒
+sakura.bindgroup8016.name,スカート,フレアスカート黒柄
+sakura.bindgroup8017.name,スカート,フレアスカート白
+sakura.bindgroup8013.name,スカート,フレアスカート赤
+sakura.bindgroup8014.name,スカート,フレアスカート赤柄
+sakura.bindgroup8021.name,スカート,ミニスカAグレー黒
+sakura.bindgroup8026.name,スカート,ミニスカA黒黒
+sakura.bindgroup8025.name,スカート,ミニスカA黒白
+sakura.bindgroup8022.name,スカート,ミニスカA白黒
+sakura.bindgroup8024.name,スカート,ミニスカA白白
+sakura.bindgroup8028.name,スカート,ミニスカA白赤
+sakura.bindgroup8023.name,スカート,ミニスカA赤白
+sakura.bindgroup8027.name,スカート,ミニスカAグレー白
 sakura.bindgroup8001.name,スカート,プリーツスカート１黒
 sakura.bindgroup8002.name,スカート,プリーツスカート１白
 sakura.bindgroup8003.name,スカート,プリーツスカート１赤
@@ -372,25 +389,10 @@ sakura.bindgroup8000.name,スカート,プリーツスカート２グレー
 sakura.bindgroup8009.name,スカート,プリーツスカート２グレーチェック
 sakura.bindgroup8007.name,スカート,プリーツスカート２赤
 sakura.bindgroup8008.name,スカート,プリーツスカート２赤チェック
-sakura.bindgroup8011.name,スカート,フリルスカート黒
-sakura.bindgroup8012.name,スカート,フリルスカート白
-sakura.bindgroup8010.name,スカート,フリルスカート赤
-sakura.bindgroup8015.name,スカート,フレアスカート黒
-sakura.bindgroup8016.name,スカート,フレアスカート黒柄
-sakura.bindgroup8017.name,スカート,フレアスカート白
-sakura.bindgroup8013.name,スカート,フレアスカート赤
-sakura.bindgroup8014.name,スカート,フレアスカート赤柄
 sakura.bindgroup8019.name,スカート,ミドルスカート黒
 sakura.bindgroup8020.name,スカート,ミドルスカート白
 sakura.bindgroup8018.name,スカート,ミドルスカート赤
-sakura.bindgroup8021.name,スカート,ミニスカAグレー黒
-sakura.bindgroup8026.name,スカート,ミニスカA黒黒
-sakura.bindgroup8025.name,スカート,ミニスカA黒白
-sakura.bindgroup8022.name,スカート,ミニスカA白黒
-sakura.bindgroup8024.name,スカート,ミニスカA白白
-sakura.bindgroup8028.name,スカート,ミニスカA白赤
-sakura.bindgroup8023.name,スカート,ミニスカA赤白
-sakura.bindgroup8027.name,スカート,ミニスカAグレー白
+
 
 
 
