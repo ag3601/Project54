@@ -211,15 +211,6 @@ sakura.bindgroup1196.name,後髪,サイドテール７左
 sakura.bindgroup1197.name,後髪,サイドテール８左
 
 
-
-
-
-
-
-
-
-
-
 //横髪
 
 sakura.bindgroup12200.default,1
@@ -304,7 +295,6 @@ sakura.bindgroup4217.name,下着上,レースブラB白
 sakura.bindgroup4218.name,下着上,メイドブラ
 
 
-
 //下着下
 
 sakura.bindgroup5001.default,1
@@ -317,12 +307,6 @@ sakura.bindgroup5006.name,下着下,レースパンツA白
 sakura.bindgroup5005.name,下着下,レースパンツA赤
 sakura.bindgroup5007.name,下着下,レースパンツB黒
 sakura.bindgroup5008.name,下着下,レースパンツB白
-
-
-
-
-
-
 
 
 //トップ　ワンピースど番号を共用しているから要注意。
@@ -463,8 +447,6 @@ sakura.bindgroup5107.name,タイツ,ストキング１
 sakura.bindgroup5108.name,タイツ,ストキング２
 
 
-
-
 //ガーター
 
 sakura.bindgroup4800.name,ガーター,ガーターベルト黒
@@ -478,9 +460,6 @@ sakura.bindgroup4807.name,ガーター,ナイフガーター２
 sakura.bindgroup4808.name,ガーター,リングガーター
 sakura.bindgroup4809.name,ガーター,リングガーター右
 sakura.bindgroup4810.name,ガーター,リングガーター左
-
-
-
 
 
 //靴
