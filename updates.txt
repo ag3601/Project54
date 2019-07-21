@@ -1,7 +1,6 @@
-file,.gitignore1a616d33a30ac9321196e414520be41fsize=104
 file,cover.png7267ef3bfe0ecc6d14bf5f40d91384cfsize=127745
 file,delete.txt966dfc67b902051c72b013b8b6e2e159size=35
-file,developer_options.txta74bdc94bea2c5d8f5b66dd5e6fef394size=386
+file,developer_options.txt434faf44c190e71bb4a4c00a7907c419size=388
 file,ghost/master/54icon.ico282980d2ac771c9f464f8e9eb85ed68fsize=5622
 file,ghost/master/descript.txt150a72ad41c1018c377892ab71577046size=197
 file,ghost/master/dic01_Base.txt3120f7639b767805bc4246d94615128asize=8229
