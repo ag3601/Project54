@@ -1,2 +1,3 @@
 開発ノート.txt
 surface0..apng
+.gitignore
