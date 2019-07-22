@@ -38,15 +38,6 @@ sakura.bindgroup604.name,耳,飛膜耳
 sakura.bindgroup605.name,耳,ヒレ耳黒
 sakura.bindgroup606.name,耳,ヒレ耳白
 sakura.bindgroup607.name,耳,ヒレ耳赤
-//sakura.bindgroup608.name,耳,ケモミミ
-
-
-
-
-
-
-
-
 
 
 //前髪
@@ -600,18 +591,31 @@ sakura.bindgroup15008.name,髪アクセサリー,リボン２右赤
 sakura.bindgroup15009.name,髪アクセサリー,リボン２左黒
 sakura.bindgroup15010.name,髪アクセサリー,リボン２左白
 sakura.bindgroup15011.name,髪アクセサリー,リボン２左赤
-
-
-
-
-
-
-
-
-
-
-
-
+sakura.bindgroup15018.name,髪アクセサリー,ウザミミリボン黒
+sakura.bindgroup15019.name,髪アクセサリー,ウザミミリボン白
+sakura.bindgroup15020.name,髪アクセサリー,ウザミミリボン赤
+sakura.bindgroup15021.name,髪アクセサリー,カチューシャ黒
+sakura.bindgroup15022.name,髪アクセサリー,カチューシャ白
+sakura.bindgroup15023.name,髪アクセサリー,カチューシャ赤
+sakura.bindgroup15024.name,髪アクセサリー,チャイナドレスの団子黒
+sakura.bindgroup15025.name,髪アクセサリー,チャイナドレスの団子白
+sakura.bindgroup15028.name,髪アクセサリー,チャイナドレスの団子グレー
+sakura.bindgroup15026.name,髪アクセサリー,チャイナドレスの団子赤濃
+sakura.bindgroup15027.name,髪アクセサリー,チャイナドレスの団子赤薄
+sakura.bindgroup15032.name,髪アクセサリー,大きなリボン黒
+sakura.bindgroup15033.name,髪アクセサリー,大きなリボン白
+sakura.bindgroup15034.name,髪アクセサリー,大きなリボン赤
+sakura.bindgroup15035.name,髪アクセサリー,フリルカチューシャ黒
+sakura.bindgroup15036.name,髪アクセサリー,フリルカチューシャ桜
+sakura.bindgroup15037.name,髪アクセサリー,フリルカチューシャ赤
+sakura.bindgroup15041.name,髪アクセサリー,メイドカチューシャ黒
+sakura.bindgroup15042.name,髪アクセサリー,メイドカチューシャ白
+sakura.bindgroup15029.name,髪アクセサリー,バニー黒
+sakura.bindgroup15030.name,髪アクセサリー,バニー白
+sakura.bindgroup15031.name,髪アクセサリー,バニー赤
+sakura.bindgroup15038.name,髪アクセサリー,ヘアピン１
+sakura.bindgroup15039.name,髪アクセサリー,ヘアピン２
+sakura.bindgroup15040.name,髪アクセサリー,ヘアピン３
 
 
 //後髪アクセサリー　（１０００番台は後髪より後ろのモノ全般）
@@ -621,6 +625,33 @@ sakura.bindgroup1001.name,後髪アクセサリー,リボン後白
 sakura.bindgroup1002.name,後髪アクセサリー,リボン後赤
 
 
+//ケモミミ
+
+sakura.bindgroup609.name,ケモミミ,垂れ耳
+sakura.bindgroup608.name,ケモミミ,デカミミ
+sakura.bindgroup610.name,ケモミミ,立ち耳
+sakura.bindgroup611.name,ケモミミ,イヌ耳A
+sakura.bindgroup612.name,ケモミミ,イヌ耳B
+sakura.bindgroup613.name,ケモミミ,ウザ耳A
+sakura.bindgroup614.name,ケモミミ,ウザ耳B
+sakura.bindgroup615.name,ケモミミ,クマ耳
+sakura.bindgroup616.name,ケモミミ,ダヌキ耳
+sakura.bindgroup617.name,ケモミミ,ネコ耳
+
+
+//尻尾
+
+sakura.bindgroup1009.name,尻尾,ふわふわ
+sakura.bindgroup1010.name,尻尾,長い
+sakura.bindgroup1011.name,尻尾,アクマ
+sakura.bindgroup1012.name,尻尾,イヌA
+sakura.bindgroup1013.name,尻尾,イヌB
+sakura.bindgroup1014.name,尻尾,キツネ
+sakura.bindgroup1015.name,尻尾,ダヌキ
+sakura.bindgroup1016.name,尻尾,ネコ
+
+
+//角
 
 
 
@@ -628,6 +659,9 @@ sakura.bindgroup1002.name,後髪アクセサリー,リボン後赤
 
 
 
+
+
+//帽子
 
 
 
@@ -646,9 +680,6 @@ sakura.bindgroup4811.name,他アクセサリー,ピンクローター無線
 sakura.bindgroup4812.name,他アクセサリー,ピンクローター有線
 
 
-
-
-
 //耳ピアス
 
 
@@ -656,9 +687,14 @@ sakura.bindgroup4812.name,他アクセサリー,ピンクローター有線
 
 
 
-//背中
+//翼
 
-
+sakura.bindgroup1003.name,翼,翼１黒
+sakura.bindgroup1004.name,翼,翼１白
+sakura.bindgroup1005.name,翼,翼１黒赤
+sakura.bindgroup1006.name,翼,翼２白
+sakura.bindgroup1007.name,翼,飛膜翼１
+sakura.bindgroup1008.name,翼,飛膜翼２
 
 
 
