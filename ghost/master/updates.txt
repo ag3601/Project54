@@ -27,11 +27,7 @@ file,ghost/master/satori_license.txt078ffc36f3374648bf523ae197f4765csize=944
 file,install.txte4ae8004d881e650b637d60ec56fdc55size=76
 file,readme.txtd71142b6dae047f67d973b955470e7c8size=758
 file,shell/2009vii/surfaces.txtda8f6c1e5311b532113c2ead908afb30size=1177
-<<<<<<< HEAD
-file,shell/54closet/descript.txt6e7a9f35785289b0cb39947e67b4e63fsize=23917
-=======
-file,shell/54closet/descript.txte84abd03cff392f7c66d901b47539672size=22117
->>>>>>> cddcdb99575e0b97a16f69f8259473cfd9361741
+file,shell/54closet/descript.txt62ecc97e32b867234afc28f589a6122dsize=23998
 file,shell/54closet/install.txt85512d8eafadd7b958e33df3d3481456size=69
 file,shell/54closet/readme.txt8cc43a418d80fdea4022c4425ba36b87size=601
 file,shell/54closet/surface0000.png6304248c505c2b38e3da9d9f97c9591csize=66279
@@ -490,13 +486,10 @@ file,shell/54closet/surface4902.pngc7d5f02771be59cb2e50923fc6ca031esize=11230
 file,shell/54closet/surface49020.png760c857b29a6db6453ad7aea8d146edfsize=32594
 file,shell/54closet/surface49021.png74b7084bc9b02032806a29deb64f1f17size=33788
 file,shell/54closet/surface49022.png6cda35d4fc8cfd23bd5ef13d2951a7a8size=35226
-<<<<<<< HEAD
 file,shell/54closet/surface49023.png6e802667d8c3dddbe0ec94549b2c2279size=11478
 file,shell/54closet/surface49024.png4537c6382f3ac56b21e8c07d5f938da8size=9612
 file,shell/54closet/surface49025.png0ebd13024ca1a47cc9be4ba60b0f78efsize=9726
 file,shell/54closet/surface49026.pngf3bb16f635dcd4aac0519a44e80d7a14size=9231
-=======
->>>>>>> cddcdb99575e0b97a16f69f8259473cfd9361741
 file,shell/54closet/surface4903.png31935ca2dbee4c304ade9fb02cbd648asize=14552
 file,shell/54closet/surface4904.png2345899dddf4603861043fb555b99a9esize=14097
 file,shell/54closet/surface4905.pngf20cb9854b9639f4e68964a11cb766e0size=15588
@@ -544,15 +537,7 @@ file,shell/54closet/surface93.pngb067e97aedb56d83aa74f045113c1ddfsize=2415
 file,shell/54closet/surface94.png25f29d1d9054020383d151fdf9bac800size=2115
 file,shell/54closet/surface95.pngd30f13b0e59b0dc917ae4e3a298d9576size=2128
 file,shell/54closet/surface96.png863a5e7621886996d29cb8fac726d5a6size=2449
-<<<<<<< HEAD
-file,shell/54closet/surfaces.txta5db8045d7a960677402fb64fe9277casize=42579
-=======
-<<<<<<< HEAD
-file,shell/54closet/surfaces.txt931779ba4b49a1de7729fd05e640048dsize=39995
-=======
-file,shell/54closet/surfaces.txt8f20c8bad59a6bb5da7981853c7526e5size=39510
->>>>>>> 283bfba20161db655dc8e9140ae2c81235ce0ea7
->>>>>>> cddcdb99575e0b97a16f69f8259473cfd9361741
+file,shell/54closet/surfaces.txt48513aebccae624a24e3f84daecf79f6size=42671
 file,shell/54closet/surfacetable.txtc4431a4f87efb99924f508dafd27ae92size=242
 file,shell/happywedding/surfaces.txtc95f33ed5085fde6eed28e765ad1b1acsize=3174
 file,shell/master/descript.txt036f30ae26c0546770969e5ed8f0abccsize=757
