@@ -394,6 +394,36 @@ sakura.bindgroup7529.name,トップ,タンクトップピンク
 sakura.bindgroup7530.name,トップ,タンクトップストライプ黒
 sakura.bindgroup7531.name,トップ,タンクトップストライプ白
 sakura.bindgroup7532.name,トップ,タンクトップストライプ赤
+sakura.bindgroup7542.name,トップ,チャイナドレスA黒黒
+sakura.bindgroup7543.name,トップ,チャイナドレスA黒グレー
+sakura.bindgroup7544.name,トップ,チャイナドレスA黒赤
+sakura.bindgroup7545.name,トップ,チャイナドレスA白黒
+sakura.bindgroup7546.name,トップ,チャイナドレスA白グレー
+sakura.bindgroup7547.name,トップ,チャイナドレスA白赤
+sakura.bindgroup7548.name,トップ,チャイナドレスA赤
+sakura.bindgroup7549.name,トップ,チャイナドレスA緑
+sakura.bindgroup7550.name,トップ,チャイナドレスB黒黒
+sakura.bindgroup7551.name,トップ,チャイナドレスB黒グレー
+sakura.bindgroup7557.name,トップ,チャイナドレスB黒赤
+sakura.bindgroup7552.name,トップ,チャイナドレスB白黒
+sakura.bindgroup7553.name,トップ,チャイナドレスB白グレー
+sakura.bindgroup7554.name,トップ,チャイナドレスB白赤
+sakura.bindgroup7555.name,トップ,チャイナドレスB赤
+sakura.bindgroup7556.name,トップ,チャイナドレスB緑
+sakura.bindgroup7558.name,トップ,ナース服グレー
+sakura.bindgroup7559.name,トップ,ナース服白
+sakura.bindgroup7560.name,トップ,ナース服ピンク
+sakura.bindgroup7561.name,トップ,ﾀｰﾄﾙﾈｯｸ黒
+sakura.bindgroup7562.name,トップ,ﾀｰﾄﾙﾈｯｸ白
+sakura.bindgroup7563.name,トップ,ﾀｰﾄﾙﾈｯｸピンク
+sakura.bindgroup7564.name,トップ,ワンピースA黒
+sakura.bindgroup7565.name,トップ,ワンピースA白
+sakura.bindgroup7566.name,トップ,ワンピースA赤
+sakura.bindgroup7567.name,トップ,ワンピースAピンク
+sakura.bindgroup7568.name,トップ,ワンピースB黒
+sakura.bindgroup7569.name,トップ,ワンピースB白
+sakura.bindgroup7570.name,トップ,ワンピースB赤
+sakura.bindgroup7571.name,トップ,ワンピースBピンク
 
 
 
@@ -533,12 +563,20 @@ sakura.bindgroup5304.name,靴,おでこ靴Bグレー
 sakura.bindgroup5305.name,靴,おでこ靴B褐
 sakura.bindgroup5306.name,靴,おでこ靴B茶
 sakura.bindgroup5312.name,靴,ローファー
-
-
-
-
-
-
+sakura.bindgroup5313.name,靴,シンプル黒
+sakura.bindgroup5314.name,靴,シンプル白
+sakura.bindgroup5315.name,靴,シンプルピンク
+sakura.bindgroup5316.name,靴,シンプル赤
+sakura.bindgroup5317.name,靴,ハイヒール黒
+sakura.bindgroup5318.name,靴,ハイヒール白
+sakura.bindgroup5319.name,靴,ハイヒール赤
+sakura.bindgroup5320.name,靴,ブーツ黒
+sakura.bindgroup5321.name,靴,ブーツ赤
+sakura.bindgroup5322.name,靴,ブーツ茶
+sakura.bindgroup5323.name,靴,上履き
+sakura.bindgroup5324.name,靴,下駄黒
+sakura.bindgroup5325.name,靴,下駄白
+sakura.bindgroup5326.name,靴,下駄赤
 
 
 //髪アクセサリー　
