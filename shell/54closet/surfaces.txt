@@ -1083,6 +1083,11 @@ animation7571.pattern0,bind,2071,0,0,0
 
 
 
+
+//上着
+
+
+
 //スカート
 
 animation8000.interval,bind
@@ -1316,6 +1321,7 @@ animation5318.interval,bind
 animation5318.pattern0,bind,49018,0,0,0
 animation5319.interval,bind
 animation5319.pattern0,bind,49019,0,0,0
+<<<<<<< HEAD
 animation5320.interval,bind
 animation5320.pattern0,bind,49020,0,0,0
 animation5321.interval,bind
@@ -1339,6 +1345,8 @@ animation5326.pattern0,bind,49026,0,0,0
 
 
 
+=======
+>>>>>>> cddcdb99575e0b97a16f69f8259473cfd9361741
 
 
 

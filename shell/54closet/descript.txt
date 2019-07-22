@@ -570,6 +570,7 @@ sakura.bindgroup5316.name,靴,シンプル赤
 sakura.bindgroup5317.name,靴,ハイヒール黒
 sakura.bindgroup5318.name,靴,ハイヒール白
 sakura.bindgroup5319.name,靴,ハイヒール赤
+<<<<<<< HEAD
 sakura.bindgroup5320.name,靴,ブーツ黒
 sakura.bindgroup5321.name,靴,ブーツ赤
 sakura.bindgroup5322.name,靴,ブーツ茶
@@ -577,6 +578,12 @@ sakura.bindgroup5323.name,靴,上履き
 sakura.bindgroup5324.name,靴,下駄黒
 sakura.bindgroup5325.name,靴,下駄白
 sakura.bindgroup5326.name,靴,下駄赤
+=======
+
+
+
+
+>>>>>>> cddcdb99575e0b97a16f69f8259473cfd9361741
 
 
 //髪アクセサリー　
