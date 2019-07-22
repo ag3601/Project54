@@ -692,11 +692,6 @@ animation1197.option,background
 animation1197.pattern0,bind,1597,0,0,0
 
 
-
-
-
-
-
 //横髪
 
 animation12200.interval,bind
@@ -939,11 +934,6 @@ animation5008.interval,bind
 animation5008.pattern0,bind,4908,0,0,0
 
 
-
-
-
-
-
 //トップ　ワンピースど番号を共用しているから要注意。
 
 animation7500.interval,bind
@@ -1024,6 +1014,11 @@ animation7540.interval,bind
 animation7540.pattern0,bind,2040,0,0,0
 animation7541.interval,bind
 animation7541.pattern0,bind,2041,0,0,0
+
+
+//上着
+
+
 
 //スカート
 
@@ -1244,6 +1239,21 @@ animation5311.interval,bind
 animation5311.pattern0,bind,49011,0,0,0
 animation5312.interval,bind
 animation5312.pattern0,bind,49012,0,0,0
+animation5313.interval,bind
+animation5313.pattern0,bind,49013,0,0,0
+animation5314.interval,bind
+animation5314.pattern0,bind,49014,0,0,0
+animation5315.interval,bind
+animation5315.pattern0,bind,49015,0,0,0
+animation5316.interval,bind
+animation5316.pattern0,bind,49016,0,0,0
+animation5317.interval,bind
+animation5317.pattern0,bind,49017,0,0,0
+animation5318.interval,bind
+animation5318.pattern0,bind,49018,0,0,0
+animation5319.interval,bind
+animation5319.pattern0,bind,49019,0,0,0
+
 
 
 

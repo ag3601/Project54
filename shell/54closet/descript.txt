@@ -533,8 +533,13 @@ sakura.bindgroup5304.name,ŒC,‚¨‚Å‚±ŒCBƒOƒŒ[
 sakura.bindgroup5305.name,ŒC,‚¨‚Å‚±ŒCBŠŒ
 sakura.bindgroup5306.name,ŒC,‚¨‚Å‚±ŒCB’ƒ
 sakura.bindgroup5312.name,ŒC,ƒ[ƒtƒ@[
-
-
+sakura.bindgroup5313.name,ŒC,ƒVƒ“ƒvƒ‹•
+sakura.bindgroup5314.name,ŒC,ƒVƒ“ƒvƒ‹”’
+sakura.bindgroup5315.name,ŒC,ƒVƒ“ƒvƒ‹ƒsƒ“ƒN
+sakura.bindgroup5316.name,ŒC,ƒVƒ“ƒvƒ‹Ô
+sakura.bindgroup5317.name,ŒC,ƒnƒCƒq[ƒ‹•
+sakura.bindgroup5318.name,ŒC,ƒnƒCƒq[ƒ‹”’
+sakura.bindgroup5319.name,ŒC,ƒnƒCƒq[ƒ‹Ô
 
 
 
