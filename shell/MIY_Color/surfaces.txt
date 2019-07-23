@@ -1,4 +1,4 @@
-surface0-7
+surface0-22
 {
 collision0,67,26,150,66,Head
 collision1,91,95,103,107,Face
@@ -12,5 +12,11 @@ collision8,76,215,101,243,xxx
 collision9,50,378,89,414,Foot
 collision10,95,352,121,398,Foot
 collision11,39,49,60,100,Hair
+
+}
+
+surface11-12
+{
+element0,overlay,surface1.png,0,0
 
 }

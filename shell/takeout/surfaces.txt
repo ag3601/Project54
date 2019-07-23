@@ -1,4 +1,4 @@
-surface0
+surface0,6,8
 {
 collision0,74,22,118,114,Hair
 collision1,124,13,218,62,Head
@@ -19,7 +19,7 @@ collision9,149,229,235,270,Hip
 
 }
 
-surface1
+surface1,11-12
 {
 
 collision0,84,22,117,122,Hair
