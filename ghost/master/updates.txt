@@ -1,11 +1,6 @@
 file,cover.png7267ef3bfe0ecc6d14bf5f40d91384cfsize=127745
-<<<<<<< HEAD
 file,delete.txt654282027879d74fd18e127354005debsize=50
-file,developer_options.txt6e35a3ff8861718229692ae2fef3bcf0size=388
-=======
-file,delete.txt9e78066b82d3b28381845b01029be0d8size=51
-file,developer_options.txta0be0256b948afbd72788030ad837282size=399
->>>>>>> fcc22e8ba287bbe8ac2ac9ebcbd0a5f467b3c839
+file,developer_options.txtcabdde67661c3278fd492ad9e7a68470size=403
 file,ghost/master/54icon.ico282980d2ac771c9f464f8e9eb85ed68fsize=5622
 file,ghost/master/descript.txt150a72ad41c1018c377892ab71577046size=197
 file,ghost/master/dic01_Base.txt3120f7639b767805bc4246d94615128asize=8229
@@ -32,11 +27,7 @@ file,ghost/master/satori_license.txt078ffc36f3374648bf523ae197f4765csize=944
 file,install.txte4ae8004d881e650b637d60ec56fdc55size=76
 file,readme.txtd71142b6dae047f67d973b955470e7c8size=758
 file,shell/2009vii/surfaces.txtd2cc81b258756011cae9db9fe5227a0csize=1179
-<<<<<<< HEAD
 file,shell/54closet/descript.txt306d792e19be87bb5cf4083588d2d01esize=27247
-=======
-file,shell/54closet/descript.txt43197feb590f4b12ae97c67946ed21besize=27971
->>>>>>> fcc22e8ba287bbe8ac2ac9ebcbd0a5f467b3c839
 file,shell/54closet/install.txt85512d8eafadd7b958e33df3d3481456size=69
 file,shell/54closet/readme.txt8cc43a418d80fdea4022c4425ba36b87size=601
 file,shell/54closet/surface0000.png6304248c505c2b38e3da9d9f97c9591csize=66279
@@ -633,11 +624,7 @@ file,shell/54closet/surface93.pngb067e97aedb56d83aa74f045113c1ddfsize=2415
 file,shell/54closet/surface94.png25f29d1d9054020383d151fdf9bac800size=2115
 file,shell/54closet/surface95.pngd30f13b0e59b0dc917ae4e3a298d9576size=2128
 file,shell/54closet/surface96.png863a5e7621886996d29cb8fac726d5a6size=2449
-<<<<<<< HEAD
 file,shell/54closet/surfaces.txta3afc511fcc3fc20a6af4d0f871882desize=48001
-=======
-file,shell/54closet/surfaces.txtc494ee8a8da2f9a393557faa23459d7asize=49660
->>>>>>> fcc22e8ba287bbe8ac2ac9ebcbd0a5f467b3c839
 file,shell/54closet/surfacetable.txt8280061be34cbff2723146633e47af86size=269
 file,shell/happywedding/surfaces.txt71dcb82a5af489df3f9e73789c7d9b0csize=3184
 file,shell/master/descript.txt036f30ae26c0546770969e5ed8f0abccsize=757
