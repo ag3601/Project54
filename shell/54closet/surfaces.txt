@@ -39,14 +39,14 @@ element1,overlay,surface201.png,0,0
 
 //–ÊÔ‚P
 
-surface1,20,12,22,14,16-17,9,3
+surface1,11-12,22,14,16-17,9,3
 {
 element1,overlay,surface210.png,0,0
 }
 
 //–ÊÔ‚Q
 
-surface11
+surface20
 {
 element1,overlay,surface211.png,0,0
 }
@@ -60,7 +60,7 @@ element2,overlay,surface50.png,0,0
 
 ”û”ß
 
-surface16,3-4
+surface16,3-4,21
 {
 element2,overlay,surface51.png,0,0
 }
@@ -100,7 +100,7 @@ element2,overlay,surface54.png,0,0
 
 //”ûŠy
 
-surface1-2,5,11-12,14
+surface1-2,5,11-12,14,20
 {
 element2,overlay,surface56.png,0,0
 }
@@ -173,7 +173,7 @@ animation1.pattern4,overlay,102,50,0,0
 }
 
 //–Ú‰EŒ©‚é
-surface8,12
+surface8
 {
 animation1.interval,runonce+random,6
 animation1.pattern0,overlay,105,0,0,0
@@ -181,6 +181,17 @@ animation1.pattern1,overlay,105,80,0,0
 animation1.pattern2,overlay,115,120,0,0
 animation1.pattern3,overlay,120,50,0,0
 animation1.pattern4,overlay,105,50,0,0
+}
+
+//”¼–Ú‰EŒ©‚é
+surface12
+{
+animation1.interval,runonce+random,6
+animation1.pattern0,overlay,115,0,0,0
+animation1.pattern1,overlay,115,80,0,0
+animation1.pattern2,overlay,115,120,0,0
+animation1.pattern3,overlay,120,50,0,0
+animation1.pattern4,overlay,115,50,0,0
 }
 
 //–Ú‰ºŒ©‚é
@@ -210,7 +221,7 @@ animation1.pattern4,overlay,104,50,0,0
 
 //Œû•’Êi‚ñ`j
 
-surface0-1,3-4,11,6,15-16,9
+surface0-1,3-4,11,6,15-16,9,20-21
 {
 element3,overlay,surface80.png,0,0
 
