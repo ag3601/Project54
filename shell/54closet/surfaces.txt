@@ -39,7 +39,7 @@ element1,overlay,surface201.png,0,0
 
 //面赤１
 
-surface1,20,12,22,14
+surface1,20,12,22,14,17
 {
 element1,overlay,surface210.png,0,0
 }
@@ -84,7 +84,7 @@ element2,overlay,surface53.png,0,0
 
 //眉不快
 
-surface7,22,9
+surface7,22,9,17
 {
 element2,overlay,surface54.png,0,0
 }
@@ -134,7 +134,7 @@ animation1.pattern4,overlay,110,50,0,0
 }
 
 //目ジト
-surface7
+surface7,17
 {
 animation1.interval,runonce+random,6
 animation1.pattern0,overlay,101,0,0,0
@@ -235,7 +235,7 @@ element3,overlay,surface82.png,0,0
 
 //口無表情１
 
-surface7-9,12,14,22
+surface7-9,12,14,22,17
 {
 element3,overlay,surface83.png,0,0
 
@@ -987,7 +987,28 @@ animation5008.interval,bind
 animation5008.pattern0,bind,4908,0,0,0
 
 
-//トップ　ワンピースど番号を共用しているから要注意。
+//ワンピース
+
+animation8100.interval,bind
+animation8100.pattern0,bind,8100,0,0,0
+animation8101.interval,bind
+animation8101.pattern0,bind,8101,0,0,0
+animation8101.collision8101,248,506,293,544,Hand
+animation8102.interval,bind
+animation8102.pattern0,bind,8102,0,0,0
+animation8103.interval,bind
+animation8103.pattern0,bind,8103,0,0,0
+animation8103.collision8103,241,308,281,345,Hand
+animation8104.interval,bind
+animation8104.pattern0,bind,8104,0,0,0
+animation8104.collision8104,248,506,293,544,Hand
+animation8105.interval,bind
+animation8105.pattern0,bind,8105,0,0,0
+animation8105.collision8105,241,308,281,345,Hand
+
+
+
+//トップ　
 
 animation7500.interval,bind
 animation7500.pattern0,bind,2000,0,0,0
@@ -1131,11 +1152,6 @@ animation7571.pattern0,bind,2071,0,0,0
 
 
 
-
-//上着
-
-
-
 //スカート
 
 animation8000.interval,bind
@@ -1209,22 +1225,32 @@ animation8027.interval,bind
 animation8027.pattern0,bind,3027,0,0,0
 animation8028.interval,bind
 animation8028.pattern0,bind,3028,0,0,0
-//animation8029.interval,bind
-//animation8029.pattern0,bind,3029,0,0,0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+animation8029.interval,bind
+animation8029.pattern0,bind,3029,0,0,0
+animation8030.interval,bind
+animation8030.pattern0,bind,3030,0,0,0
+animation8031.interval,bind
+animation8031.pattern0,bind,3031,0,0,0
+animation8032.interval,bind
+animation8032.pattern0,bind,3032,0,0,0
+animation8033.interval,bind
+animation8033.pattern0,bind,3033,0,0,0
+animation8034.interval,bind
+animation8034.pattern0,bind,3034,0,0,0
+animation8035.interval,bind
+animation8035.pattern0,bind,3035,0,0,0
+animation8036.interval,bind
+animation8036.pattern0,bind,3036,0,0,0
+animation8037.interval,bind
+animation8037.pattern0,bind,3037,0,0,0
+animation8038.interval,bind
+animation8038.pattern0,bind,3038,0,0,0
+animation8039.interval,bind
+animation8039.pattern0,bind,3039,0,0,0
+animation8040.interval,bind
+animation8040.pattern0,bind,3040,0,0,0
+animation8041.interval,bind
+animation8041.pattern0,bind,3041,0,0,0
 
 
 //靴下
@@ -1605,6 +1631,26 @@ animation15122.interval,bind
 animation15122.pattern0,bind,15122,0,0,0
 animation15123.interval,bind
 animation15123.pattern0,bind,15123,0,0,0
+
+
+//上着
+
+
+
+
+
+
+
+//外套
+
+animation8500.interval,bind
+animation8500.pattern0,bind,8500,0,0,0
+animation8501.interval,bind
+animation8501.pattern0,bind,8501,0,0,0
+
+
+
+
 
 
 //脚アクセサリー
