@@ -300,7 +300,7 @@ animation3551.interval,bind
 animation3551.pattern0,bind,501,0,0,0
 animation9552.interval,bind
 animation9552.pattern0,bind,502,0,0,0
-animation9552.collision3502,248,506,293,544,Hand
+animation9552.collision9552,246,483,296,530,Hand
 animation9551.interval,bind
 animation9551.pattern0,bind,511,0,0,0
 animation9551.collision9551,248,506,293,544,Hand
@@ -994,11 +994,6 @@ animation4218.pattern0,bind,4618,0,0,0
 //animation4221.pattern0,bind,4621,0,0,0
 
 
-
-
-
-
-
 //下着下
 
 animation5000.interval,bind
@@ -1039,7 +1034,54 @@ animation8104.collision8104,248,506,293,544,Hand
 animation8105.interval,bind
 animation8105.pattern0,bind,8105,0,0,0
 animation8105.collision8105,241,308,281,345,Hand
-
+animation8106.interval,bind
+animation8106.pattern0,bind,8106,0,0,0
+animation8106.collision8106,246,483,296,530,Hand
+animation8107.interval,bind
+animation8107.pattern0,bind,8107,0,0,0
+animation8107.collision8107,246,483,296,530,Hand
+animation8108.interval,bind
+animation8108.pattern0,bind,8108,0,0,0
+animation8108.collision8108,246,483,296,530,Hand
+animation8109.interval,bind
+animation8109.pattern0,bind,8109,0,0,0
+animation8109.collision8109,246,483,296,530,Hand
+animation8110.interval,bind
+animation8110.pattern0,bind,8110,0,0,0
+animation8110.collision8110,246,483,296,530,Hand
+animation8111.interval,bind
+animation8111.pattern0,bind,8111,0,0,0
+animation8111.collision8111,246,483,296,530,Hand
+animation8112.interval,bind
+animation8112.pattern0,bind,8112,0,0,0
+animation8112.collision8112,246,483,296,530,Hand
+animation8113.interval,bind
+animation8113.pattern0,bind,8113,0,0,0
+animation8113.collision8113,246,483,296,530,Hand
+animation8114.interval,bind
+animation8114.pattern0,bind,8114,0,0,0
+animation8114.collision8114,246,483,296,530,Hand
+animation8115.interval,bind
+animation8115.pattern0,bind,8115,0,0,0
+animation8115.collision8115,246,483,296,530,Hand
+animation8116.interval,bind
+animation8116.pattern0,bind,8116,0,0,0
+animation8116.collision8116,246,483,296,530,Hand
+animation8117.interval,bind
+animation8117.pattern0,bind,8117,0,0,0
+animation8117.collision8117,246,483,296,530,Hand
+animation8118.interval,bind
+animation8118.pattern0,bind,8118,0,0,0
+animation8118.collision8118,246,483,296,530,Hand
+animation8119.interval,bind
+animation8119.pattern0,bind,8119,0,0,0
+animation8119.collision8119,246,483,296,530,Hand
+animation8120.interval,bind
+animation8120.pattern0,bind,8120,0,0,0
+animation8120.collision8120,246,483,296,530,Hand
+animation8121.interval,bind
+animation8121.pattern0,bind,8121,0,0,0
+animation8121.collision8121,246,483,296,530,Hand
 
 
 //トップ　
@@ -1721,13 +1763,22 @@ animation4814.interval,bind
 animation4814.pattern0,bind,4414,0,0,0
 animation4815.interval,bind
 animation4815.pattern0,bind,4415,0,0,0
-
-
-
-
-
-
-
+animation4816.interval,bind
+animation4816.pattern0,bind,4416,0,0,0
+animation4817.interval,bind
+animation4817.pattern0,bind,4417,0,0,0
+animation4818.interval,bind
+animation4818.pattern0,bind,4418,0,0,0
+animation4819.interval,bind
+animation4819.pattern0,bind,4419,0,0,0
+animation4820.interval,bind
+animation4820.pattern0,bind,4420,0,0,0
+animation4821.interval,bind
+animation4821.pattern0,bind,4421,0,0,0
+animation4822.interval,bind
+animation4822.pattern0,bind,4422,0,0,0
+animation4823.interval,bind
+animation4823.pattern0,bind,4423,0,0,0
 
 
 

@@ -351,8 +351,22 @@ sakura.bindgroup8102.name,ワンピース,軍服黒３
 sakura.bindgroup8103.name,ワンピース,軍服白１
 sakura.bindgroup8104.name,ワンピース,軍服白２
 sakura.bindgroup8105.name,ワンピース,軍服白３
-
-
+sakura.bindgroup8107.name,ワンピース,着物黄帯黒
+sakura.bindgroup8106.name,ワンピース,着物黄帯赤
+sakura.bindgroup8108.name,ワンピース,着物黄帯青
+sakura.bindgroup8118.name,ワンピース,着物黄帯水色
+sakura.bindgroup8120.name,ワンピース,着物黄帯濃赤
+sakura.bindgroup8121.name,ワンピース,着物黄帯濃青
+sakura.bindgroup8119.name,ワンピース,着物黄帯濃水色
+sakura.bindgroup8111.name,ワンピース,着物桃帯黒
+sakura.bindgroup8110.name,ワンピース,着物桃帯赤
+sakura.bindgroup8112.name,ワンピース,着物桃帯青
+sakura.bindgroup8115.name,ワンピース,着物桃帯水色
+sakura.bindgroup8113.name,ワンピース,着物桃帯濃赤
+sakura.bindgroup8114.name,ワンピース,着物桃帯濃青
+sakura.bindgroup8116.name,ワンピース,着物桃帯濃水色
+sakura.bindgroup8109.name,ワンピース,着物赤
+sakura.bindgroup8117.name,ワンピース,着物白
 
 
 
@@ -636,6 +650,7 @@ sakura.bindgroup15046.name,髪アクセサリー,花１左
 sakura.bindgroup15047.name,髪アクセサリー,花２右
 sakura.bindgroup15048.name,髪アクセサリー,花２左
 sakura.bindgroup15049.name,髪アクセサリー,狐面
+sakura.bindgroup15053.name,髪アクセサリー,天使の輪
 sakura.bindgroup15050.name,髪アクセサリー,アクマの角黒
 sakura.bindgroup15051.name,髪アクセサリー,アクマの角白
 sakura.bindgroup15052.name,髪アクセサリー,アクマの角赤
@@ -712,6 +727,28 @@ sakura.bindgroup8500.name,外套,白衣
 sakura.bindgroup8501.name,外套,白衣黒
 
 
+//眼鏡
+
+sakura.bindgroup4816.name,眼鏡,丸眼鏡１
+sakura.bindgroup4817.name,眼鏡,丸眼鏡２
+sakura.bindgroup4818.name,眼鏡,眼鏡１黒
+sakura.bindgroup4819.name,眼鏡,眼鏡１白
+sakura.bindgroup4820.name,眼鏡,眼鏡１赤
+sakura.bindgroup4821.name,眼鏡,眼鏡２黒
+sakura.bindgroup4822.name,眼鏡,眼鏡２白
+sakura.bindgroup4823.name,眼鏡,眼鏡２赤
+
+
+//襟
+
+
+
+
+
+
+//服装飾
+
+
 
 
 
@@ -729,12 +766,15 @@ sakura.bindgroup8501.name,外套,白衣黒
 //sakura.bindoption.group,他アクセサリー,multiple
 sakura.bindgroup4811.name,他アクセサリー,ピンクローター無線
 sakura.bindgroup4812.name,他アクセサリー,ピンクローター有線
-sakura.bindgroup15053.name,他アクセサリー,天使の輪
+
 
 //耳ピアス
 
 
 
+
+
+//マフラーなと
 
 
 
