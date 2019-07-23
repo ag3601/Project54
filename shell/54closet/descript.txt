@@ -616,6 +616,16 @@ sakura.bindgroup15031.name,髪アクセサリー,バニー赤
 sakura.bindgroup15038.name,髪アクセサリー,ヘアピン１
 sakura.bindgroup15039.name,髪アクセサリー,ヘアピン２
 sakura.bindgroup15040.name,髪アクセサリー,ヘアピン３
+sakura.bindgroup15043.name,髪アクセサリー,花冠１
+sakura.bindgroup15044.name,髪アクセサリー,花冠２
+sakura.bindgroup15045.name,髪アクセサリー,花１右
+sakura.bindgroup15046.name,髪アクセサリー,花１左
+sakura.bindgroup15047.name,髪アクセサリー,花２右
+sakura.bindgroup15048.name,髪アクセサリー,花２左
+sakura.bindgroup15049.name,髪アクセサリー,狐面
+sakura.bindgroup15050.name,髪アクセサリー,アクマの角黒
+sakura.bindgroup15051.name,髪アクセサリー,アクマの角白
+sakura.bindgroup15052.name,髪アクセサリー,アクマの角赤
 
 
 //後髪アクセサリー　（１０００番台は後髪より後ろのモノ全般）
@@ -651,19 +661,32 @@ sakura.bindgroup1015.name,尻尾,ダヌキ
 sakura.bindgroup1016.name,尻尾,ネコ
 
 
-//角
-
-
-
-
-
-
-
-
-
 //帽子
 
-
+sakura.bindgroup15100.name,帽子,ネコミミ帽子
+sakura.bindgroup15102.name,帽子,ナースキャップ黒
+sakura.bindgroup15101.name,帽子,ナースキャップ白
+sakura.bindgroup15103.name,帽子,ナースキャップピンク
+sakura.bindgroup15104.name,帽子,ベレー帽１黒
+sakura.bindgroup15105.name,帽子,ベレー帽１白
+sakura.bindgroup15106.name,帽子,ベレー帽１赤
+sakura.bindgroup15107.name,帽子,ベレー帽１赤
+sakura.bindgroup15108.name,帽子,ベレー帽１黒黒
+sakura.bindgroup15109.name,帽子,ベレー帽１黒白
+sakura.bindgroup15110.name,帽子,ベレー帽１黒赤
+sakura.bindgroup15111.name,帽子,ベレー帽２黒
+sakura.bindgroup15112.name,帽子,ベレー帽２白
+sakura.bindgroup15113.name,帽子,ベレー帽２赤
+sakura.bindgroup15114.name,帽子,ミニハット黒
+sakura.bindgroup15115.name,帽子,ミニハット白
+sakura.bindgroup15116.name,帽子,ミニハット赤
+sakura.bindgroup15117.name,帽子,ミニハット黒黒
+sakura.bindgroup15118.name,帽子,ミニハット黒白
+sakura.bindgroup15119.name,帽子,ミニハット黒赤
+sakura.bindgroup15120.name,帽子,ミニハット黒赤濃
+sakura.bindgroup15121.name,帽子,ミニハット白赤濃
+sakura.bindgroup15122.name,帽子,麦わら帽子黒
+sakura.bindgroup15123.name,帽子,麦わら帽子赤
 
 
 
@@ -678,7 +701,7 @@ sakura.bindgroup1016.name,尻尾,ネコ
 //sakura.bindoption.group,他アクセサリー,multiple
 sakura.bindgroup4811.name,他アクセサリー,ピンクローター無線
 sakura.bindgroup4812.name,他アクセサリー,ピンクローター有線
-
+sakura.bindgroup15053.name,他アクセサリー,天使の輪
 
 //耳ピアス
 
@@ -697,32 +720,5 @@ sakura.bindgroup1007.name,翼,飛膜翼１
 sakura.bindgroup1008.name,翼,飛膜翼２
 
 
-
-
-
-
-
-
-
 sakura.menu,auto
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
