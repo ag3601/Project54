@@ -996,9 +996,9 @@ animation8101.pattern0,bind,8101,0,0,0
 animation8101.collision8101,248,506,293,544,Hand
 animation8102.interval,bind
 animation8102.pattern0,bind,8102,0,0,0
+animation8102.collision8102,241,308,281,345,Hand
 animation8103.interval,bind
 animation8103.pattern0,bind,8103,0,0,0
-animation8103.collision8103,241,308,281,345,Hand
 animation8104.interval,bind
 animation8104.pattern0,bind,8104,0,0,0
 animation8104.collision8104,248,506,293,544,Hand
