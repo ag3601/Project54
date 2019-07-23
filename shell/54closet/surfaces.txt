@@ -32,14 +32,14 @@ element1,overlay,surface200.png,0,0
 
 //–Ê•’Ê‹»•±‹C–¡
 
-surface2-7,9
+surface2,4-7
 {
 element1,overlay,surface201.png,0,0
 }
 
 //–ÊÔ‚P
 
-surface1,20,12,22,14,17
+surface1,20,12,22,14,16-17,9,3
 {
 element1,overlay,surface210.png,0,0
 }
@@ -58,9 +58,9 @@ surface0,8,15
 element2,overlay,surface50.png,0,0
 }
 
-//”û”ß
+”û”ß
 
-surface4
+surface16,3-4
 {
 element2,overlay,surface51.png,0,0
 }
@@ -68,10 +68,10 @@ element2,overlay,surface51.png,0,0
 
 //”û“{
 
-//surface
-//{
-//element2,overlay,surface52.png,0,0
-//}
+surface9
+{
+element2,overlay,surface52.png,0,0
+}
 
 
 //”û^Œ•
@@ -84,13 +84,13 @@ element2,overlay,surface53.png,0,0
 
 //”û•s‰õ
 
-surface7,22,9,17
+surface7,22,17
 {
 element2,overlay,surface54.png,0,0
 }
 
 
-//”û‹^
+”û‹^
 
 //surface
 //{
@@ -111,8 +111,14 @@ surface15,20-22
 element4,overlay,surface120.png,0,0
 }
 
+–Ú•Â‚¶‹ƒ‚«
+surface16
+{
+element4,overlay,surface121.png,0,0
+}
+
 //–Ú•’Ê
-surface0,2-3,5-6,9
+surface0,2,5-6
 {
 animation1.interval,runonce+random,6
 animation1.pattern0,overlay,100,0,0,0
@@ -133,6 +139,17 @@ animation1.pattern3,overlay,120,50,0,0
 animation1.pattern4,overlay,110,50,0,0
 }
 
+//–Ú”¼–Ú‹ƒ‚«
+surface3
+{
+animation1.interval,runonce+random,6
+animation1.pattern0,overlay,111,0,0,0
+animation1.pattern1,overlay,111,80,0,0
+animation1.pattern2,overlay,121,120,0,0
+animation1.pattern3,overlay,121,50,0,0
+animation1.pattern4,overlay,111,50,0,0
+}
+
 //–ÚƒWƒg
 surface7,17
 {
@@ -145,7 +162,7 @@ animation1.pattern4,overlay,101,50,0,0
 }
 
 //–Ú—Ü–Ú
-surface4
+surface4,9
 {
 animation1.interval,runonce+random,6
 animation1.pattern0,overlay,102,0,0,0
@@ -193,7 +210,7 @@ animation1.pattern4,overlay,104,50,0,0
 
 //Œû•’Êi‚ñ`j
 
-surface0-1,4,11,6,15
+surface0-1,3-4,11,6,15-16,9
 {
 element3,overlay,surface80.png,0,0
 
@@ -226,6 +243,23 @@ animation4.pattern6,overlay,96,80,0,0
 animation4.pattern7,overlay,81,100,0,0
 }
 
+//ŒûƒjƒR
+
+surface2
+{
+element3,overlay,surface84.png,0,0
+
+animation4.interval,talk
+animation4.pattern0,overlay,93,100,0,0
+animation4.pattern1,overlay,84,100,0,0
+animation4.pattern2,overlay,96,100,0,0
+animation4.pattern3,overlay,92,100,0,0
+animation4.pattern4,overlay,81,100,0,0
+animation4.pattern5,overlay,93,80,0,0
+animation4.pattern6,overlay,96,80,0,0
+animation4.pattern7,overlay,84,100,0,0
+}
+
 //Œû–³•\î‚Q
 
 surface13
@@ -235,7 +269,7 @@ element3,overlay,surface82.png,0,0
 
 //Œû–³•\î‚P
 
-surface7-9,12,14,22,17
+surface7-8,12,14,22,17
 {
 element3,overlay,surface83.png,0,0
 
