@@ -1,4 +1,4 @@
-surface0
+surface0,6,8
 {
 collision0,104,66,171,104,Head
 collision1,114,104,168,142,Face
@@ -30,7 +30,7 @@ collision12,418,36,459,44,Feet
 
 }
 
-surface1
+surface1,11-12
 {
 collision0,104,66,171,104,Head
 collision1,114,104,168,142,Face
