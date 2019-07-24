@@ -8,7 +8,7 @@ Version,1
 
 //‘f‘Ì
 
-surface0-9,11-22
+surface0-9,11-23
 {
 element0,overlay,surface0000.png,0,0
 collisionex0,Head,polygon,209,186,224,157,253,139,293,141,321,155,335,185
@@ -32,21 +32,21 @@ element1,overlay,surface200.png,0,0
 
 //–Ê•’Ê‹»•±‹C–¡
 
-surface2,4-7
+surface4-7,13
 {
 element1,overlay,surface201.png,0,0
 }
 
 //–ÊÔ‚P
 
-surface1,20,12,22,14,16-17,9,3
+surface1,3,9,11-12,14,16-17,19,22-23
 {
 element1,overlay,surface210.png,0,0
 }
 
 //–ÊÔ‚Q
 
-surface11
+surface20,2
 {
 element1,overlay,surface211.png,0,0
 }
@@ -60,7 +60,7 @@ element2,overlay,surface50.png,0,0
 
 ”û”ß
 
-surface16,3-4
+surface16,3-4,21,19,23
 {
 element2,overlay,surface51.png,0,0
 }
@@ -90,17 +90,17 @@ element2,overlay,surface54.png,0,0
 }
 
 
-”û‹^
+//”û‹^
 
-//surface
-//{
-//element2,overlay,surface55.png,0,0
-//}
+surface18
+{
+element2,overlay,surface55.png,0,0
+}
 
 
 //”ûŠy
 
-surface1-2,5,11-12,14
+surface1-2,5,11-12,14,20
 {
 element2,overlay,surface56.png,0,0
 }
@@ -111,14 +111,23 @@ surface15,20-22
 element4,overlay,surface120.png,0,0
 }
 
-–Ú•Â‚¶‹ƒ‚«
+
+//”û‹Á‚«
+
+surface13
+{
+element2,overlay,surface57.png,0,0
+}
+
+
+//–Ú•Â‚¶‹ƒ‚«
 surface16
 {
 element4,overlay,surface121.png,0,0
 }
 
 //–Ú•’Ê
-surface0,2,5-6
+surface0,5-6
 {
 animation1.interval,runonce+random,6
 animation1.pattern0,overlay,100,0,0,0
@@ -129,7 +138,7 @@ animation1.pattern4,overlay,100,50,0,0
 }
 
 //–Ú•’Ê”¼–Ú
-surface1,14
+surface1,14,18
 {
 animation1.interval,runonce+random,6
 animation1.pattern0,overlay,110,0,0,0
@@ -137,6 +146,17 @@ animation1.pattern1,overlay,110,80,0,0
 animation1.pattern2,overlay,120,120,0,0
 animation1.pattern3,overlay,120,50,0,0
 animation1.pattern4,overlay,110,50,0,0
+}
+
+//–Ú•’Ê—Ü–Ú
+surface2
+{
+animation1.interval,runonce+random,6
+animation1.pattern0,overlay,102,0,0,0
+animation1.pattern1,overlay,102,80,0,0
+animation1.pattern2,overlay,122,120,0,0
+animation1.pattern3,overlay,122,50,0,0
+animation1.pattern4,overlay,102,50,0,0
 }
 
 //–Ú”¼–Ú‹ƒ‚«
@@ -167,13 +187,13 @@ surface4,9
 animation1.interval,runonce+random,6
 animation1.pattern0,overlay,102,0,0,0
 animation1.pattern1,overlay,102,80,0,0
-animation1.pattern2,overlay,110,120,0,0
-animation1.pattern3,overlay,120,50,0,0
+animation1.pattern2,overlay,102,120,0,0
+animation1.pattern3,overlay,122,50,0,0
 animation1.pattern4,overlay,102,50,0,0
 }
 
 //–Ú‰EŒ©‚é
-surface8,12
+surface8
 {
 animation1.interval,runonce+random,6
 animation1.pattern0,overlay,105,0,0,0
@@ -181,6 +201,17 @@ animation1.pattern1,overlay,105,80,0,0
 animation1.pattern2,overlay,115,120,0,0
 animation1.pattern3,overlay,120,50,0,0
 animation1.pattern4,overlay,105,50,0,0
+}
+
+//”¼–Ú‰EŒ©‚é
+surface12
+{
+animation1.interval,runonce+random,6
+animation1.pattern0,overlay,115,0,0,0
+animation1.pattern1,overlay,115,80,0,0
+animation1.pattern2,overlay,115,120,0,0
+animation1.pattern3,overlay,120,50,0,0
+animation1.pattern4,overlay,115,50,0,0
 }
 
 //–Ú‰ºŒ©‚é
@@ -195,22 +226,31 @@ animation1.pattern4,overlay,104,50,0,0
 }
 
 //–Ú‰ºŒ©‚é—Ü–Ú
-//surface11
-//{
-//animation1.interval,runonce+random,6
-//animation1.pattern0,overlay,103,0,0,0
-//animation1.pattern1,overlay,103,80,0,0
-//animation1.pattern2,overlay,113,120,0,0
-//animation1.pattern3,overlay,120,50,0,0
-//animation1.pattern4,overlay,103,50,0,0
-//}
+surface19
+{
+animation1.interval,runonce+random,6
+animation1.pattern0,overlay,103,0,0,0
+animation1.pattern1,overlay,103,80,0,0
+animation1.pattern2,overlay,113,120,0,0
+animation1.pattern3,overlay,122,50,0,0
+animation1.pattern4,overlay,103,50,0,0
+}
 
-
+//–Ú‹Á‚«
+surface13
+{
+animation1.interval,runonce+random,6
+animation1.pattern0,overlay,106,0,0,0
+animation1.pattern1,overlay,106,80,0,0
+animation1.pattern2,overlay,116,120,0,0
+animation1.pattern3,overlay,120,50,0,0
+animation1.pattern4,overlay,106,50,0,0
+}
 
 
 //Œû•’Êi‚ñ`j
 
-surface0-1,3-4,11,6,15-16,9
+surface0-1,3-4,11,6,15-16,9,19-21
 {
 element3,overlay,surface80.png,0,0
 
@@ -262,14 +302,14 @@ animation4.pattern7,overlay,84,100,0,0
 
 //Œû–³•\î‚Q
 
-surface13
-{
-element3,overlay,surface82.png,0,0
-}
+//surface13
+//{
+//element3,overlay,surface82.png,0,0
+//}
 
 //Œû–³•\î‚P
 
-surface7-8,12,14,22,17
+surface7-8,12-14,17-18,22-23
 {
 element3,overlay,surface83.png,0,0
 
@@ -283,11 +323,20 @@ animation4.pattern5,overlay,91,90,0,0
 animation4.pattern6,overlay,83,90,0,0
 }
 
-
+//–Ú‹Á‚«—Ü–Ú
+surface23
+{
+animation1.interval,runonce+random,6
+animation1.pattern0,overlay,107,0,0,0
+animation1.pattern1,overlay,107,80,0,0
+animation1.pattern2,overlay,117,120,0,0
+animation1.pattern3,overlay,122,50,0,0
+animation1.pattern4,overlay,107,50,0,0
+}
 
 
 //’…‚¹‘Ö‚¦
-surface0-9,11-22
+surface0-9,11-23
 {
 
 //˜r
@@ -1224,6 +1273,62 @@ animation7570.interval,bind
 animation7570.pattern0,bind,2070,0,0,0
 animation7571.interval,bind
 animation7571.pattern0,bind,2071,0,0,0
+animation7572.interval,bind
+animation7572.pattern0,bind,2072,0,0,0
+animation7572.collision7572,246,483,296,530,Hand
+animation7573.interval,bind
+animation7573.pattern0,bind,2073,0,0,0
+animation7573.collision7573,246,483,296,530,Hand
+animation7574.interval,bind
+animation7574.pattern0,bind,2074,0,0,0
+animation7574.collision7574,246,483,296,530,Hand
+animation7575.interval,bind
+animation7575.pattern0,bind,2075,0,0,0
+animation7575.collision7575,246,483,296,530,Hand
+animation7576.interval,bind
+animation7576.pattern0,bind,2076,0,0,0
+animation7576.collision7576,246,483,296,530,Hand
+animation7577.interval,bind
+animation7577.pattern0,bind,2077,0,0,0
+animation7577.collision7577,246,483,296,530,Hand
+animation7578.interval,bind
+animation7578.pattern0,bind,2078,0,0,0
+animation7578.collision7578,246,483,296,530,Hand
+animation7579.interval,bind
+animation7579.pattern0,bind,2079,0,0,0
+animation7579.collision7579,246,483,296,530,Hand
+animation7580.interval,bind
+animation7580.pattern0,bind,2080,0,0,0
+animation7580.collision7580,246,483,296,530,Hand
+animation7581.interval,bind
+animation7581.pattern0,bind,2081,0,0,0
+animation7581.collision7581,246,483,296,530,Hand
+animation7582.interval,bind
+animation7582.pattern0,bind,2082,0,0,0
+animation7582.collision7582,246,483,296,530,Hand
+animation7583.interval,bind
+animation7583.pattern0,bind,2083,0,0,0
+animation7583.collision7583,246,483,296,530,Hand
+animation7584.interval,bind
+animation7584.pattern0,bind,2084,0,0,0
+animation7584.collision7584,246,483,296,530,Hand
+animation7585.interval,bind
+animation7585.pattern0,bind,2085,0,0,0
+animation7585.collision7585,246,483,296,530,Hand
+animation7586.interval,bind
+animation7586.pattern0,bind,2086,0,0,0
+animation7586.collision7586,246,483,296,530,Hand
+animation7587.interval,bind
+animation7587.pattern0,bind,2087,0,0,0
+animation7587.collision7587,246,483,296,530,Hand
+
+
+
+
+
+
+
+
 
 
 
