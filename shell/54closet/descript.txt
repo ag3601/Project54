@@ -369,7 +369,6 @@ sakura.bindgroup8109.name,ワンピース,着物赤
 sakura.bindgroup8117.name,ワンピース,着物白
 
 
-
 //トップ　
 
 sakura.bindgroup7513.default,1
@@ -442,22 +441,22 @@ sakura.bindgroup7568.name,トップ,ワンピースB黒
 sakura.bindgroup7569.name,トップ,ワンピースB白
 sakura.bindgroup7570.name,トップ,ワンピースB赤
 sakura.bindgroup7571.name,トップ,ワンピースBピンク
-sakura.bindgroup7572.name,トップ,着物黄帯黒
-sakura.bindgroup7573.name,トップ,着物黄帯赤
-sakura.bindgroup7574.name,トップ,着物黄帯青
-sakura.bindgroup7575.name,トップ,着物黄帯水色
-sakura.bindgroup7576.name,トップ,着物黄帯濃赤
-sakura.bindgroup7577.name,トップ,着物黄帯濃青
-sakura.bindgroup7578.name,トップ,着物黄帯濃水色
-sakura.bindgroup7579.name,トップ,着物桃帯黒
-sakura.bindgroup7580.name,トップ,着物桃帯赤
-sakura.bindgroup7581.name,トップ,着物桃帯青
-sakura.bindgroup7582.name,トップ,着物桃帯水色
-sakura.bindgroup7583.name,トップ,着物桃帯濃赤
-sakura.bindgroup7584.name,トップ,着物桃帯濃青
-sakura.bindgroup7585.name,トップ,着物桃帯濃水色
-sakura.bindgroup7586.name,トップ,着物赤
-sakura.bindgroup7587.name,トップ,着物白
+sakura.bindgroup8122.name,トップ,着物上黄帯黒
+sakura.bindgroup8123.name,トップ,着物上黄帯赤
+sakura.bindgroup8124.name,トップ,着物上黄帯青
+sakura.bindgroup8125.name,トップ,着物上黄帯水色
+sakura.bindgroup8126.name,トップ,着物上黄帯濃赤
+sakura.bindgroup8127.name,トップ,着物上黄帯濃青
+sakura.bindgroup8128.name,トップ,着物上黄帯濃水色
+sakura.bindgroup8129.name,トップ,着物上桃帯黒
+sakura.bindgroup8130.name,トップ,着物上桃帯赤
+sakura.bindgroup8131.name,トップ,着物上桃帯青
+sakura.bindgroup8132.name,トップ,着物上桃帯水色
+sakura.bindgroup8133.name,トップ,着物上桃帯濃赤
+sakura.bindgroup8134.name,トップ,着物上桃帯濃青
+sakura.bindgroup8135.name,トップ,着物上桃帯濃水色
+sakura.bindgroup8136.name,トップ,着物上赤
+sakura.bindgroup8137.name,トップ,着物上白
 
 
 
