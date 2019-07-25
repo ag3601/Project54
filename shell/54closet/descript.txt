@@ -733,6 +733,16 @@ sakura.bindgroup15123.name,帽子,麦わら帽子赤
 
 //上着
 
+sakura.bindgroup8400.name,上着,カーディガン黒
+sakura.bindgroup8401.name,上着,カーディガン白
+sakura.bindgroup8402.name,上着,カーディガンピンク
+sakura.bindgroup8403.name,上着,カーディガン茶
+sakura.bindgroup8404.name,上着,カーディガン開黒
+sakura.bindgroup8405.name,上着,カーディガン開白
+sakura.bindgroup8406.name,上着,カーディガン開ピンク
+sakura.bindgroup8407.name,上着,カーディガン開茶
+
+
 
 
 //外套
@@ -753,11 +763,62 @@ sakura.bindgroup4822.name,眼鏡,眼鏡２白
 sakura.bindgroup4823.name,眼鏡,眼鏡２赤
 
 
+
+//チョーカー
+
+sakura.bindgroup4300.name,チョーカー,チョーカー黒
+sakura.bindgroup4301.name,チョーカー,チョーカー白
+sakura.bindgroup4302.name,チョーカー,チョーカー赤
+sakura.bindgroup4303.name,チョーカー,チョーカーA黒
+sakura.bindgroup4304.name,チョーカー,チョーカーA白
+sakura.bindgroup4305.name,チョーカー,チョーカーA赤
+sakura.bindgroup4306.name,チョーカー,チョーカーB黒
+sakura.bindgroup4307.name,チョーカー,チョーカーB白
+sakura.bindgroup4308.name,チョーカー,チョーカーB赤
+sakura.bindgroup4309.name,チョーカー,チョーカーC黒
+sakura.bindgroup4310.name,チョーカー,チョーカーC白
+sakura.bindgroup4311.name,チョーカー,チョーカーC赤
+sakura.bindgroup4312.name,チョーカー,チョーカーC2黒
+sakura.bindgroup4313.name,チョーカー,チョーカーC2白
+sakura.bindgroup4314.name,チョーカー,チョーカーC2赤
+sakura.bindgroup4315.name,チョーカー,首輪黒
+sakura.bindgroup4316.name,チョーカー,首輪白
+sakura.bindgroup4317.name,チョーカー,首輪赤
+
+
+//首アクセサリー
+
+sakura.bindgroup7800.name,首アクセサリー,ネックレス１赤
+sakura.bindgroup7801.name,首アクセサリー,ネックレス１青
+sakura.bindgroup7802.name,首アクセサリー,ネックレス１水色
+sakura.bindgroup7803.name,首アクセサリー,ブローチ１
+sakura.bindgroup7804.name,首アクセサリー,ブローチ２
+sakura.bindgroup7805.name,首アクセサリー,リボン大黒
+sakura.bindgroup7806.name,首アクセサリー,リボン大白
+sakura.bindgroup7807.name,首アクセサリー,リボン大赤
+
+
 //襟
 
-
-
-
+sakura.bindgroup7700.name,襟,フリル襟１
+sakura.bindgroup7701.name,襟,フリル襟２
+sakura.bindgroup7702.name,襟,Yシャツ襟黒
+sakura.bindgroup7703.name,襟,Yシャツ襟白
+sakura.bindgroup7704.name,襟,開き襟黒
+sakura.bindgroup7705.name,襟,開き襟白
+sakura.bindgroup7706.name,襟,紐リボン黒
+sakura.bindgroup7707.name,襟,紐リボン白
+sakura.bindgroup7708.name,襟,紐リボン赤
+sakura.bindgroup7709.name,襟,セーラー襟黒
+sakura.bindgroup7710.name,襟,セーラー襟白
+sakura.bindgroup7711.name,襟,セーラー襟赤
+sakura.bindgroup7712.name,襟,セーラー襟青
+sakura.bindgroup7713.name,襟,パーカー襟黒
+sakura.bindgroup7714.name,襟,パーカー襟白
+sakura.bindgroup7715.name,襟,パーカー襟赤
+sakura.bindgroup7716.name,襟,付け襟黒
+sakura.bindgroup7717.name,襟,付け襟白
+sakura.bindgroup7718.name,襟,付け襟２黒
 
 
 //服装飾

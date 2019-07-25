@@ -126,7 +126,10 @@
 ＞初回
 
 ＊OnGhostCalled
-\t\h\s[5]\w6\nあ\w4…\w3（R0）\w1さん、\w7が\w6\n\w3呼んで\w3くださったんです、\w9\w3ね\w3…\w3。
+\t\h\s[5]\w6
+あ\w4…\w3（R0）\w1さん、\w7が\w6
+
+\w3呼んで\w3くださったんです、\w9\w3ね\w3…\w3。
 ＊OnGhostChanged
 ＞（現在月）月（現在日）日
 ＞他のゴーストから変更早い	（経過分）＜＝２
@@ -454,44 +457,51 @@ ${５４名前選択変数}、\w6しあわせでし、\w9た\w3…\w3。
 
 \w4落ち着け、\w4ます。
 ＊OnWindowStateRestore
-\h\s[1]\n\w4…\w5…\w5…。
+\h\s[1]
+\w4…\w5…\w5…。
 ＊OnWindowStateRestore
-\h（１）\n…がんばります。
+\h（１）
+…がんばります。
 ＊OnWindowStateRestore
 \h
-\s[0]びっくり、\w4しました\w2…\w2。
+（１４）びっくり、\w4しました\w2…\w2。
 ＊OnWindowStateRestore
-\h\s[0]\u\s[10]\h\s[1]\n\w3あそこも\w6、よかった\w1です\w1…\w1。
+\h（１４）
+\w3あそこも\w6、よかった\w1です\w1…\w1。
 ＊OnWindowStateRestore
-\h\s[0]\u\s[10]\h\s[1]\n\w3一人きりだったから、\w8\w8\w5つい\w2…\w2\n\n\w9いえ、\w9何でも、\w3無いんです…。
+\h\s[1]
+\w3一人きりだったから、\w8\w8\w5つい\w2…\w2
+
+（１４）\w9いえ、\w9何でも、\w3無いんです…。
 ＊OnWindowStateRestore
-\h\s[0]\u\s[10]\h\s[1]
+\h\s[1]
 \w3…\w3ぃ\w1すき、\w7${usernames}、\w5だぁい\w1すき、\w4
 \w8${usernames}\w8…\w9\w9
 
-\w5\s[0]\w9\w8えっ。
+\w5（２３）\w9\w8えっ。
 
 \w8\w9\w9\w8い、\w6いつの\w1間、\w7に\w4…\w5${５４名前選択変数}\w9
-\w7\s[1]\w5外に\w1出てたんです、\w9\w4か\w3…\w3？
+\w7（１４）\w5外に\w1出てたんです、\w9\w4か\w3…\w3？ｗ９（２０）
 ＊OnWindowStateRestore
-\h\s[0]\u\s[10]\h\s[0]\n\w3あ、\w5あそこ\w1には、\w4\s[1]\w5あの\w3…\w3
+\h（１）\n\w3あ、\w5あそこ\w1には、\w4\w5あの\w3…\w3
 
-\w8いえ、\w5何でも\w2ありま、\w8せん\w3…\w3。
+\w8（１２）いえ、\w5何でも\w2ありま、\w8せん\w3…\w3。
 ＊OnWindowStateRestore
-\h\s[0]\u\s[10]\h\s[1]\n\w8ちょっと、\w6せまかった、\w7から\w3…\w3
+\h（２１）
+\w8ちょっと、\w6せまかった、\w7から\w3…\w3
 
-\w5ひざが\w4しびれて\w3…\w3。
+（４）\w5ひざが\w4しびれて\w3…\w3。
 ＊OnWindowStateRestore
 \h
 （１）\w9…\w5あ\w2っ\w5。
 ＊OnWindowStateRestore
 \h
-\s[0]もう、\w3大丈夫、
+（１）もう、\w3大丈夫、
 
 \w7です…か？。
 ＊OnWindowStateRestore
 \h
-（１）はやかったんです、\w4ね。
+（１２）はやかったんです、\w4ね…。
 ＊rが押された
 ＄辞書リロード	実行
 ：

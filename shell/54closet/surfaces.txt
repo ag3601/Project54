@@ -106,11 +106,16 @@ element2,overlay,surface56.png,0,0
 }
 
 //目閉じ
-surface15,20-22
+surface15,20,22
 {
 element4,overlay,surface120.png,0,0
 }
 
+//目閉じ涙目
+surface21
+{
+element4,overlay,surface122.png,0,0
+}
 
 //眉驚き
 
@@ -1816,6 +1821,22 @@ animation15123.pattern0,bind,15123,0,0,0
 
 //上着
 
+animation8400.interval,bind
+animation8400.pattern0,bind,8400,0,0,0
+animation8401.interval,bind
+animation8401.pattern0,bind,8401,0,0,0
+animation8402.interval,bind
+animation8402.pattern0,bind,8402,0,0,0
+animation8403.interval,bind
+animation8403.pattern0,bind,8403,0,0,0
+animation8404.interval,bind
+animation8404.pattern0,bind,8404,0,0,0
+animation8405.interval,bind
+animation8405.pattern0,bind,8405,0,0,0
+animation8406.interval,bind
+animation8406.pattern0,bind,8406,0,0,0
+animation8407.interval,bind
+animation8407.pattern0,bind,8407,0,0,0
 
 
 
@@ -1834,7 +1855,7 @@ animation8501.pattern0,bind,8501,0,0,0
 
 
 
-//脚アクセサリー
+//脚アクセサリー・眼鏡
 
 animation4800.interval,bind
 animation4800.pattern0,bind,4400,0,0,0
@@ -1886,11 +1907,108 @@ animation4823.interval,bind
 animation4823.pattern0,bind,4423,0,0,0
 
 
+//チョーカー
+
+animation4300.interval,bind
+animation4300.pattern0,bind,4300,0,0,0
+animation4301.interval,bind
+animation4301.pattern0,bind,4301,0,0,0
+animation4302.interval,bind
+animation4302.pattern0,bind,4302,0,0,0
+animation4303.interval,bind
+animation4303.pattern0,bind,4303,0,0,0
+animation4304.interval,bind
+animation4304.pattern0,bind,4304,0,0,0
+animation4305.interval,bind
+animation4305.pattern0,bind,4305,0,0,0
+animation4306.interval,bind
+animation4306.pattern0,bind,4306,0,0,0
+animation4307.interval,bind
+animation4307.pattern0,bind,4307,0,0,0
+animation4308.interval,bind
+animation4308.pattern0,bind,4308,0,0,0
+animation4309.interval,bind
+animation4309.pattern0,bind,4309,0,0,0
+animation4310.interval,bind
+animation4310.pattern0,bind,4310,0,0,0
+animation4311.interval,bind
+animation4311.pattern0,bind,4311,0,0,0
+animation4312.interval,bind
+animation4312.pattern0,bind,4312,0,0,0
+animation4313.interval,bind
+animation4313.pattern0,bind,4313,0,0,0
+animation4314.interval,bind
+animation4314.pattern0,bind,4314,0,0,0
+animation4315.interval,bind
+animation4315.pattern0,bind,4315,0,0,0
+animation4316.interval,bind
+animation4316.pattern0,bind,4316,0,0,0
+animation4317.interval,bind
+animation4317.pattern0,bind,4317,0,0,0
+
+
+//首アクセサリー
+
+animation7800.interval,bind
+animation7800.pattern0,bind,7800,0,0,0
+animation7801.interval,bind
+animation7801.pattern0,bind,7801,0,0,0
+animation7802.interval,bind
+animation7802.pattern0,bind,7802,0,0,0
+animation7803.interval,bind
+animation7803.pattern0,bind,7803,0,0,0
+animation7804.interval,bind
+animation7804.pattern0,bind,7804,0,0,0
+animation7805.interval,bind
+animation7805.pattern0,bind,7805,0,0,0
+animation7806.interval,bind
+animation7806.pattern0,bind,7806,0,0,0
+animation7807.interval,bind
+animation7807.pattern0,bind,7807,0,0,0
 
 
 
 
+//襟
 
+animation7700.interval,bind
+animation7700.pattern0,bind,7700,0,0,0
+animation7701.interval,bind
+animation7701.pattern0,bind,7701,0,0,0
+animation7702.interval,bind
+animation7702.pattern0,bind,7702,0,0,0
+animation7703.interval,bind
+animation7703.pattern0,bind,7703,0,0,0
+animation7704.interval,bind
+animation7704.pattern0,bind,7704,0,0,0
+animation7705.interval,bind
+animation7705.pattern0,bind,7705,0,0,0
+animation7706.interval,bind
+animation7706.pattern0,bind,7706,0,0,0
+animation7707.interval,bind
+animation7707.pattern0,bind,7707,0,0,0
+animation7708.interval,bind
+animation7708.pattern0,bind,7708,0,0,0
+animation7709.interval,bind
+animation7709.pattern0,bind,7709,0,0,0
+animation7710.interval,bind
+animation7710.pattern0,bind,7710,0,0,0
+animation7711.interval,bind
+animation7711.pattern0,bind,7711,0,0,0
+animation7712.interval,bind
+animation7712.pattern0,bind,7712,0,0,0
+animation7713.interval,bind
+animation7713.pattern0,bind,7713,0,0,0
+animation7714.interval,bind
+animation7714.pattern0,bind,7714,0,0,0
+animation7715.interval,bind
+animation7715.pattern0,bind,7715,0,0,0
+animation7716.interval,bind
+animation7716.pattern0,bind,7716,0,0,0
+animation7717.interval,bind
+animation7717.pattern0,bind,7717,0,0,0
+animation7718.interval,bind
+animation7718.pattern0,bind,7718,0,0,0
 
 
 }
