@@ -25,14 +25,14 @@ collisionex10,xxx,circle,270,529,10
 
 //面普通
 
-surface0,8,21
+surface0,8
 {
 element1,overlay,surface200.png,0,0
 }
 
 //面普通興奮気味
 
-surface4-7,13
+surface4-7,13,21
 {
 element1,overlay,surface201.png,0,0
 }
@@ -46,7 +46,7 @@ element1,overlay,surface210.png,0,0
 
 //面赤２
 
-surface20,2
+surface20,2,24-26
 {
 element1,overlay,surface211.png,0,0
 }
@@ -58,7 +58,7 @@ surface0,8,15
 element2,overlay,surface50.png,0,0
 }
 
-眉悲
+//眉悲
 
 surface16,3-4,21,19,23
 {
@@ -100,7 +100,7 @@ element2,overlay,surface55.png,0,0
 
 //眉楽
 
-surface1-2,5,11-12,14,20
+surface1-2,5,11-12,14,20,24-26
 {
 element2,overlay,surface56.png,0,0
 }
@@ -112,7 +112,7 @@ element4,overlay,surface120.png,0,0
 }
 
 //目閉じ涙目
-surface21
+surface21,26
 {
 element4,overlay,surface122.png,0,0
 }
@@ -126,7 +126,7 @@ element2,overlay,surface57.png,0,0
 
 
 //目閉じ泣き
-surface16
+surface16,25
 {
 element4,overlay,surface121.png,0,0
 }
@@ -165,7 +165,7 @@ animation1.pattern4,overlay,102,50,0,0
 }
 
 //目半目泣き
-surface3
+surface3,24
 {
 animation1.interval,runonce+random,6
 animation1.pattern0,overlay,111,0,0,0
@@ -290,7 +290,7 @@ animation4.pattern7,overlay,81,100,0,0
 
 //口ニコ
 
-surface2
+surface2,24-26
 {
 element3,overlay,surface84.png,0,0
 
@@ -341,7 +341,7 @@ animation1.pattern4,overlay,107,50,0,0
 
 
 //着せ替え
-surface0-9,11-23
+surface0-9,11-26
 {
 
 //腕
