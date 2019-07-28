@@ -4,7 +4,7 @@ craftman,AG36
 craftmanw,AG36
 craftmanurl,https://twitter.com/AG3601
 
-name,プロジェクト５４
+name,５４みたいの（元プロジェクト５４）
 type,ghost
 
 sakura.name,54
