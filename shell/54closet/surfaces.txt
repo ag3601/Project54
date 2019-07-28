@@ -1206,6 +1206,38 @@ animation8136.collision8136,246,483,296,530,Hand
 animation8137.interval,bind
 animation8137.pattern0,bind,8137,0,0,0
 animation8137.collision8137,246,483,296,530,Hand
+animation8138.interval,bind
+animation8138.pattern0,bind,8138,0,0,0
+animation8138.collision8138,246,483,296,530,Hand
+animation8138.collisionex81038,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
+animation8139.interval,bind
+animation8139.pattern0,bind,8139,0,0,0
+animation8139.collision8139,246,483,296,530,Hand
+animation8139.collisionex81039,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
+animation8140.interval,bind
+animation8140.pattern0,bind,8140,0,0,0
+animation8140.collision8140,246,483,296,530,Hand
+animation8140.collisionex81040,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
+animation8141.interval,bind
+animation8141.pattern0,bind,8141,0,0,0
+animation8141.collision8141,246,483,296,530,Hand
+animation8141.collisionex81041,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
+animation8142.interval,bind
+animation8142.pattern0,bind,8142,0,0,0
+animation8142.collision8142,246,483,296,530,Hand
+animation8142.collisionex81042,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
+animation8143.interval,bind
+animation8143.pattern0,bind,8143,0,0,0
+animation8143.collision8143,246,483,296,530,Hand
+animation8143.collisionex81043,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
+animation8144.interval,bind
+animation8144.pattern0,bind,8144,0,0,0
+animation8144.collision8144,246,483,296,530,Hand
+animation8144.collisionex81044,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
+animation8145.interval,bind
+animation8145.pattern0,bind,8145,0,0,0
+animation8145.collision8145,246,483,296,530,Hand
+animation8145.collisionex81045,Skirt,polygon,210,808,274,813,331,806,332,845,291,854,264,854,211,846
 
 
 //トップ　
@@ -1488,6 +1520,9 @@ animation8040.collisionex8040,Skirt,polygon,203,533,269,539,340,537,343,555,340,
 animation8041.interval,bind
 animation8041.pattern0,bind,3041,0,0,0
 animation8041.collisionex8041,Skirt,polygon,203,533,269,539,340,537,343,555,340,578,205,579,201,557
+animation8042.interval,bind
+animation8042.pattern0,bind,3042,0,0,0
+animation8042.collision8042,196,597,348,663,Skirt
 
 
 //靴下
