@@ -8,7 +8,7 @@ Version,1
 
 //素体
 
-surface0-9,11-36
+surface0-9,11-37
 {
 element0,overlay,surface0000.png,0,0
 collisionex0,Head,polygon,212,170,228,148,251,136,293,136,316,148,331,170
@@ -32,7 +32,7 @@ element1,overlay,surface200.png,0,0
 
 //面普通興奮気味
 
-surface4-7,13,21,28
+surface4-7,13,21,28,37
 {
 element1,overlay,surface201.png,0,0
 }
@@ -100,13 +100,13 @@ element2,overlay,surface55.png,0,0
 
 //眉楽
 
-surface1-2,5,11-12,14,20,24-27,30-35
+surface1-2,5,11-12,14,20,24-27,30-35,37
 {
 element2,overlay,surface56.png,0,0
 }
 
 //目閉じ
-surface15,20,22,27,31
+surface15,20,22,27,31,37
 {
 element4,overlay,surface120.png,0,0
 }
@@ -273,7 +273,7 @@ animation4.pattern7,overlay,80,100,0,0
 
 //口ニコ小
 
-surface5
+surface5,37
 {
 element3,overlay,surface81.png,0,0
 
@@ -341,7 +341,7 @@ animation1.pattern4,overlay,107,50,0,0
 
 
 //着せ替え
-surface0-9,11-36
+surface0-9,11-37
 {
 
 //腕
