@@ -8,7 +8,7 @@ Version,1
 
 //ëfëÃ
 
-surface0-9,11-37
+surface0-9,11-38
 {
 element0,overlay,surface0000.png,0,0
 collisionex0,Head,polygon,212,170,228,148,251,136,293,136,316,148,331,170
@@ -39,7 +39,7 @@ element1,overlay,surface201.png,0,0
 
 //ñ ê‘ÇP
 
-surface1-3,9,11-12,14,16-17,19,22-23,26-27,29-36
+surface1-3,9,11-12,14,16-17,19,22-23,26-27,29-36,38
 {
 element1,overlay,surface210.png,0,0
 }
@@ -100,7 +100,7 @@ element2,overlay,surface55.png,0,0
 
 //î˚äy
 
-surface1-2,5,11-12,14,20,24-27,30-35,37
+surface1-2,5,11-12,14,20,24-27,30-35,37-38
 {
 element2,overlay,surface56.png,0,0
 }
@@ -132,7 +132,7 @@ element4,overlay,surface121.png,0,0
 }
 
 //ñ⁄ïÅí 
-surface0,5-6,30,33
+surface0,5-6,30,33,38
 {
 animation1.interval,runonce+random,6
 animation1.pattern0,overlay,100,0,0,0
@@ -273,7 +273,7 @@ animation4.pattern7,overlay,80,100,0,0
 
 //å˚ÉjÉRè¨
 
-surface5,37
+surface5,37-38
 {
 element3,overlay,surface81.png,0,0
 
@@ -341,7 +341,7 @@ animation1.pattern4,overlay,107,50,0,0
 
 
 //íÖÇπë÷Ç¶
-surface0-9,11-37
+surface0-9,11-38
 {
 
 //òr
