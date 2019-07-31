@@ -1,3 +1,4 @@
 開発ノート.txt
 surface0..apng
 update2.dau
+thumbnail.pnr
