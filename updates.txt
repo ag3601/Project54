@@ -1,5 +1,4 @@
-file,cover.png7267ef3bfe0ecc6d14bf5f40d91384cfsize=127745
-file,delete.txt3df23965d18f2bc2bba250c01419c085size=60
+file,delete.txt7d33d1d825b7b420ed064b7098284b46size=70
 file,developer_options.txtcabdde67661c3278fd492ad9e7a68470size=403
 file,ghost/master/54icon.ico282980d2ac771c9f464f8e9eb85ed68fsize=5622
 file,ghost/master/descript.txta188edf210040ae112306ef7fc31fba7size=201
