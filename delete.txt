@@ -2,3 +2,4 @@
 surface0..apng
 update2.dau
 thumbnail.pnr
+cover.png
