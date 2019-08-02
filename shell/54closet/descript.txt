@@ -419,6 +419,13 @@ sakura.bindgroup7529.name,トップ,タンクトップピンク
 sakura.bindgroup7530.name,トップ,タンクトップストライプ黒
 sakura.bindgroup7531.name,トップ,タンクトップストライプ白
 sakura.bindgroup7532.name,トップ,タンクトップストライプ赤
+sakura.bindgroup7572.name,トップ,セーラーA黒
+sakura.bindgroup7573.name,トップ,セーラーA赤
+sakura.bindgroup7574.name,トップ,セーラーA青
+sakura.bindgroup7575.name,トップ,セーラーB黒
+sakura.bindgroup7576.name,トップ,セーラーB青
+sakura.bindgroup7577.name,トップ,セーラーBネイビーブルー
+sakura.bindgroup7578.name,トップ,セーラー黒
 sakura.bindgroup7542.name,トップ,チャイナドレスA黒黒
 sakura.bindgroup7543.name,トップ,チャイナドレスA黒グレー
 sakura.bindgroup7544.name,トップ,チャイナドレスA黒赤
@@ -465,7 +472,6 @@ sakura.bindgroup8134.name,トップ,着物上桃帯濃紺桔梗
 sakura.bindgroup8135.name,トップ,着物上桃帯濃胆礬色
 sakura.bindgroup8136.name,トップ,着物上紅の八塩
 sakura.bindgroup8137.name,トップ,着物上月白
-
 
 
 
@@ -812,7 +818,39 @@ sakura.bindgroup7807.name,首アクセサリー,リボン大赤
 sakura.bindgroup7706.name,服上アクセサリー,紐リボン黒
 sakura.bindgroup7707.name,服上アクセサリー,紐リボン白
 sakura.bindgroup7708.name,服上アクセサリー,紐リボン赤
-
+sakura.bindgroup7719.name,服上アクセサリー,シャツ制服リボン黒
+sakura.bindgroup7720.name,服上アクセサリー,シャツ制服リボン白
+sakura.bindgroup7721.name,服上アクセサリー,シャツ制服リボン赤
+sakura.bindgroup7723.name,服上アクセサリー,シャツ制服リボン青
+sakura.bindgroup7725.name,服上アクセサリー,シャツ制服リボン水色
+sakura.bindgroup7726.name,服上アクセサリー,シャツ制服リボン黄色
+sakura.bindgroup7727.name,服上アクセサリー,シャツスカーフ黒
+sakura.bindgroup7728.name,服上アクセサリー,シャツスカーフ白
+sakura.bindgroup7729.name,服上アクセサリー,シャツスカーフ赤
+sakura.bindgroup7730.name,服上アクセサリー,シャツネクタイ黒
+sakura.bindgroup7731.name,服上アクセサリー,シャツネクタイ白
+sakura.bindgroup7732.name,服上アクセサリー,シャツネクタイ赤
+sakura.bindgroup7733.name,服上アクセサリー,シャツネクタイ青
+sakura.bindgroup7751.name,服上アクセサリー,シャツネクタイ水色
+sakura.bindgroup7752.name,服上アクセサリー,シャツネクタイ黄色
+sakura.bindgroup7734.name,服上アクセサリー,セーラー制服リボン黒
+sakura.bindgroup7735.name,服上アクセサリー,セーラー制服リボン白
+sakura.bindgroup7722.name,服上アクセサリー,セーラー制服リボン赤
+sakura.bindgroup7736.name,服上アクセサリー,セーラー制服リボン青
+sakura.bindgroup7737.name,服上アクセサリー,セーラー制服リボン水色
+sakura.bindgroup7738.name,服上アクセサリー,セーラー制服リボン黄色
+sakura.bindgroup7739.name,服上アクセサリー,セーラースカーフ黒
+sakura.bindgroup7740.name,服上アクセサリー,セーラースカーフ白
+sakura.bindgroup7741.name,服上アクセサリー,セーラースカーフ赤
+sakura.bindgroup7742.name,服上アクセサリー,セーラースカーフ青
+sakura.bindgroup7743.name,服上アクセサリー,セーラースカーフ水色
+sakura.bindgroup7744.name,服上アクセサリー,セーラースカーフ黄色
+sakura.bindgroup7745.name,服上アクセサリー,セーラーネクタイ黒
+sakura.bindgroup7746.name,服上アクセサリー,セーラーネクタイ白
+sakura.bindgroup7747.name,服上アクセサリー,セーラーネクタイ赤
+sakura.bindgroup7748.name,服上アクセサリー,セーラーネクタイ青
+sakura.bindgroup7749.name,服上アクセサリー,セーラーネクタイ水色
+sakura.bindgroup7750.name,服上アクセサリー,セーラーネクタイ黄色
 
 
 //襟
