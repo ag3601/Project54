@@ -807,6 +807,14 @@ sakura.bindgroup7806.name,首アクセサリー,リボン大白
 sakura.bindgroup7807.name,首アクセサリー,リボン大赤
 
 
+//服上アクセサリー
+
+sakura.bindgroup7706.name,服上アクセサリー,紐リボン黒
+sakura.bindgroup7707.name,服上アクセサリー,紐リボン白
+sakura.bindgroup7708.name,服上アクセサリー,紐リボン赤
+
+
+
 //襟
 
 sakura.bindgroup7700.name,襟,フリル襟１
@@ -815,9 +823,6 @@ sakura.bindgroup7702.name,襟,Yシャツ襟黒
 sakura.bindgroup7703.name,襟,Yシャツ襟白
 sakura.bindgroup7704.name,襟,開き襟黒
 sakura.bindgroup7705.name,襟,開き襟白
-sakura.bindgroup7706.name,襟,紐リボン黒
-sakura.bindgroup7707.name,襟,紐リボン白
-sakura.bindgroup7708.name,襟,紐リボン赤
 sakura.bindgroup7709.name,襟,セーラー襟黒
 sakura.bindgroup7710.name,襟,セーラー襟白
 sakura.bindgroup7711.name,襟,セーラー襟赤
