@@ -1,4 +1,4 @@
-surface0-9,10-41
+surface0,8,15,40
 {
 collision0,67,26,150,66,Head
 collision1,91,95,103,107,Face
@@ -16,7 +16,7 @@ collision11,39,49,60,100,Hair
 element0,overlay,surface0.png,0,0
 }
 
-surface1,11-14,17,19,20,23,27,30-36,41
+surface1,11-14,17,19,20,23,27,30-31,33-36,41
 {
 collision0,67,26,150,66,Head
 collision1,91,95,103,107,Face
@@ -32,6 +32,7 @@ collision10,95,352,121,398,Foot
 collision11,39,49,60,100,Hair
 
 element0,overlay,surface1.png,0,0
+
 }
 
 surface3-4,16,21,28,29,39

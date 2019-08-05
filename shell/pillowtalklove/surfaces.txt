@@ -28,9 +28,11 @@ collision12,836,72,918,88,Feet
 3interval,rarely
 3pattern0,0,100,base,0,0
 
+element0,overlay,surface0.png,0,0
+
 }
 
-surface1,11-14,17,19,20,23,27,30-36,41
+surface1,11-14,17,19,20,23,27,30-31,33-36,41
 {
 collision0,204,136,363,206,Head
 collision1,228,208,336,284,Face
@@ -54,6 +56,9 @@ collision12,836,72,918,88,Feet
 
 3interval,rarely
 3pattern0,1,100,base,0,0
+
+element0,overlay,surface1.png,0,0
+
 }
 
 surface3-4,16,21,28,29,39
@@ -71,6 +76,8 @@ collision9,594,312,652,328,xxx
 collision10,804,150,900,298,Leg
 collision11,136,152,184,228,Hair
 collision12,836,72,918,88,Feet
+
+element0,overlay,surface4.png,0,0
 
 }
 
@@ -98,6 +105,9 @@ collision12,836,72,918,88,Feet
 
 3interval,rarely
 3pattern0,5,100,base,0,0
+
+element0,overlay,surface5.png,0,0
+
 }
 
 surface6-7,9,18,22
@@ -124,33 +134,11 @@ collision12,836,72,918,88,Feet
 
 3interval,rarely
 3pattern0,7,100,base,0,0
+
+element0,overlay,surface7.png,0,0
+
 }
 
-surface13
-{
-collision0,204,136,363,206,Head
-collision1,228,208,336,284,Face
-collision2,420,296,486,228,Breast
-collision3,552,250,654,310,Hip
-collision4,828,92,992,148,Feet
-collision5,250,286,280,304,Face
-collision6,282,290,300,304,Mouth
-collision7,300,286,314,300,Face
-collision8,126,252,200,306,Hand
-collision9,594,312,652,328,xxx
-collision10,804,150,900,298,Leg
-collision11,136,152,184,228,Hair
-collision12,836,72,918,88,Feet
-
-1interval,rarely
-1pattern0,130,100,base,0,0
-
-2interval,rarely
-2pattern0,131,100,base,0,0
-
-3interval,rarely
-3pattern0,13,100,base,0,0
-}
 surface1000
 {
 element0,overlay,surface0.png,0,0
@@ -170,18 +158,6 @@ collision11,136,152,184,228,Hair
 collision12,836,72,918,88,Feet
 }
 
-
-surface20
-{
-collision4,51,38,62,50,c_ex3
-kero.balloon.offsetx,-30 
-kero.balloon.offsety,20 
-}
-surface25
-{
-kero.balloon.offsetx,10 
-kero.balloon.offsety,-50
-}
 
 surface100
 {

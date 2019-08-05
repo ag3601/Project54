@@ -35,9 +35,11 @@ collision15,54,229,107,261,Hand
 2pattern2,0,17,base
 2pattern3,-1,5,base
 
+element0,overlay,surface0.png,0,0
+
 }
 
-surface1,11-14,17,19,20,23,27,30-36,41
+surface1,11-14,17,19,20,23,27,30-31,33-36,41
 {
 collision0,56,18,104,47,Head
 collision1,65,50,111,75,Face
@@ -73,6 +75,8 @@ collision14,13,41,39,122,Hair
 2pattern2,1,17,base
 2pattern3,-1,5,base
 
+element0,overlay,surface1.png,0,0
+
 }
 
 surface3-4,16,21,28,29,39
@@ -107,6 +111,8 @@ collision14,13,41,39,122,Hair
 2pattern0,402,13,base
 2pattern2,4,9,base
 2pattern3,-1,5,base
+
+element0,overlay,surface4.png,0,0
 
 }
 
@@ -146,6 +152,8 @@ collision14,13,41,39,122,Hair
 2pattern2,5,14,base
 2pattern3,-1,5,base
 
+element0,overlay,surface5.png,0,0
+
 }
 
 surface6-7,9,18,22
@@ -183,6 +191,8 @@ collision14,13,41,39,122,Hair
 2pattern1,705,12,base
 2pattern2,7,16,base
 2pattern3,-1,5,base
+
+element0,overlay,surface7.png,0,0
 
 }
 
@@ -784,45 +794,6 @@ collision14,13,41,39,122,Hair
 
 }
 
-surface13
-{
-collision0,56,18,104,47,Head
-collision1,65,50,111,75,Face
-collision2,64,102,114,133,Breast
-collision3,33,197,49,240,Hip
-collision4,148,71,171,181,Tail
-collision5,84,79,94,86,Mouth
-collision6,49,405,147,445,Foot
-collision7,56,266,128,374,Leg
-collision8,76,190,96,212,xxx
-collision9,110,204,134,238,Hip
-collision10,1,165,32,241,Skirt
-collision11,136,195,166,233,Skirt
-collision12,67,78,83,85,Face
-collision13,95,74,106,85,Face
-collision14,13,41,39,122,Hair
-collision15,54,229,107,261,Hand
-
-0interval,sometimes
-0pattern0,130,10,base
-0pattern1,131,8,base
-0pattern2,13,10,base
-0pattern3,-1,5,base
-
-1interval,rarely
-1pattern0,132,12,base
-1pattern1,133,11,base
-1pattern2,13,15,base
-1pattern3,-1,5,base
-
-2interval,rarely
-2pattern0,134,17,base
-2pattern1,135,10,base
-2pattern2,13,13,base
-2pattern3,-1,5,base
-
-}
-
 surface130
 
 {
@@ -959,20 +930,6 @@ collision13,95,74,106,85,Face
 collision14,13,41,39,122,Hair
 collision15,54,229,107,261,Hand
 
-}
-
-
-surface20
-{
-kero.balloon.offsetx,-30 
-kero.balloon.offsety,20 
-collision4,172,239,194,257,c_ex3
-
-}
-surface23
-{
-kero.balloon.offsetx,10 
-kero.balloon.offsety,-50
 }
 
 surface1000

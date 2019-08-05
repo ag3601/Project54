@@ -22,7 +22,7 @@ collision8,116,81,134,93,Face
 
 }
 
-surface1,11-14,17,19,20,23,27,30-36,41
+surface1,11-14,17,19,20,23,27,30-31,33-36,41
 {
 element0,overlay,surface0.png,0,0
 element1,overlay,surface1001.png,80,45
@@ -118,39 +118,3 @@ collision8,116,81,134,93,Face
 
 }
 
-surface13
-{
-element0,overlay,surface0.png,0,0
-element1,overlay,surface1013.png,80,45
-
-collision0,75,8,157,48,Head
-collision1,88,53,137,81,Face
-collision2,89,121,135,149,Breast
-collision3,0,370,250,450,Skirt
-collision4,85,154,125,191,Bouquet
-collision5,70,204,156,249,Hip
-collision6,105,84,116,93,Mouth
-collision7,92,83,106,92,Face
-collision8,116,81,134,93,Face
-
-}
-
-surface10
-{
-
-}
-
-surface20
-{
-
-}
-
-surface23
-{
-
-}
-
-surface25
-{
-
-}

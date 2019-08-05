@@ -28,7 +28,7 @@ surface0,8,15,40
 0pattern3,-1,5,overlay,0,0
 }
 
-surface1,11-14,17,19,20,23,27,30-36,41
+surface1,11-14,17,19,20,23,27,30-31,33-36,41
 {
 element0,overlay,surface0.png,0,0
 element1,overlay,surface1.png,0,0
@@ -52,9 +52,3 @@ element0,overlay,surface0.png,0,0
 element1,overlay,surface7.png,0,0
 }
 
-surface13
-{
-
-element0,overlay,surface0.png,0,0
-element1,overlay,surface13.png,0,0
-}
