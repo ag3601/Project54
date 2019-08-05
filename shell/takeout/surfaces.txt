@@ -1,4 +1,4 @@
-surface0,6,8
+surface0,8,15,40
 {
 collision0,74,22,118,114,Hair
 collision1,124,13,218,62,Head
@@ -19,7 +19,7 @@ collision9,149,229,235,270,Hip
 
 }
 
-surface1,11-12
+surface1,11-14,17,19,20,23,27,30-36,41
 {
 
 collision0,84,22,117,122,Hair
@@ -94,7 +94,7 @@ collision6,203,117,234,138,Hand
 collision7,132,118,158,144,Hand
 }
 
-surface4
+surface3-4,16,21,28,29,39
 {
 collision0,74,22,118,114,Hair
 collision1,124,13,218,62,Head
@@ -116,7 +116,7 @@ collision9,149,229,235,270,Hip
 
 }
 
-surface5
+surface2,5,24-26,32,37,38
 {
 collision0,74,22,118,114,Hair
 collision1,124,13,218,62,Head
@@ -137,7 +137,7 @@ collision9,149,229,235,270,Hip
 
 }
 
-surface7
+surface6-7,9,18,22
 {
 
 collision0,84,22,117,122,Hair

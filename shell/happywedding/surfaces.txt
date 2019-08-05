@@ -1,4 +1,4 @@
-surface0,6,8
+surface0,8,15,40
 {
 0interval,sometimes
 0pattern0,1050,5,overlay,80,45
@@ -22,7 +22,7 @@ collision8,116,81,134,93,Face
 
 }
 
-surface1,11-12
+surface1,11-14,17,19,20,23,27,30-36,41
 {
 element0,overlay,surface0.png,0,0
 element1,overlay,surface1001.png,80,45
@@ -49,7 +49,7 @@ collision8,116,81,134,93,Face
 
 }
 
-surface4
+surface3-4,16,21,28,29,39
 {
 element0,overlay,surface0.png,0,0
 element1,overlay,surface1004.png,80,45
@@ -70,7 +70,7 @@ collision8,116,81,134,93,Face
 
 }
 
-surface5
+surface2,5,24-26,32,37,38
 {
 element0,overlay,surface0.png,0,0
 element1,overlay,surface1005.png,80,45
@@ -97,7 +97,7 @@ collision8,116,81,134,93,Face
 
 }
 
-surface7
+surface6-7,9,18,22
 {
 element0,overlay,surface0.png,0,0
 element1,overlay,surface1007.png,80,45

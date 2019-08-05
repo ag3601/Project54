@@ -1,4 +1,4 @@
-surface0,6,8
+surface0,8,15,40
 {
 collision0,204,136,363,206,Head
 collision1,228,208,336,284,Face
@@ -30,7 +30,7 @@ collision12,836,72,918,88,Feet
 
 }
 
-surface1,11-12
+surface1,11-14,17,19,20,23,27,30-36,41
 {
 collision0,204,136,363,206,Head
 collision1,228,208,336,284,Face
@@ -56,7 +56,7 @@ collision12,836,72,918,88,Feet
 3pattern0,1,100,base,0,0
 }
 
-surface4
+surface3-4,16,21,28,29,39
 {
 collision0,204,136,363,206,Head
 collision1,228,208,336,284,Face
@@ -74,7 +74,7 @@ collision12,836,72,918,88,Feet
 
 }
 
-surface5
+surface2,5,24-26,32,37,38
 {
 collision0,204,136,363,206,Head
 collision1,228,208,336,284,Face
@@ -100,7 +100,7 @@ collision12,836,72,918,88,Feet
 3pattern0,5,100,base,0,0
 }
 
-surface7
+surface6-7,9,18,22
 {
 collision0,204,136,363,206,Head
 collision1,228,208,336,284,Face

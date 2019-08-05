@@ -1,6 +1,4 @@
-
-
-surface0-22
+surface0,8,15,40
 {
 collision0,90,18,165,62,Head
 collision1,101,63,141,88,Face
@@ -22,7 +20,7 @@ collision16,129,170,167,204,Skirt
 collision17,88,118,96,132,Breast
 }
 
-surface0,6,8
+surface0,8,15,40
 {
 0interval,sometimes
 0pattern1,101,15,overlay,0,0
@@ -30,25 +28,25 @@ surface0,6,8
 0pattern3,-1,5,overlay,0,0
 }
 
-surface1,11-12
+surface1,11-14,17,19,20,23,27,30-36,41
 {
 element0,overlay,surface0.png,0,0
 element1,overlay,surface1.png,0,0
 }
 
-surface4
+surface3-4,16,21,28,29,39
 {
 element0,overlay,surface0.png,0,0
 element1,overlay,surface4.png,0,0
 }
 
-surface5
+surface2,5,24-26,32,37,38
 {
 element0,overlay,surface0.png,0,0
 element1,overlay,surface5.png,0,0
 }
 
-surface7
+surface6-7,9,18,22
 {
 element0,overlay,surface0.png,0,0
 element1,overlay,surface7.png,0,0

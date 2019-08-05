@@ -1,4 +1,4 @@
-surface0,6,8
+surface0,8,15,40
 {
 collision0,56,18,104,47,Head
 collision1,65,50,111,75,Face
@@ -37,7 +37,7 @@ collision15,54,229,107,261,Hand
 
 }
 
-surface1,11-12
+surface1,11-14,17,19,20,23,27,30-36,41
 {
 collision0,56,18,104,47,Head
 collision1,65,50,111,75,Face
@@ -75,7 +75,7 @@ collision14,13,41,39,122,Hair
 
 }
 
-surface4
+surface3-4,16,21,28,29,39
 {
 collision0,56,18,104,47,Head
 collision1,65,50,111,75,Face
@@ -110,7 +110,7 @@ collision14,13,41,39,122,Hair
 
 }
 
-surface5
+surface2,5,24-26,32,37,38
 {
 collision0,56,18,104,47,Head
 collision1,65,50,111,75,Face
@@ -148,7 +148,7 @@ collision14,13,41,39,122,Hair
 
 }
 
-surface7
+surface6-7,9,18,22
 {
 collision0,56,18,104,47,Head
 collision1,65,50,111,75,Face
