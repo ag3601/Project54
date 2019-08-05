@@ -117,10 +117,9 @@
 ＊OnCommunicate
 ＄コミュニケートの検索方法	合計文字数
 
-＞５４名前を呼んだ	（count,（Ｒ１）,（５４名前））&&（count,（Ｒ０）,user）
-≫ユーザ「　（Ｒ１）	（equal,（Ｒ０）,user）
-≫（Ｒ０）「　（Ｒ１）
-≫「　（Ｒ１）
+＞５４名前を呼んだ	（count,（Ｒ１）,（５４名前））&&（equal,（Ｒ０）,user）
+≫user「　（Ｒ１）	（equal,（Ｒ０）,user）
+≫（Ｒ０）「（Ｒ１）」	（Ｒ０）！＝user
 ＞COMMUNICATE該当なし
 ＊OnFirstBoot
 ＞初回
