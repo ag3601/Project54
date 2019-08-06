@@ -21,7 +21,7 @@ element0,overlay,surface0.png,0,0
 
 }
 
-surface1,11-14,17,19,20,23,27,30-31,33-36,41
+surface1,11-14,17,19,20,23,27,30-31,33-36,41,44
 {
 
 collision0,84,22,117,122,Hair
@@ -98,7 +98,7 @@ collision6,203,117,234,138,Hand
 collision7,132,118,158,144,Hand
 }
 
-surface3-4,16,21,28,29,39
+surface3-4,16,21,28,29,39,41-42
 {
 collision0,74,22,118,114,Hair
 collision1,124,13,218,62,Head
