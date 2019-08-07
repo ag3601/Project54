@@ -39,14 +39,14 @@ element1,overlay,surface201.png,0,0
 
 //�ʐԂP
 
-surface1-3,9,11-12,14,16-17,19,22-23,26-27,29-36,38,41,44
+surface1-3,9,11-12,14,16-17,19,22-27,29-36,38,41,44
 {
 element1,overlay,surface210.png,0,0
 }
 
 //�ʐԂQ
 
-surface20,24-25
+surface20,
 {
 element1,overlay,surface211.png,0,0
 }
