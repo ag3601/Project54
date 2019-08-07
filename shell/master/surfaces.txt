@@ -28,7 +28,7 @@ collision3,79,258,134,296,Skirt
 element0,overlay,surface4.png,0,0
 }
 
-surface2,5,24-26,32,37,38
+surface2,5,24-26,32,37,38,45
 {
 collision0,43,20,155,66,Head
 collision1,94,73,132,110,Face

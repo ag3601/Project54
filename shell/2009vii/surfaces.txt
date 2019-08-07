@@ -40,7 +40,7 @@ element0,overlay,surface0.png,0,0
 element1,overlay,surface4.png,0,0
 }
 
-surface2,5,24-26,32,37,38
+surface2,5,24-26,32,37,38,45
 {
 element0,overlay,surface0.png,0,0
 element1,overlay,surface5.png,0,0
