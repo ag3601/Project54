@@ -10,3 +10,4 @@ shell/master/profile/,nonar,noupdate
 shell/MIY_Color/profile/,nonar,noupdate
 shell/54closet/profile/,nonar,noupdate
 Thumbs.db,nonar,noupdate
+/ghost/master/var

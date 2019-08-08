@@ -897,3 +897,25 @@ ${usernames}と\w2いっしょ、\w8に\w2…\w2。
 ＞ワガママトーク	（トーク乱数）==４＆＆（わがままトーク）＝＝１
 ＄r_talk	（）
 （r_talk）
+＊OnWebClap
+：（０）ｗ５
+バグ報告やｗ５要望、ｗ５感想なと、ｗ９ｗ９
+
+（３９）ｗ５お返事はｗ５しないらしいｗ３ですが…。
+
+\![open,inputbox,拍手送信内容,,--limit=1000]
+＊拍手送信内容を教えてもらった
+\![execute,http-post,http://clap.webclap.com/clap.php?id=ag36,--param=message_body="（拍手送信内容）",--async=webclap]
+
+＄拍手送信内容	
+＊拍手送信内容を空打ちされた
+＞なんでもありません
+＊拍手送信完了
+：（０）ｗ５
+拍手の送信、ｗ３終わりました…ｗ９
+
+（５）ｗ５ありがとうございます、ｗ３（U）。
+＊OnExecuteHTTPComplete
+＞拍手送信完了【タブ】（R1）==webclap
+＊OnExecuteHTTPFailure
+＞拍手送信失敗【タブ】（R1）==webclap
