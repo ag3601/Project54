@@ -133,6 +133,7 @@ sakura.bindgroup1110.addid,801
 sakura.bindgroup1111.name,後髪,ポニーテール５
 sakura.bindgroup1112.name,後髪,ポニーテール６
 sakura.bindgroup1112.addid,802
+＃sakura.bindgroup802.name,後髪,ポニーテール６
 sakura.bindgroup1116.name,後髪,チャイナ
 sakura.bindgroup1117.name,後髪,シニョン
 sakura.bindgroup1128.name,後髪,おかっぱ１

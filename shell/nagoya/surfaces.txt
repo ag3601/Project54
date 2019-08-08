@@ -39,7 +39,7 @@ element0,overlay,surface0.png,0,0
 
 }
 
-surface1,11-14,17,19,20,23,27,30-31,33-36,41,44
+surface1,11-14,17,19,20,23,27,30-31,33-36,41,44,46
 {
 collision0,56,18,104,47,Head
 collision1,65,50,111,75,Face
