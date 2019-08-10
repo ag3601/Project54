@@ -216,7 +216,7 @@
 
 ちゃんと出来てるみたいです…。
 ＊OnNarCreated
-：（５）
+：（５）ｗ５
 完了しましだ。
 
 ＊OnNarCreating
