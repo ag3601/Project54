@@ -394,16 +394,20 @@ sakura.bindgroup8161.name,ワンピース,チャイナドレスA赤
 sakura.bindgroup8162.name,ワンピース,チャイナドレスA緑
 sakura.bindgroup8163.name,ワンピース,チャイナドレスB黒黒
 sakura.bindgroup8164.name,ワンピース,チャイナドレスB黒グレー
-sakura.bindgroup8165.name,ワンピース,チャイナドレスB黒赤
-sakura.bindgroup8166.name,ワンピース,チャイナドレスB白黒
-sakura.bindgroup8167.name,ワンピース,チャイナドレスB白グレー
-sakura.bindgroup8168.name,ワンピース,チャイナドレスB白赤
-sakura.bindgroup8169.name,ワンピース,チャイナドレスB赤
-sakura.bindgroup8170.name,ワンピース,チャイナドレスB緑
+sakura.bindgroup8170.name,ワンピース,チャイナドレスB黒赤
+sakura.bindgroup8165.name,ワンピース,チャイナドレスB白黒
+sakura.bindgroup8166.name,ワンピース,チャイナドレスB白グレー
+sakura.bindgroup8167.name,ワンピース,チャイナドレスB白赤
+sakura.bindgroup8168.name,ワンピース,チャイナドレスB赤
+sakura.bindgroup8169.name,ワンピース,チャイナドレスB緑
 sakura.bindgroup8171.name,ワンピース,ナース服グレー
 sakura.bindgroup8172.name,ワンピース,ナース服白
 sakura.bindgroup8173.name,ワンピース,ナース服ピンク
+sakura.bindgroup7561.name,ワンピース,バニー黒
+sakura.bindgroup7562.name,ワンピース,バニー白
+sakura.bindgroup7563.name,ワンピース,バニー赤
 sakura.bindgroup8146.name,ワンピース,くノ一
+
 
 
 
@@ -463,13 +467,13 @@ sakura.bindgroup7603.name,トップ,センター３短青
 sakura.bindgroup7604.name,トップ,センター３短水色
 sakura.bindgroup7605.name,トップ,センター３短灰
 sakura.bindgroup7606.name,トップ,センター３短茶
-sakura.bindgroup7607.name,トップ,タートルネック黒
-sakura.bindgroup7608.name,トップ,タートルネック白
-sakura.bindgroup7609.name,トップ,タートルネック赤
-sakura.bindgroup7610.name,トップ,タートルネック桃色
-sakura.bindgroup7611.name,トップ,タートルネック灰
-sakura.bindgroup7612.name,トップ,タートルネック水色
-sakura.bindgroup7613.name,トップ,タートルネック黄色
+sakura.bindgroup8174.name,トップ,タートルネック黒
+sakura.bindgroup8175.name,トップ,タートルネック白
+sakura.bindgroup8176.name,トップ,タートルネック赤
+sakura.bindgroup8177.name,トップ,タートルネック桃色
+sakura.bindgroup8178.name,トップ,タートルネック灰
+sakura.bindgroup8179.name,トップ,タートルネック水色
+sakura.bindgroup8180.name,トップ,タートルネック黄色
 sakura.bindgroup7500.name,トップ,TシャツA黒
 sakura.bindgroup7501.name,トップ,TシャツA白
 sakura.bindgroup7502.name,トップ,TシャツB黒
@@ -491,9 +495,6 @@ sakura.bindgroup7575.name,トップ,セーラーB黒
 sakura.bindgroup7576.name,トップ,セーラーB青
 sakura.bindgroup7577.name,トップ,セーラーBネイビーブルー
 sakura.bindgroup7578.name,トップ,セーラー黒
-sakura.bindgroup7561.name,トップ,ﾀｰﾄﾙﾈｯｸ黒
-sakura.bindgroup7562.name,トップ,ﾀｰﾄﾙﾈｯｸ白
-sakura.bindgroup7563.name,トップ,ﾀｰﾄﾙﾈｯｸピンク
 sakura.bindgroup7564.name,トップ,パーカー１黒
 sakura.bindgroup7565.name,トップ,パーカー１白
 sakura.bindgroup7566.name,トップ,パーカー１赤
@@ -579,6 +580,25 @@ sakura.bindgroup8009.name,スカート,プリーツスカート２グレーチェック
 sakura.bindgroup8007.name,スカート,プリーツスカート２赤
 sakura.bindgroup8008.name,スカート,プリーツスカート２赤チェック
 
+//ズボン
+
+sakura.bindgroup8043.name,ズボン,ショットパンツ黒
+sakura.bindgroup8044.name,ズボン,ショットパンツ白
+sakura.bindgroup8045.name,ズボン,ショットパンツ赤
+sakura.bindgroup8046.name,ズボン,ショットパンツ青
+sakura.bindgroup8047.name,ズボン,ショットパンツダークブルー
+sakura.bindgroup8048.name,ズボン,ショットパンツ緑
+sakura.bindgroup8057.name,ズボン,ホットパンツ黒
+sakura.bindgroup8058.name,ズボン,ホットパンツ白
+sakura.bindgroup8059.name,ズボン,ホットパンツネイビーブルー
+sakura.bindgroup8051.name,ズボン,スキニー黒
+sakura.bindgroup8052.name,ズボン,スキニー白
+sakura.bindgroup8053.name,ズボン,スキニーダークグレー
+sakura.bindgroup8054.name,ズボン,ブルマ黒
+sakura.bindgroup8055.name,ズボン,ブルマ赤
+sakura.bindgroup8056.name,ズボン,ブルマ紺
+sakura.bindgroup8049.name,ズボン,スラックス黒
+sakura.bindgroup8050.name,ズボン,スラックス白
 
 
 //靴下
