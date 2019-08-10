@@ -49,7 +49,7 @@ collision8,116,81,134,93,Face
 
 }
 
-surface3-4,16,21,28,29,39,41-42
+surface3-4,16,21,28,29,39,41-42,47
 {
 element0,overlay,surface0.png,0,0
 element1,overlay,surface1004.png,80,45
