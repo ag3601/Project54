@@ -1,4 +1,4 @@
-surface0,8,15,40
+surface0,8,15,40,49-50
 {
 collision0,204,136,363,206,Head
 collision1,228,208,336,284,Face
@@ -81,7 +81,7 @@ element0,overlay,surface4.png,0,0
 
 }
 
-surface2,5,24-26,32,37,38,45
+surface2,5,24-26,32,37,38,45,48
 {
 collision0,204,136,363,206,Head
 collision1,228,208,336,284,Face

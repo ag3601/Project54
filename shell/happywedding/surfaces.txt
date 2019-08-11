@@ -1,4 +1,4 @@
-surface0,8,15,40
+surface0,8,15,40,49-50
 {
 0interval,sometimes
 0pattern0,1050,5,overlay,80,45
@@ -70,7 +70,7 @@ collision8,116,81,134,93,Face
 
 }
 
-surface2,5,24-26,32,37,38,45
+surface2,5,24-26,32,37,38,45,48
 {
 element0,overlay,surface0.png,0,0
 element1,overlay,surface1005.png,80,45
