@@ -2132,10 +2132,6 @@ animation8407.interval,bind
 animation8407.pattern0,bind,8407,0,0,0
 
 
-
-
-
-
 //ŠO“…
 
 animation8500.interval,bind
@@ -2144,6 +2140,28 @@ animation8501.interval,bind
 animation8501.pattern0,bind,8501,0,0,0
 
 
+//ƒGƒtƒƒ“
+
+animation8450.interval,bind
+animation8450.pattern0,bind,8450,0,0,0
+animation8451.interval,bind
+animation8451.pattern0,bind,8451,0,0,0
+animation8452.interval,bind
+animation8452.pattern0,bind,8452,0,0,0
+animation8453.interval,bind
+animation8453.pattern0,bind,8453,0,0,0
+animation8454.interval,bind
+animation8454.pattern0,bind,8454,0,0,0
+animation8455.interval,bind
+animation8455.pattern0,bind,8455,0,0,0
+animation8456.interval,bind
+animation8456.pattern0,bind,8456,0,0,0
+animation8457.interval,bind
+animation8457.pattern0,bind,8457,0,0,0
+animation8458.interval,bind
+animation8458.pattern0,bind,8458,0,0,0
+animation8459.interval,bind
+animation8459.pattern0,bind,8459,0,0,0
 
 
 
