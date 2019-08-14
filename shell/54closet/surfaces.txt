@@ -1090,10 +1090,13 @@ animation4211.interval,bind
 animation4211.pattern0,bind,4611,0,0,0
 animation7524.interval,bind
 animation7524.pattern0,bind,2024,0,0,0
+animation7524.collisionex7524,Skirt,polygon,170,563,269,570,373,564,393,615,369,636,309,653,233,650,166,630,149,614
 animation7525.interval,bind
 animation7525.pattern0,bind,2025,0,0,0
+animation7525.collisionex7525,Skirt,polygon,170,563,269,570,373,564,393,615,369,636,309,653,233,650,166,630,149,614
 animation7526.interval,bind
 animation7526.pattern0,bind,2026,0,0,0
+animation7526.collisionex7526,Skirt,polygon,170,563,269,570,373,564,393,615,369,636,309,653,233,650,166,630,149,614
 animation4212.interval,bind
 animation4212.pattern0,bind,4612,0,0,0
 animation4213.interval,bind
