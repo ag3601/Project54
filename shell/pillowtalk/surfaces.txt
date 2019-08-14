@@ -32,7 +32,7 @@ element0,overlay,surface0.png,0,0
 
 }
 
-surface1,11-14,17,19,20,23,27,30-31,33-36,41,44,46
+surface1,11-14,17,19,20,23,27,30-31,33-36,41,44,46,52
 {
 collision0,104,66,171,104,Head
 collision1,114,104,168,142,Face
@@ -61,7 +61,7 @@ element0,overlay,surface1.png,0,0
 
 }
 
-surface3-4,16,21,28,29,39,41-42,47
+surface3-4,16,21,28,29,39,41-42,47,51,53
 {
 collision0,104,66,171,104,Head
 collision1,114,104,168,142,Face
@@ -110,7 +110,7 @@ element0,overlay,surface5.png,0,0
 
 }
 
-surface6-7,9,18,22
+surface6-7,9,18,22,54
 {
 collision0,104,66,171,104,Head
 collision1,114,104,168,142,Face
