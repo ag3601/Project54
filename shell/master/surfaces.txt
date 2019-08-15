@@ -8,7 +8,7 @@ collision3,79,258,134,296,Skirt
 element0,overlay,surface0.png,0,0
 }
 
-surface1,11-14,17,19,20,23,27,30-31,33-36,41,44
+surfacesurface1,11-14,17,19,20,23,27,30-31,33-36,41,44,46,52
 {
 collision0,43,20,155,66,Head
 collision1,94,73,132,110,Face
@@ -18,7 +18,7 @@ collision3,79,258,134,296,Skirt
 element0,overlay,surface1.png,0,0
 }
 
-surface3-4,16,21,28,29,39,41-42,47,51,53
+surface3-4,16,21,28,29,39,41-42,47,51,53,55
 {
 collision0,43,20,155,66,Head
 collision1,94,73,132,110,Face
