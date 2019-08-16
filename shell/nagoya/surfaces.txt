@@ -79,7 +79,7 @@ element0,overlay,surface1.png,0,0
 
 }
 
-surface3-4,16,21,28,29,39,41-42,47,51,53,55
+surface3-4,16,21,28,29,39,41-42,47,51,53,55,58-60
 {
 collision0,56,18,104,47,Head
 collision1,65,50,111,75,Face
