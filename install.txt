@@ -1,4 +1,4 @@
 charset, Shift_JIS
 type,ghost
-name,プロジェクト５４
+name,54みたいの
 directory,Project54
