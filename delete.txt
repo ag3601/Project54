@@ -4,3 +4,4 @@ update2.dau
 thumbnail.pnr
 cover.png
 54icon.ico
+ssu.dll
