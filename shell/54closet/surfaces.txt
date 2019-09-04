@@ -25,14 +25,14 @@ collisionex10,xxx,circle,270,529,10
 
 //ñ ïÅí 
 
-surface0,8,39-40,49-50,53,55
+surface0,8,40
 {
 element1,overlay,surface200.png,0,0
 }
 
 //ñ ïÅí ãªï±ãCñ°
 
-surface4-7,13,21,28,37,42-43,45,47,58
+surface4-7,13,21,28,37,39,42-43,45,47,49-50,53,55,58
 {
 element1,overlay,surface201.png,0,0
 }
