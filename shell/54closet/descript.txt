@@ -792,6 +792,9 @@ sakura.bindgroup1013.name,尻尾,イヌB
 sakura.bindgroup1014.name,尻尾,キツネ
 sakura.bindgroup1015.name,尻尾,ダヌキ
 sakura.bindgroup1016.name,尻尾,ネコ
+sakura.bindgroup1017.name,尻尾,ネコ三毛
+sakura.bindgroup1018.name,尻尾,猫又
+sakura.bindgroup1019.name,尻尾,猫又三毛
 
 
 //帽子
@@ -975,11 +978,30 @@ sakura.bindgroup7718.name,襟,付け襟２黒
 ＃sakura.bindgroup4814.name,脚アクセサリー,フリル２
 ＃sakura.bindgroup4815.name,脚アクセサリー,フリル足首
 
+
 //他アクセサリー
 
 //sakura.bindoption.group,他アクセサリー,multiple
 sakura.bindgroup4811.name,他アクセサリー,ピンクローター無線
 sakura.bindgroup4812.name,他アクセサリー,ピンクローター有線
+
+
+//チンチン玉
+
+sakura.bindoption.group,チンチン玉,multiple
+sakura.bindgroup1210.name,チンチン玉,玉
+sakura.bindgroup1211.name,チンチン玉,玉（小）
+sakura.bindgroup1215.name,チンチン玉,チンチン小
+sakura.bindgroup1216.name,チンチン玉,チンチン小（勃起）
+sakura.bindgroup1217.name,チンチン玉,チンチン大(勃起）
+sakura.bindgroup1218.name,チンチン玉,チンチン大左向き（勃起）
+
+
+//陰毛
+
+sakura.bindgroup1200.name,陰毛,並
+sakura.bindgroup1201.name,陰毛,少
+sakura.bindgroup1202.name,陰毛,大盛り
 
 
 //耳ピアス

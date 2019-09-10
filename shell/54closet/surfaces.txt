@@ -2039,7 +2039,15 @@ animation1015.pattern0,bind,915,0,0,0
 animation1016.interval,bind
 animation1016.option,background
 animation1016.pattern0,bind,916,0,0,0
-
+animation1017.interval,bind
+animation1017.option,background
+animation1017.pattern0,bind,917,0,0,0
+animation1018.interval,bind
+animation1018.option,background
+animation1018.pattern0,bind,918,0,0,0
+animation1019.interval,bind
+animation1019.option,background
+animation1019.pattern0,bind,919,0,0,0
 
 
 
@@ -2485,6 +2493,31 @@ animation7751.pattern0,bind,7751,0,0,0
 animation7752.interval,bind
 animation7752.pattern0,bind,7752,0,0,0
 
+
+//‘Ìƒp[ƒc
+
+animation1210.interval,bind
+animation1210.pattern0,bind,12010,0,0,0
+animation1211.interval,bind
+animation1211.pattern0,bind,12011,0,0,0
+animation1215.interval,bind
+animation1215.pattern0,bind,12015,0,0,0
+animation1216.interval,bind
+animation1216.pattern0,bind,12016,0,0,0
+animation1217.interval,bind
+animation1217.pattern0,bind,12017,0,0,0
+animation1218.interval,bind
+animation1218.pattern0,bind,12018,0,0,0
+
+
+//‰A–Ñ
+
+animation1200.interval,bind
+animation1200.pattern0,bind,12000,0,0,0
+animation1201.interval,bind
+animation1201.pattern0,bind,12001,0,0,0
+animation1202.interval,bind
+animation1202.pattern0,bind,12002,0,0,0
 
 
 
