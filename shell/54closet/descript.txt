@@ -15,16 +15,30 @@ readme,readme.txt
 
 //˜r
 
-sakura.bindgroup3550.default,1
+sakura.bindgroup3600.default,1
+sakura.bindoption0.group,˜r,mustselect
+sakura.bindgroup3600.name,˜r,ƒfƒtƒHƒ‹ƒg
 sakura.bindgroup3550.name,˜r,‰º‚ë‚µ—¼è
+sakura.bindgroup3550.addid,3407
 sakura.bindgroup3551.name,˜r,˜r‘O
-sakura.bindgroup3551.addid,9551
+sakura.bindgroup3551.addid,9551,3400
 ”sakura.bindgroup9551.name,˜r,˜r‘O
 ”sakura.bindgroup9552.name,˜r,’…•¨—p
 sakura.bindgroup3552.name,˜r,ƒ_ƒuƒ‹ƒs[ƒX
+sakura.bindgroup3552.addid,3403
 sakura.bindgroup3553.name,˜r,ƒs[ƒX‰E
+sakura.bindgroup3553.addid,3401
 sakura.bindgroup3554.name,˜r,ƒs[ƒX¶
+sakura.bindgroup3554.addid,3402
 sakura.bindgroup9553.name,˜r,‚Ê‚¢‚®‚é‚İ
+sakura.bindgroup3557.name,˜r,‚Ô‚è‚Áq
+sakura.bindgroup3557.addid,9556
+sakura.bindgroup3555.name,˜r,‚Ô‚è‚Áq‰E
+sakura.bindgroup3555.addid,9554,3404
+sakura.bindgroup3556.name,˜r,‚Ô‚è‚Áq¶
+sakura.bindgroup3556.addid,9555,3405
+sakura.bindgroup3406.name,˜r,ŒR•‚R—p
+
 
 
 //¨
