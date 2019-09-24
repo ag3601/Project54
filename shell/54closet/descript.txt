@@ -38,7 +38,10 @@ sakura.bindgroup3555.addid,9554,3404
 sakura.bindgroup3556.name,˜r,‚Ô‚è‚Áq¶
 sakura.bindgroup3556.addid,9555,3405
 sakura.bindgroup3406.name,˜r,ŒR•‚R—p
-
+sakura.bindgroup3558.name,˜r,‹¹èA‰E
+sakura.bindgroup3558.addid,9557,3406
+sakura.bindgroup3559.name,˜r,‹¹èA¶
+sakura.bindgroup3559.addid,9558,3407
 
 
 //¨

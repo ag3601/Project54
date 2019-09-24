@@ -413,7 +413,7 @@ animation3405.pattern0,bind,513,0,0,0
 animation3406.interval,bind
 animation3406.pattern0,bind,514,0,0,0
 animation3407.interval,bind
-animation3407.pattern0,bind,514,0,0,0
+animation3407.pattern0,bind,513,0,0,0
 animation3550.interval,bind
 animation3550.pattern0,bind,500,0,0,0
 animation3550.collision3550,126,503,193,539,Hand
@@ -455,6 +455,14 @@ animation9556.interval,bind
 animation9556.pattern0,bind,516,0,0,0
 animation9556.collisionex9555,Hand,polygon,368,283,375,313,348,320,334,295
 animation9556.collisionex9554,Hand,polygon,178,280,210,298,199,324,168,315
+animation9557.interval,bind
+animation9557.pattern0,bind,517,0,0,0
+animation3558.interval,bind
+animation3558.pattern0,bind,518,0,0,0
+animation9558.interval,bind
+animation9558.pattern0,bind,520,0,0,0
+animation3559.interval,bind
+animation3559.pattern0,bind,519,0,0,0
 
 
 //Ž¨
