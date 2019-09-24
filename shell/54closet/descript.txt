@@ -2,8 +2,8 @@ charset,Shift_JIS
 name,¡“ú‚Ì‚T‚S
 type,shell
 id,54closet
-craftman,ag36
-craftmanw,ag36
+craftman,Anal,ag36
+craftmanw,Anal,ag36
 craftmanurl,http://seizonkakuninbasyo.web.fc2.com/index.html
 
 seriko.alignmenttodesktop,free
