@@ -27,9 +27,9 @@ sakura.bindgroup3551.addid,9551,3400
 sakura.bindgroup3552.name,腕,ダブルピース
 sakura.bindgroup3552.addid,3403
 sakura.bindgroup3553.name,腕,ピース右
-sakura.bindgroup3553.addid,3401
+sakura.bindgroup3553.addid,3401,3408
 sakura.bindgroup3554.name,腕,ピース左
-sakura.bindgroup3554.addid,3402
+sakura.bindgroup3554.addid,3402,3409
 sakura.bindgroup9553.name,腕,ぬいぐるみ
 sakura.bindgroup3557.name,腕,ぶりっ子
 sakura.bindgroup3557.addid,9556
