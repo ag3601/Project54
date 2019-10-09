@@ -388,6 +388,35 @@ element6,overlay,surface133.png,0,0
 
 
 //着せ替え
+
+surface0,4-8,13,15,18,20-21,28,37,39-40,42-43,45,47,49-50,53-55,58,200-212,300-312
+{
+
+//人・エルフ耳
+
+animation600.interval,bind
+animation600.pattern0,bind,600,0,0,0
+animation601.interval,bind
+animation601.pattern0,bind,601,0,0,0
+animation602.interval,bind
+animation602.pattern0,bind,602,0,0,0
+}
+
+
+surface1-3,9,11-12,14,16-17,19,22-27,29-36,38,41,44,46,48,51-52,56-57,59-62
+{
+
+//人・エルフ耳
+
+animation600.interval,bind
+animation600.pattern0,bind,620,0,0,0
+animation601.interval,bind
+animation601.pattern0,bind,621,0,0,0
+animation602.interval,bind
+animation602.pattern0,bind,622,0,0,0
+
+}
+
 surface0-9,11-64,200-212,300-312
 {
 
@@ -471,14 +500,8 @@ animation3559.interval,bind
 animation3559.pattern0,bind,519,0,0,0
 
 
-//耳
+//その他耳
 
-animation600.interval,bind
-animation600.pattern0,bind,600,0,0,0
-animation601.interval,bind
-animation601.pattern0,bind,601,0,0,0
-animation602.interval,bind
-animation602.pattern0,bind,602,0,0,0
 animation603.interval,bind
 animation603.pattern0,bind,603,0,0,0
 animation604.interval,bind

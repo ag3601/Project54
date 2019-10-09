@@ -19,7 +19,6 @@ sakura.bindgroup3600.default,1
 sakura.bindoption0.group,˜r,mustselect
 sakura.bindgroup3600.name,˜r,ƒfƒtƒHƒ‹ƒg
 sakura.bindgroup3550.name,˜r,‰º‚ë‚µ—¼è
-sakura.bindgroup3550.addid,3407
 sakura.bindgroup3551.name,˜r,˜r‘O
 sakura.bindgroup3551.addid,9551,3400
 ”sakura.bindgroup9551.name,˜r,˜r‘O
