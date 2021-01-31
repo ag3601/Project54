@@ -23,28 +23,21 @@ collisionex9,Face,polygon,226,244,272,244,316,245,307,267,291,276,273,283,249,27
 collisionex10,xxx,circle,270,529,10
 }
 
-//–Ê•’Ê
+//–Ê‚Ù‚Á‚Ø‚P
 
-surface0,8,40
-{
-element1,overlay,surface200.png,0,0
-}
-
-//–Ê•’Ê‹»•±‹C–¡
-
-surface4-7,13,21,28,37,39,42-43,45,47,49-50,53,55,58
+surface0,4-8,13,21,28,37,39-40,42-43,45,47,49-50,53,55,58
 {
 element1,overlay,surface201.png,0,0
 }
 
-//–ÊÔ‚P
+//–ÊÆ‚ê1
 
 surface1-3,9,11-12,14,16-17,19,22-27,29-36,38,41,44,46,48,51-52,54,56-57,59-62,200-212
 {
 element1,overlay,surface210.png,0,0
 }
 
-//–ÊÔ‚Q
+//–ÊÔ‚P
 
 surface20,300-312
 {
@@ -536,9 +529,6 @@ animation616.interval,bind
 animation616.pattern0,bind,616,0,0,0
 animation617.interval,bind
 animation617.pattern0,bind,617,0,0,0
-
-
-
 
 
 //‘O”¯
@@ -2079,6 +2069,8 @@ animation5325.interval,bind
 animation5325.pattern0,bind,49025,0,0,0
 animation5326.interval,bind
 animation5326.pattern0,bind,49026,0,0,0
+animation5327.interval,bind
+animation5327.pattern0,bind,49027,0,0,0
 
 
 //‚P‚O‚O‚O”Ô‘ä@i‚P‚O‚O‚O”Ô‘ä‚ÍŒã”¯‚æ‚èŒã‚ë‚Ìƒ‚ƒm‘S”Êj
@@ -2337,6 +2329,14 @@ animation8500.interval,bind
 animation8500.pattern0,bind,8500,0,0,0
 animation8501.interval,bind
 animation8501.pattern0,bind,8501,0,0,0
+animation8502.interval,bind
+animation8502.pattern0,bind,8502,0,0,0
+animation8503.interval,bind
+animation8503.pattern0,bind,8503,0,0,0
+animation8504.interval,bind
+animation8504.pattern0,bind,8504,0,0,0
+animation8505.interval,bind
+animation8505.pattern0,bind,8505,0,0,0
 
 
 //ƒGƒtƒƒ“

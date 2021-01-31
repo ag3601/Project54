@@ -710,6 +710,7 @@ sakura.bindgroup5317.name,靴,ハイヒール黒
 sakura.bindgroup5318.name,靴,ハイヒール白
 sakura.bindgroup5319.name,靴,ハイヒール赤
 sakura.bindgroup5320.name,靴,ブーツ黒
+sakura.bindgroup5327.name,靴,ブーツ白
 sakura.bindgroup5321.name,靴,ブーツ赤
 sakura.bindgroup5322.name,靴,ブーツ茶
 sakura.bindgroup5323.name,靴,上履き
@@ -857,6 +858,10 @@ sakura.bindgroup8407.name,上着,カーディガン開茶
 
 sakura.bindgroup8500.name,外套,白衣
 sakura.bindgroup8501.name,外套,白衣黒
+sakura.bindgroup8502.name,外套,ケープ白
+sakura.bindgroup8503.name,外套,ケープ黒
+sakura.bindgroup8504.name,外套,ケープ赤
+sakura.bindgroup8505.name,外套,ケープ茶
 
 
 //エフロン
