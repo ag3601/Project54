@@ -8,7 +8,7 @@ Version,1
 
 //‘f‘Ì
 
-surface0-9,11-64,200-212,300-312
+surface0-9,11-62,200-212,300-312
 {
 element0,overlay,surface0000.png,0,0
 collisionex0,Head,polygon,212,170,228,148,251,136,293,136,316,148,331,170
@@ -410,7 +410,7 @@ animation602.pattern0,bind,622,0,0,0
 
 }
 
-surface0-9,11-64,200-212,300-312
+surface0-9,11-62,200-212,300-312
 {
 
 //˜r
