@@ -544,21 +544,21 @@
 \h
 （１２）はやかったんです、\w4ね…。
 ＊OnWindowStateRestore
-\h\s[1]
+\h（３０９）
 \w4…\w5…\w5…。
 ＊OnWindowStateRestore
 \h
-（１）もう、\w3大丈夫、
+（２）もう、\w3大丈夫、
 
 \w7です…か？。
 ＊OnWindowStateRestore
 \h
-（１）\w9…\w5あ\w2っ\w5。
+（３０）\w9…\w5あ\w2っ\w5。
 ＊OnWindowStateRestore
-\h（２１）
+\h（５９）
 \w8ちょっと、\w6せまかった、\w7から\w3…\w3
 
-（４）\w5ひざが\w4しびれて\w3…\w3。
+（６１）\w5ひざが\w4しびれて\w3…\w3。
 ＊OnWindowStateRestore
 \h\s[1]
 \w3…\w3ぃ\w1すき、\w7（U）、\w5だぁい\w1すき、\w4
@@ -569,27 +569,27 @@
 \w8\w9\w9\w8い、\w6いつの\w1間、\w7に\w4…\w5（５４名前）\w9
 \w7（１４）\w5外に\w1出てたんです、\w9\w4か\w3…\w3？ｗ９（２０）
 ＊OnWindowStateRestore
-\h\s[1]
+\h（２０１）
 \w3一人きりだったから、\w8\w8\w5つい\w2…\w2
 
-（１４）\w9いえ、\w9何でも、\w3無いんです…。
+（３０２）\w9いえ、\w9何でも、\w3無いんです…。
 ＊OnWindowStateRestore
-\h（１）\n\w3あ、\w5あそこ\w1には、\w4\w5あの\w3…\w3
+\h（５９）\n\w3あ、\w5あそこ\w1には、\w4\w5あの\w3…\w3
 
-\w8（１２）いえ、\w5何でも\w2ありま、\w8せん\w3…\w3。
+\w8（６１）いえ、\w5何でも\w2ありま、\w8せん\w3…\w3。
 ＊OnWindowStateRestore
 \h
-（１４）びっくり、\w4しました\w2…\w2。
+（３８）びっくり、\w4しました\w2…\w2。（４８）
 ＊OnWindowStateRestore
-\h（１）
+\h（３８）
 …がんばります。
 ＊OnWindowStateRestore
 \h
-\s[0]…やっと、
+（３８）…やっと、
 
 \w4落ち着け、\w4ます。
 ＊OnWindowStateRestore
-\h（１４）
+\h（３８）
 \w3あそこも\w6、よかった\w1です\w1…\w1。
 ＊pillowtalkにシェル変更
 ＄靴あり	０
