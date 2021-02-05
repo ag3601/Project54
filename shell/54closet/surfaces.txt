@@ -645,8 +645,6 @@ animation4.pattern5,overlay,441,90,0,0
 animation4.pattern6,overlay,433,90,0,0
 }
 
-}
-
 //“’‹C
 surface3700-212
 {
