@@ -631,25 +631,9 @@ animation4.pattern6,overlay,435,90,0,0
 
 //ムッとした口（無表情１）
 
-surface7-8,12-14,17-18,22-23,31,33-36,44,207-210,212,307-310,312
+surface7-8,12-14,17-18,22-23,31,33-36,39,44,53,207-210,212,307-310,312
 {
 element6,overlay,surface433.png,0,0
-
-animation4.interval,talk
-animation4.pattern0,overlay,440,0,0,0
-animation4.pattern1,overlay,433,90,0,0
-animation4.pattern2,overlay,441,90,0,0
-animation4.pattern3,overlay,444,90,0,0
-animation4.pattern4,overlay,440,90,0,0
-animation4.pattern5,overlay,441,90,0,0
-animation4.pattern6,overlay,433,90,0,0
-}
-
-//栗みたいな口（う）
-
-surface39,53
-{
-element6,overlay,surface444.png,0,0
 
 animation4.interval,talk
 animation4.pattern0,overlay,440,0,0,0
@@ -658,7 +642,9 @@ animation4.pattern2,overlay,441,90,0,0
 animation4.pattern3,overlay,444,90,0,0
 animation4.pattern4,overlay,440,90,0,0
 animation4.pattern5,overlay,441,90,0,0
-animation4.pattern6,overlay,444,90,0,0
+animation4.pattern6,overlay,433,90,0,0
+}
+
 }
 
 //湯気
