@@ -718,7 +718,7 @@ animation602.pattern0,bind,622,0,0,0
 
 }
 
-surface0-9,11-312
+surface0-9,11-80,200-212,300-312
 {
 
 //˜r
