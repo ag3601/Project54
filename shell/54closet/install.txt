@@ -1,4 +1,4 @@
-Charset,UTF-8
+Charset,Shift_JIS
 type,shell
 name,今日の５４
 directory,54master
