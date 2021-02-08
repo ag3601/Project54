@@ -185,6 +185,11 @@ sakura.bindgroup1143.name,後髪,お団子６
 sakura.bindgroup1144.name,後髪,くせ毛１
 sakura.bindgroup1145.name,後髪,くせ毛２
 sakura.bindgroup1146.name,後髪,くせ毛３
+sakura.bindgroup1198.name,後髪,くせ毛４
+sakura.bindgroup1199.name,後髪,くせ毛１＋
+sakura.bindgroup1200.name,後髪,くせ毛２＋
+sakura.bindgroup1201.name,後髪,くせ毛３＋
+sakura.bindgroup1202.name,後髪,くせ毛４＋
 sakura.bindgroup1147.name,後髪,三つ編み
 sakura.bindgroup1148.name,後髪,ゆるおさげ
 sakura.bindgroup1149.name,後髪,ゆるふわ１
@@ -1027,19 +1032,19 @@ sakura.bindgroup4812.name,他アクセサリー,ピンクローター有線
 //チンチン玉
 
 sakura.bindoption.group,チンチン玉,multiple
-sakura.bindgroup1210.name,チンチン玉,玉
-sakura.bindgroup1211.name,チンチン玉,玉（小）
-sakura.bindgroup1215.name,チンチン玉,チンチン小
-sakura.bindgroup1216.name,チンチン玉,チンチン小（勃起）
-sakura.bindgroup1217.name,チンチン玉,チンチン大(勃起）
-sakura.bindgroup1218.name,チンチン玉,チンチン大左向き（勃起）
+sakura.bindgroup1280.name,チンチン玉,玉
+sakura.bindgroup1281.name,チンチン玉,玉（小）
+sakura.bindgroup1285.name,チンチン玉,チンチン小
+sakura.bindgroup1286.name,チンチン玉,チンチン小（勃起）
+sakura.bindgroup1287.name,チンチン玉,チンチン大(勃起）
+sakura.bindgroup1288.name,チンチン玉,チンチン大左向き（勃起）
 
 
 //陰毛
 
-sakura.bindgroup1200.name,陰毛,並
-sakura.bindgroup1201.name,陰毛,少
-sakura.bindgroup1202.name,陰毛,大盛り
+sakura.bindgroup1290.name,陰毛,並
+sakura.bindgroup1291.name,陰毛,少
+sakura.bindgroup1292.name,陰毛,大盛り
 
 
 //耳ピアス
