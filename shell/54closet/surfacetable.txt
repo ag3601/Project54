@@ -42,7 +42,7 @@ option,DisableNoDefineSurfaces
 36,\0‹Á‚«Æ‚ê
 37,\0Šì‚Ñ–Ú•Â‚¶
 38,\0”÷Î‚ÝÆ‚ê
-39,\0”ß‚µ‚¢
+39,\0”ß‚µ‚¢”¼–Ú
 40,\0‘f”¼–Ú
 41,\0”¼–ÚÆ‚ê—Ü–Ú
 42,\0”ß‚µ‚¢–Ú•Â‚¶AS”z‚Þ‚Þ‚Þ”û”ß
