@@ -1,4 +1,4 @@
-surface0,8,15,40,49-50
+surface0,8,15,40,49-50,64,77-80
 {
 collision0,43,20,155,66,Head
 collision1,94,73,132,110,Face
@@ -8,7 +8,7 @@ collision3,79,258,134,296,Skirt
 element0,overlay,surface0.png,0,0
 }
 
-surface1,11-14,17,19,20,23,27,30-31,33-36,41,44,46,52,62
+surface1,11-14,17,19,20,23,27,30-31,33-36,41,44,46,52,62,56-57,52,66-76,200-312
 {
 collision0,43,20,155,66,Head
 collision1,94,73,132,110,Face
@@ -28,7 +28,7 @@ collision3,79,258,134,296,Skirt
 element0,overlay,surface4.png,0,0
 }
 
-surface2,5,24-26,32,37,38,45,48
+surface2,5,24-26,32,37,38,45,48,62
 {
 collision0,43,20,155,66,Head
 collision1,94,73,132,110,Face
@@ -38,7 +38,7 @@ collision3,79,258,134,296,Skirt
 element0,overlay,surface5.png,0,0
 }
 
-surface6-7,9,18,22,54
+surface6-7,9,18,22,54,63,65
 {
 collision0,43,20,155,66,Head
 collision1,94,73,132,110,Face

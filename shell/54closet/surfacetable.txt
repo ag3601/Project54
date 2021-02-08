@@ -2,6 +2,8 @@ charset,Shift_JIS
 version,1
 option,DisableNoDefineSurfaces
 
+//サーフェス６４は０と同じになっでいるから後で新しい表情を入れよう
+
 //５４用
 
 0,\0素
@@ -67,7 +69,7 @@ option,DisableNoDefineSurfaces
 61,\0下見る涙目赤面半目
 62,\0照れ下見る赤面半目口普通
 63,\0むむむ口ん半目眉不快
-64,\0無表情
+64,\0素
 65,\0むむむ口ん目開き眉不快
 66,\0嬉しい目開き
 67,\0嬉しい半目
