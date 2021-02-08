@@ -800,19 +800,34 @@ animation3559.pattern0,bind,519,0,0,0
 
 //‹r
 
-animation550.interval,bind
-animation550.pattern0,bind,550,0,0,0
-animation550.collision6,204,827,343,886,Foot
-animation550.collision7,276,546,342,823,Leg
-animation550.collision8,208,547,266,836,Leg
-animation551.interval,bind
-animation551.pattern0,bind,551,0,0,0
-animation551.collision6,204,827,343,886,Foot
-animation551.collision7,276,546,342,823,Leg
-animation551.collision8,208,547,266,836,Leg
-
-
-
+animation560.interval,bind
+animation560.pattern0,bind,560,0,0,0
+animation560.collision6,204,827,343,886,Foot
+animation560.collision7,276,546,342,823,Leg
+animation560.collision8,208,547,266,836,Leg
+animation561.interval,bind
+animation561.pattern0,bind,561,0,0,0
+animation561.collision6,204,827,343,886,Foot
+animation561.collision7,276,546,342,823,Leg
+animation561.collision8,208,547,266,836,Leg
+animation562.interval,bind
+animation562.pattern0,bind,562,0,0,0
+animation562.collisionex7,leg,polygon,188,585,362,581,365,612,331,864,276,894,216,866,234,790
+animation563.interval,bind
+animation563.pattern0,bind,563,0,0,0
+animation563.collisionex7,leg,polygon,188,585,362,581,365,612,331,864,276,894,216,866,234,790
+animation564.interval,bind
+animation564.pattern0,bind,564,0,0,0
+animation564.collisionex7,leg,polygon,188,585,362,581,365,612,331,864,276,894,216,866,234,790
+animation565.interval,bind
+animation565.pattern0,bind,565,0,0,0
+animation565.collisionex7,leg,polygon,188,585,362,581,365,612,331,864,276,894,216,866,234,790
+animation566.interval,bind
+animation566.pattern0,bind,566,0,0,0
+animation566.collisionex7,leg,polygon,188,585,362,581,365,612,331,864,276,894,216,866,234,790
+animation567.interval,bind
+animation567.pattern0,bind,567,0,0,0
+animation567.collisionex7,leg,polygon,188,585,362,581,365,612,331,864,276,894,216,866,234,790
 
 
 //‚»‚Ì‘¼Ž¨
@@ -1572,10 +1587,10 @@ animation4217.interval,bind
 animation4217.pattern0,bind,4617,0,0,0
 animation4218.interval,bind
 animation4218.pattern0,bind,4618,0,0,0
-//animation4219.interval,bind
-//animation4219.pattern0,bind,4619,0,0,0
-//animation4220.interval,bind
-//animation4220.pattern0,bind,4620,0,0,0
+animation4219.interval,bind
+animation4219.pattern0,bind,4619,0,0,0
+animation4220.interval,bind
+animation4220.pattern0,bind,4620,0,0,0
 //animation4221.interval,bind
 //animation4221.pattern0,bind,4621,0,0,0
 

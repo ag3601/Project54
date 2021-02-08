@@ -46,10 +46,15 @@ sakura.bindgroup3559.addid,9558,3407
 //‹r
 
 sakura.bindoption0.group,‹r,mustselect
-sakura.bindgroup550.default,1
-sakura.bindgroup550.name,‹r,’Êí‹r
-sakura.bindgroup551.name,‹r,’…•¨—p‹r
-
+sakura.bindgroup560.default,1
+sakura.bindgroup560.name,‹r,’Êí‹r
+sakura.bindgroup561.name,‹r,’…•¨—p‹r
+sakura.bindgroup562.name,‹r,ƒ‰ƒ~ƒA‚P•
+sakura.bindgroup563.name,‹r,ƒ‰ƒ~ƒA‚PÔ
+sakura.bindgroup564.name,‹r,ƒ‰ƒ~ƒA‚P—Î
+sakura.bindgroup565.name,‹r,ƒ‰ƒ~ƒA‚Q•
+sakura.bindgroup566.name,‹r,ƒ‰ƒ~ƒA‚QÔ
+sakura.bindgroup567.name,‹r,ƒ‰ƒ~ƒA‚Q—Î
 
 
 //¨
@@ -353,6 +358,9 @@ sakura.bindgroup4214.name,‰º’…ã,ƒŒ[ƒXƒuƒ‰AÔ
 sakura.bindgroup4216.name,‰º’…ã,ƒŒ[ƒXƒuƒ‰B•
 sakura.bindgroup4217.name,‰º’…ã,ƒŒ[ƒXƒuƒ‰B”’
 sakura.bindgroup4218.name,‰º’…ã,ƒƒCƒhƒuƒ‰
+sakura.bindgroup4220.name,‰º’…ã,ƒCƒ“ƒi[•
+sakura.bindgroup4219.name,‰º’…ã,ƒCƒ“ƒi[”’
+
 
 
 //‰º’…‰º
