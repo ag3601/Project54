@@ -43,6 +43,15 @@ sakura.bindgroup3559.name,˜r,‹¹èA¶
 sakura.bindgroup3559.addid,9558,3407
 
 
+//‹r
+
+sakura.bindoption0.group,‹r,mustselect
+sakura.bindgroup550.default,1
+sakura.bindgroup550.name,‹r,’Êí‹r
+sakura.bindgroup551.name,‹r,’…•¨—p‹r
+
+
+
 //¨
 
 sakura.bindgroup600.default,1

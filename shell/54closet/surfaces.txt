@@ -15,9 +15,6 @@ collision1,260,259,284,271,Mouth
 collision3,225,330,320,371,Breast
 collision4,308,495,345,537,Hip
 collision5,197,487,232,533,Hip
-collision6,204,827,343,886,Foot
-collision7,276,546,342,823,Leg
-collision8,208,547,266,836,Leg
 collisionex9,Face,polygon,226,244,272,244,316,245,307,267,291,276,273,283,249,274,233,265
 collisionex10,xxx,circle,270,529,10
 }
@@ -799,6 +796,23 @@ animation9558.pattern0,bind,520,0,0,0
 animation9558.collisionex9558,Hand,polygon,294,337,312,317,294,319,271,303,273,315,252,310,269,321,245,330,265,331,255,346,276,341
 animation3559.interval,bind
 animation3559.pattern0,bind,519,0,0,0
+
+
+//‹r
+
+animation550.interval,bind
+animation550.pattern0,bind,550,0,0,0
+animation550.collision6,204,827,343,886,Foot
+animation550.collision7,276,546,342,823,Leg
+animation550.collision8,208,547,266,836,Leg
+animation551.interval,bind
+animation551.pattern0,bind,551,0,0,0
+animation551.collision6,204,827,343,886,Foot
+animation551.collision7,276,546,342,823,Leg
+animation551.collision8,208,547,266,836,Leg
+
+
+
 
 
 //‚»‚Ì‘¼Ž¨
