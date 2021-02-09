@@ -73,7 +73,7 @@ sakura.bindgroup607.name,耳,ヒレ耳赤
 //前髪
 
 sakura.bindoption0.group,前髪,mustselect
-sakura.bindgroup14000.default,1
+sakura.bindgroup14001.default,1
 sakura.bindgroup14000.name,前髪,ナチュラル１
 sakura.bindgroup14001.name,前髪,ナチュラル２
 sakura.bindgroup14002.name,前髪,ナチュラル３
