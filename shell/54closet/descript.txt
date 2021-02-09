@@ -176,6 +176,7 @@ sakura.bindgroup1134.name,Œã”¯,‚¨‰º‚°ƒx[ƒX
 sakura.bindgroup1135.name,Œã”¯,‚¨ì—l‚P
 sakura.bindgroup1136.name,Œã”¯,‚¨ì—l‚Q
 sakura.bindgroup1137.name,Œã”¯,‚¨ì—l‚R
+sakura.bindgroup1203.name,Œã”¯,‚¨ì—l‚S
 sakura.bindgroup1138.name,Œã”¯,‚¨’cq‚P
 sakura.bindgroup1139.name,Œã”¯,‚¨’cq‚Q
 sakura.bindgroup1140.name,Œã”¯,‚¨’cq‚R
