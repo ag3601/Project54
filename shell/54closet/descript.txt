@@ -83,131 +83,136 @@ sakura.bindoption0.group,前髪,mustselect
 sakura.bindgroup14001.default,1
 
 sakura.bindgroup14000.name,前髪,ナチュラル１
-＃sakura.bindgroup200.name,後髪,ナチュラル１
+＃sakura.bindgroup200.name,前髪,ナチュラル１
 sakura.bindgroup14000.addid,200
 
 sakura.bindgroup14001.name,前髪,ナチュラル２
-＃sakura.bindgroup201.name,後髪,ナチュラル２
+＃sakura.bindgroup201.name,前髪,ナチュラル２
 sakura.bindgroup14001.addid,201
 
 sakura.bindgroup14002.name,前髪,ナチュラル３
-＃sakura.bindgroup202.name,後髪,ナチュラル３
+＃sakura.bindgroup202.name,前髪,ナチュラル３
 sakura.bindgroup14002.addid,202
 
 sakura.bindgroup14003.name,前髪,ナチュラル４
-＃sakura.bindgroup203.name,後髪,ナチュラル４
+＃sakura.bindgroup203.name,前髪,ナチュラル４
 sakura.bindgroup14003.addid,203
 
 sakura.bindgroup14004.name,前髪,ナチュラル５
-＃sakura.bindgroup204.name,後髪,ナチュラル５
+＃sakura.bindgroup204.name,前髪,ナチュラル５
 sakura.bindgroup14004.addid,204
 
 sakura.bindgroup14005.name,前髪,ナチュラル６
-＃sakura.bindgroup205.name,後髪,ナチュラル６
+＃sakura.bindgroup205.name,前髪,ナチュラル６
 sakura.bindgroup14005.addid,205
 
 sakura.bindgroup14006.name,前髪,ナチュラル７
-＃sakura.bindgroup206.name,後髪,ナチュラル７
+＃sakura.bindgroup206.name,前髪,ナチュラル７
 sakura.bindgroup14006.addid,206
 
 sakura.bindgroup14007.name,前髪,ナチュラル７透け
-＃sakura.bindgroup207.name,後髪,ナチュラル７透け
+＃sakura.bindgroup207.name,前髪,ナチュラル７透け
 sakura.bindgroup14007.addid,207
 
 sakura.bindgroup14008.name,前髪,ナチュラル８
-＃sakura.bindgroup208.name,後髪,ナチュラル８
+＃sakura.bindgroup208.name,前髪,ナチュラル８
 sakura.bindgroup14008.addid,208
 
 sakura.bindgroup14009.name,前髪,ナチュラル８透け
-＃sakura.bindgroup209.name,後髪,ナチュラル８透け
+＃sakura.bindgroup209.name,前髪,ナチュラル８透け
 sakura.bindgroup14009.addid,209
 
 sakura.bindgroup14010.name,前髪,ナチュラル９
-＃sakura.bindgroup210.name,後髪,ナチュラル９
+＃sakura.bindgroup210.name,前髪,ナチュラル９
 sakura.bindgroup14010.addid,210
 
 sakura.bindgroup14011.name,前髪,ナチュラル９透け
-＃sakura.bindgroup211.name,後髪,ナチュラル９透け
+＃sakura.bindgroup211.name,前髪,ナチュラル９透け
 sakura.bindgroup14010.addid,211
 
 sakura.bindgroup14012.name,前髪,ナチュラル１０
-＃sakura.bindgroup212.name,後髪,ナチュラル１０
+＃sakura.bindgroup212.name,前髪,ナチュラル１０
 sakura.bindgroup14012.addid,212
 
 sakura.bindgroup14013.name,前髪,ナチュラル１０透け
-＃sakura.bindgroup213.name,後髪,ナチュラル１０透け
+＃sakura.bindgroup213.name,前髪,ナチュラル１０透け
 sakura.bindgroup14013.addid,213
 
 sakura.bindgroup14014.name,前髪,ナチュラル１１
-＃sakura.bindgroup214.name,後髪,ナチュラル１１
+＃sakura.bindgroup214.name,前髪,ナチュラル１１
 sakura.bindgroup14014.addid,214
 
 sakura.bindgroup14015.name,前髪,ナチュラル１１透け
-＃sakura.bindgroup215.name,後髪,ナチュラル１１透け
+＃sakura.bindgroup215.name,前髪,ナチュラル１１透け
 sakura.bindgroup14015.addid,215
 
 sakura.bindgroup14016.name,前髪,ナチュラル１２
-＃sakura.bindgroup216.name,後髪,ナチュラル１２
+＃sakura.bindgroup216.name,前髪,ナチュラル１２
 sakura.bindgroup14016.addid,216
 
 sakura.bindgroup14017.name,前髪,ナチュラル１２透け
-＃sakura.bindgroup217.name,後髪,ナチュラル１２透け
+＃sakura.bindgroup217.name,前髪,ナチュラル１２透け
 sakura.bindgroup14017.addid,217
 
 sakura.bindgroup14018.name,前髪,ナチュラル１３
-＃sakura.bindgroup218.name,後髪,ナチュラル１３
+＃sakura.bindgroup218.name,前髪,ナチュラル１３
 sakura.bindgroup14018.addid,218
 
 sakura.bindgroup14019.name,前髪,ナチュラル１３透け
-＃sakura.bindgroup219.name,後髪,ナチュラル１３透け
+＃sakura.bindgroup219.name,前髪,ナチュラル１３透け
 sakura.bindgroup14019.addid,219
 
 sakura.bindgroup14020.name,前髪,M字１
-＃sakura.bindgroup220.name,後髪,M字１
+＃sakura.bindgroup220.name,前髪,M字１
 sakura.bindgroup14020.addid,220
 
 sakura.bindgroup14021.name,前髪,M字２
-＃sakura.bindgroup221.name,後髪,M字２
+＃sakura.bindgroup221.name,前髪,M字２
 sakura.bindgroup14021.addid,221
 
 sakura.bindgroup14022.name,前髪,M字３
-＃sakura.bindgroup222.name,後髪,M字３
+＃sakura.bindgroup222.name,前髪,M字３
 sakura.bindgroup14022.addid,222
 
 sakura.bindgroup14023.name,前髪,M字４
-＃sakura.bindgroup223.name,後髪,M字４
+＃sakura.bindgroup223.name,前髪,M字４
 sakura.bindgroup14023.addid,223
 
 sakura.bindgroup14024.name,前髪,M字５
-＃sakura.bindgroup224.name,後髪,M字５
+＃sakura.bindgroup224.name,前髪,M字５
 sakura.bindgroup14024.addid,224
 
 sakura.bindgroup14025.name,前髪,M字５透け
-＃sakura.bindgroup225.name,後髪,M字５透け
+＃sakura.bindgroup225.name,前髪,M字５透け
 sakura.bindgroup14025.addid,225
 
 sakura.bindgroup14026.name,前髪,M字６
-＃sakura.bindgroup226.name,後髪,M字６
+＃sakura.bindgroup226.name,前髪,M字６
 sakura.bindgroup14026.addid,226
 
 sakura.bindgroup14027.name,前髪,M字６透け
-＃sakura.bindgroup227.name,後髪,M字６透け
+＃sakura.bindgroup227.name,前髪,M字６透け
 sakura.bindgroup14027.addid,227
 
 sakura.bindgroup14028.name,前髪,ピン止め１
-
+＃sakura.bindgroup228.name,前髪,ピン止め１
+sakura.bindgroup14028.addid,228
 
 sakura.bindgroup14029.name,前髪,ピン止め２
-
+＃sakura.bindgroup229.name,前髪,ピン止め２
+sakura.bindgroup14029.addid,229
 
 sakura.bindgroup14030.name,前髪,ボブ
-
+＃sakura.bindgroup230.name,前髪,ボブ
+sakura.bindgroup14030.addid,230
 
 sakura.bindgroup14031.name,前髪,ボブ透け
-
+＃sakura.bindgroup231.name,前髪,ボブ透け
+sakura.bindgroup14031.addid,231
 
 sakura.bindgroup14032.name,前髪,デコ出し１
-
+＃sakura.bindgroup232.name,前髪,デコ出し１
+sakura.bindgroup14032.addid,232
 
 sakura.bindgroup14033.name,前髪,デコ出し２
 
