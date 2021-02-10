@@ -215,34 +215,44 @@ sakura.bindgroup14032.name,前髪,デコ出し１
 sakura.bindgroup14032.addid,232
 
 sakura.bindgroup14033.name,前髪,デコ出し２
-
+＃sakura.bindgroup233.name,前髪,デコ出し２
+sakura.bindgroup14033.addid,233
 
 sakura.bindgroup14034.name,前髪,デコ出し３
-
+＃sakura.bindgroup234.name,前髪,デコ出し３
+sakura.bindgroup14034.addid,234
 
 sakura.bindgroup14035.name,前髪,デコ出し３透け
-
+＃sakura.bindgroup235.name,前髪,デコ出し３透け
+sakura.bindgroup14035.addid,235
 
 sakura.bindgroup14036.name,前髪,デコ出し４
-
+＃sakura.bindgroup236.name,前髪,デコ出し４
+sakura.bindgroup14036.addid,236
 
 sakura.bindgroup14037.name,前髪,デコ出し４透け
-
+＃sakura.bindgroup237.name,前髪,デコ出し４透け
+sakura.bindgroup14037.addid,237
 
 sakura.bindgroup14038.name,前髪,デコ出し５
-
+＃sakura.bindgroup238.name,前髪,デコ出し５
+sakura.bindgroup14038.addid,238
 
 sakura.bindgroup14039.name,前髪,デコ出し６
-
+＃sakura.bindgroup239.name,前髪,デコ出し６
+sakura.bindgroup14039.addid,239
 
 sakura.bindgroup14040.name,前髪,デコ出し７
-
+＃sakura.bindgroup240.name,前髪,デコ出し７
+sakura.bindgroup14040.addid,240
 
 sakura.bindgroup14041.name,前髪,デコ出し８
-
+＃sakura.bindgroup241.name,前髪,デコ出し８
+sakura.bindgroup14041.addid,241
 
 sakura.bindgroup14042.name,前髪,デコ出し９
-
+＃sakura.bindgroup242.name,前髪,デコ出し９
+sakura.bindgroup14042.addid,242
 
 sakura.bindgroup14043.name,前髪,ななめ１
 
