@@ -1567,6 +1567,14 @@ animation1205.interval,bind
 animation1205.option,background
 animation1205.pattern0,bind,1605,0,0,0
 animation1205.collisionex1203,Hair,polygon,275,135,306,145,329,166,339,196,345,293,299,299,247,301,198,287,206,194,217,160,240,141
+animation1206.interval,bind
+animation1206.option,background
+animation1206.pattern0,bind,1606,0,0,0
+animation1206.collisionex1203,Hair,polygon,240,132,269,124,309,125,351,181,364,265,391,361,403,413,374,529,170,532,137,407,163,303,143,276,186,258,183,227,208,158
+animation1207.interval,bind
+animation1207.option,background
+animation1207.pattern0,bind,1607,0,0,0
+animation1207.collisionex1203,Hair,polygon,251,135,288,135,313,146,332,180,338,293,353,377,325,399,221,400,185,364,204,297,211,178,224,151
 
 
 //‰¡”¯

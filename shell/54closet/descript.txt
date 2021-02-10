@@ -219,6 +219,8 @@ sakura.bindgroup1103.name,後髪,ロング４
 sakura.bindgroup1104.name,後髪,ロング５
 sakura.bindgroup1105.name,後髪,ロング６
 sakura.bindgroup1106.name,後髪,ロング７
+sakura.bindgroup1206.name,後髪,ロング８
+sakura.bindgroup1207.name,後髪,ロング９
 sakura.bindgroup1113.name,後髪,セミロング１
 sakura.bindgroup1114.name,後髪,セミロング２
 sakura.bindgroup1115.name,後髪,セミロング３
