@@ -516,60 +516,69 @@ animation1.pattern4,overlay,455,50,0,0
 }
 //–Ú‹Á‚«Ô–Ê1
 
+
 //”û•’Ê
 
 surface0,8,15,40,49-50,64
 {
-element5,overlay,surface400.png,0,0
+animation400.interval,bind
+animation400.pattern0,bind,400,0,0,0
 }
 
 //”û”ß
 
 surface16,3-4,21,19,23,28-29,36,39,42-43,46-47,51,53,55,56-61,80
 {
-element5,overlay,surface401.png,0,0
+animation400.interval,bind
+animation400.pattern0,bind,401,0,0,0
 }
 
 //”û“{
 
 surface9
 {
-element5,overlay,surface402.png,0,0
+animation400.interval,bind
+animation400.pattern0,bind,402,0,0,0
 }
 
 //”û^Œ•
 
 surface6,54
 {
-element5,overlay,surface403.png,0,0
+animation400.interval,bind
+animation400.pattern0,bind,403,0,0,0
 }
 
 //”û•s‰õ
 
 surface7,22,17,63,65,77-79
 {
-element5,overlay,surface404.png,0,0
+animation400.interval,bind
+animation400.pattern0,bind,404,0,0,0
 }
 
 //”û‹^
 
 surface18
 {
-element5,overlay,surface405.png,0,0
+animation400.interval,bind
+animation400.pattern0,bind,405,0,0,0
 }
 
 //”ûŠy
 
 surface1-2,5,11-12,14,20,24-27,30-35,37-38,41,44-45,48,62,66-76,200-210,212,300-310,312
 {
-element5,overlay,surface406.png,0,0
+animation400.interval,bind
+animation400.pattern0,bind,406,0,0,0
 }
 
 //”û‹Á‚«
 
 surface13,52,211,311
 {
-element5,overlay,surface407.png,0,0
+animation400.interval,bind
+animation400.pattern0,bind,407,0,0,0
 }
 
 //Œû•’Êi‚ñ`j
@@ -1134,6 +1143,13 @@ animation14130.interval,bind
 animation14130.pattern0,bind,14130,0,0,0
 animation14131.interval,bind
 animation14131.pattern0,bind,14131,0,0,0
+
+
+//‘O”¯‰e@”û–Ñ‚æ‚è‰º
+
+animation200.interval,bind
+animation200.pattern0,bind,700,0,0,0
+
 
 
 //Œã”¯

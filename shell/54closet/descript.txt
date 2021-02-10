@@ -69,12 +69,21 @@ sakura.bindgroup605.name,耳,ヒレ耳黒
 sakura.bindgroup606.name,耳,ヒレ耳白
 sakura.bindgroup607.name,耳,ヒレ耳赤
 
+//眉毛
+
+sakura.bindoption0.group,前髪,mustselect
+sakura.bindgroup400.default,1
+sakura.bindgroup400.name,眉毛,眉毛普通
+
+
 
 //前髪
 
 sakura.bindoption0.group,前髪,mustselect
 sakura.bindgroup14001.default,1
 sakura.bindgroup14000.name,前髪,ナチュラル１
+＃sakura.bindgroup200.name,後髪,ナチュラル１
+sakura.bindgroup14000.addid,200
 sakura.bindgroup14001.name,前髪,ナチュラル２
 sakura.bindgroup14002.name,前髪,ナチュラル３
 sakura.bindgroup14003.name,前髪,ナチュラル４
