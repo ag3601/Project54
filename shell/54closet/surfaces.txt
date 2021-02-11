@@ -73,7 +73,7 @@ element3,overlay,surface472.png,0,0
 }
 
 //–Ú•’Ê
-surface0,5-6,53,66,77
+surface0,5-6,53,65-66,77
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
