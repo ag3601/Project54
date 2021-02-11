@@ -7,7 +7,7 @@ Version,1
 
 //素体
 
-surface0-9,11-80,200-212,300-312
+surface0-9,11-80,200-225,300-325
 {
 element2,overlay,surface350.png,0,0
 collisionex0,Head,polygon,212,170,228,148,251,136,293,136,316,148,331,170
@@ -59,7 +59,7 @@ element3,overlay,surface471.png,0,0
 
 //目閉じ赤1涙目
 
-surface29
+surface29,219,225,319,325
 {
 element0,interpolate,surface370.png,0,0
 element3,overlay,surface476.png,0,0
@@ -108,6 +108,20 @@ animation1.pattern1,overlay,454,80,0,0
 animation1.pattern2,overlay,464,120,0,0
 animation1.pattern3,overlay,474,50,0,0
 animation1.pattern4,overlay,454,50,0,0
+}
+
+
+//目普通涙目赤1
+
+surface59,214,221,314,321
+{
+element0,interpolate,surface370.png,0,0
+animation1.interval,runonce+random,6
+animation1.pattern0,overlay,456,0,0,0
+animation1.pattern1,overlay,456,80,0,0
+animation1.pattern2,overlay,466,120,0,0
+animation1.pattern3,overlay,476,50,0,0
+animation1.pattern4,overlay,456,50,0,0
 }
 
 
@@ -175,7 +189,7 @@ animation1.pattern4,overlay,465,50,0,0
 }
 
 //目半目涙目赤1
-surface60
+surface60,213,220,313,320
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
@@ -198,7 +212,7 @@ animation1.pattern3,overlay,472,50,0,0
 animation1.pattern4,overlay,462,50,0,0
 }
 
-目普通涙目
+//目普通涙目
 surface64
 {
 element0,interpolate,surface370.png,0,0
@@ -223,19 +237,6 @@ animation1.pattern3,overlay,475,50,0,0
 animation1.pattern4,overlay,455,50,0,0
 }
 
-
-//目普通涙目赤1
-
-surface59
-{
-element0,interpolate,surface370.png,0,0
-animation1.interval,runonce+random,6
-animation1.pattern0,overlay,456,0,0,0
-animation1.pattern1,overlay,456,80,0,0
-animation1.pattern2,overlay,466,120,0,0
-animation1.pattern3,overlay,476,50,0,0
-animation1.pattern4,overlay,456,50,0,0
-}
 
 //目普通泣き
 //surface
@@ -273,6 +274,7 @@ animation1.pattern4,overlay,450,50,0,0
 //animation1.pattern4,overlay,453,50,0,0
 //}
 
+
 //目右見る赤面1
 
 surface205,305
@@ -284,6 +286,19 @@ animation1.pattern1,overlay,454,80,0,0
 animation1.pattern2,overlay,464,120,0,0
 animation1.pattern3,overlay,474,50,0,0
 animation1.pattern4,overlay,454,50,0,0
+}
+
+
+//目右見る涙目赤面1
+surface218,318
+{
+element0,interpolate,surface371.png,0,0
+animation1.interval,runonce+random,6
+animation1.pattern0,overlay,456,0,0,0
+animation1.pattern1,overlay,456,80,0,0
+animation1.pattern2,overlay,466,120,0,0
+animation1.pattern3,overlay,476,50,0,0
+animation1.pattern4,overlay,456,50,0,0
 }
 
 //半目右見る
@@ -323,6 +338,20 @@ animation1.pattern3,overlay,474,50,0,0
 animation1.pattern4,overlay,464,50,0,0
 }
 
+
+//半目右見る涙目赤面1
+surface217,317
+{
+element0,interpolate,surface371.png,0,0
+animation1.interval,runonce+random,6
+animation1.pattern0,overlay,466,0,0,0
+animation1.pattern1,overlay,466,80,0,0
+animation1.pattern2,overlay,466,120,0,0
+animation1.pattern3,overlay,476,50,0,0
+animation1.pattern4,overlay,466,50,0,0
+}
+
+
 //目下見る
 surface43,49
 {
@@ -359,8 +388,9 @@ animation1.pattern3,overlay,474,50,0,0
 animation1.pattern4,overlay,454,50,0,0
 }
 
+
 //目下見る赤面1涙目目開き
-surface19
+surface19,216,223,316,323
 {
 element0,interpolate,surface372.png,0,0
 animation1.interval,runonce+random,6
@@ -370,6 +400,7 @@ animation1.pattern2,overlay,466,120,0,0
 animation1.pattern3,overlay,476,50,0,0
 animation1.pattern4,overlay,456,50,0,0
 }
+
 
 //目下見る半目
 surface50,58
@@ -431,8 +462,9 @@ animation1.pattern4,overlay,461,50,0,0
 //animation1.pattern4,overlay,465,50,0,0
 //}
 
+
 //目下見る涙目半目赤面1
-surface61
+surface61,215,222,315,322
 {
 element0,interpolate,surface372.png,0,0
 animation1.interval,runonce+random,6
@@ -442,6 +474,8 @@ animation1.pattern2,overlay,466,120,0,0
 animation1.pattern3,overlay,476,50,0,0
 animation1.pattern4,overlay,466,50,0,0
 }
+
+
 //目下見る涙目
 
 surface28
@@ -503,6 +537,21 @@ animation1.pattern4,overlay,454,50,0,0
 //animation1.pattern4,overlay,451,50,0,0
 //}
 
+
+//目驚き涙目赤面1
+
+surface224,324
+{
+element0,interpolate,surface373.png,0,0
+animation1.interval,runonce+random,6
+animation1.pattern0,overlay,456,0,0,0
+animation1.pattern1,overlay,456,80,0,0
+animation1.pattern2,overlay,466,120,0,0
+animation1.pattern3,overlay,476,50,0,0
+animation1.pattern4,overlay,456,50,0,0
+}
+
+
 //目驚き照れ1
 surface23
 {
@@ -514,7 +563,6 @@ animation1.pattern2,overlay,465,120,0,0
 animation1.pattern3,overlay,475,50,0,0
 animation1.pattern4,overlay,455,50,0,0
 }
-//目驚き赤面1
 
 
 //眉普通
@@ -567,7 +615,7 @@ animation400.pattern0,bind,405,0,0,0
 
 //眉楽
 
-surface1-2,5,11-12,14,20,24-27,30-35,37-38,41,44-45,48,62,66-76,200-210,212,300-310,312
+surface1-2,5,11-12,14,20,24-27,30-35,37-38,41,44-45,48,62,66-76,200-210,212,300-310,312,213-223,225,313-323,325
 {
 animation400.interval,bind
 animation400.pattern0,bind,406,0,0,0
@@ -575,7 +623,7 @@ animation400.pattern0,bind,406,0,0,0
 
 //眉驚き
 
-surface13,52,211,311
+surface13,52,211,311,224,324,
 {
 animation400.interval,bind
 animation400.pattern0,bind,407,0,0,0
@@ -583,7 +631,7 @@ animation400.pattern0,bind,407,0,0,0
 
 //口普通（ん～）
 
-surface0,1,3-4,6,11,15-16,9,19-21,27-30,39,40-43,46-47,49-51,53-65,74-79,200-206,211,300-306,311
+surface0,1,3-4,6,11,15-16,9,19-21,27-30,39,40-43,46-47,49-51,53-65,74-79,200-206,211,300-306,311,213-219,224,313-319,324
 {
 element6,overlay,surface430.png,0,0
 
@@ -667,7 +715,7 @@ animation4.pattern6,overlay,435,90,0,0
 
 //ムッとした口（無表情１）
 
-surface7-8,12-14,17-18,22-23,31,33-36,44,52,80,207-210,212,307-310,312
+surface7-8,12-14,17-18,22-23,31,33-36,44,52,80,207-210,212,307-310,312,220-223,225,320-323,325
 {
 element6,overlay,surface433.png,0,0
 
@@ -682,13 +730,13 @@ animation4.pattern6,overlay,433,90,0,0
 }
 
 //湯気
-surface200-212
+surface200-225
 {
 element8,overlay,surface492.png,0,0
 }
 
 //湯気大
-surface300-312
+surface300-325
 {
 element8,overlay,surface493.png,0,0
 }
@@ -715,7 +763,7 @@ animation602.collisionex12,Ear,polygon,225,230,173,251,224,251
 }
 
 
-surface19,29,46,51,54-55,57,59-62,200-212,300-312
+surface19,29,46,51,54-55,57,59-62,200-225,300-325
 {
 //人・エルフ耳
 
@@ -733,7 +781,7 @@ animation602.collisionex11,Ear,polygon,317,230,363,250,314,251
 animation602.collisionex12,Ear,polygon,225,230,173,251,224,251
 }
 
-surface0-9,11-80,200-212,300-312
+surface0-9,11-80,200-225,300-325
 {
 
 //腕
