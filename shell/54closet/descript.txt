@@ -638,6 +638,10 @@ sakura.bindgroup1124.name,後髪,ショット７
 sakura.bindgroup1125.name,後髪,ショット８
 sakura.bindgroup1126.name,後髪,ショット９
 sakura.bindgroup1127.name,後髪,ショット１０
+sakura.bindgroup1209.name,後髪,ショット１１
+sakura.bindgroup1210.name,後髪,ショット１２
+//sakura.bindgroup1211.name,後髪,ショット１３
+sakura.bindgroup1212.name,後髪,ショット１４
 sakura.bindgroup1107.name,後髪,ポニーテール１
 sakura.bindgroup1108.name,後髪,ポニーテール２
 ＃sakura.bindgroup1300.name,後髪,ポニーテール２
@@ -690,6 +694,7 @@ sakura.bindgroup1156.name,後髪,しっぽ３
 sakura.bindgroup1157.name,後髪,しっぽ４
 sakura.bindgroup1158.name,後髪,しっぽ５
 sakura.bindgroup1159.name,後髪,しっぽ６
+sakura.bindgroup1208.name,後髪,しっぽ７
 sakura.bindgroup1160.name,後髪,ベース
 sakura.bindgroup1162.name,後髪,ツインテール１
 sakura.bindgroup1163.name,後髪,ツインテール２
