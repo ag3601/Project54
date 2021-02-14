@@ -7,7 +7,7 @@ Version,1
 
 //素体
 
-surface0-9,11-99,200-228,300-328
+surface0-9,11-103,200-228,300-328
 {
 element2,overlay,surface350.png,0,0
 collisionex0,Head,polygon,212,170,228,148,251,136,293,136,316,148,331,170
@@ -277,7 +277,7 @@ animation1.pattern4,overlay,450,50,0,0
 
 //目右見る赤面1
 
-surface205,305
+surface100,205,305
 {
 element0,interpolate,surface371.png,0,0
 animation1.interval,runonce+random,6
@@ -327,7 +327,7 @@ animation1.pattern4,overlay,463,50,0,0
 
 //半目右見る赤面1
 
-surface204,304
+surface101,204,304
 {
 element0,interpolate,surface371.png,0,0
 animation1.interval,runonce+random,6
@@ -376,8 +376,8 @@ animation1.pattern3,overlay,473,50,0,0
 animation1.pattern4,overlay,453,50,0,0
 }
 
-//目下見る赤面1
-surface203,210,303,310
+//目下見る目開き赤面1
+surface102,203,210,303,310
 {
 element0,interpolate,surface372.png,0,0
 animation1.interval,runonce+random,6
@@ -427,7 +427,7 @@ animation1.pattern4,overlay,463,50,0,0
 }
 
 //目下見る半目赤面1
-surface57,62,202,209,302,309
+surface57,62,103,202,209,302,309
 {
 element0,interpolate,surface372.png,0,0
 animation1.interval,runonce+random,6
@@ -615,7 +615,7 @@ animation400.pattern0,bind,405,0,0,0
 
 //眉楽
 
-surface1-2,5,11-12,14,20,24-27,32,37-38,41,44-45,48,62,66-76,81-87,94-99,200-210,212,213-223,225-228,300-310,312,313-323,325-328
+surface1-2,5,11-12,14,20,24-27,32,37-38,41,44-45,48,62,66-76,81-87,94-103,200-210,212,213-223,225-228,300-310,312,313-323,325-328
 {
 animation400.interval,bind
 animation400.pattern0,bind,406,0,0,0
@@ -623,7 +623,7 @@ animation400.pattern0,bind,406,0,0,0
 
 //眉驚き
 
-surface13,52,211,311,224,324,
+surface13,52,211,311,224,324
 {
 animation400.interval,bind
 animation400.pattern0,bind,407,0,0,0
@@ -631,7 +631,7 @@ animation400.pattern0,bind,407,0,0,0
 
 //口普通（ん～）
 
-surface0,1,3-4,6,11,15-16,9,19-21,27-30,39,40-43,46-47,49-51,53-65,77-79,97-99,200-206,211,300-306,311,213-219,224,313-319,324
+surface0,1,3-4,6,11,15-16,9,19-21,27-30,39,40-43,46-47,49-51,53-65,77-79,97-103,200-206,211,300-306,311,213-219,224,313-319,324
 {
 element6,overlay,surface430.png,0,0
 
@@ -763,7 +763,7 @@ animation602.collisionex12,Ear,polygon,225,230,173,251,224,251
 }
 
 
-surface19,29,46,51,54-55,57,59-62,82-87,91-99,200-228,300-328
+surface19,29,46,51,54-55,57,59-62,82-87,91-103,200-228,300-328
 {
 //人・エルフ耳
 
@@ -782,7 +782,7 @@ animation602.collisionex12,Ear,polygon,225,230,173,251,224,251
 }
 
 
-surface0-9,11-99,200-228,300-328
+surface0-9,11-103,200-228,300-328
 {
 
 //腕
