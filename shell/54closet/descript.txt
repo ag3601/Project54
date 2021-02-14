@@ -654,6 +654,9 @@ sakura.bindgroup1111.name,後髪,ポニーテール５
 sakura.bindgroup1112.name,後髪,ポニーテール６
 sakura.bindgroup1112.addid,1302
 ＃sakura.bindgroup1302.name,後髪,ポニーテール６
+sakura.bindgroup1213.name,後髪,ポニーテール８
+sakura.bindgroup1213.addid,1303
+＃sakura.bindgroup1303.name,後髪,ポニーテール８
 sakura.bindgroup1116.name,後髪,チャイナ
 sakura.bindgroup1117.name,後髪,シニョン
 sakura.bindgroup1128.name,後髪,おかっぱ１
@@ -758,11 +761,6 @@ sakura.bindgroup12216.name,横髪,横髪パッツン２右
 sakura.bindgroup12215.name,横髪,横髪パッツン２左
 
 
-//前髪パーツ アホ毛もやり直して14200番使うか？
-
-
-
-
 //アホ毛
 
 sakura.bindgroup14200.name,アホ毛,アホ毛１
@@ -800,8 +798,17 @@ sakura.bindgroup910.name,髪パーツ,お団子６
 sakura.bindgroup911.name,髪パーツ,内髪右
 sakura.bindgroup912.name,髪パーツ,内髪左
 
+//前髪パーツ アホ毛もやり直して14200番使うか？
 
 
+//後髪パーツ ポニーテールの番号を
+
+sakura.bindgroup1304.name,髪パーツ,襟足ロング１
+sakura.bindgroup1305.name,髪パーツ,襟足ロング２
+sakura.bindgroup1306.name,髪パーツ,襟足ロング３
+sakura.bindgroup1307.name,髪パーツ,襟足セミロング
+sakura.bindgroup1308.name,髪パーツ,短１
+sakura.bindgroup1309.name,髪パーツ,短２
 
 
 //モミアゲ

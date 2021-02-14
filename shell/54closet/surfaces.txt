@@ -1927,6 +1927,13 @@ animation1212.interval,bind
 animation1212.option,background
 animation1212.pattern0,bind,1612,0,0,0
 animation1212.collisionex1612,Hair,polygon,247,134,298,135,330,160,339,223,331,241,281,283,241,277,201,227,207,172
+animation1213.interval,bind
+animation1213.option,background
+animation1213.pattern0,bind,1613,0,0,0
+animation1213.collisionex1612,Hair,polygon,240,122,304,120,378,420,164,424,
+animation1303.interval,bind
+animation1303.option,background
+animation1303.pattern0,bind,1303,0,0,0
 
 
 //横髪
@@ -1971,6 +1978,27 @@ animation12217.pattern0,bind,1016,0,0,0
 
 //前髪パーツ 
 
+
+//後髪パーツ ポニーテールの番号を
+
+animation1304.interval,bind
+animation1304.option,background
+animation1304.pattern0,bind,1304,0,0,0
+animation1305.interval,bind
+animation1305.option,background
+animation1305.pattern0,bind,1305,0,0,0
+animation1306.interval,bind
+animation1306.option,background
+animation1306.pattern0,bind,1306,0,0,0
+animation1307.interval,bind
+animation1307.option,background
+animation1307.pattern0,bind,1307,0,0,0
+animation1308.interval,bind
+animation1308.option,background
+animation1308.pattern0,bind,1308,0,0,0
+animation1309.interval,bind
+animation1309.option,background
+animation1309.pattern0,bind,1309,0,0,0
 
 
 //アホ毛
