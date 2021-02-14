@@ -12,17 +12,17 @@
 
 
 ＠callghostrootbutton.caption
-他のゴーストさんをここに呼び出せますφ…。
+他のゴーストさんをここに呼び出せますφ…
 ＠closebutton.caption
-わたしが退場しますφ…。
+わたしが退場しますφ…
 ＠configurationrootbutton.caption
-いろいろ設定できますφ…。
+いろいろ設定できますφ…
 ＠elpbutton.caption
-便利な機能が、いっぱいφ…。
+便利な機能が、いっぱいφ…
 ＠ghostrootbutton.caption
-ゴーストさんはここから選べ、ますφ…。
+ゴーストさんはここから選べ、ますφ…
 ＠helpbutton.caption
-分からないことがあったら、ここをφ…。
+分からないことがあったら、ここをφ…
 ＠homeurl
 https://raw.githubusercontent.com/ag3601/Project54/master/
 
@@ -31,33 +31,33 @@ https://raw.githubusercontent.com/ag3601/Project54/master/
 ＃例）http://red_post.sakura.ne.jp/R_POST_and_KOMAINU/
 
 ＠inforootbutton.caption
-いんふぉめーしょんφ…。
+いんふぉめーしょんφ…
 ＠kero.recommendbuttoncaption
 ￥１のおすすめ(&R)
 
 ＠pluginrootbutton.caption
-プラグインでいろんな機能が増えるそう、ですφ…。
+プラグインでいろんな機能が増えるそう、ですφ…
 ＠portalrootbutton.caption
 きほん(&P)
-（５４名前）に、出来ることφ…。(&P)
-＃（U）だけの、おすすめφ…。(&P)
+（５４名前）に、出来ることφ…(&P)
+＃（U）だけの、おすすめφ…(&P)
 
 ＠rateofuseballoonbutton.caption
-バルーンの変更は、ここからφ…。
+バルーンの変更は、ここからφ…
 ＠readmebutton.caption
-読んでくださいφ…。(&R)
-あの、ここφ…。(&R)
+読んでくださいφ…(&R)
+あの、ここφ…(&R)
 Read　me(&R)
 
 ＠recommendrootbutton.caption
 おすすめ(&R)
-とても、すてきなところへφ…。(&R)
+とても、すてきなところへφ…(&R)
 うれしい、きもち。(&R)
-行くと、きっと、しあわせ、にφ…。(&R)
-ありがとうの、きもちφ…。(&R)
+行くと、きっと、しあわせ、にφ…(&R)
+ありがとうの、きもちφ…(&R)
 
 ＠resettodefaultbutton.caption
-設定をもとどおりにできますφ…。
+設定をもとどおりにできますφ…
 ＊sakura.portalsites
 伺かチャット
 http://ukgkchat.saloon.jp/index.php?FrontPage
@@ -162,19 +162,19 @@ http://priest.so.land.to/54_/54.html
 
 
 ＠saveasdefaultbutton.caption
-今の設定を全部のゴーストさんに反映させられますφ…。
+今の設定を全部のゴーストさんに反映させられますφ…
 ＠shellrootbutton.caption
-すてきな、おめかしですφ…。
+すてきな、おめかしですφ…
 ＠shellscalerootbutton.caption
-わたしの大きさをφ…自由に変更できますφ…。
+わたしの大きさをφ…自由に変更できますφ…
 ＠shellscalerootbutton.caption
-わたしの体をφ…自由、にφ…。
+わたしの体をφ…自由、にφ…
 ＠updatebutton.caption
 オンラインアップデート(&U)
 ネットワーク更新(&U)
-更新、なんだか不安ですφ…。(&U)
+更新、なんだか不安ですφ…(&U)
 更新、わたしに、うまくできるでしょうか？(&U)
-なにかが、変わるのでしょう、かφ…。(&U)
+なにかが、変わるのでしょう、かφ…(&U)
 これで、しあわせにφ…なれるでしょうかφ…？(&U)
 ＠username
 （ユーザ名）　
