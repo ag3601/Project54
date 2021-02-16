@@ -1,4 +1,4 @@
-file,delete.txtaed75e8f4fca7b5590ddba89e2cca2e8size=1613
+file,delete.txtcad8c0c44ecc7383f8e3016a33dafc5fsize=1718
 file,developer_options.txtfa6c59d7dabb68e5c0d109063e7d25bfsize=434
 file,ghost/master/descript.txtf60d89c6b5d905041a5a1ff184e70d32size=191
 file,ghost/master/dic01_Base.txt872c67c9d21766a96708a9d91fcb44fdsize=8682
@@ -13,7 +13,7 @@ file,ghost/master/dic07_Time.txt24d8328357163562c89537ea2d10a755size=21559
 file,ghost/master/dic08_RandomTalk.txtc5c0a9a5d0422e2187ef94288d9b02a7size=65443
 file,ghost/master/dic09_dic.txt983b135c287ccdea9f0c6bab13c62e12size=6848
 file,ghost/master/dic10_naming.txtce07d4a862776bffcda25ce8d88ed780size=1534
-file,ghost/master/dic11_touch.txt0fa695d2c45b8e912b8d8fa83013fab9size=29034
+file,ghost/master/dic11_touch.txt7bf5b2f0694aa16d1024faf3321fbbcdsize=29217
 file,ghost/master/dic12_TeaParty.txt424749d2ab85b1aea6ccba83cfc53d90size=1277
 file,ghost/master/dic13_date.txt83b8bcb99a8c85f5f959f3538c751a0csize=71435
 file,ghost/master/dic14_DressChange.txte15900095b17178e54104ce22a40132dsize=160
