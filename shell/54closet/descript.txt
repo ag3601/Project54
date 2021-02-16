@@ -71,7 +71,7 @@ sakura.bindgroup607.name,¨,ƒqƒŒ¨Ô
 
 //”û–Ñ
 
-sakura.bindoption0.group,‘O”¯,mustselect
+sakura.bindoption0.group,”û–Ñ,mustselect
 sakura.bindgroup400.default,1
 sakura.bindgroup400.name,”û–Ñ,”û–Ñ•’Ê
 
