@@ -6,7 +6,6 @@ option,DisableNoDefineSurfaces
 
 //微笑みは口ニコ小、嬉しいは口ニコ。
 
-
 0,\0素
 1,\0照れ
 2,\0喜び涙目
