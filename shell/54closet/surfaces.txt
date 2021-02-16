@@ -73,7 +73,7 @@ element3,overlay,surface472.png,0,0
 }
 
 //目普通
-surface0,5-6,53,65-66,77
+surface0,5-6,46,65-66,77
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
@@ -86,7 +86,7 @@ animation1.pattern4,overlay,450,50,0,0
 
 //目普通照れ1
 
-surface30,33,38,62,71,74,81,88
+surface30,33,38,53,62,71,74,81,88
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
@@ -99,7 +99,7 @@ animation1.pattern4,overlay,453,50,0,0
 
 //目普通赤1
 
-surface46,54-55,82,85,91,94,97,105,201,208,226,301,308,326
+surface54-55,82,85,91,94,97,105,201,208,226,301,308,326
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
@@ -365,7 +365,7 @@ animation1.pattern4,overlay,450,50,0,0
 }
 
 //目下見る照れ1
-surface11,56
+surface11
 {
 element0,interpolate,surface372.png,0,0
 animation1.interval,runonce+random,6
@@ -377,7 +377,7 @@ animation1.pattern4,overlay,453,50,0,0
 }
 
 //目下見る目開き赤面1
-surface102,203,210,303,310
+surface56,102,203,210,303,310
 {
 element0,interpolate,surface372.png,0,0
 animation1.interval,runonce+random,6
@@ -744,7 +744,7 @@ element8,overlay,surface493.png,0,0
 
 //着せ替え
 
-surface0-9,11-18,20-28,30-45,47-50,52-53,56,58,62-81,88-90,104
+surface0-9,11-18,20-28,30-45,47-50,52-53,58,62-81,88-90,104
 {
 //人・エルフ耳
 
@@ -763,7 +763,7 @@ animation602.collisionex12,Ear,polygon,225,230,173,251,224,251
 }
 
 
-surface19,29,46,51,54-55,57,59-61,82-87,91-103,105-106,200-228,300-328
+surface19,29,46,51,54-57,59-61,82-87,91-103,105-106,200-228,300-328
 {
 //人・エルフ耳
 
