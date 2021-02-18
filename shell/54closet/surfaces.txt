@@ -583,15 +583,15 @@ animation400.pattern0,bind,401,0,0,0
 
 //”û“{
 
-surface9
-{
-animation400.interval,bind
-animation400.pattern0,bind,402,0,0,0
-}
+//surface
+//{
+//animation400.interval,bind
+//animation400.pattern0,bind,402,0,0,0
+//}
 
 //”û^Œ•
 
-surface6,54
+surface6,9,54
 {
 animation400.interval,bind
 animation400.pattern0,bind,403,0,0,0
