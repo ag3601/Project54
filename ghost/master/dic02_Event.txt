@@ -542,13 +542,13 @@
 \w8\s[1]\w7ちょっと、\w6気持ち、\w6よくっ\w9\w3て…
 ＊OnWindowStateRestore
 \t\h
-（１２）はやかったんです、\w4ね…
+（２０１）はやかったんです、\w4ね…
 ＊OnWindowStateRestore
 \t\h（３０９）
 \w4…\w5…\w5…
 ＊OnWindowStateRestore
 \t\h
-（２）もう、\w3大丈夫、
+（２８）もう、\w3大丈夫、
 
 \w7です…か？。
 ＊OnWindowStateRestore
@@ -560,14 +560,14 @@
 
 （６１）\w5あしが\w4しびれて…
 ＊OnWindowStateRestore
-\t\h\s[1]
+\t\h（２０９）
 …ぃ\w1すき、\w7（U）、\w5だぁい\w1すき、\w4
 \w8（U）\w8…\w9\w9
 
-\w5（２３）\w9\w8えっ。
+\w5（２０１）\w9\w8えっ。
 
 \w8\w9\w9\w8い、\w6いつの\w1間、\w7に\w4…\w5（５４名前）\w9
-\w7（１４）\w5外に\w1出てたんです、\w9\w4か…？ｗ９（２０）
+\w7\w5外に\w1出てたんです、\w9\w4か…？
 ＊OnWindowStateRestore
 \t\h（２０１）
 \w3一人きりだったから、\w8\w8\w5つい…\w2
