@@ -549,14 +549,14 @@
 
 \w8\s[1]\w7ちょっと、\w6気持ち、\w6よくっ\w9\w3て…
 ＊OnWindowStateRestore
-\t\h
+\t\hｗ５
 （２０１）はやかったんです、\w4ね…
 ＊OnWindowStateRestore
-\t\h（３０９）
+\t\h（３０９）ｗ５
 \w4…\w5…\w5…
 ＊OnWindowStateRestore
-\t\h
-（２８）もう、\w3大丈夫、
+\t\hｗ５
+（３８）もう、\w3大丈夫、
 
 \w7です…か？。
 ＊OnWindowStateRestore
@@ -582,23 +582,24 @@
 
 （３０２）\w9いえ、\w9何でも、\w3無いんです…
 ＊OnWindowStateRestore
-\t\h（５９）\n\w3あ、\w5あそこ\w1には、\w4\w5あの…
+\t\h（５９）\w3
+あ、\w5あそこ\w1には、\w4\w5あの…
 
 \w8（６１）いえ、\w5何でも\w2ありま、\w8せん…
 ＊OnWindowStateRestore
-\t\h
+\t\hｗ５
 （３８）びっくり、\w4しました…（４８）
 ＊OnWindowStateRestore
-\t\h（３８）
+\t\h（３８）ｗ５
 …がんばります。
 ＊OnWindowStateRestore
-\t\h
+\t\hｗ５
 （３８）…やっと、
 
 \w4落ち着け、\w4ます。
 ＊OnWindowStateRestore
-\t\h（３８）
-\w3あそこも\w6、よかった\w1です\w1…
+\t\h（３８）\w3
+あそこも\w6、よかった\w1です…
 ＊pillowtalkにシェル変更
 ＄靴あり	０
 \t\h\s[1]\w9
