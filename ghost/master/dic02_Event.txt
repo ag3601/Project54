@@ -237,11 +237,11 @@
 ＊OnMouseDragEnd
 \t\h\s[0]\w4\nここなら…\w4\nお邪魔に\w1なりません、か\w1…？
 ＊OnMouseDragEnd
-\t\h\s[0]\w4\n移動ですか？
+\t\h\s[0]\w4\n移動ですが？
 ＊OnMouseDragEnd
 \t\h\s[5]\w4\n到着ですね。
 ＊OnMouseDragEnd
-\t\h\s[0]\w4\nあの位置じゃ\w3不味かったですか？
+\t\h\s[0]\w4\nあの位置じゃ\w3不味かったですが？
 ＊OnMouseDragStart
 \t\h\s[0]\nあっ…\w3。\n\w9\w9\e
 ＊OnMouseDragStart
@@ -269,7 +269,7 @@
 
 ＊OnNarCreating
 \t\h
-\s[0]narファイルですか？
+\s[0]narファイルですが？
 
 \w4うまく、\w4作れるかな…
 ＊OnOtherGhostClosed
