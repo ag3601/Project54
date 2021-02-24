@@ -12,6 +12,7 @@ surface0-9,11-116,200-231,300-328
 element2,overlay,surface350.png,0,0
 collisionex0,Head,polygon,212,170,228,148,251,136,293,136,316,148,331,170
 collision1,260,259,284,271,Mouth
+collisionex2,ForeHead,polygon,255,149,287,149,317,170,319,194,221,192,233,161
 collision3,225,330,320,371,Breast
 collision4,308,495,345,537,Hip
 collision5,197,487,232,533,Hip
