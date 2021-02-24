@@ -75,7 +75,11 @@ sakura.bindoption0.group,眉毛,mustselect
 sakura.bindgroup400.default,1
 sakura.bindgroup400.name,眉毛,眉毛普通
 
+//湯気
 
+sakura.bindoption0.group,湯気,mustselect
+sakura.bindgroup20000.default,1
+sakura.bindgroup20000.name,湯気,湯気
 
 //前髪
 

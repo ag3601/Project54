@@ -733,13 +733,15 @@ animation4.pattern6,overlay,433,90,0,0
 //“’‹C
 surface200-231
 {
-element8,overlay,surface492.png,0,0
+animation20000.interval,bind
+animation20000.pattern0,bind,492,0,0,0
 }
 
 //“’‹C‘å
 surface300-328
 {
-element8,overlay,surface493.png,0,0
+animation20000.interval,bind
+animation20000.pattern0,bind,493,0,0,0
 }
 
 
