@@ -207,33 +207,42 @@
 ＞（Ｒ０）が押された
 
 ＊OnMouseDragEnd
-\t\h\s[1]\w4\n\w4だ、\w4だっこ…でした、\w7ね
+\t\h（９７）\w4
+\w4だ、\w4だっこ…でした、\w7ね
 ＊OnMouseDragEnd
 \t\h\s[1]\w4\n抱き上げ…られ\w1ちゃった。
 ＊OnMouseDragEnd
 \t\h\s[1]\w4\n\w4…\w5どきどき、\w7しちゃい\w1ました。
 ＊OnMouseDragEnd
-\t\h\s[5]\w4\nここで、\w5落ち着きますね？
+\t\h（３８）\w4
+ここで、\w5落ち着きますね？
 ＊OnMouseDragEnd
-\t\h\s[0]\w4\nここなら…\w4\nお邪魔に\w1なりません、か\w1…？
+\t\h（３０）\w4
+ここなら…\w4
+
+（３８）お邪魔に\w1なりません、か\w1…？
 ＊OnMouseDragEnd
-\t\h\s[0]\w4\n移動ですが？
+\t\h（３０）\w4
+移動ですが？
 ＊OnMouseDragEnd
 \t\h\s[5]\w4\n到着ですね。
 ＊OnMouseDragEnd
 \t\h\s[0]\w4\nあの位置じゃ\w3不味かったですが？
 ＊OnMouseDragStart
-\t\h\s[0]\nあっ…\w3。\n\w9\w9\e
+\t\h（３０）
+あっ…\w3。
 ＊OnMouseDragStart
 \t\h\s[0]\n（U）…？\w3\n\w9\e
 ＊OnMouseDragStart
-\t\h\s[0]\n移動かな…？\w3\n\w9\e
+\t\h（３０）
+移動かな…？
 ＊OnMouseDragStart
 \t\h\s[0]\n移動かな…？\w3\n\w9\e
 ＊OnMouseDragStart
 \t\h\s[1]\nだ、\w6だっこ…？\w3\n\w9\w9\e
 ＊OnMouseDragStart
-\t\h\s[0]\nあれ？\w3\n\w9\e
+\t\h（３０）
+あれ？
 ＊OnMusicPlay
 \t\h『（Ｒ０）』再生開始です。
 
@@ -256,7 +265,8 @@
 \t\h（３８）\w5
 （Ｒ０）さん、\w7また…
 ＊OnOtherGhostClosed
-\t\h\s[0]\w5\n（Ｒ０）さん、\w7お疲れ様でした…\n\w8\e
+\t\h（３８）\w5
+（Ｒ０）さん、\w7（４８）お疲れ様でした…
 ＊OnSecondChange
 ＞見切れタイマをセット	（Ｒ１）==1　&&　（見切れフラグ）==0
 ＞見切れ復帰	（Ｒ１）==0　&&　（見切れフラグ）==1
@@ -317,11 +327,26 @@
 ＄r_talk	（）
 （r_talk）
 ＊OnUpdate.OnDownloadBegin
-\t\h\s[0]\n新しいファイル\n\n（R０）\n\nを受信中です…
+\t\h\s[0]
+新しいファイル
+
+（R０）
+
+を受信中です…
 ＊OnUpdate.OnDownloadBegin
-\t\h\s[5]\n新しいファイル\n\n（R0）\n\nを受信中です…
+\t\h（３８）
+新しいファイル
+
+（R0）
+
+を受信中です…
 ＊OnUpdate.OnDownloadBegin
-\t\h\s[1]\n新しいファイル\n\n（R0）\n\nを受信中です…
+\t\h（３０）
+新しいファイル
+
+（R0）
+
+を受信中です…
 ＊OnUpdate.OnMD5CompareBegin
 \t\h\_q（Ｒ０）のMD5照合を行いますね。\_q
 
@@ -649,7 +674,9 @@
 
 \w5それでは\w2交代します、\w8ね…
 
-\w6また、\w5来てくだ、\w6\s[1]\w8さい…\n\w5（U）…\w4。\w5
+（３８）\w6また、\w5来てくだ、\w6（４８）\w8さい…
+
+\w5（U）…\w4。\w5
 \w9\w9\![change,ghost,lastinstalled]
 ＊ゴーストインスト変更キャンセル
 \t\h\s[0]\w7
@@ -858,10 +885,10 @@
 
 ありがとう、\w5ござい、\w8ます\w2。
 ＊消滅イベント
-\t\h
-\s[4]\w9さようなら…
+\t\h\s[4]\w9
+さようなら…
 
-\w7大好きな、\w8（U）。\s[5]\n\w9\w9\w9
+\w7大好きな、\w8（U）。\s[5]\w9\w9\w9
 （－１）…ｗ９（５）…ｗ９（－１）…ｗ９…（５）
 ｗ９（－１）ｗ９
 \![vanishbymyself]
