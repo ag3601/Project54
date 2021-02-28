@@ -27,19 +27,19 @@ collisionex10,xxx,circle,270,529,10
 //顔色は三バターンを実装している
 //ほっぺ2、照れ1、赤面1
 //段階は目開き、半目、目閉じ
-//目のパーツ番号は100番から平常、涙目、泣き、10番こと目閉じ段階を進む
+//目のパーツ番号は450番から平常、涙目、泣き、10番こと目閉じ段階を進む
 //
 
 
 //目閉じ
-surface15,37,42,70,79,109
+surface15,37,42,79,109
 {
 element3,overlay,surface470.png,0,0
 }
 
 //目閉じ照れ1
 
-surface22,27,31,68,73,76,90
+surface22,27,31,68,70,73,76,90
 {
 element0,interpolate,surface370.png,0,0
 element3,overlay,surface473.png,0,0
