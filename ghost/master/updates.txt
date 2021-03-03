@@ -1,7 +1,7 @@
 file,delete.txtcad8c0c44ecc7383f8e3016a33dafc5fsize=1718
 file,developer_options.txtfa6c59d7dabb68e5c0d109063e7d25bfsize=434
 file,ghost/master/descript.txtf60d89c6b5d905041a5a1ff184e70d32size=191
-file,ghost/master/dic01_Base.txtedd128fd5f45d550e176835fc3690f70size=9206
+file,ghost/master/dic01_Base.txt33f271424c15f5c61d9dc2b616f7604asize=9146
 file,ghost/master/dic02_Event.txt9062da92c4bb3e39759205089f6e5b2fsize=20598
 file,ghost/master/dic03_Menu.txt07f1123b48e10a4b9c786a337d4e36b4size=33570
 file,ghost/master/dic04_Change.txte0ef023b8d12f553b835afa3f383ffe9size=20193
