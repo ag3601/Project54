@@ -9,6 +9,11 @@
 
 
 
+＊５４みたいのをインストール
+\t\h
+\s[0]あ…
+
+わたしの、\w5再インストール\w2なんです、\w6ね…
 ＊５４をインストール
 \t\h\s[0]
 あ…
@@ -233,8 +238,11 @@
 \t\h（９７）\w4
 あの位置じゃ\w3不味かったですが？
 ＊OnMouseDragStart
-\t\h（９４）
-あっ…\w3。
+\t\h（９７）
+あれ？
+＊OnMouseDragStart
+\t\h（８５）
+だ、\w6だっこ…？
 ＊OnMouseDragStart
 \t\h（９７）
 （U）…？
@@ -245,11 +253,8 @@
 \t\h（９４）
 移動かな…？
 ＊OnMouseDragStart
-\t\h（８５）
-だ、\w6だっこ…？
-＊OnMouseDragStart
-\t\h（９７）
-あれ？
+\t\h（９４）
+あっ…\w3。
 ＊OnMusicPlay
 \t\h『（Ｒ０）』再生開始です。
 
@@ -297,6 +302,9 @@
 \w7\s[5]おめかし…\w2です、ね…
 
 \w9うれしい…\w9です。
+＊さとりすとにより無効化_OnShellScaling
+\t\h（３８）\w4
+（Ｒ１）％から\w4（Ｒ０）％になりました。
 ＊OnSNTPBegin
 \t\h（Ｒ０）から正しい時間を取得中です。
 
@@ -386,6 +394,17 @@
 
 よかった…\w2あってます…
 ＊OnUpdate.OnMD5CompareFailure
+\t\h\s[0]
+リモート\_q　（Ｒ１）\_q
+
+ローカル\_q　（Ｒ２）\_q
+
+合いません…\w4
+
+どうすればいいのか…
+
+
+＊OnUpdate.OnMD5CompareFailure
 \t\h\s（４）
 リモート\_q　（Ｒ１）\_q
 
@@ -405,17 +424,6 @@
 合いません…\w4
 
 どうすればいいの、\w4か…
-
-
-＊OnUpdate.OnMD5CompareFailure
-\t\h\s[0]
-リモート\_q　（Ｒ１）\_q
-
-ローカル\_q　（Ｒ２）\_q
-
-合いません…\w4
-
-どうすればいいのか…
 
 
 ＊OnUpdateBegin
@@ -535,6 +543,47 @@
 \w3シーツが\w2ずれちゃっ、\w7て…\w5
 
 \w6わたし、\w8\s[1]\w3どうしよう、\w9\w4かと…
+＊OnWindowStateRestore
+\t\h（３８）\w3
+あそこも\w6、よかった\w1です…
+＊OnWindowStateRestore
+\t\hｗ５
+（３８）…やっと、
+
+\w4落ち着け、\w4ます。
+＊OnWindowStateRestore
+\t\h（３８）ｗ５
+…がんばります。
+＊OnWindowStateRestore
+\t\h（５９）\w3
+あ、\w5あそこ\w1には、\w4\w5あの…
+
+\w8（６１）いえ、\w5何でも\w2ありま、\w8せん…
+＊OnWindowStateRestore
+\t\h（２０９）
+…ぃ\w1すき、\w7（U）、\w5だぁい\w1すき、\w4
+\w8（U）\w8…\w9\w9
+
+\w5（２０１）\w9\w8えっ。
+
+\w8\w9\w9\w8い、\w6いつの\w1間、\w7に\w4…\w5（５４名前）\w9
+\w7\w5外に\w1出てたんです、\w9\w4か…？
+＊OnWindowStateRestore
+\t\h（６１）
+\w6すこし、ｗ４せまかった、\w7から…ｗ９ｗ９
+
+（６０）\w8ちょっと、\w5あしが\w4しびれて…
+＊OnWindowStateRestore
+\t\hｗ５
+（３８）びっくり、\w4しました…（４８）
+＊OnWindowStateRestore
+\t\hｗ５
+（３８）もう、\w3大丈夫、
+
+\w7です…か？。
+＊OnWindowStateRestore
+\t\h
+（３０）\w9…\w5あ\w2っ\w5。
 ＊OnWindowStateRestore	（現在のシェル）＝＝pillowtalk
 \t\h\s[4]
 \w8この姿で\w4隠れる、\w7には…
@@ -551,11 +600,11 @@
 \w3シーツが\w2ずれちゃっ、\w7て…\w5
 
 \w6わたし、\w8\s[1]\w3どうしよう、\w9\w4かと…
-＊OnWindowStateRestore	（現在のシェル）＝＝nutshell
-\t\h\s[5]
-\w8なかで、\w6こっそり\w5…\w4
+＊OnWindowStateRestore
+\t\h（２０１）
+\w3一人きりだったから、\w8\w8\w5つい…\w2
 
-\w8着替えたり、\w6してまし、\w4\s[1]\w8た…
+（３０２）\w9いえ、\w9何でも、\w3無いんです…
 ＊OnWindowStateRestore	（現在のシェル）＝＝nagoya
 \t\h（４）
 \w8し、\w7しっぽが\w5
@@ -569,52 +618,11 @@
 ＊OnWindowStateRestore
 \t\h（３０９）ｗ５
 \w4…\w5…\w5…
-＊OnWindowStateRestore
-\t\hｗ５
-（３８）もう、\w3大丈夫、
+＊OnWindowStateRestore	（現在のシェル）＝＝nutshell
+\t\h\s[5]
+\w8なかで、\w6こっそり\w5…\w4
 
-\w7です…か？。
-＊OnWindowStateRestore
-\t\h
-（３０）\w9…\w5あ\w2っ\w5。
-＊OnWindowStateRestore
-\t\h（６１）
-\w6すこし、ｗ４せまかった、\w7から…ｗ９ｗ９
-
-（６０）\w8ちょっと、\w5あしが\w4しびれて…
-＊OnWindowStateRestore
-\t\h（２０９）
-…ぃ\w1すき、\w7（U）、\w5だぁい\w1すき、\w4
-\w8（U）\w8…\w9\w9
-
-\w5（２０１）\w9\w8えっ。
-
-\w8\w9\w9\w8い、\w6いつの\w1間、\w7に\w4…\w5（５４名前）\w9
-\w7\w5外に\w1出てたんです、\w9\w4か…？
-＊OnWindowStateRestore
-\t\h（２０１）
-\w3一人きりだったから、\w8\w8\w5つい…\w2
-
-（３０２）\w9いえ、\w9何でも、\w3無いんです…
-＊OnWindowStateRestore
-\t\h（５９）\w3
-あ、\w5あそこ\w1には、\w4\w5あの…
-
-\w8（６１）いえ、\w5何でも\w2ありま、\w8せん…
-＊OnWindowStateRestore
-\t\hｗ５
-（３８）びっくり、\w4しました…（４８）
-＊OnWindowStateRestore
-\t\h（３８）ｗ５
-…がんばります。
-＊OnWindowStateRestore
-\t\hｗ５
-（３８）…やっと、
-
-\w4落ち着け、\w4ます。
-＊OnWindowStateRestore
-\t\h（３８）\w3
-あそこも\w6、よかった\w1です…
+\w8着替えたり、\w6してまし、\w4\s[1]\w8た…
 ＊pillowtalkにシェル変更
 ＄靴あり	０
 \t\h\s[1]\w9
@@ -716,13 +724,16 @@
 
 
 ＊ネットワーク更新changed
-\t\h（１）\w6
-よかった、\w1です…
-＊ネットワーク更新changed
-\t\h\s[1]\w3
-ネットワーク更新…
+\t\h\s[1]\w6
+これで\w3また、\w5
 
-うまく、\w5いきました。
+（U）と\w2いっしょ、\w8に…
+＊ネットワーク更新changed
+\t\h\s[5]\w6
+うれしい…
+＊ネットワーク更新changed
+\t\h\s[1]\w6
+ほっと、\w1しました…
 ＊ネットワーク更新changed
 \t\h\s[5]\w6
 ほっと、\w1しました…
@@ -732,16 +743,13 @@
 
 いいみたい、\w4です…
 ＊ネットワーク更新changed
-\t\h\s[1]\w6
-ほっと、\w1しました…
+\t\h（１）\w6
+よかった、\w1です…
 ＊ネットワーク更新changed
-\t\h\s[5]\w6
-うれしい…
-＊ネットワーク更新changed
-\t\h\s[1]\w6
-これで\w3また、\w5
+\t\h\s[1]\w3
+ネットワーク更新…
 
-（U）と\w2いっしょ、\w8に…
+うまく、\w5いきました。
 ＊ネットワーク更新md5　miss
 \t\h\s[4]ｗ５
 チェックサムミスマッチ…ｗ９ｗ９
@@ -782,11 +790,6 @@
 ＊フラグ処理
 ＄見切れフラグ	（Ｒ１）
 ＄重なりフラグ	（Ｒ２）
-＊５４みたいのをインストール
-\t\h
-\s[0]あ…
-
-わたしの、\w5再インストール\w2なんです、\w6ね…
 ＊メーラを開く
 \![open,mailer]
 
@@ -953,14 +956,6 @@
 ＊読み上げ中止
 \t\h\b[-1]
 
-＊重なり
-＞フラグ処理	（重なりフラグ）==0
-
-＞フラグ処理
-＊重なりタイマをセット
-＄重なりタイマ	５
-
-＞フラグ処理
 ＊起動処理
 ＄５４呼称	54
 ＄起動トーク乱数	（乱数０～２）
@@ -979,3 +974,11 @@
 ＞夜に起動	（現在時）＜２３
 ＞深夜に起動
 
+＊重なり
+＞フラグ処理	（重なりフラグ）==0
+
+＞フラグ処理
+＊重なりタイマをセット
+＄重なりタイマ	５
+
+＞フラグ処理
