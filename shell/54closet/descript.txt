@@ -1379,17 +1379,17 @@ sakura.bindgroup8504.name,外套,ケープ赤
 sakura.bindgroup8505.name,外套,ケープ茶
 
 
-//エフロン
-sakura.bindgroup8450.name,エフロン,エフロングレー
-sakura.bindgroup8451.name,エフロン,エフロン白
-sakura.bindgroup8452.name,エフロン,エフロンピンク
-sakura.bindgroup8453.name,エフロン,エフロン黄色
-sakura.bindgroup8455.name,エフロン,エフロン水色
-sakura.bindgroup8454.name,エフロン,エフロン緑
-sakura.bindgroup8456.name,エフロン,フリルエフロン黒
-sakura.bindgroup8457.name,エフロン,フリルエフロン白
-sakura.bindgroup8458.name,エフロン,腰エフロン１
-sakura.bindgroup8459.name,エフロン,腰エフロン２
+//エプロン
+sakura.bindgroup8450.name,エプロン,エプロングレー
+sakura.bindgroup8451.name,エプロン,エプロン白
+sakura.bindgroup8452.name,エプロン,エプロンピンク
+sakura.bindgroup8453.name,エプロン,エプロン黄色
+sakura.bindgroup8455.name,エプロン,エプロン水色
+sakura.bindgroup8454.name,エプロン,エプロン緑
+sakura.bindgroup8456.name,エプロン,フリルエプロン黒
+sakura.bindgroup8457.name,エプロン,フリルエプロン白
+sakura.bindgroup8458.name,エプロン,腰エプロン１
+sakura.bindgroup8459.name,エプロン,腰エプロン２
 
 
 //眼鏡
