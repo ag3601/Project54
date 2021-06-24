@@ -1,13 +1,13 @@
 charset,Shift_JIS
 
-ï¼•ï¼”ã¿ãŸã„ã®ç”¨
+‚T‚S‚İ‚½‚¢‚Ì—p
 
 descript
 {
 Version,1
 }
 
-//ç´ ä½“
+//‘f‘Ì
 
 surface0-9,11-121,200-231,300-328
 {
@@ -23,21 +23,21 @@ collisionex10,xxx,circle,270,529,10
 }
 
 
-//é¡”è‰²åˆ¶å¾¡ã¯ç›®ã®ãƒ‘ãƒ¼ãƒ„ã¨ä¸€ä½“åŒ–ã—ã¦ã„ã‚‹
-//é¡”è‰²ã¯ä¸‰ãƒã‚¿ãƒ¼ãƒ³ã‚’å®Ÿè£…ã—ã¦ã„ã‚‹
-//ã»ã£ãº2ã€ç…§ã‚Œ1ã€èµ¤é¢1
-//æ®µéšã¯ç›®é–‹ãã€åŠç›®ã€ç›®é–‰ã˜
-//ç›®ã®ãƒ‘ãƒ¼ãƒ„ç•ªå·ã¯450ç•ªã‹ã‚‰å¹³å¸¸ã€æ¶™ç›®ã€æ³£ãã€10ç•ªã“ã¨ç›®é–‰ã˜æ®µéšã‚’é€²ã‚€
+//ŠçF§Œä‚Í–Ú‚Ìƒp[ƒc‚Æˆê‘Ì‰»‚µ‚Ä‚¢‚é
+//ŠçF‚ÍOƒoƒ^[ƒ“‚ğÀ‘•‚µ‚Ä‚¢‚é
+//‚Ù‚Á‚Ø2AÆ‚ê1AÔ–Ê1
+//’iŠK‚Í–ÚŠJ‚«A”¼–ÚA–Ú•Â‚¶
+//–Ú‚Ìƒp[ƒc”Ô†‚Í450”Ô‚©‚ç•½íA—Ü–ÚA‹ƒ‚«A10”Ô‚±‚Æ–Ú•Â‚¶’iŠK‚ği‚Ş
 //
 
 
-//ç›®é–‰ã˜
+//–Ú•Â‚¶
 surface15,37,42,79,109
 {
 element3,overlay,surface470.png,0,0
 }
 
-//ç›®é–‰ã˜ç…§ã‚Œ1
+//–Ú•Â‚¶Æ‚ê1
 
 surface22,27,31,68,70,73,76,90
 {
@@ -45,7 +45,7 @@ element0,interpolate,surface370.png,0,0
 element3,overlay,surface473.png,0,0
 }
 
-//ç›®é–‰ã˜èµ¤1
+//–Ú•Â‚¶Ô1
 
 surface20,84,87,93,96,99,121,206,212,228,231,306,312,328
 {
@@ -53,14 +53,14 @@ element0,interpolate,surface370.png,0,0
 element3,overlay,surface474.png,0,0
 }
 
-//ç›®é–‰ã˜æ¶™ç›®
+//–Ú•Â‚¶—Ü–Ú
 surface21,26
 {
 element0,interpolate,surface370.png,0,0
 element3,overlay,surface471.png,0,0
 }
 
-//ç›®é–‰ã˜èµ¤1æ¶™ç›®
+//–Ú•Â‚¶Ô1—Ü–Ú
 
 surface29,114,219,225,319,325
 {
@@ -68,14 +68,14 @@ element0,interpolate,surface370.png,0,0
 element3,overlay,surface476.png,0,0
 }
 
-//ç›®é–‰ã˜æ³£ã
+//–Ú•Â‚¶‹ƒ‚«
 surface16,25
 {
 element0,interpolate,surface370.png,0,0
 element3,overlay,surface472.png,0,0
 }
 
-//ç›®æ™®é€š
+//–Ú•’Ê
 surface0,5-6,46,65-66,77,107
 {
 element0,interpolate,surface370.png,0,0
@@ -87,7 +87,7 @@ animation1.pattern3,overlay,470,50,0,0
 animation1.pattern4,overlay,450,50,0,0
 }
 
-//ç›®æ™®é€šç…§ã‚Œ1
+//–Ú•’ÊÆ‚ê1
 
 surface30,33,38,53,62,71,74,81,88
 {
@@ -100,7 +100,7 @@ animation1.pattern3,overlay,473,50,0,0
 animation1.pattern4,overlay,453,50,0,0
 }
 
-//ç›®æ™®é€šèµ¤1
+//–Ú•’ÊÔ1
 
 surface54-55,82,85,91,94,97,105,119,201,208,226,229,301,308,326
 {
@@ -114,7 +114,7 @@ animation1.pattern4,overlay,454,50,0,0
 }
 
 
-//ç›®æ™®é€šæ¶™ç›®èµ¤1
+//–Ú•’Ê—Ü–ÚÔ1
 
 surface59,112,214,221,314,321
 {
@@ -128,7 +128,7 @@ animation1.pattern4,overlay,456,50,0,0
 }
 
 
-//åŠç›®
+//”¼–Ú
 surface7,18,39-40,45,63,67,78,80,108
 {
 element0,interpolate,surface370.png,0,0
@@ -140,7 +140,7 @@ animation1.pattern3,overlay,470,50,0,0
 animation1.pattern4,overlay,460,50,0,0
 }
 
-//åŠç›®ç…§ã‚Œ1
+//”¼–ÚÆ‚ê1
 surface1,14,17,48,69,72,75,89,104
 {
 element0,interpolate,surface370.png,0,0
@@ -152,7 +152,7 @@ animation1.pattern3,overlay,473,50,0,0
 animation1.pattern4,overlay,463,50,0,0
 }
 
-//åŠç›®èµ¤1
+//”¼–ÚÔ1
 
 surface51,83,86,92,95,98,106,120,200,207,227,230,300,307,327
 {
@@ -165,7 +165,7 @@ animation1.pattern3,overlay,474,50,0,0
 animation1.pattern4,overlay,464,50,0,0
 }
 
-//ç›®åŠç›®æ¶™ç›®
+//–Ú”¼–Ú—Ü–Ú
 
 surface4
 {
@@ -178,7 +178,7 @@ animation1.pattern3,overlay,471,50,0,0
 animation1.pattern4,overlay,461,50,0,0
 }
 
-//ç›®åŠç›®æ¶™ç›®ç…§ã‚Œ
+//–Ú”¼–Ú—Ü–ÚÆ‚ê
 
 surface9,32,35,41
 {
@@ -191,7 +191,7 @@ animation1.pattern3,overlay,475,50,0,0
 animation1.pattern4,overlay,465,50,0,0
 }
 
-//ç›®åŠç›®æ¶™ç›®èµ¤1
+//–Ú”¼–Ú—Ü–ÚÔ1
 surface60,113,213,220,313,320
 {
 element0,interpolate,surface370.png,0,0
@@ -203,7 +203,7 @@ animation1.pattern3,overlay,476,50,0,0
 animation1.pattern4,overlay,466,50,0,0
 }
 
-//ç›®åŠç›®æ³£ã
+//–Ú”¼–Ú‹ƒ‚«
 surface3,24
 {
 element0,interpolate,surface370.png,0,0
@@ -215,7 +215,7 @@ animation1.pattern3,overlay,472,50,0,0
 animation1.pattern4,overlay,462,50,0,0
 }
 
-//ç›®æ™®é€šæ¶™ç›®
+//–Ú•’Ê—Ü–Ú
 surface64
 {
 element0,interpolate,surface370.png,0,0
@@ -227,7 +227,7 @@ animation1.pattern3,overlay,471,50,0,0
 animation1.pattern4,overlay,451,50,0,0
 }
 
-//ç›®æ™®é€šæ¶™ç›®ç…§ã‚Œ1
+//–Ú•’Ê—Ü–ÚÆ‚ê1
 
 surface2,34
 {
@@ -241,7 +241,7 @@ animation1.pattern4,overlay,455,50,0,0
 }
 
 
-//ç›®æ™®é€šæ³£ã
+//–Ú•’Ê‹ƒ‚«
 //surface
 //{
 //element0,interpolate,surface370.png,0,0
@@ -253,7 +253,7 @@ animation1.pattern4,overlay,455,50,0,0
 //animation1.pattern4,overlay,452,50,0,0
 //}
 
-//ç›®å³è¦‹ã‚‹
+//–Ú‰EŒ©‚é
 surface8
 {
 element0,interpolate,surface371.png,0,0
@@ -265,7 +265,7 @@ animation1.pattern3,overlay,470,50,0,0
 animation1.pattern4,overlay,450,50,0,0
 }
 
-//ç›®å³è¦‹ã‚‹ç…§ã‚Œ1
+//–Ú‰EŒ©‚éÆ‚ê1
 //surface
 //{
 //element0,interpolate,surface371.png,0,0
@@ -278,7 +278,7 @@ animation1.pattern4,overlay,450,50,0,0
 //}
 
 
-//ç›®å³è¦‹ã‚‹èµ¤é¢1
+//–Ú‰EŒ©‚éÔ–Ê1
 
 surface100,205,305
 {
@@ -292,7 +292,7 @@ animation1.pattern4,overlay,454,50,0,0
 }
 
 
-//ç›®å³è¦‹ã‚‹æ¶™ç›®èµ¤é¢1
+//–Ú‰EŒ©‚é—Ü–ÚÔ–Ê1
 surface218,318
 {
 element0,interpolate,surface371.png,0,0
@@ -304,7 +304,7 @@ animation1.pattern3,overlay,476,50,0,0
 animation1.pattern4,overlay,456,50,0,0
 }
 
-//åŠç›®å³è¦‹ã‚‹
+//”¼–Ú‰EŒ©‚é
 //surface
 //{
 //element0,interpolate,surface371.png,0,0
@@ -316,7 +316,7 @@ animation1.pattern4,overlay,456,50,0,0
 //animation1.pattern4,overlay,460,50,0,0
 //}
 
-//åŠç›®å³è¦‹ã‚‹ç…§ã‚Œ1
+//”¼–Ú‰EŒ©‚éÆ‚ê1
 surface12
 {
 element0,interpolate,surface371.png,0,0
@@ -328,7 +328,7 @@ animation1.pattern3,overlay,473,50,0,0
 animation1.pattern4,overlay,463,50,0,0
 }
 
-//åŠç›®å³è¦‹ã‚‹èµ¤é¢1
+//”¼–Ú‰EŒ©‚éÔ–Ê1
 
 surface101,204,304
 {
@@ -342,7 +342,7 @@ animation1.pattern4,overlay,464,50,0,0
 }
 
 
-//åŠç›®å³è¦‹ã‚‹æ¶™ç›®èµ¤é¢1
+//”¼–Ú‰EŒ©‚é—Ü–ÚÔ–Ê1
 surface217,317
 {
 element0,interpolate,surface371.png,0,0
@@ -355,7 +355,7 @@ animation1.pattern4,overlay,466,50,0,0
 }
 
 
-//ç›®ä¸‹è¦‹ã‚‹
+//–Ú‰ºŒ©‚é
 surface43,49
 {
 element0,interpolate,surface372.png,0,0
@@ -367,7 +367,7 @@ animation1.pattern3,overlay,470,50,0,0
 animation1.pattern4,overlay,450,50,0,0
 }
 
-//ç›®ä¸‹è¦‹ã‚‹ç…§ã‚Œ1
+//–Ú‰ºŒ©‚éÆ‚ê1
 surface11,110
 {
 element0,interpolate,surface372.png,0,0
@@ -379,7 +379,7 @@ animation1.pattern3,overlay,473,50,0,0
 animation1.pattern4,overlay,453,50,0,0
 }
 
-//ç›®ä¸‹è¦‹ã‚‹ç›®é–‹ãèµ¤é¢1
+//–Ú‰ºŒ©‚é–ÚŠJ‚«Ô–Ê1
 surface56,102,115,117,203,210,303,310
 {
 element0,interpolate,surface372.png,0,0
@@ -392,7 +392,7 @@ animation1.pattern4,overlay,454,50,0,0
 }
 
 
-//ç›®ä¸‹è¦‹ã‚‹èµ¤é¢1æ¶™ç›®ç›®é–‹ã
+//–Ú‰ºŒ©‚éÔ–Ê1—Ü–Ú–ÚŠJ‚«
 surface19,216,223,316,323
 {
 element0,interpolate,surface372.png,0,0
@@ -405,7 +405,7 @@ animation1.pattern4,overlay,456,50,0,0
 }
 
 
-//ç›®ä¸‹è¦‹ã‚‹åŠç›®
+//–Ú‰ºŒ©‚é”¼–Ú
 surface50,58
 {
 element0,interpolate,surface372.png,0,0
@@ -417,7 +417,7 @@ animation1.pattern3,overlay,470,50,0,0
 animation1.pattern4,overlay,460,50,0,0
 }
 
-//ç›®ä¸‹è¦‹ã‚‹åŠç›®ç…§ã‚Œ1
+//–Ú‰ºŒ©‚é”¼–ÚÆ‚ê1
 surface44,111
 {
 element0,interpolate,surface372.png,0,0
@@ -429,7 +429,7 @@ animation1.pattern3,overlay,473,50,0,0
 animation1.pattern4,overlay,463,50,0,0
 }
 
-//ç›®ä¸‹è¦‹ã‚‹åŠç›®èµ¤é¢1
+//–Ú‰ºŒ©‚é”¼–ÚÔ–Ê1
 surface57,103,116,118,202,209,302,309
 {
 element0,interpolate,surface372.png,0,0
@@ -441,7 +441,7 @@ animation1.pattern3,overlay,474,50,0,0
 animation1.pattern4,overlay,464,50,0,0
 }
 
-//ç›®ä¸‹è¦‹ã‚‹åŠç›®æ¶™ç›®
+//–Ú‰ºŒ©‚é”¼–Ú—Ü–Ú
 surface47
 {
 element0,interpolate,surface372.png,0,0
@@ -453,7 +453,7 @@ animation1.pattern3,overlay,471,50,0,0
 animation1.pattern4,overlay,461,50,0,0
 }
 
-//ç›®ä¸‹è¦‹ã‚‹æ¶™ç›®åŠç›®ç…§ã‚Œ1
+//–Ú‰ºŒ©‚é—Ü–Ú”¼–ÚÆ‚ê1
 //surface
 //{
 //element0,interpolate,surface372.png,0,0
@@ -466,7 +466,7 @@ animation1.pattern4,overlay,461,50,0,0
 //}
 
 
-//ç›®ä¸‹è¦‹ã‚‹æ¶™ç›®åŠç›®èµ¤é¢1
+//–Ú‰ºŒ©‚é—Ü–Ú”¼–ÚÔ–Ê1
 surface61,215,222,315,322
 {
 element0,interpolate,surface372.png,0,0
@@ -479,7 +479,7 @@ animation1.pattern4,overlay,466,50,0,0
 }
 
 
-//ç›®ä¸‹è¦‹ã‚‹æ¶™ç›®
+//–Ú‰ºŒ©‚é—Ü–Ú
 
 surface28
 {
@@ -492,7 +492,7 @@ animation1.pattern3,overlay,471,50,0,0
 animation1.pattern4,overlay,451,50,0,0
 }
 
-//ç›®é©šã
+//–Ú‹Á‚«
 surface13
 {
 element0,interpolate,surface373.png,0,0
@@ -504,7 +504,7 @@ animation1.pattern3,overlay,470,50,0,0
 animation1.pattern4,overlay,450,50,0,0
 }
 
-//ç›®é©šãç…§ã‚Œ1
+//–Ú‹Á‚«Æ‚ê1
 surface36
 {
 element0,interpolate,surface373.png,0,0
@@ -516,7 +516,7 @@ animation1.pattern3,overlay,473,50,0,0
 animation1.pattern4,overlay,453,50,0,0
 }
 
-//ç›®é©šãèµ¤é¢1
+//–Ú‹Á‚«Ô–Ê1
 surface52,211,311
 {
 element0,interpolate,surface373.png,0,0
@@ -528,7 +528,7 @@ animation1.pattern3,overlay,474,50,0,0
 animation1.pattern4,overlay,454,50,0,0
 }
 
-//ç›®é©šãæ¶™ç›®
+//–Ú‹Á‚«—Ü–Ú
 //surface
 //{
 //element0,interpolate,surface373.png,0,0
@@ -541,7 +541,7 @@ animation1.pattern4,overlay,454,50,0,0
 //}
 
 
-//ç›®é©šãæ¶™ç›®èµ¤é¢1
+//–Ú‹Á‚«—Ü–ÚÔ–Ê1
 
 surface224,324
 {
@@ -555,7 +555,7 @@ animation1.pattern4,overlay,456,50,0,0
 }
 
 
-//ç›®é©šãç…§ã‚Œ1
+//–Ú‹Á‚«Æ‚ê1
 surface23
 {
 element0,interpolate,surface373.png,0,0
@@ -568,7 +568,7 @@ animation1.pattern4,overlay,455,50,0,0
 }
 
 
-//çœ‰æ™®é€š
+//”û•’Ê
 
 surface0-1,8,15,40,49-50,105-106
 {
@@ -576,7 +576,7 @@ animation400.interval,bind
 animation400.pattern0,bind,400,0,0,0
 }
 
-//çœ‰æ‚²
+//”û”ß
 
 surface3-4,16,19,21,23,28-29,36,39,42-43,46-47,51,53,55,56-62,64,80,88-93,110-111,115-116
 {
@@ -584,7 +584,7 @@ animation400.interval,bind
 animation400.pattern0,bind,401,0,0,0
 }
 
-//çœ‰æ€’
+//”û“{
 
 //surface
 //{
@@ -592,7 +592,7 @@ animation400.pattern0,bind,401,0,0,0
 //animation400.pattern0,bind,402,0,0,0
 //}
 
-//çœ‰çœŸå‰£
+//”û^Œ•
 
 surface6,9,54
 {
@@ -600,7 +600,7 @@ animation400.interval,bind
 animation400.pattern0,bind,403,0,0,0
 }
 
-//çœ‰ä¸å¿«
+//”û•s‰õ
 
 surface7,22,17,63,65,77-79
 {
@@ -608,7 +608,7 @@ animation400.interval,bind
 animation400.pattern0,bind,404,0,0,0
 }
 
-//çœ‰ç–‘
+//”û‹^
 
 surface18
 {
@@ -616,7 +616,7 @@ animation400.interval,bind
 animation400.pattern0,bind,405,0,0,0
 }
 
-//çœ‰æ¥½
+//”ûŠy
 
 
 surface2,5,11-12,14,20,24-27,30-35,37-38,41,44-45,48,66-76,81-87,94-104,107-109,112-114,117-118,200-212,213-223,225-231,300-312,313-323,325-328
@@ -625,7 +625,7 @@ animation400.interval,bind
 animation400.pattern0,bind,406,0,0,0
 }
 
-//çœ‰é©šã
+//”û‹Á‚«
 
 surface13,52,224,324
 {
@@ -633,7 +633,7 @@ animation400.interval,bind
 animation400.pattern0,bind,407,0,0,0
 }
 
-//å£æ™®é€šï¼ˆã‚“ï½ï¼‰
+//Œû•’Êi‚ñ`j
 
 surface0,1,3-4,6,11,15-16,9,19-21,27-31,39,40-44,46-47,49-51,53-65,77-79,97-106,200-206,211,300-306,311,213-219,224,313-319,324
 {
@@ -651,7 +651,7 @@ animation4.pattern7,overlay,430,100,0,0
 }
 
 
-//å£ãƒ‹ã‚³å°
+//ŒûƒjƒR¬
 
 surface5,37-38,45,48,85-87,112-114,229-231
 {
@@ -668,7 +668,7 @@ animation4.pattern6,overlay,446,80,0,0
 animation4.pattern7,overlay,431,100,0,0
 }
 
-//å£ãƒ‹ã‚³
+//ŒûƒjƒR
 
 surface2,24-26,32,66-67,70-73,119-121
 {
@@ -685,7 +685,7 @@ animation4.pattern6,overlay,446,80,0,0
 animation4.pattern7,overlay,434,100,0,0
 }
 
-//å£ç„¡è¡¨æƒ…ï¼’
+//Œû–³•\î‚Q
 
 //surface
 //{
@@ -701,7 +701,7 @@ animation4.pattern7,overlay,434,100,0,0
 //animation4.pattern6,overlay,432,90,0,0
 //}
 
-//å£ã‚­ã‚¹
+//ŒûƒLƒX
 
 surface68-69,81-84,226-228,326-328
 {
@@ -717,7 +717,7 @@ animation4.pattern5,overlay,432,90,0,0
 animation4.pattern6,overlay,435,90,0,0
 }
 
-//ãƒ ãƒƒã¨ã—ãŸå£ï¼ˆç„¡è¡¨æƒ…ï¼‘ï¼‰
+//ƒ€ƒb‚Æ‚µ‚½Œûi–³•\î‚Pj
 
 surface7-8,12-14,17-18,22-23,33-36,52,74-76,80,88-96,107-111,115-118,207-210,212,220-223,225,307-310,312,320-323,325
 {
@@ -733,14 +733,14 @@ animation4.pattern5,overlay,441,90,0,0
 animation4.pattern6,overlay,433,90,0,0
 }
 
-//æ¹¯æ°—
+//“’‹C
 surface200-231
 {
 animation20000.interval,bind
 animation20000.pattern0,bind,492,0,0,0
 }
 
-//æ¹¯æ°—å¤§
+//“’‹C‘å
 surface300-328
 {
 animation20000.interval,bind
@@ -748,11 +748,11 @@ animation20000.pattern0,bind,493,0,0,0
 }
 
 
-//ç€ã›æ›¿ãˆ
+//’…‚¹‘Ö‚¦
 
 surface0-9,11-18,21-28,30-46,47-50,52-53,58,62-81,88-90,104,107-111
 {
-//äººãƒ»ã‚¨ãƒ«ãƒ•è€³
+//lEƒGƒ‹ƒt¨
 
 animation600.interval,bind
 animation600.pattern0,bind,600,0,0,0
@@ -771,7 +771,7 @@ animation602.collisionex12,Ear,polygon,225,230,173,251,224,251
 
 surface19-20,29,51,54-57,59-61,82-87,91-103,105-106,112-121,200-231,300-328
 {
-//äººãƒ»ã‚¨ãƒ«ãƒ•è€³
+//lEƒGƒ‹ƒt¨
 
 animation600.interval,bind
 animation600.pattern0,bind,620,0,0,0
@@ -791,10 +791,10 @@ animation602.collisionex12,Ear,polygon,225,230,173,251,224,251
 surface0-9,11-121,200-231,300-328
 {
 
-//è…•
+//˜r
 
-//3400ç•ªå°ã¯ã‚¹ãƒšãƒ¼ã‚µãƒ¼è…•ãƒ‘ãƒ¼ãƒ„defã€addidã®ä»•æ§˜ã¯ä¸€ã¤ãšã¤ç•ªå·ã‚’å‰²ã‚Šå½“ã¦ã‚‹ã“ã¨ã€‚
-//9550ç•ªå°ã¯è…•ã‚µãƒ–ãƒ‘ãƒ¼ãƒ„ç”¨ã€‚
+//3400”Ô‘ä‚ÍƒXƒy[ƒT[˜rƒp[ƒcdefAaddid‚Ìd—l‚Íˆê‚Â‚¸‚Â”Ô†‚ğŠ„‚è“–‚Ä‚é‚±‚ÆB
+//9550”Ô‘ä‚Í˜rƒTƒuƒp[ƒc—pB
 
 animation3600.interval,bind
 animation3600.pattern0,bind,510,0,0,0
@@ -871,7 +871,7 @@ animation3559.interval,bind
 animation3559.pattern0,bind,519,0,0,0
 
 
-//è„š
+//‹r
 
 animation560.interval,bind
 animation560.pattern0,bind,560,0,0,0
@@ -903,7 +903,7 @@ animation567.pattern0,bind,567,0,0,0
 animation567.collisionex7,Leg,polygon,188,585,362,581,365,612,331,864,276,894,216,866,234,790
 
 
-//ãã®ä»–è€³
+//‚»‚Ì‘¼¨
 
 animation603.interval,bind
 animation603.pattern0,bind,603,0,0,0
@@ -917,7 +917,7 @@ animation607.interval,bind
 animation607.pattern0,bind,607,0,0,0
 
 
-//ã‚±ãƒ¢ãƒŸãƒŸ
+//ƒPƒ‚ƒ~ƒ~
 
 animation608.interval,bind
 animation608.pattern0,bind,608,0,0,0
@@ -941,7 +941,7 @@ animation617.interval,bind
 animation617.pattern0,bind,617,0,0,0
 
 
-//å‰é«ª
+//‘O”¯
 
 animation14000.interval,bind
 animation14000.pattern0,bind,14000,0,0,0
@@ -1209,7 +1209,7 @@ animation14131.interval,bind
 animation14131.pattern0,bind,14131,0,0,0
 
 
-//å‰é«ªå½±ã€€çœ‰æ¯›ã‚ˆã‚Šä¸‹
+//‘O”¯‰e@”û–Ñ‚æ‚è‰º
 
 animation200.interval,bind
 animation200.pattern0,bind,700,0,0,0
@@ -1475,7 +1475,7 @@ animation331.interval,bind
 animation331.pattern0,bind,831,0,0,0
 
 
-//å¾Œé«ª
+//Œã”¯
 
 animation1100.interval,bind
 animation1100.option,background
@@ -1942,7 +1942,7 @@ animation1303.option,background
 animation1303.pattern0,bind,1303,0,0,0
 
 
-//æ¨ªé«ª
+//‰¡”¯
 
 animation12200.interval,bind
 animation12200.pattern0,bind,1000,0,0,0
@@ -1982,10 +1982,10 @@ animation12217.interval,bind
 animation12217.pattern0,bind,1016,0,0,0
 
 
-//å‰é«ªãƒ‘ãƒ¼ãƒ„ 
+//‘O”¯ƒp[ƒc 
 
 
-//å¾Œé«ªãƒ‘ãƒ¼ãƒ„ ãƒãƒ‹ãƒ¼ãƒ†ãƒ¼ãƒ«ã®ç•ªå·ã‚’
+//Œã”¯ƒp[ƒc ƒ|ƒj[ƒe[ƒ‹‚Ì”Ô†‚ğ
 
 animation1304.interval,bind
 animation1304.option,background
@@ -2007,7 +2007,7 @@ animation1309.option,background
 animation1309.pattern0,bind,1309,0,0,0
 
 
-//ã‚¢ãƒ›æ¯›
+//ƒAƒz–Ñ
 
 animation14200.interval,bind
 animation14200.pattern0,bind,14200,0,0,0
@@ -2033,7 +2033,7 @@ animation14210.interval,bind
 animation14210.pattern0,bind,14210,0,0,0
 
 
-//é«ªãƒ‘ãƒ¼ãƒ„
+//”¯ƒp[ƒc
 
 animation900.interval,bind
 animation900.pattern0,bind,1200,0,0,0
@@ -2078,7 +2078,7 @@ animation912.interval,bind
 animation912.pattern0,bind,1217,0,0,0
 
 
-//ãƒ¢ãƒŸã‚¢ã‚²
+//ƒ‚ƒ~ƒAƒQ
 
 animation11300.interval,bind
 animation11300.pattern0,bind,1100,0,0,0
@@ -2102,7 +2102,7 @@ animation11309.interval,bind
 animation11309.pattern0,bind,1109,0,0,0
 
 
-//ä¸‹ç€ä¸Š
+//‰º’…ã
 
 animation4200.interval,bind
 animation4200.pattern0,bind,4600,0,0,0
@@ -2159,7 +2159,7 @@ animation4220.pattern0,bind,4620,0,0,0
 //animation4221.pattern0,bind,4621,0,0,0
 
 
-//ä¸‹ç€ä¸‹
+//‰º’…‰º
 
 animation5000.interval,bind
 animation5000.pattern0,bind,4900,0,0,0
@@ -2181,7 +2181,7 @@ animation5008.interval,bind
 animation5008.pattern0,bind,4908,0,0,0
 
 
-//ãƒ¯ãƒ³ãƒ”ãƒ¼ã‚¹
+//ƒƒ“ƒs[ƒX
 
 animation8100.interval,bind
 animation8100.pattern0,bind,8100,0,0,0
@@ -2378,7 +2378,7 @@ animation8154.pattern0,bind,8154,0,0,0
 animation8154.collisionex8154,Skirt,polygon,333,459,367,542,380,596,296,623,238,620,164,592,176,545,210,458
 
 
-//ãƒˆãƒƒãƒ—ã€€
+//ƒgƒbƒv@
 
 animation7500.interval,bind
 animation7500.pattern0,bind,2000,0,0,0
@@ -2643,7 +2643,7 @@ animation7623.interval,bind
 animation7623.pattern0,bind,2123,0,0,0
 
 
-//ã‚¹ã‚«ãƒ¼ãƒˆ
+//ƒXƒJ[ƒg
 
 animation8000.interval,bind
 animation8000.pattern0,bind,3000,0,0,0
@@ -2776,7 +2776,7 @@ animation8042.pattern0,bind,3042,0,0,0
 animation8042.collision8042,196,597,348,663,Skirt
 
 
-//ã‚ºãƒœãƒ³
+//ƒYƒ{ƒ“
 
 animation8043.interval,bind
 animation8043.pattern0,bind,3043,0,0,0
@@ -2814,7 +2814,7 @@ animation8059.interval,bind
 animation8059.pattern0,bind,3059,0,0,0
 
 
-//é´ä¸‹
+//ŒC‰º
 
 animation4700.interval,bind
 animation4700.pattern0,bind,4500,0,0,0
@@ -2892,7 +2892,7 @@ animation4736.interval,bind
 animation4736.pattern0,bind,4536,0,0,0
 
 
-//ã‚¿ã‚¤ãƒ„
+//ƒ^ƒCƒc
 
 animation5100.interval,bind
 animation5100.pattern0,bind,4200,0,0,0
@@ -2914,7 +2914,7 @@ animation5108.interval,bind
 animation5108.pattern0,bind,4208,0,0,0
 
 
-//é´
+//ŒC
 
 animation5300.interval,bind
 animation5300.pattern0,bind,49000,0,0,0
@@ -2974,7 +2974,7 @@ animation5327.interval,bind
 animation5327.pattern0,bind,49027,0,0,0
 
 
-//ï¼‘ï¼ï¼ï¼ç•ªå°ã€€ï¼ˆï¼‘ï¼ï¼ï¼ç•ªå°ã¯å¾Œé«ªã‚ˆã‚Šå¾Œã‚ã®ãƒ¢ãƒå…¨èˆ¬ï¼‰
+//‚P‚O‚O‚O”Ô‘ä@i‚P‚O‚O‚O”Ô‘ä‚ÍŒã”¯‚æ‚èŒã‚ë‚Ìƒ‚ƒm‘S”Êj
 
 animation1000.interval,bind
 animation1000.option,background
@@ -3040,7 +3040,7 @@ animation1019.pattern0,bind,919,0,0,0
 
 
 
-//é«ªã‚¢ã‚¯ã‚»ã‚µãƒªãƒ¼
+//”¯ƒAƒNƒZƒTƒŠ[
 
 animation15000.interval,bind
 animation15000.pattern0,bind,15000,0,0,0
@@ -3152,7 +3152,7 @@ animation15053.interval,bind
 animation15053.pattern0,bind,15053,0,0,0
 
 
-//å¸½å­
+//–Xq
 
 animation15100.interval,bind
 animation15100.pattern0,bind,15100,0,0,0
@@ -3204,7 +3204,7 @@ animation15123.interval,bind
 animation15123.pattern0,bind,15123,0,0,0
 
 
-//ä¸Šç€
+//ã’…
 
 animation8400.interval,bind
 animation8400.pattern0,bind,8400,0,0,0
@@ -3224,7 +3224,7 @@ animation8407.interval,bind
 animation8407.pattern0,bind,8407,0,0,0
 
 
-//å¤–å¥—
+//ŠO“…
 
 animation8500.interval,bind
 animation8500.pattern0,bind,8500,0,0,0
@@ -3240,7 +3240,7 @@ animation8505.interval,bind
 animation8505.pattern0,bind,8505,0,0,0
 
 
-//ã‚¨ãƒ•ãƒ­ãƒ³
+//ƒGƒtƒƒ“
 
 animation8450.interval,bind
 animation8450.pattern0,bind,8450,0,0,0
@@ -3266,7 +3266,7 @@ animation8459.pattern0,bind,8459,0,0,0
 
 
 
-//è„šã‚¢ã‚¯ã‚»ã‚µãƒªãƒ¼ãƒ»çœ¼é¡
+//‹rƒAƒNƒZƒTƒŠ[EŠá‹¾
 
 animation4800.interval,bind
 animation4800.pattern0,bind,4400,0,0,0
@@ -3318,7 +3318,7 @@ animation4823.interval,bind
 animation4823.pattern0,bind,4423,0,0,0
 
 
-//ãƒãƒ§ãƒ¼ã‚«ãƒ¼
+//ƒ`ƒ‡[ƒJ[
 
 animation4300.interval,bind
 animation4300.pattern0,bind,4300,0,0,0
@@ -3358,7 +3358,7 @@ animation4317.interval,bind
 animation4317.pattern0,bind,4317,0,0,0
 
 
-//é¦–ã‚¢ã‚¯ã‚»ã‚µãƒªãƒ¼
+//ñƒAƒNƒZƒTƒŠ[
 
 animation7800.interval,bind
 animation7800.pattern0,bind,7800,0,0,0
@@ -3380,7 +3380,7 @@ animation7807.pattern0,bind,7807,0,0,0
 
 
 
-//è¥Ÿ
+//‹İ
 
 animation7700.interval,bind
 animation7700.pattern0,bind,7700,0,0,0
@@ -3490,7 +3490,7 @@ animation7752.interval,bind
 animation7752.pattern0,bind,7752,0,0,0
 
 
-//ä½“ãƒ‘ãƒ¼ãƒ„
+//‘Ìƒp[ƒc
 
 animation1280.interval,bind
 animation1280.pattern0,bind,12010,0,0,0
@@ -3506,7 +3506,7 @@ animation1288.interval,bind
 animation1288.pattern0,bind,12018,0,0,0
 
 
-//é™°æ¯›
+//‰A–Ñ
 
 animation1290.interval,bind
 animation1290.pattern0,bind,12000,0,0,0
