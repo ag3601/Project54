@@ -3213,7 +3213,10 @@ animation8406.interval,bind
 animation8406.pattern0,bind,8406,0,0,0
 animation8407.interval,bind
 animation8407.pattern0,bind,8407,0,0,0
-
+animation8408.interval,bind
+animation8408.pattern0,bind,8408,0,0,0
+animation8409.interval,bind
+animation8409.pattern0,bind,8409,0,0,0
 
 //外套
 
@@ -3229,6 +3232,24 @@ animation8504.interval,bind
 animation8504.pattern0,bind,8504,0,0,0
 animation8505.interval,bind
 animation8505.pattern0,bind,8505,0,0,0
+
+
+//外套より上（マフラーなと）
+
+animation8520.interval,bind
+animation8520.pattern0,bind,8520,0,0,0
+animation8521.interval,bind
+animation8521.pattern0,bind,8521,0,0,0
+animation8522.interval,bind
+animation8522.pattern0,bind,8522,0,0,0
+animation8523.interval,bind
+animation8523.pattern0,bind,8523,0,0,0
+animation8524.interval,bind
+animation8524.pattern0,bind,8524,0,0,0
+animation8525.interval,bind
+animation8525.pattern0,bind,8525,0,0,0
+animation8526.interval,bind
+animation8526.pattern0,bind,8526,0,0,0
 
 
 //エフロン

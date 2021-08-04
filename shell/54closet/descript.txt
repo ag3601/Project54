@@ -1367,6 +1367,8 @@ sakura.bindgroup8404.name,上着,カーディガン開黒
 sakura.bindgroup8405.name,上着,カーディガン開白
 sakura.bindgroup8406.name,上着,カーディガン開ピンク
 sakura.bindgroup8407.name,上着,カーディガン開茶
+sakura.bindgroup8408.name,上着,スーツ黒
+sakura.bindgroup8409.name,上着,スーツ白
 
 
 //外套
@@ -1377,6 +1379,17 @@ sakura.bindgroup8502.name,外套,ケープ白
 sakura.bindgroup8503.name,外套,ケープ黒
 sakura.bindgroup8504.name,外套,ケープ赤
 sakura.bindgroup8505.name,外套,ケープ茶
+
+
+//外套より上（マフラーなと）
+
+sakura.bindgroup8520.name,外套より上,マフラー白
+sakura.bindgroup8521.name,外套より上,マフラー黒
+sakura.bindgroup8522.name,外套より上,マフラー赤
+sakura.bindgroup8523.name,外套より上,マフラー赤２
+sakura.bindgroup8524.name,外套より上,マフラーＢ白
+sakura.bindgroup8525.name,外套より上,マフラーＢ黒
+sakura.bindgroup8526.name,外套より上,マフラーＢ赤
 
 
 //エプロン
@@ -1499,15 +1512,6 @@ sakura.bindgroup7717.name,襟,付け襟白
 sakura.bindgroup7718.name,襟,付け襟２黒
 
 
-//服装飾
-
-
-
-
-
-
-
-
 //脚アクセサリー
 
 ＃sakura.bindgroup4813.name,脚アクセサリー,フリル１
@@ -1541,13 +1545,6 @@ sakura.bindgroup1292.name,陰毛,大盛り
 
 
 //耳ピアス
-
-
-
-
-
-//マフラーなと
-
 
 
 //翼
