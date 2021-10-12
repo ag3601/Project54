@@ -56,4 +56,3 @@ $‚¨’ƒ‰ï	‚O
 
 —SAORI
 time_check,saori/time_check.dll
-aya,saori/yaya.dll
