@@ -1,21 +1,22 @@
-// aya5.dll設定
+// https://gist.github.com/nikolat/1007538
+// yaya.dll設定
 #globaldefine AYAINFO_VERSION	0
 #globaldefine AYAINFO_CHARSET	1
 #globaldefine AYAINFO_PATH		2
- 
+
 #define PROTOCOL_VERSION	"1.0"				/* SAORIプロトコルバージョン */
 #define PROTOCOL_SENDER		"AYASAORI"			/* Sender */
 #define CRLF	CHR(0xd)+CHR(0xa)				/* 改行コード */
- 
+
 #define FUNC_UNDEFIND	0
 #define FUNC_USER		1
 #define FUNC_BUILTIN	2
- 
+
 #globaldefine STATUS_OK							"200 OK"
 #globaldefine STATUS_NO_CONTENT					"204 No Content"
 #globaldefine STATUS_BAD_REQUEST				"400 Bad Request"
 #globaldefine STATUS_INTERNAL_SERVER_ERROR		"500 Internal Server Error"
- 
+
 /**	AYA API load
  *	初期化
  *
@@ -28,7 +29,7 @@ load
 	AYASAORI.VERSION   = PROTOCOL_VERSION
 	AYASAORI.SENDER    = PROTOCOL_SENDER
 }
- 
+
 /**	AYA API unload
  *	後始末
  */
@@ -38,7 +39,7 @@ unload
 	ERASEVAR("REQ.COMMAND")
 	ERASEVAR("REQ.VERSION")
 	ERASEVAR("REQ.PROTOCOL")
- 
+
 	// デストラクタコール
 	foreach AYASAORI.LOADEDCLS; _cls {
 		_func = "%(_cls).Unload"
@@ -46,15 +47,15 @@ unload
 			EVAL(_func)
 		}
 	}
- 
+
 	ERASEVAR("AYASAORI.PATH")
 	ERASEVAR("AYASAORI.SENDER")
 	ERASEVAR("AYASAORI.VERSION")
 	ERASEVAR("AYASAORI.LOADEDCLS")
 }
- 
- 
- 
+
+
+
 /**	AYA API request
  *	リクエストヘッダを解析し、指定の関数を呼び出して結果をレスポンスヘッダとして返す
  *
@@ -65,22 +66,22 @@ request
 {
 	REQ.HEADER = _argv[0]
 	_header    = SPLIT(_argv[0], CRLF)
- 
+
 	// 不正なヘッダ
 	if ARRAYSIZE(_header) <= 1 {
 		AYASAORI.Response("400 Bad Request")
 		return
 	}
- 
+
 	// リクエストラインの分析
 	_requestLine = _header[0]
 	_header[0]   = IARRAY
 	_requestLine = CUTSPACE(_requestLine)
- 
+
 	REQ.COMMAND  = _requestLine[0, " SAORI"]
 	REQ.VERSION  = _requestLine[1, "/"]
 	REQ.PROTOCOL = "SAORI/" + REQ.VERSION
- 
+
 	case REQ.COMMAND {
 	when "GET Version" {
 		RES.RESULT = GETSETTING('coreinfo.name') + '/' + GETSETTING('coreinfo.version')
@@ -94,7 +95,7 @@ request
 			_field = SPLIT(_line, ":", 2)
 			_key   = CUTSPACE(_field[0])
 			_value = CUTSPACE(_field[1])
- 
+
 			// 変数をセットする。大文字で統一
 			// Charset, SecurityLevel, Sender, Argument[0..n] 以外は無いはず
 			_key = TOUPPER(_key)
@@ -102,7 +103,7 @@ request
 				|| _key == "SENDER" || RE_MATCH(_key, "ARGUMENT[0-9]+")
 				LETTONAME("REQ.%(_key)", _value)
 		}
- 
+
 		// ユーザ関数のみ処理対象とする
 		_result = 0
 		if ISFUNC(REQ.ARGUMENT0) == FUNC_USER || ISFUNC(REQ.ARGUMENT0) == FUNC_BUILTIN {
@@ -122,7 +123,7 @@ request
 					break
 				}
 			}
- 
+
 			// コンストラクタコール
 			if STRSTR(REQ.ARGUMENT0, ".", 0) != -1 {
 				_tmp = SPLIT(REQ.ARGUMENT0, ".", 2)
@@ -141,7 +142,7 @@ request
 					}
 				}
 			}
- 
+
 			// 関数実行
 			if ISFUNC(REQ.ARGUMENT0) == FUNC_BUILTIN
 				_result = EVAL(TOLOWER(REQ.ARGUMENT0))
@@ -151,7 +152,7 @@ request
 			AYASAORI.Response(STATUS_NO_CONTENT)
 			return
 		}
- 
+
 		if _result == -1 {
 			AYASAORI.Response(STATUS_BAD_REQUEST)
 		} else {
@@ -179,8 +180,8 @@ request
 		return
 	}
 }
- 
- 
+
+
 /**	レスポンスヘッダを構築する
  *
  *	@param	string   _argv[0] ステータス

@@ -8,7 +8,6 @@ acos
 	}
 	_req0 = TOREAL(REQ.ARGS[0])
 	RES.RESULT = ACOS(_req0)
-
 }
 
 // 位置情報はValue0で返る
@@ -397,7 +396,6 @@ getlasterror
 	RES.RESULT = GETLASTERROR()
 }
 
-
 // ※修正しました
 /**
  *	Value0: 物理メモリの使用率
@@ -414,7 +412,6 @@ getmeminfo
 	}
 }
 
-
 // ※修正しました。
 getsetting
 {
@@ -424,15 +421,8 @@ getsetting
 		return
 	}
 
-   case REQ.ARGS[0] {
-   	when "0" { RES.RESULT = GETSETTING(0) }
-   	when "1" { RES.RESULT = GETSETTING(1) }
-   	when "2" { RES.RESULT = GETSETTING(2) }
-   	others { RES.RESULT = GETSETTING(REQ.ARGS[0]) }
-   }
-
+	RES.RESULT = GETSETTING(TOAUTO(REQ.ARGS[0]))
 }
-
 
 // ※修正しました
 getstrbytes
@@ -444,11 +434,11 @@ getstrbytes
 	}
 	if ARRAYSIZE(REQ.ARGS) == 1 {
 		RES.RESULT = GETSTRBYTES(REQ.ARGS[0])
-		}
+	}
 	else {
 		_req1 = TOINT(REQ.ARGS[1])
 		RES.RESULT = GETSTRBYTES(REQ.ARGS[0], _req1)
-		}
+	}
 }
 
 gettickcount
@@ -465,10 +455,8 @@ gettickcount
  *	Value5: 分
  *	Value6: 秒
  */
-
 gettime
 {
-
 	_result = GETTIME(REQ.ARGS[0])
 
 	for _i = 0; _i < ARRAYSIZE(_result); _i++ {
@@ -488,14 +476,13 @@ gettype
 	tes2=ISINTSTR(REQ.ARGS[0])
 	RES.RESULT = GETTYPE(_req0)
 	if ISINTSTR(REQ.ARGS[0]) == 1 {
-		 _req0=TOINT(REQ.ARGS[0])
-		 RES.RESULT = GETTYPE(_req0)
-		}
+		_req0=TOINT(REQ.ARGS[0])
+		RES.RESULT = GETTYPE(_req0)
+	}
 	elseif ISREALSTR(REQ.ARGS[0]) == 1 {
-		 _req0=TOREAL(REQ.ARGS[0])
-		 RES.RESULT = GETTYPE(_req0)
-		 }
-
+		_req0=TOREAL(REQ.ARGS[0])
+		RES.RESULT = GETTYPE(_req0)
+	}
 }
 
 hexstrtoi
@@ -650,7 +637,17 @@ pow
 // ※修正しました
 rand
 {
-RES.RESULT = RAND(_req0)
+	RES.RESULT = RAND(REQ.ARGS[0])
+}
+
+srand
+{
+	if ARRAYSIZE(REQ.ARGS) < 1 {
+		LOGGING("srand: 引数が不足しています")
+		-1
+		return
+	}
+	RES.RESULT = SRAND(REQ.ARGS[0])
 }
 
 // Result: 列挙された数
@@ -684,7 +681,6 @@ re_getstr
 	for _i = 0; _i < ARRAYSIZE(_result); _i++ {
 		LETTONAME("RES.VALUE%(_i)", _result[_i])
 	}
-
 }
 
 // Result: 見つかった数
@@ -771,10 +767,10 @@ re_split
 	_result = ""
 	
 	if REQ.ARGS[2]=="" {
-	_result = RE_SPLIT(REQ.ARGS[0],REQ.ARGS[1])
+		_result = RE_SPLIT(REQ.ARGS[0],REQ.ARGS[1])
 	}
 	else {
-	_result = RE_SPLIT(REQ.ARGS[0],REQ.ARGS[1],REQ.ARGS[2])
+		_result = RE_SPLIT(REQ.ARGS[0],REQ.ARGS[1],REQ.ARGS[2])
 	}
 	
 	RES.RESULT = ARRAYSIZE(_result)
@@ -1064,7 +1060,6 @@ unloadlib
  *	Value7: SYSTEM Windowsが使用するファイル。
  *	Value8: TEMP 一時ファイル。
  */
-
 fattrib
 {
 	if ARRAYSIZE(REQ.ARGS) < 1 {
@@ -1183,10 +1178,10 @@ execute
 	}
 	elseif REQ.ARGS[1]!="" {
 		RES.RESULT = EXECUTE(REQ.ARGS[0],REQ.ARGS[1])
-		}
+	}
 	else {
 		RES.RESULT = EXECUTE(REQ.ARGS[0])
-		}
+	}
 }
 
 fdigest
@@ -1235,9 +1230,6 @@ fwritebin
 	}
 }
 
-
-
-
 //　多分使う意味無し。
 getcallstack
 {
@@ -1247,38 +1239,71 @@ getcallstack
 	}
 }
 
+getenv
+{
+	if ARRAYSIZE(REQ.ARGS) < 1 {
+		LOGGING("getenv: 引数が不足しています")
+		-1
+		return
+	}
+	RES.RESULT = GETENV(REQ.ARGS[0])
+}
+
 getfunclist
 {
 	if REQ.ARGS[0]="" {
-		_result = GETFUNCLIST
+		_result = GETFUNCLIST()
 		for _i = 0; _i < ARRAYSIZE(_result); _i++ {
-		LETTONAME("RES.VALUE%(_i)", _result[_i])
+			LETTONAME("RES.VALUE%(_i)", _result[_i])
 		}
 	}
 	else {
 		_result = GETFUNCLIST(REQ.ARGS[0])
 		for _i = 0; _i < ARRAYSIZE(_result); _i++ {
-		LETTONAME("RES.VALUE%(_i)", _result[_i])
+			LETTONAME("RES.VALUE%(_i)", _result[_i])
 		}
+	}
+}
+
+getsystemfunclist
+{
+	if REQ.ARGS[0]="" {
+		_result = GETSYSTEMFUNCLIST()
+		for _i = 0; _i < ARRAYSIZE(_result); _i++ {
+			LETTONAME("RES.VALUE%(_i)", _result[_i])
+		}
+	}
+	else {
+		_result = GETSYSTEMFUNCLIST(REQ.ARGS[0])
+		for _i = 0; _i < ARRAYSIZE(_result); _i++ {
+			LETTONAME("RES.VALUE%(_i)", _result[_i])
+		}
+	}
+}
+
+getfuncinfo
+{
+	if ARRAYSIZE(REQ.ARGS) < 1 {
+		LOGGING("getfuncinfo: 引数が不足しています")
+		-1
+		return
+	}
+	_result = GETFUNCINFO(REQ.ARGS[0])
+	for _i = 0; _i < ARRAYSIZE(_result); _i++ {
+		LETTONAME("RES.VALUE%(_i)", _result[_i])
 	}
 }
 
 getseccount
 {
-	if ARRAYSIZE(REQ.ARGS) < 1 {
-		LOGGING("getseccount: 引数が不足しています")
-		-1
-		return
-	}
-	REQ.ARGS[3]=0
-	_req0 = TOINT(REQ.ARGS[0])
-	_req1 = TOINT(REQ.ARGS[1])
-	_req2 = TOINT(REQ.ARGS[2])
-	_req3 = TOINT(REQ.ARGS[3])
-	_req4 = TOINT(REQ.ARGS[4])
-	_req5 = TOINT(REQ.ARGS[5])
-	_req6 = TOINT(REQ.ARGS[6])
-RES.RESULT = GETSECCOUNT(_req0,_req1,_req2,_req3,_req4,_req5,_req6)
+	_req0 = TOAUTO(REQ.ARGS[0])
+	_req1 = TOAUTO(REQ.ARGS[1])
+	_req2 = TOAUTO(REQ.ARGS[2])
+	_req3 = 0
+	_req4 = TOAUTO(REQ.ARGS[4])
+	_req5 = TOAUTO(REQ.ARGS[5])
+	_req6 = TOAUTO(REQ.ARGS[6])
+	RES.RESULT = GETSECCOUNT(_req0,_req1,_req2,_req3,_req4,_req5,_req6)
 }
 
 getstrurldecode
@@ -1289,10 +1314,10 @@ getstrurldecode
 		return
 	}
 	if REQ.ARGS[1]=="" {
-	RES.RESULT = GETSTRURLDECODE(REQ.ARGS[0])
+		RES.RESULT = GETSTRURLDECODE(REQ.ARGS[0])
 	}
 	else {
-	RES.RESULT = GETSTRURLDECODE(REQ.ARGS[0],REQ.ARGS[1])
+		RES.RESULT = GETSTRURLDECODE(REQ.ARGS[0],REQ.ARGS[1])
 	}
 }
 
@@ -1304,10 +1329,10 @@ getstrurlencode
 		return
 	}
 	if REQ.ARGS[1]=="" {
-	RES.RESULT = GETSTRURLENCODE(REQ.ARGS[0])
+		RES.RESULT = GETSTRURLENCODE(REQ.ARGS[0])
 	}
 	else {
-	RES.RESULT = GETSTRURLENCODE(REQ.ARGS[0],REQ.ARGS[1])
+		RES.RESULT = GETSTRURLENCODE(REQ.ARGS[0],REQ.ARGS[1])
 	}
 }
 
@@ -1320,30 +1345,40 @@ han2zen
 	}
 
 	if REQ.ARGS[1]==""  {
-	RES.RESULT = HAN2ZEN(REQ.ARGS[0])
+		RES.RESULT = HAN2ZEN(REQ.ARGS[0])
 	}
 	else {
-	RES.RESULT = HAN2ZEN(REQ.ARGS[0],REQ.ARGS[1])
+		RES.RESULT = HAN2ZEN(REQ.ARGS[0],REQ.ARGS[1])
 	}
+}
+
+processglobaldefine
+{
+	if ARRAYSIZE(REQ.ARGS) < 1 {
+		LOGGING("processglobaldefine: 引数が不足しています")
+		-1
+		return
+	}
+	RES.RESULT = PROCESSGLOBALDEFINE(REQ.ARGS[0])
 }
 
 readfmo
 {
 	if REQ.ARGS[0]==""  {
-	RES.RESULT = READFMO
+		RES.RESULT = READFMO
 	}
 	else {
-	RES.RESULT = READFMO(REQ.ARGS[0])
+		RES.RESULT = READFMO(REQ.ARGS[0])
 	}
 }
 
 restorevar
 {
 	if REQ.ARGS[0]==""  {
-	RES.RESULT = RESTOREVAR
+		RES.RESULT = RESTOREVAR
 	}
 	else {
-	RES.RESULT = RESTOREVAR(REQ.ARGS[0])
+		RES.RESULT = RESTOREVAR(REQ.ARGS[0])
 	}
 }
 
@@ -1354,8 +1389,8 @@ sinh
 		-1
 		return
 	}
-_req0 = TOREAL(REQ.ARGS[0])
-RES.RESULT = SINH(_req0)
+	_req0 = TOREAL(REQ.ARGS[0])
+	RES.RESULT = SINH(_req0)
 }
 
 tanh
@@ -1365,8 +1400,8 @@ tanh
 		-1
 		return
 	}
-_req0 = TOREAL(REQ.ARGS[0])
-RES.RESULT = TANH(_req0)
+	_req0 = TOREAL(REQ.ARGS[0])
+	RES.RESULT = TANH(_req0)
 }
 
 //　多分ほぼ使う意味なし
@@ -1377,7 +1412,7 @@ toauto
 		-1
 		return
 	}
-RES.RESULT = TOAUTO(REQ.ARGS[0])
+	RES.RESULT = TOAUTO(REQ.ARGS[0])
 }
 
 zen2han
@@ -1389,10 +1424,10 @@ zen2han
 	}
 
 	if REQ.ARGS[1]==""  {
-	RES.RESULT = ZEN2HAN(REQ.ARGS[0])
+		RES.RESULT = ZEN2HAN(REQ.ARGS[0])
 	}
 	else {
-	RES.RESULT = ZEN2HAN(REQ.ARGS[0],REQ.ARGS[1])
+		RES.RESULT = ZEN2HAN(REQ.ARGS[0],REQ.ARGS[1])
 	}
 }
 
@@ -1403,12 +1438,70 @@ setsetting
 		-1
 		return
 	}
-
 	RES.RESULT = SETSETTING(REQ.ARGS[0],REQ.ARGS[1])
 }
 
 dumpvar {
-DUMPVAR()
+	DUMPVAR()
+}
+
+geterrorlog
+{
+	_result = GETERRORLOG()
+	RES.RESULT = ARRAYSIZE(_result)//とりあえずエラーログの個数を返すことにする
+	for _i = 0; _i < ARRAYSIZE(_result); _i++ {
+		LETTONAME("RES.VALUE%(_i)", _result[_i])
+		LOGGING(EVAL("RES.VALUE%(_i)"))
+	}
+}
+
+dicload
+{
+	if ARRAYSIZE(REQ.ARGS) < 1 {
+		LOGGING("dicload: 引数が不足しています")
+		-1
+		return
+	}
+
+	if REQ.ARGS[1]==""  {
+		RES.RESULT = DICLOAD(REQ.ARGS[0])
+	}
+	else {
+		RES.RESULT = DICLOAD(REQ.ARGS[0],REQ.ARGS[1])
+	}
+}
+
+dicunload
+{
+	if ARRAYSIZE(REQ.ARGS) < 1 {
+		LOGGING("dicunload: 引数が不足しています")
+		-1
+		return
+	}
+
+	RES.RESULT = DICUNLOAD(REQ.ARGS[0])
+}
+
+undefglobaldefine
+{
+	if ARRAYSIZE(REQ.ARGS) < 1 {
+		LOGGING("undefglobaldefine: 引数が不足しています")
+		-1
+		return
+	}
+
+	RES.RESULT = UNDEFGLOBALDEFINE(REQ.ARGS[0])
+}
+
+undeffunc
+{
+	if ARRAYSIZE(REQ.ARGS) < 1 {
+		LOGGING("undeffunc: 引数が不足しています")
+		-1
+		return
+	}
+
+	RES.RESULT = UNDEFFUNC(REQ.ARGS[0])
 }
 
 license {
@@ -1482,17 +1575,16 @@ charsettexttoid
 	}
 
 	RES.RESULT = CHARSETTEXTTOID(REQ.ARGS[0])
-
 }
 
 getvarlist
 {
 
 	if REQ.ARGS[0]==""  {
-	RES.RESULT = TOSTR(GETVARLIST())
+		RES.RESULT = TOSTR(GETVARLIST())
 	}
 	else {
-	RES.RESULT = TOSTR(GETVARLIST(REQ.ARGS[0]))
+		RES.RESULT = TOSTR(GETVARLIST(REQ.ARGS[0]))
 	}
 	
 	_result = RES.RESULT
@@ -1510,10 +1602,10 @@ execute_wait
 	}
 	elseif REQ.ARGS[1]!="" {
 		RES.RESULT = EXECUTE_WAIT(REQ.ARGS[0],REQ.ARGS[1])
-		}
+	}
 	else {
 		RES.RESULT = EXECUTE_WAIT(REQ.ARGS[0])
-		}
+	}
 }
 
 strdecode
@@ -1524,10 +1616,13 @@ strdecode
 		return
 	}
 	if REQ.ARGS[1]=="" {
-	RES.RESULT = STRDECODE(REQ.ARGS[0])
+		RES.RESULT = STRDECODE(REQ.ARGS[0])
+	}
+	elseif REQ.ARGS[2]=="" {
+		RES.RESULT = STRENCODE(REQ.ARGS[0],REQ.ARGS[1])
 	}
 	else {
-	RES.RESULT = STRDECODE(REQ.ARGS[0],REQ.ARGS[1])
+		RES.RESULT = STRDECODE(REQ.ARGS[0],REQ.ARGS[1],REQ.ARGS[2])
 	}
 }
 
@@ -1539,10 +1634,13 @@ strencode
 		return
 	}
 	if REQ.ARGS[1]=="" {
-	RES.RESULT = STRENCODE(REQ.ARGS[0])
+		RES.RESULT = STRENCODE(REQ.ARGS[0])
+	}
+	elseif REQ.ARGS[2]=="" {
+		RES.RESULT = STRENCODE(REQ.ARGS[0],REQ.ARGS[1])
 	}
 	else {
-	RES.RESULT = STRENCODE(REQ.ARGS[0],REQ.ARGS[1])
+		RES.RESULT = STRENCODE(REQ.ARGS[0],REQ.ARGS[1],REQ.ARGS[2])
 	}
 }
 
@@ -1554,7 +1652,7 @@ re_option
 		return
 	}
 	
-RES.RESULT = RE_OPTION(REQ.ARGS[0])
+	RES.RESULT = RE_OPTION(REQ.ARGS[0])
 }
 
 freadencode
@@ -1564,11 +1662,27 @@ freadencode
 		-1
 		return
 	}
+	_req1=TOINT(REQ.ARGS[1])
 	if REQ.ARGS[2]=="" {
-	RES.RESULT = FREADENCODE(REQ.ARGS[0],REQ.ARGS[1])
+		RES.RESULT = FREADENCODE(REQ.ARGS[0],_req1)
 	}
 	else {
-	RES.RESULT = FREADENCODE(REQ.ARGS[0],REQ.ARGS[1],REQ.ARGS[2])
+		RES.RESULT = FREADENCODE(REQ.ARGS[0],_req1,REQ.ARGS[2])
+	}
+}
+
+fwritedecode
+{
+	if ARRAYSIZE(REQ.ARGS) < 2 {
+		LOGGING("fwritedecode: 引数が不足しています")
+		-1
+		return
+	}
+	if REQ.ARGS[2]=="" {
+		RES.RESULT = FWRITEDECODE(REQ.ARGS[0],REQ.ARGS[1])
+	}
+	else {
+		RES.RESULT = FWRITEDECODE(REQ.ARGS[0],REQ.ARGS[1],REQ.ARGS[2])
 	}
 }
 
@@ -1605,4 +1719,60 @@ translate
 	}
 
 	RES.RESULT = TRANSLATE(REQ.ARGS[0], REQ.ARGS[1], REQ.ARGS[2])
+}
+
+//Tc562-1
+isevaluable
+{
+	if ARRAYSIZE(REQ.ARGS) < 1 {
+		LOGGING("isevaluable: 引数が不足しています")
+		-1
+		return
+	}
+
+	RES.RESULT = ISEVALUABLE(REQ.ARGS[0])
+}
+
+settamahwnd
+{
+	if ARRAYSIZE(REQ.ARGS) < 1 {
+		LOGGING("settamahwnd: 引数が不足しています")
+		-1
+		return
+	}
+
+	RES.RESULT = SETTAMAHWND(REQ.ARGS[0])
+}
+
+isglobaldefine
+{
+	if ARRAYSIZE(REQ.ARGS) < 1 {
+		LOGGING("isglobaldefine: 引数が不足しています")
+		-1
+		return
+	}
+
+	RES.RESULT = ISGLOBALDEFINE(REQ.ARGS[0])
+}
+
+setglobaldefine
+{
+	if ARRAYSIZE(REQ.ARGS) < 2 {
+		LOGGING("setglobaldefine: 引数が不足しています")
+		-1
+		return
+	}
+
+	RES.RESULT = SETGLOBALDEFINE(REQ.ARGS[0], REQ.ARGS[1])
+}
+
+append_runtime_dic
+{
+	if ARRAYSIZE(REQ.ARGS) < 1 {
+		LOGGING("append_runtime_dic: 引数が不足しています")
+		-1
+		return
+	}
+
+	RES.RESULT = APPEND_RUNTIME_DIC(REQ.ARGS[0])
 }
