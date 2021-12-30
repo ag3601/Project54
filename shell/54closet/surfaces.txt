@@ -9,7 +9,7 @@ Version,1
 
 //素体
 
-surface0-9,11-138,200-231,300-328
+surface0-9,11-141,200-231,300-328
 {
 element2,overlay,surface350.png,0,0
 collisionex0,Head,polygon,212,170,228,148,251,136,293,136,316,148,331,170
@@ -23,7 +23,7 @@ collisionex10,xxx,circle,270,529,10
 }
 
 //目閉じ
-surface15,37,42,79,109,132,138
+surface15,37,42,79,109,132,138,141
 {
 element3,overlay,surface470.png,0,0
 }
@@ -67,7 +67,7 @@ element3,overlay,surface472.png,0,0
 }
 
 //目普通
-surface0,5-6,46,65-66,77,107,130,136
+surface0,5-6,46,65-66,77,107,130,136,139
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
@@ -80,7 +80,7 @@ animation1.pattern4,overlay,450,50,0,0
 
 //目普通照れ1
 
-surface30,33,38,53,62,71,74,81,88,122,133
+surface30,33,38,53,71,74,81,88,122,133
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
@@ -120,7 +120,7 @@ animation1.pattern4,overlay,456,50,0,0
 
 
 //半目
-surface7,18,39-40,45,63,67,78,80,108,131,137
+surface7,18,39-40,45,63,67,78,80,108,131,137,140
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
@@ -220,7 +220,7 @@ animation1.pattern4,overlay,451,50,0,0
 
 //目普通涙目照れ1
 
-surface2,34
+surface2,34,62
 {
 element0,interpolate,surface370.png,0,0
 animation1.interval,runonce+random,6
@@ -610,7 +610,7 @@ animation400.pattern0,bind,405,0,0,0
 //眉楽
 
 
-surface2,5,11-12,14,20,24-27,30-35,37-38,41,44-45,48,66-76,81-87,94-104,107-109,112-114,117-121,200-212,213-223,225-231,300-312,313-323,325-328
+surface2,5,11-12,14,20,24-27,30-35,37-38,41,44-45,48,66-76,81-87,94-104,107-109,112-114,117-121,139-141,200-212,213-223,225-231,300-312,313-323,325-328
 {
 animation400.interval,bind
 animation400.pattern0,bind,406,0,0,0
@@ -626,7 +626,7 @@ animation400.pattern0,bind,407,0,0,0
 
 //口普通（ん～）
 
-surface0,1,3-4,6,11,15-16,9,19-21,27-31,39,40-44,46-47,49-51,53-65,77-79,97-106,122-129,200-206,211,300-306,311,213-219,224,313-319,324
+surface0,1,3-4,6,11,15-16,9,19-21,27-31,39,40-44,46-47,49-51,53-65,77-79,97-106,122-129,139-141,200-206,211,300-306,311,213-219,224,313-319,324
 {
 element6,overlay,surface430.png,0,0
 
@@ -741,7 +741,7 @@ animation20000.pattern0,bind,493,0,0,0
 
 //着せ替え
 
-surface0-9,11-18,21-28,30-46,47-50,52-53,58,62-81,88-90,104,107-111,122-138
+surface0-9,11-18,21-28,30-46,47-50,52-53,58,62-81,88-90,104,107-111,122-141
 {
 //人・エルフ耳
 
@@ -779,8 +779,7 @@ animation602.collisionex12,Ear,polygon,225,230,173,251,224,251
 }
 
 
-
-surface0-9,11-138,200-231,300-328
+surface0-9,11-141,200-231,300-328
 {
 
 //腕
