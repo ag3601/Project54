@@ -11,7 +11,7 @@ file,ghost/master/dic05_CommSel.txt8be7e712e172fcf74d1cd3c17a1ff1c3size=13154
 file,ghost/master/dic05_Communicate.txt2255312da55af128542034a3be51e921size=31308date=2021-09-26T23:12:18
 file,ghost/master/dic06_String.txtbb8623a3ca932739748b3c094a76badcsize=4869date=2021-02-14T19:42:51
 file,ghost/master/dic07_Time.txt569b3b9fa7055e7dc7c52dc6c3335c62size=24422date=2021-09-26T23:18:55
-file,ghost/master/dic08_RandomTalk.txt3eaa054464139b484a755dbb6599ad39size=64907date=2021-12-30T20:47:11
+file,ghost/master/dic08_RandomTalk.txte7eccd27e0597c8b94e5678db7b1bfa9size=64944date=2022-01-03T00:31:20
 file,ghost/master/dic09_dic.txtba529a7c8eb76c424d28d30883adf1f3size=6840date=2021-09-26T23:12:18
 file,ghost/master/dic10_naming.txt23381c95aa60c5638d2f50c3c967f4f9size=1534date=2021-02-25T21:45:03
 file,ghost/master/dic11_touch.txt076f86ae696c986492d49151f49e9e60size=30081date=2021-09-26T23:18:55
@@ -1166,8 +1166,8 @@ file,shell/54closet/surface916.pngfb9981e554bb0226ca3bedc41f89c09dsize=9539da
 file,shell/54closet/surface917.png725301d3d85547adcfa7b58e145c9eacsize=12676date=2021-02-09T19:37:09
 file,shell/54closet/surface918.pngc0ca1e7a0d5af5d368f9c1444f83f262size=12359date=2021-02-09T19:37:09
 file,shell/54closet/surface919.pngc58dabe16a89efd82019e236857de6d7size=17781date=2021-02-09T19:37:09
-file,shell/54closet/surfaces.txt21ed95eb12b07100e302227154bbbcf5size=142901date=2021-12-30T20:46:11
-file,shell/54closet/surfacetable.txt902b7f073c372a2c3922fe12eb5aa677size=5002date=2021-12-30T20:46:11
+file,shell/54closet/surfaces.txtc9dcb356ca5780c7bb6bfad6167e47d7size=143421date=2022-01-02T23:56:00
+file,shell/54closet/surfacetable.txtb5f8ca5cef3f351fde1f443737f10c23size=5698date=2022-01-02T23:57:31
 file,shell/MIY_Color/Logo.pnga739b766f9120a7d2a586a767f5501f9size=76169date=2019-07-16T15:23:32
 file,shell/MIY_Color/descript.txtb1cd0289d899daa60f690b55b061178dsize=786date=2019-07-16T15:23:32
 file,shell/MIY_Color/menu_background.png731073b5740f5c7d069933c7acce9efesize=115616date=2019-07-16T15:23:32
