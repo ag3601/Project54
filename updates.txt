@@ -5,13 +5,13 @@ file,ghost/master/descript.txtf60d89c6b5d905041a5a1ff184e70d32size=191date=20
 file,ghost/master/dic01_Base.txtce6459ab7f914ca9a0ce148a37970ff9size=9076date=2021-10-12T22:09:55
 file,ghost/master/dic02_Event.txtbafbca0f1eac861c321a46caefc57c0dsize=20547date=2021-12-26T04:23:14
 file,ghost/master/dic03_Menu.txtcdb03bb68f4cae78a6aa9fd2dd1c2e52size=33489date=2021-10-12T22:09:55
-file,ghost/master/dic04_Change.txt235a0a956324a3223a04b16d3113230fsize=19613date=2021-10-12T22:09:55
+file,ghost/master/dic04_Change.txt730c469bc1e272b78a32f28e89597250size=19613date=2022-01-17T18:24:59
 file,ghost/master/dic05_CommRes.txtb10706796c9dff7776e8ae8eafc5a6cfsize=129860date=2021-10-12T22:09:55
 file,ghost/master/dic05_CommSel.txt8be7e712e172fcf74d1cd3c17a1ff1c3size=13154date=2021-10-12T22:09:55
 file,ghost/master/dic05_Communicate.txt2255312da55af128542034a3be51e921size=31308date=2021-10-12T22:09:55
 file,ghost/master/dic06_String.txtbb8623a3ca932739748b3c094a76badcsize=4869date=2021-10-12T22:09:55
 file,ghost/master/dic07_Time.txt569b3b9fa7055e7dc7c52dc6c3335c62size=24422date=2021-10-12T22:09:55
-file,ghost/master/dic08_RandomTalk.txt3eaa054464139b484a755dbb6599ad39size=64907date=2021-12-26T05:13:35
+file,ghost/master/dic08_RandomTalk.txte7eccd27e0597c8b94e5678db7b1bfa9size=64944date=2022-01-17T18:24:59
 file,ghost/master/dic09_dic.txtba529a7c8eb76c424d28d30883adf1f3size=6840date=2021-10-12T22:09:55
 file,ghost/master/dic10_naming.txt23381c95aa60c5638d2f50c3c967f4f9size=1534date=2021-10-12T22:09:55
 file,ghost/master/dic11_touch.txt076f86ae696c986492d49151f49e9e60size=30081date=2021-10-12T22:09:55
@@ -232,7 +232,7 @@ file,shell/54closet/surface14125.png24b99247192513baff756576c7f34c56size=15103
 file,shell/54closet/surface14126.png8ea4cd2ac1acde78fb52da6ca142a2e6size=29406date=2021-02-10T14:45:09
 file,shell/54closet/surface14127.png9c553d5db35bc15c8d6a5baadb142efesize=30908date=2021-02-10T14:45:09
 file,shell/54closet/surface14128.pngc4e6cb456ed611e885e2fdf7a18938d6size=16040date=2021-02-10T14:45:09
-file,shell/54closet/surface14129.png283705770699be1106f94e22a7c393cfsize=20546date=2021-02-10T14:45:09
+file,shell/54closet/surface14129.png564daaafa5707f749ac10da25601fd81size=20546date=2021-02-10T14:45:09
 file,shell/54closet/surface14130.png036f8ca1b5f7b8f71f8c951b70b894d3size=16247date=2021-02-10T14:45:09
 file,shell/54closet/surface14131.png88ed5aa34d6453bedcd02a3079b04bd0size=20392date=2021-02-10T14:45:09
 file,shell/54closet/surface14200.pngdb3f2718faba125a8de9d8936400d360size=4795date=2021-02-09T20:09:07
@@ -257,7 +257,7 @@ file,shell/54closet/surface15006.pngffdea8f6b1962beac6a2ba0d315e8ef1size=4511
 file,shell/54closet/surface15007.png5240cd00bab33360aa349893da2195e1size=4705date=2019-07-21T14:14:31
 file,shell/54closet/surface15008.png1032d164a71526337bd026a111914f1esize=5005date=2019-07-21T14:14:44
 file,shell/54closet/surface15009.png7e9e58727d368e2c5f64c0aa32dbdfd0size=4591date=2019-07-21T14:14:56
-file,shell/54closet/surface1501.png0e2faf34ce227133fdff125f2be9d2c2size=48894date=2019-07-18T15:17:54
+file,shell/54closet/surface1501.pngc647508f73deeaa8d2408b84aada2b12size=48894date=2019-07-18T15:17:54
 file,shell/54closet/surface15010.pngc241a8487d9ad49b7423b9ec04d0e037size=4772date=2019-07-21T14:15:09
 file,shell/54closet/surface15011.pnga9d54102f453441b2691cb9c7d990fc8size=5045date=2019-07-21T14:15:22
 file,shell/54closet/surface15012.png51c05ffb56872dac05dc5dc059a21195size=5595date=2019-07-21T14:20:32
@@ -1166,8 +1166,8 @@ file,shell/54closet/surface916.pngfb9981e554bb0226ca3bedc41f89c09dsize=9539da
 file,shell/54closet/surface917.png725301d3d85547adcfa7b58e145c9eacsize=12676date=2019-09-12T04:03:21
 file,shell/54closet/surface918.pngc0ca1e7a0d5af5d368f9c1444f83f262size=12359date=2019-09-12T04:03:21
 file,shell/54closet/surface919.pngc58dabe16a89efd82019e236857de6d7size=17781date=2019-09-12T04:03:21
-file,shell/54closet/surfaces.txt5bfb1e9f68b5371d47c32685e58e7a56size=142875date=2021-12-26T04:19:47
-file,shell/54closet/surfacetable.txt51f518ba844de06e062f4a4d16f32532size=4998date=2021-12-26T04:19:47
+file,shell/54closet/surfaces.txtc9dcb356ca5780c7bb6bfad6167e47d7size=143421date=2022-01-17T18:24:59
+file,shell/54closet/surfacetable.txtb5f8ca5cef3f351fde1f443737f10c23size=5698date=2022-01-17T18:24:59
 file,shell/MIY_Color/Logo.pnga739b766f9120a7d2a586a767f5501f9size=76169date=2019-07-16T15:23:33
 file,shell/MIY_Color/descript.txtb1cd0289d899daa60f690b55b061178dsize=786date=2021-10-12T22:09:56
 file,shell/MIY_Color/menu_background.png731073b5740f5c7d069933c7acce9efesize=115616date=2019-07-16T15:23:33
