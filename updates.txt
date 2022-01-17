@@ -32,12 +32,12 @@ file,ghost/master/satori.dllb7e3d6a8e33367c24cd64f04446fe99csize=700416date=2
 file,ghost/master/satori_conf.txt0fe2b317b98e897bf8e972f2153ab6e5size=1272date=2021-10-12T22:51:59
 file,ghost/master/satori_license.txt078ffc36f3374648bf523ae197f4765csize=944date=2015-05-13T02:57:00
 file,install.txt8a65de611759a0815171daf23612b1c8size=70date=2021-10-12T22:09:56
-file,readme.txtcc6cb79b3681ca4ba6ea43be0bfd9ba9size=655date=2021-10-12T22:09:56
+file,readme.txte39f6b9779174795becc279e954adc5csize=650date=2022-01-17T18:15:25
 file,shell/2009vii/surfaces.txtd8fe6e9989fed3e843d9495b2edf462csize=1231date=2021-02-04T01:48:38
 file,shell/54closet/descript.txta08e52334f5dce206e1a6cf7b60f436fsize=57906date=2021-12-26T04:19:47
 file,shell/54closet/install.txt1b3c4ea98b39b2d0340c2d931e8fa7c3size=73date=2021-10-12T22:10:15
 file,shell/54closet/note.txtf9620ecad372de5e5b16bc9b1d4a97d9size=868date=2021-07-28T19:23:52
-file,shell/54closet/readme.txt956992cfe1142f88a81f16b42405c9adsize=640date=2021-10-12T22:10:15
+file,shell/54closet/readme.txt84fd8bff63190e6b40698586462b1d72size=655date=2022-01-17T18:24:25
 file,shell/54closet/surface10.png4d476ef86339e87eeb02992a8ef55dd1size=170date=2021-02-03T17:45:19
 file,shell/54closet/surface1000.pngc3df0df58a698fa9b25a6b70bb06b1c2size=9219date=2019-07-18T17:55:01
 file,shell/54closet/surface1001.png197880924fc384bf12275fdf38d67015size=5932date=2019-07-18T18:03:55
@@ -232,7 +232,7 @@ file,shell/54closet/surface14125.png24b99247192513baff756576c7f34c56size=15103
 file,shell/54closet/surface14126.png8ea4cd2ac1acde78fb52da6ca142a2e6size=29406date=2021-02-10T14:45:09
 file,shell/54closet/surface14127.png9c553d5db35bc15c8d6a5baadb142efesize=30908date=2021-02-10T14:45:09
 file,shell/54closet/surface14128.pngc4e6cb456ed611e885e2fdf7a18938d6size=16040date=2021-02-10T14:45:09
-file,shell/54closet/surface14129.png564daaafa5707f749ac10da25601fd81size=20546date=2021-02-10T14:45:09
+file,shell/54closet/surface14129.png283705770699be1106f94e22a7c393cfsize=20546date=2021-02-10T14:45:09
 file,shell/54closet/surface14130.png036f8ca1b5f7b8f71f8c951b70b894d3size=16247date=2021-02-10T14:45:09
 file,shell/54closet/surface14131.png88ed5aa34d6453bedcd02a3079b04bd0size=20392date=2021-02-10T14:45:09
 file,shell/54closet/surface14200.pngdb3f2718faba125a8de9d8936400d360size=4795date=2021-02-09T20:09:07
@@ -257,7 +257,7 @@ file,shell/54closet/surface15006.pngffdea8f6b1962beac6a2ba0d315e8ef1size=4511
 file,shell/54closet/surface15007.png5240cd00bab33360aa349893da2195e1size=4705date=2019-07-21T14:14:31
 file,shell/54closet/surface15008.png1032d164a71526337bd026a111914f1esize=5005date=2019-07-21T14:14:44
 file,shell/54closet/surface15009.png7e9e58727d368e2c5f64c0aa32dbdfd0size=4591date=2019-07-21T14:14:56
-file,shell/54closet/surface1501.pngc647508f73deeaa8d2408b84aada2b12size=48894date=2019-07-18T15:17:54
+file,shell/54closet/surface1501.png0e2faf34ce227133fdff125f2be9d2c2size=48894date=2019-07-18T15:17:54
 file,shell/54closet/surface15010.pngc241a8487d9ad49b7423b9ec04d0e037size=4772date=2019-07-21T14:15:09
 file,shell/54closet/surface15011.pnga9d54102f453441b2691cb9c7d990fc8size=5045date=2019-07-21T14:15:22
 file,shell/54closet/surface15012.png51c05ffb56872dac05dc5dc059a21195size=5595date=2019-07-21T14:20:32
