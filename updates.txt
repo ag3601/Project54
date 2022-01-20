@@ -11,10 +11,10 @@ file,ghost/master/dic05_CommSel.txt8be7e712e172fcf74d1cd3c17a1ff1c3size=13154
 file,ghost/master/dic05_Communicate.txt2255312da55af128542034a3be51e921size=31308date=2021-10-12T22:09:55
 file,ghost/master/dic06_String.txtbb8623a3ca932739748b3c094a76badcsize=4869date=2021-10-12T22:09:55
 file,ghost/master/dic07_Time.txt569b3b9fa7055e7dc7c52dc6c3335c62size=24422date=2021-10-12T22:09:55
-file,ghost/master/dic08_RandomTalk.txte7eccd27e0597c8b94e5678db7b1bfa9size=64944date=2022-01-17T18:24:59
+file,ghost/master/dic08_RandomTalk.txt2d67dd6fa83117f20d49e35dd1f9e188size=65087date=2022-01-20T16:18:34
 file,ghost/master/dic09_dic.txtba529a7c8eb76c424d28d30883adf1f3size=6840date=2021-10-12T22:09:55
 file,ghost/master/dic10_naming.txt23381c95aa60c5638d2f50c3c967f4f9size=1534date=2021-10-12T22:09:55
-file,ghost/master/dic11_touch.txt076f86ae696c986492d49151f49e9e60size=30081date=2021-10-12T22:09:55
+file,ghost/master/dic11_touch.txt1b813e7cd1c1939224423c665d98eed9size=30079date=2022-01-20T15:42:11
 file,ghost/master/dic12_TeaParty.txtbb1bfd3d8d64bba5e0ec909029809f3dsize=5467date=2021-10-12T22:09:55
 file,ghost/master/dic13_date.txt4e98b54b37e18acef0123d998a8e04a4size=70657date=2021-10-12T22:09:55
 file,ghost/master/dic14_DressChange.txte15900095b17178e54104ce22a40132dsize=160date=2021-10-12T22:09:55
@@ -1166,8 +1166,8 @@ file,shell/54closet/surface916.pngfb9981e554bb0226ca3bedc41f89c09dsize=9539da
 file,shell/54closet/surface917.png725301d3d85547adcfa7b58e145c9eacsize=12676date=2019-09-12T04:03:21
 file,shell/54closet/surface918.pngc0ca1e7a0d5af5d368f9c1444f83f262size=12359date=2019-09-12T04:03:21
 file,shell/54closet/surface919.pngc58dabe16a89efd82019e236857de6d7size=17781date=2019-09-12T04:03:21
-file,shell/54closet/surfaces.txtc9dcb356ca5780c7bb6bfad6167e47d7size=143421date=2022-01-17T18:24:59
-file,shell/54closet/surfacetable.txtb5f8ca5cef3f351fde1f443737f10c23size=5698date=2022-01-17T18:24:59
+file,shell/54closet/surfaces.txt5331c3e3dc6eeb9d1fb31052bd365d62size=143466date=2022-01-20T16:09:34
+file,shell/54closet/surfacetable.txt0d2f20ecaa1d2c90ce91daf77cbe5c87size=5834date=2022-01-20T16:09:34
 file,shell/MIY_Color/Logo.pnga739b766f9120a7d2a586a767f5501f9size=76169date=2019-07-16T15:23:33
 file,shell/MIY_Color/descript.txtb1cd0289d899daa60f690b55b061178dsize=786date=2021-10-12T22:09:56
 file,shell/MIY_Color/menu_background.png731073b5740f5c7d069933c7acce9efesize=115616date=2019-07-16T15:23:33
