@@ -802,7 +802,21 @@ sakura.bindgroup910.name,髪パーツ,お団子６
 sakura.bindgroup911.name,髪パーツ,内髪右
 sakura.bindgroup912.name,髪パーツ,内髪左
 
-//前髪パーツ アホ毛もやり直して14200番使うか？
+//前髪パーツ アホ毛の番号の後
+
+sakura.bindgroup14211.name,前髪パーツ,被せ髪１
+sakura.bindgroup14212.name,前髪パーツ,被せ髪２
+sakura.bindgroup14213.name,前髪パーツ,被せ髪３
+sakura.bindgroup14214.name,前髪パーツ,被せ髪４
+sakura.bindgroup14215.name,前髪パーツ,被せ髪５
+sakura.bindgroup14216.name,前髪パーツ,被せ髪６
+sakura.bindgroup14217.name,前髪パーツ,被せ髪７
+sakura.bindgroup14218.name,前髪パーツ,被せ髪８
+sakura.bindgroup14219.name,前髪パーツ,被せ髪９
+sakura.bindgroup14220.name,前髪パーツ,被せ髪１０
+sakura.bindgroup14221.name,前髪パーツ,被せ髪１１
+sakura.bindgroup14222.name,前髪パーツ,被せ髪１２
+sakura.bindgroup14223.name,前髪パーツ,被せ髪１３
 
 
 //後髪パーツ ポニーテールの番号を
