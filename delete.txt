@@ -1,3 +1,5 @@
+surface1613.png
+surface1303.png
 shell\54closet\surfaces.txt
 開発ノート.txt
 surface0.apng

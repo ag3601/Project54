@@ -1152,13 +1152,6 @@ animation1212.interval,bind
 animation1212.option,background
 animation1212.pattern0,bind,1612,0,0,0
 animation1212.collisionex1612,Hair,polygon,247,134,298,135,330,160,339,223,331,241,281,283,241,277,201,227,207,172
-animation1213.interval,bind
-animation1213.option,background
-animation1213.pattern0,bind,1613,0,0,0
-animation1213.collisionex1612,Hair,polygon,240,122,304,120,378,420,164,424,
-animation1303.interval,bind
-animation1303.option,background
-animation1303.pattern0,bind,1303,0,0,0
 
 
 //‰¡”¯
