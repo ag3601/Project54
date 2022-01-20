@@ -3,7 +3,7 @@ file,delete.txtaed75e8f4fca7b5590ddba89e2cca2e8size=1613date=2021-10-02T03:25
 file,developer_options.txtfa6c59d7dabb68e5c0d109063e7d25bfsize=434date=2021-02-04T17:43:04
 file,ghost/master/descript.txtf60d89c6b5d905041a5a1ff184e70d32size=191date=2021-10-12T22:09:55
 file,ghost/master/dic01_Base.txtce6459ab7f914ca9a0ce148a37970ff9size=9076date=2021-10-12T22:09:55
-file,ghost/master/dic02_Event.txtbafbca0f1eac861c321a46caefc57c0dsize=20547date=2021-12-26T04:23:14
+file,ghost/master/dic02_Event.txt91250e4054d15065f4e03a4db01bac02size=20545date=2022-01-20T18:41:08
 file,ghost/master/dic03_Menu.txtcdb03bb68f4cae78a6aa9fd2dd1c2e52size=33489date=2021-10-12T22:09:55
 file,ghost/master/dic04_Change.txt730c469bc1e272b78a32f28e89597250size=19613date=2022-01-17T18:24:59
 file,ghost/master/dic05_CommRes.txtb10706796c9dff7776e8ae8eafc5a6cfsize=129860date=2021-10-12T22:09:55
@@ -11,7 +11,7 @@ file,ghost/master/dic05_CommSel.txt8be7e712e172fcf74d1cd3c17a1ff1c3size=13154
 file,ghost/master/dic05_Communicate.txt2255312da55af128542034a3be51e921size=31308date=2021-10-12T22:09:55
 file,ghost/master/dic06_String.txtbb8623a3ca932739748b3c094a76badcsize=4869date=2021-10-12T22:09:55
 file,ghost/master/dic07_Time.txt569b3b9fa7055e7dc7c52dc6c3335c62size=24422date=2021-10-12T22:09:55
-file,ghost/master/dic08_RandomTalk.txt2d67dd6fa83117f20d49e35dd1f9e188size=65087date=2022-01-20T16:18:34
+file,ghost/master/dic08_RandomTalk.txt915dee079d0139b7bef056d651b7e323size=65238date=2022-01-20T19:05:29
 file,ghost/master/dic09_dic.txtba529a7c8eb76c424d28d30883adf1f3size=6840date=2021-10-12T22:09:55
 file,ghost/master/dic10_naming.txt23381c95aa60c5638d2f50c3c967f4f9size=1534date=2021-10-12T22:09:55
 file,ghost/master/dic11_touch.txt1b813e7cd1c1939224423c665d98eed9size=30079date=2022-01-20T15:42:11
@@ -1166,8 +1166,8 @@ file,shell/54closet/surface916.pngfb9981e554bb0226ca3bedc41f89c09dsize=9539da
 file,shell/54closet/surface917.png725301d3d85547adcfa7b58e145c9eacsize=12676date=2019-09-12T04:03:21
 file,shell/54closet/surface918.pngc0ca1e7a0d5af5d368f9c1444f83f262size=12359date=2019-09-12T04:03:21
 file,shell/54closet/surface919.pngc58dabe16a89efd82019e236857de6d7size=17781date=2019-09-12T04:03:21
-file,shell/54closet/surfaces.txt5331c3e3dc6eeb9d1fb31052bd365d62size=143466date=2022-01-20T16:09:34
-file,shell/54closet/surfacetable.txt0d2f20ecaa1d2c90ce91daf77cbe5c87size=5834date=2022-01-20T16:09:34
+file,shell/54closet/surfaces.txt5331c3e3dc6eeb9d1fb31052bd365d62size=143466date=2022-01-20T18:53:12
+file,shell/54closet/surfacetable.txt7b1cbab4596597c223f3a1d1a8c35ffesize=5838date=2022-01-20T18:52:54
 file,shell/MIY_Color/Logo.pnga739b766f9120a7d2a586a767f5501f9size=76169date=2019-07-16T15:23:33
 file,shell/MIY_Color/descript.txtb1cd0289d899daa60f690b55b061178dsize=786date=2021-10-12T22:09:56
 file,shell/MIY_Color/menu_background.png731073b5740f5c7d069933c7acce9efesize=115616date=2019-07-16T15:23:33
