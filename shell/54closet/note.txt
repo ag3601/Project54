@@ -29,8 +29,16 @@
 434　くぬぬ
 
 
-
 444　う
+
+眉普通　400
+眉悲 401
+眉怒 402
+眉真剣 403
+眉不快 404
+眉疑 405
+眉楽 406
+眉驚き　407
 
 
 Added 350 to filename of surfaces under 500, compare with the gliched legacy version for file table.
