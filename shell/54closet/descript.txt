@@ -674,9 +674,6 @@ sakura.bindgroup1203.name,後髪,お嬢様４
 sakura.bindgroup1138.name,後髪,お団子１
 sakura.bindgroup1139.name,後髪,お団子２
 sakura.bindgroup1140.name,後髪,お団子３
-sakura.bindgroup1141.name,後髪,お団子４
-sakura.bindgroup1142.name,後髪,お団子５
-sakura.bindgroup1143.name,後髪,お団子６
 sakura.bindgroup1144.name,後髪,くせ毛１
 sakura.bindgroup1145.name,後髪,くせ毛２
 sakura.bindgroup1146.name,後髪,くせ毛３
@@ -724,20 +721,6 @@ sakura.bindgroup1178.name,後髪,ツインテール１８
 sakura.bindgroup1179.name,後髪,ツインテール１９
 sakura.bindgroup1183.name,後髪,ツインテール２０
 sakura.bindgroup1184.name,後髪,ツインテール２１
-sakura.bindgroup1185.name,後髪,サイドテール１右
-sakura.bindgroup1186.name,後髪,サイドテール２右
-sakura.bindgroup1187.name,後髪,サイドテール３右
-sakura.bindgroup1188.name,後髪,サイドテール４右
-sakura.bindgroup1189.name,後髪,サイドテール５右
-sakura.bindgroup1190.name,後髪,サイドテール１
-sakura.bindgroup1191.name,後髪,サイドテール２
-sakura.bindgroup1192.name,後髪,サイドテール３
-sakura.bindgroup1193.name,後髪,サイドテール４
-sakura.bindgroup1194.name,後髪,サイドテール５
-sakura.bindgroup1195.name,後髪,サイドテール６
-sakura.bindgroup1196.name,後髪,サイドテール７
-sakura.bindgroup1197.name,後髪,サイドテール８
-
 
 
 //横髪
@@ -794,9 +777,6 @@ sakura.bindgroup904.name,髪パーツ,お団子小
 sakura.bindgroup905.name,髪パーツ,お団子１
 sakura.bindgroup906.name,髪パーツ,お団子２
 sakura.bindgroup907.name,髪パーツ,お団子３
-sakura.bindgroup908.name,髪パーツ,お団子４
-sakura.bindgroup909.name,髪パーツ,お団子５
-sakura.bindgroup910.name,髪パーツ,お団子６
 sakura.bindgroup911.name,髪パーツ,内髪右
 sakura.bindgroup912.name,髪パーツ,内髪左
 
@@ -819,12 +799,12 @@ sakura.bindgroup14223.name,前髪パーツ,被せ髪１３
 
 //後髪パーツ ポニーテールの番号を
 
-sakura.bindgroup1304.name,髪パーツ,襟足ロング１
-sakura.bindgroup1305.name,髪パーツ,襟足ロング２
-sakura.bindgroup1306.name,髪パーツ,襟足ロング３
-sakura.bindgroup1307.name,髪パーツ,襟足セミロング
-sakura.bindgroup1308.name,髪パーツ,短１
-sakura.bindgroup1309.name,髪パーツ,短２
+sakura.bindgroup1020.name,後髪パーツ,襟足ロング１
+sakura.bindgroup1021.name,後髪パーツ,襟足ロング２
+sakura.bindgroup1022.name,後髪パーツ,襟足ロング３
+sakura.bindgroup1023.name,後髪パーツ,襟足セミロング
+sakura.bindgroup1024.name,後髪パーツ,短１
+sakura.bindgroup1025.name,後髪パーツ,短２
 
 
 //モミアゲ
@@ -841,6 +821,72 @@ sakura.bindgroup11306.name,モミアゲ,モミ三つ編み
 sakura.bindgroup11307.name,モミアゲ,モミ三つ編み右
 sakura.bindgroup11308.name,モミアゲ,モミ三つ編み左
 sakura.bindgroup11309.name,モミアゲ,モミ結び
+
+
+//髪アクセサリー　
+
+sakura.bindoption.group,髪アクセサリー,multiple
+sakura.bindgroup15012.name,髪アクセサリー,リボン１左右黒
+sakura.bindgroup15013.name,髪アクセサリー,リボン１左右白
+sakura.bindgroup15014.name,髪アクセサリー,リボン１左右赤
+sakura.bindgroup15015.name,髪アクセサリー,リボン２左右黒
+sakura.bindgroup15016.name,髪アクセサリー,リボン２左右白
+sakura.bindgroup15017.name,髪アクセサリー,リボン２左右赤
+sakura.bindgroup15000.name,髪アクセサリー,リボン１右黒
+sakura.bindgroup15001.name,髪アクセサリー,リボン１右白
+sakura.bindgroup15002.name,髪アクセサリー,リボン１右赤
+sakura.bindgroup15003.name,髪アクセサリー,リボン１左黒
+sakura.bindgroup15004.name,髪アクセサリー,リボン１左白
+sakura.bindgroup15005.name,髪アクセサリー,リボン１左赤
+sakura.bindgroup15006.name,髪アクセサリー,リボン２右黒
+sakura.bindgroup15007.name,髪アクセサリー,リボン２右白
+sakura.bindgroup15008.name,髪アクセサリー,リボン２右赤
+sakura.bindgroup15009.name,髪アクセサリー,リボン２左黒
+sakura.bindgroup15010.name,髪アクセサリー,リボン２左白
+sakura.bindgroup15011.name,髪アクセサリー,リボン２左赤
+sakura.bindgroup15018.name,髪アクセサリー,ウザミミリボン黒
+sakura.bindgroup15019.name,髪アクセサリー,ウザミミリボン白
+sakura.bindgroup15020.name,髪アクセサリー,ウザミミリボン赤
+sakura.bindgroup15021.name,髪アクセサリー,カチューシャ黒
+sakura.bindgroup15022.name,髪アクセサリー,カチューシャ白
+sakura.bindgroup15023.name,髪アクセサリー,カチューシャ赤
+sakura.bindgroup15024.name,髪アクセサリー,チャイナドレスの団子黒
+sakura.bindgroup15025.name,髪アクセサリー,チャイナドレスの団子白
+sakura.bindgroup15028.name,髪アクセサリー,チャイナドレスの団子グレー
+sakura.bindgroup15026.name,髪アクセサリー,チャイナドレスの団子赤濃
+sakura.bindgroup15027.name,髪アクセサリー,チャイナドレスの団子赤薄
+sakura.bindgroup15032.name,髪アクセサリー,大きなリボン黒
+sakura.bindgroup15033.name,髪アクセサリー,大きなリボン白
+sakura.bindgroup15034.name,髪アクセサリー,大きなリボン赤
+sakura.bindgroup15035.name,髪アクセサリー,フリルカチューシャ黒
+sakura.bindgroup15036.name,髪アクセサリー,フリルカチューシャ桜
+sakura.bindgroup15037.name,髪アクセサリー,フリルカチューシャ赤
+sakura.bindgroup15041.name,髪アクセサリー,メイドカチューシャ黒
+sakura.bindgroup15042.name,髪アクセサリー,メイドカチューシャ白
+sakura.bindgroup15029.name,髪アクセサリー,バニー黒
+sakura.bindgroup15030.name,髪アクセサリー,バニー白
+sakura.bindgroup15031.name,髪アクセサリー,バニー赤
+sakura.bindgroup15038.name,髪アクセサリー,ヘアピン１
+sakura.bindgroup15039.name,髪アクセサリー,ヘアピン２
+sakura.bindgroup15040.name,髪アクセサリー,ヘアピン３
+sakura.bindgroup15043.name,髪アクセサリー,花冠１
+sakura.bindgroup15044.name,髪アクセサリー,花冠２
+sakura.bindgroup15045.name,髪アクセサリー,花１右
+sakura.bindgroup15046.name,髪アクセサリー,花１左
+sakura.bindgroup15047.name,髪アクセサリー,花２右
+sakura.bindgroup15048.name,髪アクセサリー,花２左
+sakura.bindgroup15049.name,髪アクセサリー,狐面
+sakura.bindgroup15053.name,髪アクセサリー,天使の輪
+sakura.bindgroup15050.name,髪アクセサリー,アクマの角黒
+sakura.bindgroup15051.name,髪アクセサリー,アクマの角白
+sakura.bindgroup15052.name,髪アクセサリー,アクマの角赤
+
+
+//後髪アクセサリー　（１０００番台は後髪より後ろのモノ全般）
+
+sakura.bindgroup1000.name,後髪アクセサリー,リボン後黒
+sakura.bindgroup1001.name,後髪アクセサリー,リボン後白
+sakura.bindgroup1002.name,後髪アクセサリー,リボン後赤
 
 
 //下着上
@@ -1244,72 +1290,6 @@ sakura.bindgroup5323.name,靴,上履き
 sakura.bindgroup5324.name,靴,下駄黒
 sakura.bindgroup5325.name,靴,下駄白
 sakura.bindgroup5326.name,靴,下駄赤
-
-
-//髪アクセサリー　
-
-sakura.bindoption.group,髪アクセサリー,multiple
-sakura.bindgroup15012.name,髪アクセサリー,リボン１左右黒
-sakura.bindgroup15013.name,髪アクセサリー,リボン１左右白
-sakura.bindgroup15014.name,髪アクセサリー,リボン１左右赤
-sakura.bindgroup15015.name,髪アクセサリー,リボン２左右黒
-sakura.bindgroup15016.name,髪アクセサリー,リボン２左右白
-sakura.bindgroup15017.name,髪アクセサリー,リボン２左右赤
-sakura.bindgroup15000.name,髪アクセサリー,リボン１右黒
-sakura.bindgroup15001.name,髪アクセサリー,リボン１右白
-sakura.bindgroup15002.name,髪アクセサリー,リボン１右赤
-sakura.bindgroup15003.name,髪アクセサリー,リボン１左黒
-sakura.bindgroup15004.name,髪アクセサリー,リボン１左白
-sakura.bindgroup15005.name,髪アクセサリー,リボン１左赤
-sakura.bindgroup15006.name,髪アクセサリー,リボン２右黒
-sakura.bindgroup15007.name,髪アクセサリー,リボン２右白
-sakura.bindgroup15008.name,髪アクセサリー,リボン２右赤
-sakura.bindgroup15009.name,髪アクセサリー,リボン２左黒
-sakura.bindgroup15010.name,髪アクセサリー,リボン２左白
-sakura.bindgroup15011.name,髪アクセサリー,リボン２左赤
-sakura.bindgroup15018.name,髪アクセサリー,ウザミミリボン黒
-sakura.bindgroup15019.name,髪アクセサリー,ウザミミリボン白
-sakura.bindgroup15020.name,髪アクセサリー,ウザミミリボン赤
-sakura.bindgroup15021.name,髪アクセサリー,カチューシャ黒
-sakura.bindgroup15022.name,髪アクセサリー,カチューシャ白
-sakura.bindgroup15023.name,髪アクセサリー,カチューシャ赤
-sakura.bindgroup15024.name,髪アクセサリー,チャイナドレスの団子黒
-sakura.bindgroup15025.name,髪アクセサリー,チャイナドレスの団子白
-sakura.bindgroup15028.name,髪アクセサリー,チャイナドレスの団子グレー
-sakura.bindgroup15026.name,髪アクセサリー,チャイナドレスの団子赤濃
-sakura.bindgroup15027.name,髪アクセサリー,チャイナドレスの団子赤薄
-sakura.bindgroup15032.name,髪アクセサリー,大きなリボン黒
-sakura.bindgroup15033.name,髪アクセサリー,大きなリボン白
-sakura.bindgroup15034.name,髪アクセサリー,大きなリボン赤
-sakura.bindgroup15035.name,髪アクセサリー,フリルカチューシャ黒
-sakura.bindgroup15036.name,髪アクセサリー,フリルカチューシャ桜
-sakura.bindgroup15037.name,髪アクセサリー,フリルカチューシャ赤
-sakura.bindgroup15041.name,髪アクセサリー,メイドカチューシャ黒
-sakura.bindgroup15042.name,髪アクセサリー,メイドカチューシャ白
-sakura.bindgroup15029.name,髪アクセサリー,バニー黒
-sakura.bindgroup15030.name,髪アクセサリー,バニー白
-sakura.bindgroup15031.name,髪アクセサリー,バニー赤
-sakura.bindgroup15038.name,髪アクセサリー,ヘアピン１
-sakura.bindgroup15039.name,髪アクセサリー,ヘアピン２
-sakura.bindgroup15040.name,髪アクセサリー,ヘアピン３
-sakura.bindgroup15043.name,髪アクセサリー,花冠１
-sakura.bindgroup15044.name,髪アクセサリー,花冠２
-sakura.bindgroup15045.name,髪アクセサリー,花１右
-sakura.bindgroup15046.name,髪アクセサリー,花１左
-sakura.bindgroup15047.name,髪アクセサリー,花２右
-sakura.bindgroup15048.name,髪アクセサリー,花２左
-sakura.bindgroup15049.name,髪アクセサリー,狐面
-sakura.bindgroup15053.name,髪アクセサリー,天使の輪
-sakura.bindgroup15050.name,髪アクセサリー,アクマの角黒
-sakura.bindgroup15051.name,髪アクセサリー,アクマの角白
-sakura.bindgroup15052.name,髪アクセサリー,アクマの角赤
-
-
-//後髪アクセサリー　（１０００番台は後髪より後ろのモノ全般）
-
-sakura.bindgroup1000.name,後髪アクセサリー,リボン後黒
-sakura.bindgroup1001.name,後髪アクセサリー,リボン後白
-sakura.bindgroup1002.name,後髪アクセサリー,リボン後赤
 
 
 //ケモミミ
