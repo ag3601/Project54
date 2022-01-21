@@ -799,6 +799,7 @@ sakura.bindgroup14223.name,前髪パーツ,被せ髪１３
 
 //後髪パーツ ポニーテールの番号を
 
+sakura.bindoption.group,後髪パーツ,multiple
 sakura.bindgroup1020.name,後髪パーツ,襟足ロング１
 sakura.bindgroup1021.name,後髪パーツ,襟足ロング２
 sakura.bindgroup1022.name,後髪パーツ,襟足ロング３
@@ -864,24 +865,6 @@ sakura.bindgroup11309.name,モミアゲ,モミ結び
 //髪アクセサリー　
 
 sakura.bindoption.group,髪アクセサリー,multiple
-sakura.bindgroup15012.name,髪アクセサリー,リボン１左右黒
-sakura.bindgroup15013.name,髪アクセサリー,リボン１左右白
-sakura.bindgroup15014.name,髪アクセサリー,リボン１左右赤
-sakura.bindgroup15015.name,髪アクセサリー,リボン２左右黒
-sakura.bindgroup15016.name,髪アクセサリー,リボン２左右白
-sakura.bindgroup15017.name,髪アクセサリー,リボン２左右赤
-sakura.bindgroup15000.name,髪アクセサリー,リボン１右黒
-sakura.bindgroup15001.name,髪アクセサリー,リボン１右白
-sakura.bindgroup15002.name,髪アクセサリー,リボン１右赤
-sakura.bindgroup15003.name,髪アクセサリー,リボン１左黒
-sakura.bindgroup15004.name,髪アクセサリー,リボン１左白
-sakura.bindgroup15005.name,髪アクセサリー,リボン１左赤
-sakura.bindgroup15006.name,髪アクセサリー,リボン２右黒
-sakura.bindgroup15007.name,髪アクセサリー,リボン２右白
-sakura.bindgroup15008.name,髪アクセサリー,リボン２右赤
-sakura.bindgroup15009.name,髪アクセサリー,リボン２左黒
-sakura.bindgroup15010.name,髪アクセサリー,リボン２左白
-sakura.bindgroup15011.name,髪アクセサリー,リボン２左赤
 sakura.bindgroup15018.name,髪アクセサリー,ウザミミリボン黒
 sakura.bindgroup15019.name,髪アクセサリー,ウザミミリボン白
 sakura.bindgroup15020.name,髪アクセサリー,ウザミミリボン赤
@@ -920,11 +903,29 @@ sakura.bindgroup15051.name,髪アクセサリー,アクマの角白
 sakura.bindgroup15052.name,髪アクセサリー,アクマの角赤
 
 
-//後髪アクセサリー　（１０００番台は後髪より後ろのモノ全般）
+//後髪アクセサリー　（９００～１０００番台は後髪より後ろのモノ全般）
 
 sakura.bindgroup1000.name,後髪アクセサリー,リボン後黒
 sakura.bindgroup1001.name,後髪アクセサリー,リボン後白
 sakura.bindgroup1002.name,後髪アクセサリー,リボン後赤
+sakura.bindgroup1064.name,後髪アクセサリー,リボン１左右黒
+sakura.bindgroup1065.name,後髪アクセサリー,リボン１左右白
+sakura.bindgroup1066.name,後髪アクセサリー,リボン１左右赤
+sakura.bindgroup1067.name,後髪アクセサリー,リボン２左右黒
+sakura.bindgroup1068.name,後髪アクセサリー,リボン２左右白
+sakura.bindgroup1069.name,後髪アクセサリー,リボン２左右赤
+sakura.bindgroup1070.name,後髪アクセサリー,リボン１右黒
+sakura.bindgroup1071.name,後髪アクセサリー,リボン１右白
+sakura.bindgroup1072.name,後髪アクセサリー,リボン１右赤
+sakura.bindgroup1073.name,後髪アクセサリー,リボン１左黒
+sakura.bindgroup1074.name,後髪アクセサリー,リボン１左白
+sakura.bindgroup1075.name,後髪アクセサリー,リボン１左赤
+sakura.bindgroup1076.name,後髪アクセサリー,リボン２右黒
+sakura.bindgroup1077.name,後髪アクセサリー,リボン２右白
+sakura.bindgroup1078.name,後髪アクセサリー,リボン２右赤
+sakura.bindgroup1079.name,後髪アクセサリー,リボン２左黒
+sakura.bindgroup1080.name,後髪アクセサリー,リボン２左白
+sakura.bindgroup1081.name,後髪アクセサリー,リボン２左赤
 
 
 //下着上
