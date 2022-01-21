@@ -721,6 +721,7 @@ sakura.bindgroup1178.name,後髪,ツインテール１８
 sakura.bindgroup1179.name,後髪,ツインテール１９
 sakura.bindgroup1183.name,後髪,ツインテール２０
 sakura.bindgroup1184.name,後髪,ツインテール２１
+sakura.bindgroup1185.name,後髪,ツインベース
 
 
 //横髪

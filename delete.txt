@@ -12,7 +12,6 @@ surface1309.png
 surface1541.png
 surface1542.png
 surface1543.png
-surface1585.png
 surface1586.png
 surface1587.png
 surface1588.png
