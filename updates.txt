@@ -11,7 +11,7 @@ file,ghost/master/dic05_CommSel.txt8be7e712e172fcf74d1cd3c17a1ff1c3size=13154
 file,ghost/master/dic05_Communicate.txt2255312da55af128542034a3be51e921size=31308date=2021-09-26T23:12:18
 file,ghost/master/dic06_String.txtbb8623a3ca932739748b3c094a76badcsize=4869date=2021-02-14T19:42:51
 file,ghost/master/dic07_Time.txtb8796cbae27f034313d5001aa1bd4f4dsize=24446date=2022-01-21T23:40:50
-file,ghost/master/dic08_RandomTalk.txt754fdcf8fd624f29133a1e592317bd7bsize=65724date=2022-01-21T23:40:50
+file,ghost/master/dic08_RandomTalk.txt2a9f5ca189102f736865159f5d8a9206size=65726date=2022-01-22T20:13:49
 file,ghost/master/dic09_dic.txta6f26ae3e11b9f5320a273cda0ddf666size=6829date=2022-01-21T23:40:50
 file,ghost/master/dic10_naming.txt23381c95aa60c5638d2f50c3c967f4f9size=1534date=2021-02-25T21:45:03
 file,ghost/master/dic11_touch.txt50ee4655d5817a7db2f36f173d79dab0size=30136date=2022-01-21T23:40:50
