@@ -2,7 +2,7 @@ charset,UTF-8
 file,delete.txt2681e87b0b5d19af7d574ad2c4e7dbb3size=2530date=2022-01-21T11:29:40
 file,developer_options.txtfa6c59d7dabb68e5c0d109063e7d25bfsize=434date=2021-02-05T04:14:19
 file,ghost/master/descript.txtf60d89c6b5d905041a5a1ff184e70d32size=191date=2019-08-17T13:43:03
-file,ghost/master/dic01_Base.txt62e9917f0049be8334f597949094a024size=9081date=2022-01-21T23:40:50
+file,ghost/master/dic01_Base.txt5d6a327c0b8fdb05ead51afbb4d9c897size=9096date=2022-01-22T19:18:43
 file,ghost/master/dic02_Event.txt122873a31ab041552ee34a94751837d7size=20602date=2022-01-21T23:40:50
 file,ghost/master/dic03_Menu.txt825eee0f532ced03fcd016c8e4cc7977size=33501date=2022-01-21T23:40:50
 file,ghost/master/dic04_Change.txtd68aced51a8e3ba68cc42411d392b267size=19622date=2022-01-21T23:40:50
