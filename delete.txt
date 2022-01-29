@@ -8,13 +8,6 @@ shell\54closet\surface1303.png
 shell\54closet\surface1208.png
 shell\54closet\surface1209.png
 shell\54closet\surface1210.png
-shell\54closet\surface1303.png
-shell\54closet\surface1304.png
-shell\54closet\surface1305.png
-shell\54closet\surface1306.png
-shell\54closet\surface1307.png
-shell\54closet\surface1308.png
-shell\54closet\surface1309.png
 shell\54closet\surface1541.png
 shell\54closet\surface1542.png
 shell\54closet\surface1543.png
