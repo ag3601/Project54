@@ -55,5 +55,4 @@ $‚¨’ƒ‰ï	‚O
 ‘O‰ñƒ†[ƒU’a¶“ú	‚O
 
 —SAORI
-time_check,saori/time_check.dll
-aya,saori/yaya.dll
+ssu,saori/ssu.dll

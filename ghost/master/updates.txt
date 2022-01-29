@@ -1,5 +1,5 @@
 charset,OSNative
-file,delete.txtfe4682609178320ecbb27a96aaecd74csize=4668date=2022-01-29T17:49:16
+file,delete.txtb43638750d3a5f4b81ebca59269b3765size=4647date=2022-01-29T17:50:22
 file,developer_options.txtfa6c59d7dabb68e5c0d109063e7d25bfsize=434date=2021-02-05T04:14:19
 file,ghost/master/descript.txtf60d89c6b5d905041a5a1ff184e70d32size=191date=2019-08-17T13:43:03
 file,ghost/master/dic01_Base.txtee5f1bc6a013abd6ea5b6849cd208476size=10044date=2022-01-29T15:39:53
@@ -24,12 +24,12 @@ file,ghost/master/replace_after.txt3512455a7f27780c1b6b1e3e8a780067size=115da
 file,ghost/master/saori/ayasaori.aym7a69439355c1fb1f37d9eaf723490d27size=5516date=2021-10-13T12:41:29
 file,ghost/master/saori/builtins.aymb417d49b9cd9c8d643dc8cc8909a5da2size=30076date=2021-10-13T12:41:29
 file,ghost/master/saori/messagetxt/japanese.txt7a0c14d5cf296002253243a6d979e8bfsize=9131date=2021-10-13T12:41:29
-file,ghost/master/saori/ssu.dll3c67160635b9bca7bca2e2b498c098c6size=253952date=2021-10-13T12:41:29
+file,ghost/master/saori/ssu.dll3c67160635b9bca7bca2e2b498c098c6size=253952date=2021-10-07T05:18:26
 file,ghost/master/saori/time_check.dll07b7dabf0de6b5ea0a23178efc4d1c4fsize=105472date=2012-02-13T02:21:28
 file,ghost/master/saori/yaya.dllc118e8304cce80a8091b8fad1cc0e08dsize=1191936date=2021-10-13T12:41:29
 file,ghost/master/saori/yaya.txt35aff718adc006c5eb534a92110a875dsize=1442date=2021-10-13T12:41:29
-file,ghost/master/satori.dllb7e3d6a8e33367c24cd64f04446fe99csize=700416date=2021-10-13T12:41:29
-file,ghost/master/satori_conf.txt0fe2b317b98e897bf8e972f2153ab6e5size=1272date=2021-08-01T02:07:48
+file,ghost/master/satori.dllb7e3d6a8e33367c24cd64f04446fe99csize=700416date=2021-10-07T05:18:10
+file,ghost/master/satori_conf.txt5d879db5bff8aee19792045b4b64642esize=1236date=2022-01-29T17:53:35
 file,ghost/master/satori_license.txt078ffc36f3374648bf523ae197f4765csize=944date=2021-02-25T15:43:22
 file,install.txt8a65de611759a0815171daf23612b1c8size=70date=2019-08-17T13:43:32
 file,readme.txte39f6b9779174795becc279e954adc5csize=650date=2022-01-20T14:08:33
