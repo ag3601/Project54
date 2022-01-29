@@ -45,6 +45,7 @@ ghost\master\update2.dau
 ghost\master\thumbnail.pnr
 ghost\master\cover.png
 ghost\master\54icon.ico
+ghost\devnote.txt
 shell\54closet\surface0000.png
 shell\54closet\surface100.png
 shell\54closet\surface101.png
