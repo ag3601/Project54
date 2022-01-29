@@ -4,9 +4,6 @@ shell\54closet\surface922.png
 shell\54closet\surface923.png
 shell\54closet\surface924.png
 shell\54closet\surface925.png
-shell\54closet\surface1303.png
-shell\54closet\surface1208.png
-shell\54closet\surface1209.png
 shell\54closet\surface1210.png
 shell\54closet\surface1541.png
 shell\54closet\surface1542.png
@@ -23,7 +20,6 @@ shell\54closet\surface1594.png
 shell\54closet\surface1595.png
 shell\54closet\surface1596.png
 shell\54closet\surface1597.png
-shell\54closet\surface1613.png
 shell\54closet\surface15000.png
 shell\54closet\surface15001.png
 shell\54closet\surface15002.png
