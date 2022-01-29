@@ -930,6 +930,9 @@ animation1159.interval,bind
 animation1159.option,background
 animation1159.pattern0,bind,1559,0,0,0
 animation1159.collisionex1159,Hair,polygon,290,279,292,292,333,305,339,364,351,407,338,412,342,427,365,414,334,303,312,262,322,253,331,231,337,189,322,158,304,142,276,136,247,139,217,159,210,191,214,223,216,245,228,255,243,277,249,295,210,308,207,362,191,400,209,412,205,428,178,416,177,378,193,357,210,310,241,295,227,278,215,246,211,221,211,191,219,162,244,137,276,135,304,145,322,157,336,189,333,232,312,267
+animation1309.interval,bind
+animation1309.option,background
+animation1309.pattern0,bind,1309,0,0,0
 animation1160.interval,bind
 animation1160.option,background
 animation1160.pattern0,bind,1560,0,0,0
@@ -1093,6 +1096,49 @@ animation1212.interval,bind
 animation1212.option,background
 animation1212.pattern0,bind,1612,0,0,0
 animation1212.collisionex1612,Hair,polygon,247,134,298,135,330,160,339,223,331,241,281,283,241,277,201,227,207,172
+//ポニーテール追加
+animation1213.interval,bind
+animation1213.option,background
+animation1213.pattern0,bind,1613,0,0,0
+animation1213.collisionex1612,Hair,polygon,190,125,356,124,431,439,427,504,113,504,105,445
+animation1303.interval,bind
+animation1303.option,background
+animation1303.pattern0,bind,1303,0,0,0
+animation1214.interval,bind
+animation1214.option,background
+animation1214.pattern0,bind,1614,0,0,0
+animation1214.collisionex1612,Hair,polygon,190,125,356,124,431,439,427,504,113,504,105,445
+animation1304.interval,bind
+animation1304.option,background
+animation1304.pattern0,bind,1304,0,0,0
+animation1215.interval,bind
+animation1215.option,background
+animation1215.pattern0,bind,1615,0,0,0
+animation1215.collisionex1612,Hair,polygon,190,125,356,124,431,439,427,504,113,504,105,445
+animation1305.interval,bind
+animation1305.option,background
+animation1305.pattern0,bind,1305,0,0,0
+animation1216.interval,bind
+animation1216.option,background
+animation1216.pattern0,bind,1616,0,0,0
+animation1216.collisionex1612,Hair,polygon,190,125,356,124,431,439,427,504,113,504,105,445
+animation1306.interval,bind
+animation1306.option,background
+animation1306.pattern0,bind,1306,0,0,0
+animation1217.interval,bind
+animation1217.option,background
+animation1217.pattern0,bind,1617,0,0,0
+animation1217.collisionex1612,Hair,polygon,190,125,356,124,431,439,427,504,113,504,105,445
+animation1307.interval,bind
+animation1307.option,background
+animation1307.pattern0,bind,1307,0,0,0
+animation1218.interval,bind
+animation1218.option,background
+animation1218.pattern0,bind,1618,0,0,0
+animation1218.collisionex1612,Hair,polygon,190,125,356,124,431,439,427,504,113,504,105,445
+animation1308.interval,bind
+animation1308.option,background
+animation1308.pattern0,bind,1308,0,0,0
 
 
 //横髪
@@ -1191,7 +1237,7 @@ animation14210.interval,bind
 animation14210.pattern0,bind,14210,0,0,0
 
 
-//髪パーツ
+//髪パーツ　後髪より後ろのモノ全般
 
 animation900.interval,bind
 animation900.pattern0,bind,1200,0,0,0
@@ -1228,33 +1274,25 @@ animation911.interval,bind
 animation911.pattern0,bind,1216,0,0,0
 animation912.interval,bind
 animation912.pattern0,bind,1217,0,0,0
+//ここで番号をリセット
+animation920.interval,bind
+animation920.pattern0,bind,1220,0,0,0
+animation921.interval,bind
+animation921.pattern0,bind,1221,0,0,0
+animation922.interval,bind
+animation922.pattern0,bind,1222,0,0,0
+animation923.interval,bind
+animation923.pattern0,bind,1223,0,0,0
+animation924.interval,bind
+animation924.pattern0,bind,1224,0,0,0
+animation925.interval,bind
+animation925.pattern0,bind,1225,0,0,0
+animation926.interval,bind
+animation926.pattern0,bind,1226,0,0,0
+animation927.interval,bind
+animation927.pattern0,bind,1227,0,0,0
 
-
-//モミアゲ
-
-animation11300.interval,bind
-animation11300.pattern0,bind,1100,0,0,0
-animation11301.interval,bind
-animation11301.pattern0,bind,1101,0,0,0
-animation11302.interval,bind
-animation11302.pattern0,bind,1102,0,0,0
-animation11303.interval,bind
-animation11303.pattern0,bind,1103,0,0,0
-animation11304.interval,bind
-animation11304.pattern0,bind,1104,0,0,0
-animation11305.interval,bind
-animation11305.pattern0,bind,1105,0,0,0
-animation11306.interval,bind
-animation11306.pattern0,bind,1106,0,0,0
-animation11307.interval,bind
-animation11307.pattern0,bind,1107,0,0,0
-animation11308.interval,bind
-animation11308.pattern0,bind,1108,0,0,0
-animation11309.interval,bind
-animation11309.pattern0,bind,1109,0,0,0
-
-
-//１０００番台　（１０００番台は後髪より後ろのモノ全般）
+//後髪より後ろのモノ全般、９００番を借ります。
 
 animation1000.interval,bind
 animation1000.option,background
@@ -1316,24 +1354,6 @@ animation1018.pattern0,bind,918,0,0,0
 animation1019.interval,bind
 animation1019.option,background
 animation1019.pattern0,bind,919,0,0,0
-animation1020.interval,bind
-animation1020.option,background
-animation1020.pattern0,bind,920,0,0,0
-animation1021.interval,bind
-animation1021.option,background
-animation1021.pattern0,bind,921,0,0,0
-animation1022.interval,bind
-animation1022.option,background
-animation1022.pattern0,bind,922,0,0,0
-animation1023.interval,bind
-animation1023.option,background
-animation1023.pattern0,bind,923,0,0,0
-animation1024.interval,bind
-animation1024.option,background
-animation1024.pattern0,bind,924,0,0,0
-animation1025.interval,bind
-animation1025.option,background
-animation1025.pattern0,bind,925,0,0,0
 animation1026.interval,bind
 animation1026.option,background
 animation1026.pattern0,bind,926,0,0,0
@@ -1557,6 +1577,31 @@ animation1099.interval,bind
 animation1099.option,background
 animation1099.pattern0,bind,999,0,0,0
 
+
+//モミアゲ
+
+animation11300.interval,bind
+animation11300.pattern0,bind,1100,0,0,0
+animation11301.interval,bind
+animation11301.pattern0,bind,1101,0,0,0
+animation11302.interval,bind
+animation11302.pattern0,bind,1102,0,0,0
+animation11303.interval,bind
+animation11303.pattern0,bind,1103,0,0,0
+animation11304.interval,bind
+animation11304.pattern0,bind,1104,0,0,0
+animation11305.interval,bind
+animation11305.pattern0,bind,1105,0,0,0
+animation11306.interval,bind
+animation11306.pattern0,bind,1106,0,0,0
+animation11307.interval,bind
+animation11307.pattern0,bind,1107,0,0,0
+animation11308.interval,bind
+animation11308.pattern0,bind,1108,0,0,0
+animation11309.interval,bind
+animation11309.pattern0,bind,1109,0,0,0
+animation11310.interval,bind
+animation11310.pattern0,bind,1110,0,0,0
 
 //髪アクセサリー
 

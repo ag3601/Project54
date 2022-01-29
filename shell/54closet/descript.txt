@@ -658,6 +658,28 @@ sakura.bindgroup1111.name,後髪,ポニーテール５
 sakura.bindgroup1112.name,後髪,ポニーテール６
 sakura.bindgroup1112.addid,1302
 ＃sakura.bindgroup1302.name,後髪,ポニーテール６
+
+sakura.bindgroup1213.name,後髪,ショットポニーテール１
+sakura.bindgroup1213.addid,1303
+＃sakura.bindgroup1213.name,後髪,ショットポニーテール１
+sakura.bindgroup1214.name,後髪,ショットポニーテール２
+sakura.bindgroup1214.addid,1304
+＃sakura.bindgroup1214.name,後髪,ショットポニーテール２
+sakura.bindgroup1215.name,後髪,セミロングポニーテール
+sakura.bindgroup1215.addid,1305
+＃sakura.bindgroup1215.name,後髪,セミロングポニーテール
+sakura.bindgroup1216.name,後髪,ロングポニーテール１
+sakura.bindgroup1216.addid,1306
+＃sakura.bindgroup1216.name,後髪,ロングポニーテール１
+sakura.bindgroup1217.name,後髪,ロングポニーテール２
+sakura.bindgroup1217.addid,1307
+＃sakura.bindgroup1217.name,後髪,ロングポニーテール２
+sakura.bindgroup1218.name,後髪,ロングポニーテール３
+sakura.bindgroup1218.addid,1308
+＃sakura.bindgroup1218.name,後髪,ロングポニーテール３
+
+
+
 sakura.bindgroup1116.name,後髪,チャイナ
 sakura.bindgroup1117.name,後髪,シニョン
 sakura.bindgroup1128.name,後髪,おかっぱ１
@@ -695,6 +717,8 @@ sakura.bindgroup1156.name,後髪,しっぽ３
 sakura.bindgroup1157.name,後髪,しっぽ４
 sakura.bindgroup1158.name,後髪,しっぽ５
 sakura.bindgroup1159.name,後髪,しっぽ６
+sakura.bindgroup1159.addid,1309
+＃sakura.bindgroup1159.name,後髪,しっぽ６
 sakura.bindgroup1208.name,後髪,しっぽ７
 sakura.bindgroup1180.name,後髪,ループ１
 sakura.bindgroup1181.name,後髪,ループ２
@@ -798,15 +822,17 @@ sakura.bindgroup14222.name,前髪パーツ,被せ髪１２
 sakura.bindgroup14223.name,前髪パーツ,被せ髪１３
 
 
-//後髪パーツ ポニーテールの番号を
+//後髪パーツ （後髪より後ろのモノ全般、９００番を借ります。）
 
 sakura.bindoption.group,後髪パーツ,multiple
-sakura.bindgroup1020.name,後髪パーツ,襟足ロング１
-sakura.bindgroup1021.name,後髪パーツ,襟足ロング２
-sakura.bindgroup1022.name,後髪パーツ,襟足ロング３
-sakura.bindgroup1023.name,後髪パーツ,襟足セミロング
-sakura.bindgroup1024.name,後髪パーツ,短１
-sakura.bindgroup1025.name,後髪パーツ,短２
+sakura.bindgroup920.name,後髪パーツ,おさげ１右
+sakura.bindgroup921.name,後髪パーツ,おさげ１左
+sakura.bindgroup922.name,後髪パーツ,おさげ２右
+sakura.bindgroup923.name,後髪パーツ,おさげ２左
+sakura.bindgroup924.name,後髪パーツ,おさげ３右
+sakura.bindgroup925.name,後髪パーツ,おさげ３左
+sakura.bindgroup926.name,後髪パーツ,おさげロング右
+sakura.bindgroup927.name,後髪パーツ,おさげロング左
 sakura.bindgroup1026.name,後髪パーツ,サイドテール１右
 sakura.bindgroup1027.name,後髪パーツ,サイドテール２右
 sakura.bindgroup1028.name,後髪パーツ,サイドテール３右
@@ -852,8 +878,9 @@ sakura.bindgroup1063.name,後髪パーツ,サイドテール１９左
 sakura.bindgroup11300.default,1
 sakura.bindoption.group,モミアゲ,multiple
 sakura.bindgroup11300.name,モミアゲ,モミアゲ左右
-sakura.bindgroup11301.name,モミアゲ,モミアゲ細
-sakura.bindgroup11303.name,モミアゲ,モミアゲ長
+sakura.bindgroup11301.name,モミアゲ,モミアゲ細１
+sakura.bindgroup11310.name,モミアゲ,モミアゲ細２
+sakura.bindgroup11303.name,モミアゲ,モミアゲ長１
 sakura.bindgroup11302.name,モミアゲ,モミアゲ長２
 sakura.bindgroup11304.name,モミアゲ,モミアゲウェーブ
 sakura.bindgroup11305.name,モミアゲ,モミアゲウェーブ２
