@@ -3,7 +3,7 @@ file,delete.txtb2e0ff1bb57d6274951fae252bfb1b7dsize=4666date=2022-02-27T01:49
 file,developer_options.txtfa6c59d7dabb68e5c0d109063e7d25bfsize=434date=2021-02-04T17:43:04
 file,ghost/master/descript.txtf60d89c6b5d905041a5a1ff184e70d32size=191date=2022-11-05T03:58:02
 file,ghost/master/dic01_Base.txte9431352f947e829931b3635bd92cee8size=9575date=2022-11-17T02:58:14
-file,ghost/master/dic02_Event.txta0cdf50f79929b0e766bc89369ad1ac8size=20917date=2022-11-17T02:58:14
+file,ghost/master/dic02_Event.txt9963de4d181f12c79fcd38c0b537376asize=20848date=2022-11-20T20:46:28
 file,ghost/master/dic03_Menu.txt825eee0f532ced03fcd016c8e4cc7977size=33501date=2022-01-22T01:43:09
 file,ghost/master/dic04_Change.txte65f9b86e847c59a61a31b530eafaec4size=18911date=2022-02-27T01:49:57
 file,ghost/master/dic05_CommRes.txt8f8ea76329dbd8a5f9934af2d39dbed6size=129920date=2022-01-25T23:55:02
@@ -12,7 +12,7 @@ file,ghost/master/dic05_Communicate.txt2255312da55af128542034a3be51e921size=31
 file,ghost/master/dic06_String.txtbb8623a3ca932739748b3c094a76badcsize=4869date=2021-10-12T22:09:55
 file,ghost/master/dic07_Time.txt5baaffec2a91fc3a070ea6f729a78c78size=24450date=2022-01-25T23:55:02
 file,ghost/master/dic08_RandomTalk.txtc280bdd39a07f6bce45aae48c6712edasize=65729date=2022-02-27T01:50:33
-file,ghost/master/dic09_dic.txt5182f6a5580dad21c855d01b2a17c212size=7119date=2022-11-17T02:58:14
+file,ghost/master/dic09_dic.txt67d625b5675d1282185be5bf6fdef523size=7188date=2022-11-20T20:46:22
 file,ghost/master/dic10_naming.txt23381c95aa60c5638d2f50c3c967f4f9size=1534date=2021-10-12T22:09:55
 file,ghost/master/dic11_touch.txt50ee4655d5817a7db2f36f173d79dab0size=30136date=2022-01-22T01:43:09
 file,ghost/master/dic12_TeaParty.txt07343a7fda8685c4cdb3702483e279e6size=5473date=2022-01-22T01:43:09
