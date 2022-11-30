@@ -1,7 +1,7 @@
 charset,OSNative
 file,delete.txtb2e0ff1bb57d6274951fae252bfb1b7dsize=4666date=2022-01-29T17:57:59
 file,developer_options.txtfa6c59d7dabb68e5c0d109063e7d25bfsize=434date=2021-02-05T04:14:19
-file,ghost/master/descript.txtf60d89c6b5d905041a5a1ff184e70d32size=191date=2019-08-17T13:43:03
+file,ghost/master/descript.txtabe0182cfa69b41d00cb4af110fc36besize=174date=2022-11-30T13:32:18
 file,ghost/master/dic01_Base.txtfd4d10f650eed700bfa13cb7c86e0a7fsize=9560date=2022-11-30T13:22:01
 file,ghost/master/dic02_Event.txtf35518cd4883739abad861f0b14389a8size=20847date=2022-11-30T13:22:01
 file,ghost/master/dic03_Menu.txt55221d89798df2e86f781cf936c94c8bsize=33501date=2022-11-30T13:22:01
