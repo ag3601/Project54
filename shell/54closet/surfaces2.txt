@@ -2218,6 +2218,10 @@ animation7622.interval,bind
 animation7622.pattern0,bind,2122,0,0,0
 animation7623.interval,bind
 animation7623.pattern0,bind,2123,0,0,0
+animation7624.interval,bind
+animation7624.pattern0,bind,2124,0,0,0
+animation7625.interval,bind
+animation7625.pattern0,bind,2125,0,0,0
 
 
 //スカート

@@ -1098,6 +1098,8 @@ sakura.bindgroup7512.name,トップ,ﾌﾘﾙｼｬﾂ長白
 sakura.bindgroup7522.name,トップ,ﾌﾘﾙｼｬﾂ長ピンク
 sakura.bindgroup7511.name,トップ,ﾌﾘﾙｼｬﾂ長２黒
 sakura.bindgroup7523.name,トップ,ﾌﾘﾙｼｬﾂ長２ピンク
+sakura.bindgroup7624.name,トップ,ﾌﾘﾙトップ黒
+sakura.bindgroup7625.name,トップ,ﾌﾘﾙトップ白
 sakura.bindgroup7514.name,トップ,Yｼｬﾂ黒
 sakura.bindgroup7519.name,トップ,Yｼｬﾂ白
 sakura.bindgroup7517.name,トップ,Yｼｬﾂ長黒
