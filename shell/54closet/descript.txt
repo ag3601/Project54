@@ -17,6 +17,7 @@ readme,readme.txt
 
 sakura.bindgroup3600.default,1
 sakura.bindoption0.group,腕,mustselect
+sakura.bindoption.group,腕,multiple
 sakura.bindgroup3600.name,腕,デフォルト
 sakura.bindgroup3550.name,腕,下ろし両手
 sakura.bindgroup3551.name,腕,腕前
@@ -41,6 +42,10 @@ sakura.bindgroup3558.name,腕,胸手A右
 sakura.bindgroup3558.addid,9557,3406
 sakura.bindgroup3559.name,腕,胸手A左
 sakura.bindgroup3559.addid,9558,3407
+sakura.bindgroup3560.name,腕,下ろし右
+sakura.bindgroup3560.addid,3410
+sakura.bindgroup3561.name,腕,下ろし左
+sakura.bindgroup3561.addid,3411
 
 
 //脚
@@ -871,7 +876,9 @@ sakura.bindgroup1060.name,後髪パーツ,サイドテール１６左
 sakura.bindgroup1061.name,後髪パーツ,サイドテール１７左
 sakura.bindgroup1062.name,後髪パーツ,サイドテール１８左
 sakura.bindgroup1063.name,後髪パーツ,サイドテール１９左
-
+sakura.bindgroup928.name,後髪パーツ,襟足短１
+sakura.bindgroup929.name,後髪パーツ,襟足短２
+sakura.bindgroup930.name,後髪パーツ,襟足セミロング
 
 //モミアゲ
 
