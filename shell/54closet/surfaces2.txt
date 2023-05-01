@@ -88,6 +88,16 @@ animation9558.pattern0,bind,520,0,0,0
 animation9558.collisionex9558,Hand,polygon,294,337,312,317,294,319,271,303,273,315,252,310,269,321,245,330,265,331,255,346,276,341
 animation3559.interval,bind
 animation3559.pattern0,bind,519,0,0,0
+animation3560.interval,bind
+animation3560.pattern0,bind,521,0,0,0
+animation3560.collision3560,126,503,193,539,Hand
+animation3561.interval,bind
+animation3561.pattern0,bind,522,0,0,0
+animation3561.collision3561,350,496,422,543,Hand
+animation3410.interval,bind
+animation3410.pattern0,bind,514,0,0,0
+animation3411.interval,bind
+animation3411.pattern0,bind,513,0,0,0
 
 
 //‹r
@@ -1291,6 +1301,12 @@ animation926.interval,bind
 animation926.pattern0,bind,1226,0,0,0
 animation927.interval,bind
 animation927.pattern0,bind,1227,0,0,0
+animation928.interval,bind
+animation928.pattern0,bind,1228,0,0,0
+animation929.interval,bind
+animation929.pattern0,bind,1229,0,0,0
+animation930.interval,bind
+animation930.pattern0,bind,1230,0,0,0
 
 //Œã”¯‚æ‚èŒã‚ë‚Ìƒ‚ƒm‘S”ÊA‚X‚O‚O”Ô‚ğØ‚è‚Ü‚·B
 
