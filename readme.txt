@@ -15,6 +15,7 @@
 
 
 メインページ
+https://ukadon.shillest.net/@ag36
 https://twitter.com/AG3601
 バグ報告
 https://nanachi.sakura.ne.jp/faq/questions.php?id=ag36
